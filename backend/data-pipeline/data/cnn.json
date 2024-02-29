@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Peter Valdes-Dapena",
+            "title": "More than 380,000 Toyota Tacoma pickups recalled because axles could loosen",
+            "description": "Toyota is recalling 381,000 Tacoma pickups because bolts in the rear axle could loosen and fall off, which could eventually allow part of the rear axle to become detached.",
+            "url": "https://www.cnn.com/2024/02/27/business/toyota-recalling-380-000-tacoma-trucks-rear-axle/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2rpd1ja.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T21:03:06Z",
+            "content": "Toyota is recalling 381,000 Tacoma pickups because bolts in the rear axle could loosen and fall off, which could eventually allow part of the rear axle to detach.\r\nIts unclear exactly how many trucks\u2026 [+1463 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France",
+            "title": "Sean \u2018Diddy\u2019 Combs sued by male producer who alleges sexual assault",
+            "description": "Sean \u201cDiddy\u201d Combs has been hit with a new lawsuit, this one by a male former employee who is accusing him of sexual assault, sexual harassment and \u201cgrooming.\u201d",
+            "url": "https://www.cnn.com/2024/02/27/entertainment/sean-combs-producer-lawsuit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24058140798974.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T20:25:08Z",
+            "content": "A former employee of Sean Diddy Combs has filed a lawsuit against the producer and businessman, accusing him of sexual assault, sexual harassment and grooming.\r\nRodney Lil Rod Jones, a former produce\u2026 [+5714 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Eric Levenson, Jeff Winter",
+            "title": "Jury reaches verdict in murder trial of Run-DMC\u2019s Jam Master Jay",
+            "description": "A federal jury in Brooklyn reached a verdict Tuesday in the 2002 killing of Jam Master Jay, the pioneering DJ of the groundbreaking hip hop trio Run-DMC, in a case that for decades frustrated detectives and music fans alike.",
+            "url": "https://www.cnn.com/2024/02/27/entertainment/jam-master-jay-murder-verdict/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24031069405026.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T19:55:01Z",
+            "content": "A federal jury in Brooklyn reached a verdict Tuesday in the 2002 killing of Jam Master Jay, the pioneering DJ of the groundbreaking hip hop trio Run-DMC, in a case that for decades frustrated detecti\u2026 [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Parija Bhatnagar",
+            "title": "Gen Z is getting married. Together with Millennials, they\u2019re putting their own spin on weddings",
+            "description": "Millennials and GenZers are redefining lifestyle trends \u2013 from the way we dress, live, work and socialize to how we celebrate life moments. That includes weddings.",
+            "url": "https://www.cnn.com/2024/02/27/business/wedding-trends-millennials-gen-z/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2010903474.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T19:04:31Z",
+            "content": "Millennials and GenZers are redefining lifestyle trends from the way we dress, live, work and socialize to how we celebrate life moments. That includes weddings.\r\nFormalities like big wedding parties\u2026 [+7109 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "'Mansplainer' schools pro golfer on her swing. Internet swings back - CNN Video",
+            "description": "\"A major ICK\"... Guy \"mansplaining\" golf swing to female pro golfer goes viral. CNN's Jeanne Moos reports.",
+            "url": "https://www.cnn.com/videos/entertainment/2024/02/27/mansplaining-golf-moos-cprog-orig-bdk.cnn",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240227103630-mansplaining-golf-2-super-tease.jpg",
+            "publishedAt": "2024-02-27T17:37:22.0790743Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Taylor Nicioli",
+            "title": "When the \u2018tradwife\u2019 life leads to divorce",
+            "description": "Enitza Templeton was a tradwife for 10 years \u2014 she cooked, cleaned and served her husband. Now, she shares her story of how divorce changed her life for the better.",
+            "url": "https://www.cnn.com/2024/02/27/health/tradwife-lifestyle-women-mental-health-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/oliverio-20240214-08.JPG?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T16:41:41Z",
+            "content": "Sporting retro 50s hairstyles and cinched aprons, tradwife influencers have taken over a pocket of the internet.\r\nThese traditional wives who showcase 30-second videos of homemade sourdough bread con\u2026 [+10284 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Matias Grez",
+            "title": "US women\u2019s cycling team suspended for dressing mechanic as rider to avoid disqualification from race",
+            "description": "Women\u2019s cycling team Cynisca has been suspended by the International Cycling Union for dressing a mechanic as a rider in order to avoid disqualification from a race.",
+            "url": "https://www.cnn.com/2024/02/27/sport/us-womens-cycling-team-suspended-for-dressing-mechanic-as-rider-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-02-27-at-11-36-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T12:49:35Z",
+            "content": "US womens cycling team Cynisca has been suspended by the International Cycling Union (UCI), the sports global governing body, for perpetrating a fraud and dressing a mechanic as a rider in order to a\u2026 [+2336 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Hear Jon Stewart\u2019s solution to end war in Gaza | CNN Business",
+            "description": "On \u201cThe Daily Show,\u201d Jon Stewart talks about the war in Gaza and offers a suggestion on how to end the conflict.",
+            "url": "https://www.cnn.com/videos/media/2024/02/27/the-daily-show-jon-stewart-war-in-gaza-orig.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240227075017-daily-show-gaza-clean-thumb.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T07:52:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Why Monica Lewinsky is the new face of a major fashion brand | CNN Politics",
+            "description": "Activist Monica Lewinsky has joined the women\u2019s clothing brand Reformation as the face of its new campaign aimed at encouraging women to vote in the 2024 election. Washington Post Opinion Columnist Catherine Rampell joins CNN\u2019s Abby Phillip to discuss.",
+            "url": "https://www.cnn.com/videos/politics/2024/02/27/monica-lewinsky-reformation-fashion-women-voters-nn-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240226233845-monica-lewinsky-reformation-fashion.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T04:53:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf, Mariasole Campinote",
+            "title": "Lawsuit: Doctor died after eating at Walt Disney World resort restaurant; staff had confirmed food was allergen-free",
+            "description": "A widowed husband filed a lawsuit against Disney World after his wife, a New York-based doctor, died suddenly eating at an Orlando parks\u2019 restaurant. The 19-page lawsuit claimed the wait staff was negligent toward his wife\u2019s severe food allergies.",
+            "url": "https://www.cnn.com/2024/02/26/business/new-york-doctor-dies-at-disney-world-restaurant-after-staff-confirmed-food-was-allergen-free-lawsuit-alleges/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap23338152998828.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-27T01:18:04Z",
+            "content": "A man is suing Walt Disney Parks and Resorts and Raglan Road Irish Pub &amp; Restaurant after his wife, a New York-based doctor, died suddenly shortly after eating at the restaurant. The 19-page laws\u2026 [+2670 chars]"
+        }
+    ]
+}

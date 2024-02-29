@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JENNIFER PELTZ and CEDAR ATTANASIO",
+            "title": "2 men convicted of killing Run-DMC\u2019s Jam Master Jay, nearly 22 years after rap star's death",
+            "description": "NEW YORK (AP) \u2014 Two men were convicted of murder Tuesday in the death of Run-DMC star Jam Master Jay, a brazen 2002 shooting in the rap legend\u2019s studio.",
+            "url": "https://apnews.com/4b49f009dc6ac9dc78d99a9dba79fc91",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e81986b89b6d4b72a8705ac19bcf0c9a/3000.jpeg",
+            "publishedAt": "2024-02-27T20:44:56Z",
+            "content": "NEW YORK (AP) \u2014 Two men were convicted of murder Tuesday in the death of Run-DMC star Jam Master Jay, a brazen 2002 shooting in the rap legend\u2019s studio.An anonymous Brooklyn federal jury found Karl J\u2026 [+6095 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "GARANCE BURKE",
+            "title": "Chatbots' inaccurate, misleading responses about U.S. elections threaten to keep voters from polls",
+            "description": "NEW YORK (AP) \u2014 With presidential primaries underway across the U.S., popular chatbots are generating false and misleading information that threatens to disenfranchise voters, according to a report published Tuesday based on the findings of artificial intelli\u2026",
+            "url": "https://apnews.com/cc50dd0f3f4e7cc322c7235220fc4c69",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/37746b0915da45caa8c7565481c9e3a6/3000.jpeg",
+            "publishedAt": "2024-02-27T20:06:15Z",
+            "content": "NEW YORK (AP) \u2014 With presidential primaries underway across the U.S., popular chatbots are generating false and misleading information that threatens to disenfranchise voters, according to a report p\u2026 [+7256 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JEFF AMY, ELLIOT SPAGAT and WILL WEISSERT",
+            "title": "The killing of a Georgia nursing student is now at the center of the US immigration debate",
+            "description": "ATHENS, Ga. (AP) \u2014 Laken Riley was a 22-year-old nursing student out on her morning run at the University of Georgia when authorities say a stranger dragged her into a secluded area and killed her, sending shockwaves through campus as police searched for a su\u2026",
+            "url": "https://apnews.com/63181cbc7a89fe9fe28b1d0cf84c8b9a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/535cca7e52d34a2abe4f945c692e72d1/3000.jpeg",
+            "publishedAt": "2024-02-27T19:52:53Z",
+            "content": "ATHENS, Ga. (AP) \u2014 Laken Riley was a 22-year-old nursing student out on her morning run at the University of Georgia when authorities say a stranger dragged her into a secluded area and killed her, s\u2026 [+6438 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SAMY MAGDY and TIA GOLDENBERG",
+            "title": "A deal between Israel and Hamas appears to be taking shape. What would it look like?",
+            "description": "CAIRO (AP) \u2014 Israel and Hamas are inching toward a new deal that would free some of the roughly 130 hostages held in the Gaza Strip in exchange for a weekslong pause in the war, now in its fifth month.",
+            "url": "https://apnews.com/2ef0d5b960c4f132bfe9d91b19878a12",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3cfb199c12b2464faf87fe8dc2bd6e80/3000.jpeg",
+            "publishedAt": "2024-02-27T17:47:59Z",
+            "content": "CAIRO (AP) \u2014 Israel and Hamas are inching toward a new deal that would free some of the roughly 130 hostages held in the Gaza Strip in exchange for a weekslong pause in the war, now in its fifth mont\u2026 [+4386 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "STEPHEN WHYNO",
+            "title": "20 years since NHL's record-setting brawl, fighting is down across the league but not going anywhere",
+            "description": "Minnesota's Marcus Foligno took a hit, delivered one of his own to Chicago's Jarred Tinordi, and the two big guys dropped the gloves. Outdoors in front of 82,000 people in the Meadowlands, it took even less for Matt Rempe and Matt Martin to spice up the Range\u2026",
+            "url": "https://apnews.com/4bd1f67beda34f72b686448d8a884082",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/60dea525456744afa43cbe25b4496b7e/2400.jpeg",
+            "publishedAt": "2024-02-27T16:15:23Z",
+            "content": "Minnesota's Marcus Foligno took a hit, delivered one of his own to Chicago's Jarred Tinordi, and the two big guys dropped the gloves. Outdoors in front of 82,000 people in the Meadowlands, it took ev\u2026 [+6979 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DEE-ANN DURBIN",
+            "title": "Why does the US government think a Kroger-Albertsons merger would be bad for grocery shoppers?",
+            "description": "Kroger and Albertsons \u2014 two of the biggest grocery chains in the United States \u2014 had hoped to complete the largest supermarket merger in the country's history this year. But their plan to compete with big-box retailers by combining forces faces legal challeng\u2026",
+            "url": "https://apnews.com/2fda44d9d8b82ef20d6c7e7cffb2ccc3",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/57176b271e5046229b5a642ea9dbf39c/3000.jpeg",
+            "publishedAt": "2024-02-27T15:48:49Z",
+            "content": "Kroger and Albertsons \u2014 two of the biggest grocery chains in the United States \u2014 had hoped to complete the largest supermarket merger in the country's history this year. But their plan to compete wit\u2026 [+6663 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "LOLITA C. BALDOR",
+            "title": "US Army is slashing thousands of posts in major revamp to prepare for future wars",
+            "description": "WASHINGTON (AP) \u2014 The U.S. Army is slashing the size of its force by about 24,000, or almost 5%, and restructuring to be better able to fight the next major war, as the service struggles with recruiting shortfalls that made it impossible to bring in enough so\u2026",
+            "url": "https://apnews.com/9f2f41cbe512f6330ce6008709e3435b",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a7a0ed67adca4859854864f71ed613ac/3000.jpeg",
+            "publishedAt": "2024-02-27T15:30:17Z",
+            "content": "WASHINGTON (AP) \u2014 The U.S. Army is slashing the size of its force by about 24,000, or almost 5%, and restructuring to be better able to fight the next major war, as the service struggles with recruit\u2026 [+4645 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JOCELYN GECKER",
+            "title": "Kids are using phones in class, even when it\u2019s against the rules. Should schools ban them all day?",
+            "description": "SAN FRANCISCO (AP) \u2014 In California, a high school teacher complains that students watch Netflix on their phones during class. In Maryland, a chemistry teacher says students use gambling apps to place bets during the school day.",
+            "url": "https://apnews.com/01fd6293a84a2e4e401708b15cb71d36",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6b53913a7f804b73b16006257580f308/3000.jpeg",
+            "publishedAt": "2024-02-27T05:25:45Z",
+            "content": "SAN FRANCISCO (AP) \u2014 In California, a high school teacher complains that students watch Netflix on their phones during class. In Maryland, a chemistry teacher says students use gambling apps to place\u2026 [+6797 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "COLLEEN LONG, KEVIN FREKING and DARLENE SUPERVILLE",
+            "title": "Biden and party leaders implore Speaker Johnson to help Ukraine in 'intense' Oval Office meeting",
+            "description": "WASHINGTON (AP) \u2014 Congressional leaders emerged from an \u201cintense\u201d Oval Office meeting with President Joe Biden on Tuesday speaking optimistically about the prospects for avoiding a partial government shutdown, but with new uncertainty about aid for Ukraine an\u2026",
+            "url": "https://apnews.com/dc6d39b2a652130c6e3021394c1a3ee3",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/fc83ffb163b6419fa2604011884d622d/1920.jpeg",
+            "publishedAt": "2024-02-27T05:07:26Z",
+            "content": "WASHINGTON (AP) \u2014 Congressional leaders emerged from an \u201cintense\u201d Oval Office meeting with President Joe Biden on Tuesday speaking optimistically about the prospects for avoiding a partial government\u2026 [+5757 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "SEUNG MIN KIM",
+            "title": "Biden and Trump are marching toward their nominations, but Michigan could reveal significant perils",
+            "description": "WASHINGTON (AP) \u2014 While Joe Biden and Donald Trump are marching steadily toward their respective presidential nominations, Michigan's primary on Tuesday could reveal significant political perils for both of them.",
+            "url": "https://apnews.com/6e0b9fc18773e975fdfd23f7287ed615",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/dc7cd778f42f4d83be512b59a8186bdb/1920.jpeg",
+            "publishedAt": "2024-02-27T05:03:48Z",
+            "content": "WASHINGTON (AP) \u2014 While Joe Biden and Donald Trump are marching steadily toward their respective presidential nominations, Michigan's primary on Tuesday could reveal significant political perils for \u2026 [+6758 chars]"
+        }
+    ]
+}

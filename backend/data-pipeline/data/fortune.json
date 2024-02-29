@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Emma Hinchliffe, Paige McGlauflin",
+            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T13:22:34Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jessica Mathews",
+            "title": "Unprofitable companies needed to be profitable yesterday",
+            "description": "Capital is more expensive, and investors aren\u2019t bullish on companies struggling to generate their own cash.",
+            "url": "https://fortune.com/2022/06/01/unprofitable-companies-needed-to-be-profitable-yesterday/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/Body-Blow-003.png?resize=1200,600",
+            "publishedAt": "2022-06-01T12:29:29Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "David Meyer",
+            "title": "Elon Musk crows as German authorities start treating greenwashing as fraud",
+            "description": "Raids on Deutsche Bank and its DWS unit show how ESG claims are under unprecedented scrutiny.",
+            "url": "https://fortune.com/2022/06/01/elon-musk-germany-esg-greenwashing-fraud-deutsche-bank-dws/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1228323148.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T10:55:13Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eamon Barrett",
+            "title": "A new report shows how badly the Trump administration slashed the U.S.\u2019s climate credentials",
+            "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+            "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T10:31:29Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Kevin Kelleher",
+            "title": "Buybacks vs dividends? In market downturns, the rules may change",
+            "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
+            "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T10:15:00Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Renate Nyborg",
+            "title": "Why Tinder wants to end the FDA\u2019s discriminatory blood donor policy",
+            "description": "Tinder and Match Group are urging the FDA to lift restrictions on gay and bisexual men donating blood.",
+            "url": "https://fortune.com/2022/06/01/tinder-fda-discrimination-blood-donor-policy-renate-nybor/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1227710498-e1653669254280.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T09:30:00Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ellen McGirt",
+            "title": "The forgotten true story behind Memorial Day\u2014and why it matters now more than ever",
+            "description": "The story, once lost to history, serves as another reminder of the need for accountability, justice, and equity for people of color as the first steps in true racial reckoning.",
+            "url": "https://fortune.com/2022/05/31/forgotten-true-story-behind-memorial-day-martyrs-of-the-race-course-why-it-matters-now/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-90001458-e1654032098432.jpg?resize=1200,600",
+            "publishedAt": "2022-05-31T21:41:09Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ram Charan",
+            "title": "4 vital steps that U.S. CEOs must take in the economic battle with China",
+            "description": "China's economy is huge, but for many companies the opportunities aren't worth the risks.",
+            "url": "https://fortune.com/2022/05/31/china-us-trade-competition-decoupling-supply-chains-intellectual-property/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1240814688-e1653692803397.jpg?resize=1200,600",
+            "publishedAt": "2022-05-31T13:00:00Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jeff Grabow",
+            "title": "The next Silicon Valley may not exist. Here\u2019s what smaller hubs can do to attract VC dollars",
+            "description": "We are seeing some regions begin to reap the benefits of a concerted effort to grow their VC ecosystem, says EY's venture capital leader Jeff Grabow.",
+            "url": "https://fortune.com/2022/05/27/next-silicon-valley-exist-smaller-hubs-attract-vc-dollars-startups-entrepreneurs-ey-jeff-grabow/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-569354399.jpg?resize=1200,600",
+            "publishedAt": "2022-05-27T13:20:00Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Marina Purkiss",
+            "title": "Boris Johnson has survived Partygate\u2013and he\u2019s coming for Northern Ireland",
+            "description": "Boris Johnson will not resign despite polls showing most Brits think he should. Instead, he is doubling down.",
+            "url": "https://fortune.com/2022/05/27/boris-johnson-survived-partygate-uk-politics-leadership-international-northern-ireland-international-marina-purkiss/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1240895230-e1653647119659.jpg?resize=1200,600",
+            "publishedAt": "2022-05-27T10:45:00Z",
+            "content": "Skip to Content"
+        }
+    ]
+}

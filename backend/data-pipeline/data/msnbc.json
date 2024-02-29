@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jennifer Palmieri",
+            "title": "Why Michigan\u2019s primary is a key election for Biden, Trump ahead of November",
+            "description": "The first primary in a general election battleground will give us some clues about Donald Trump\u2019s and Joe Biden\u2019s weaknesses ahead of their likely rematch in 2024.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/michigan-primary-key-trump-biden-battleground-state-rcna140709",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240227-michigan-voter-al-1111-d8459b.jpg",
+            "publishedAt": "2024-02-27T20:07:47Z",
+            "content": "We know who will win Michigan Tuesday night, but not how theyll do it, and that will be the interesting part. While both former President Donald Trump and President Joe Biden will undoubtedly win the\u2026 [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Trump\u2019s classified documents handling is much worse than Biden\u2019s, Jack Smith notes",
+            "description": "The classified documents claims against Trump don\u2019t compare to those against Biden. Still, Trump\u2019s lawyers have raised the ill-fitting comparison to Judge Aileen Cannon.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-classified-documents-biden-comparison-jack-smith-rcna140720",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240227-jack-smith-ch-1238-d16590.jpg",
+            "publishedAt": "2024-02-27T20:05:14Z",
+            "content": "The classified documents and obstruction charges against Donald Trump dont compare to President Joe Bidens handling of documents from which Biden was just cleared. Nonetheless, Trumps lawyers have ra\u2026 [+1583 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jacques Berlinerblau",
+            "title": "Jon Stewart's 'Daily Show' episode on Israel-Hamas never stood a chance",
+            "description": "Jon Stewart used his third Daily Show episode to half-heartedly present an action plan to resolve the Israel-Hamas conflict.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/jon-stewart-the-daily-show-israel-palestine-rcna140583",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240226-jon-stewart-daily-show-se-537p-ba4bd0.jpg",
+            "publishedAt": "2024-02-27T18:45:45Z",
+            "content": "Jon Stewarts third appearance in the anchors chair since returning to \"The Daily Show\" opened with the seated host basking in a standing ovation from his stoked studio audience. Citing the controvers\u2026 [+5671 chars]"
+        }
+    ]
+}

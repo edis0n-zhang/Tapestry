@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "NBC News, Rebecca Cohen, Tim Stelloh, Courtney Brogle, Matthew Mata",
+            "title": "Kansas City Chiefs parade shooting live updates: At least 10 people shot during celebration",
+            "description": "Live updates and latest news coverage on the Kansas City Chief Super Bowl parade shooting.",
+            "url": "https://www.nbcnews.com/news/us-news/live-blog/kansas-city-parade-shooting-live-updates-rcna138881",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240214-chiefs-parade-shots-fired-ew-329p-17a21f.jpg",
+            "publishedAt": "2024-02-14T21:17:39Z",
+            "content": "A woman who was attending the Chiefs victory parade with her daughter described the chaotic aftermath of a shooting that left one person dead and possibly more than a dozen injured.\r\nThe woman, who i\u2026 [+4674 chars]"
+        }
+    ]
+}

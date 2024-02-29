@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Midwest braces for severe storms, possible tornadoes - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvY3Jvc3MtY291bnRyeS1zdG9ybS1taWR3ZXN0LW5vcnRoZWFzdC13ZWF0aGVyLWZvcmVjYXN0L3N0b3J5P2lkPTEwNzU3ODI4N9IBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2Nyb3NzLWNvdW50cnktc3Rvcm0tbWlkd2VzdC1ub3J0aGVhc3Qtd2VhdGhlci1mb3JlY2FzdC9zdG9yeT9pZD0xMDc1NzgyODc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T21:11:15+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "University of Georgia",
+            "title": "UGA strengthens its ongoing commitment to public safety - University of Georgia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vbmV3cy51Z2EuZWR1L3VnYS1zdHJlbmd0aGVucy1pdHMtb25nb2luZy1jb21taXRtZW50LXRvLXB1YmxpYy1zYWZldHkv0gFRaHR0cHM6Ly9uZXdzLnVnYS5lZHUvdWdhLXN0cmVuZ3RoZW5zLWl0cy1vbmdvaW5nLWNvbW1pdG1lbnQtdG8tcHVibGljLXNhZmV0eS9hbXAv?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T20:41:25+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Congress Remains Short of Deal to Avoid Shutdown After Biden Meeting - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMjcvdXMvcG9saXRpY3MvYmlkZW4tY29uZ3Jlc3Mtc2h1dGRvd24uaHRtbNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T20:35:46+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "Live updates: Fulton County prosecutor's divorce attorney to testify in Fani Willis case - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL2Zhbmktd2lsbGlzLWNhc2UtZnVsdG9uLWNvdW50eS1oZWFyaW5nLTAyLTI3LTI0L2luZGV4Lmh0bWzSAWVodHRwczovL2FtcC5jbm4uY29tL2Nubi9wb2xpdGljcy9saXZlLW5ld3MvZmFuaS13aWxsaXMtY2FzZS1mdWx0b24tY291bnR5LWhlYXJpbmctMDItMjctMjQvaW5kZXguaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T19:46:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "NATO allies rule out sending troops to Ukraine as Russia rebukes Macron - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2V1cm9wZS9ldXJvcGVhbnMtcnVsZS1vdXQtc2VuZGluZy10cm9vcHMtdWtyYWluZS1ydXNzaWEtcmVidWtlcy1tYWNyb24tMjAyNC0wMi0yNy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T19:20:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Biden Faces 'Uncommitted' Vote in Michigan's Primary. Here's What to Watch. - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDIvMjcvdXMvcG9saXRpY3MvbWljaGlnYW4tcHJpbWFyeS1iaWRlbi10cnVtcC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T18:19:10+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newsweek",
+            "title": "Justice Alito's Question in Supreme Court Hearing Leaves People Stunned - Newsweek",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9qdXN0aWNlLWFsaXRvLXF1ZXN0aW9uLXN1cHJlbWUtY291cnQtaGVhcmluZy0xODczNzE00gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T14:16:54+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "KHOU.com",
+            "title": "Lakewood Church shooting video released | Houston news | khou.com - KHOU.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lmtob3UuY29tL2FydGljbGUvbmV3cy9sb2NhbC9sYWtld29vZC1zaG9vdGluZy12aWRlby1ib2R5Y2FtLXN1cnZlaWxsYW5jZS8yODUtZDQ2ODhhMzktMGJlMC00OGQ2LWE4NTQtNTI5NDdmZjE1NDJm0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-27T03:34:20+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "United Daughters of the Confederacy would lose Virginia tax breaks, if Youngkin signs off - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiamh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3ZpcmdpbmlhLWNvbmZlZGVyYXRlLWdyb3VwLXRheC1icmVha3MteW91bmdraW4tZTY3YjkxYTE4OWY4MzEyNDI0ZWYyMGRhZDEzZGM2NznSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-26T23:04:00+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Who was Aaron Bushnell, the senior U.S. airman who set himself on fire? - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9kYy1tZC12YS8yMDI0LzAyLzI2L2lzcmFlbGktZW1iYXNzeS1haXJtYW4tZmlyZS1kZWF0aC1nYXphL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-02-26T16:10:00+00:00",
+            "content": null
+        }
+    ]
+}

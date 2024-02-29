@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Aaron Katersky",
+            "title": "NYC Mayor Eric Adams calls for modifying sanctuary city status",
+            "description": "Adams said migrants who commit serious crimes should be deported.",
+            "url": "https://abcnews.go.com/US/nyc-mayor-calls-modifying-sanctuary-city-status/story?id=107604934",
+            "urlToImage": "https://i.abcnewsfe.com/a/93fbb0ff-ae9f-438d-bdcf-7a20e35f6dae/eric-adams-gty-jef-240227_1709067624909_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T21:15:00Z",
+            "content": "After a series of well-publicized crimes allegedly committed by migrants, Mayor Eric Adams appeared to support a modification of laws that make New York a sanctuary city.\r\nAdams said on Tuesday that \u2026 [+1266 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Patrick Reevell",
+            "title": "Russia jails well-known activist who criticized Ukraine war",
+            "description": "Oleg Orlov, 70, condemned Alexei Navalny's death in court.",
+            "url": "https://abcnews.go.com/International/russia-jails-activist-oleg-orlov-ukraine-war-alexei-navalny-death/story?id=107600667",
+            "urlToImage": "https://i.abcnewsfe.com/a/0e241a4d-642b-4e30-8da8-c5530e4fb312/oleg-orlov-gty-jef-240227_1709061811208_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T20:53:52Z",
+            "content": "One of Russia's best-known human rights defenders was sentenced by a Moscow court Tuesday to two and a half years in prison for criticizing the war in Ukraine, amid a continuing crackdown by the Krem\u2026 [+2412 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW BROWN Associated Press",
+            "title": "Man to plead guilty to helping kill 3,600 eagles, other birds and selling feathers",
+            "description": "A Washington state man accused of helping kill more than 3,000 birds including eagles on a Montana Indian reservation then illegally selling their feathers intends to plead guilty to federal criminal charges",
+            "url": "https://abcnews.go.com/US/wireStory/man-plead-guilty-helping-kill-3600-eagles-birds-107601555",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-02-27T19:10:31Z",
+            "content": "A Washington state man accused of helping kill more than 3,000 birds including eagles on a Montana Indian reservation then illegally selling their feathers intends to plead guilty to illegal wildlife\u2026 [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Toyota recalling 381,000 Tacoma pickups because parts can fall off rear axles",
+            "description": "Toyota is recalling about 381,000 Tacoma midsize pickup trucks in the U.S. because a part can separate from the rear axle, increasing the risk of a crash",
+            "url": "https://abcnews.go.com/US/wireStory/toyota-recalling-381000-tacoma-pickups-parts-fall-off-107599777",
+            "urlToImage": "https://i.abcnewsfe.com/a/d5061ee9-fc78-467b-80a9-3aceccdb718c/wirestory_a698bc1e241d3492e3c6a78fa8007171_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T18:17:32Z",
+            "content": "DETROIT -- Toyota is recalling about 381,000 Tacoma midsize pickup trucks in the U.S. because a part can separate from the rear axle, increasing the risk of a crash.\r\nThe recall covers certain trucks\u2026 [+583 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JIM SALTER Associated Press",
+            "title": "Work stoppage to support worker who found noose snarling St. Louis school bus service",
+            "description": "School bus service has been snarled in St. Louis for two days because of a work stoppage that's a show of support for a Black mechanic who says he found a noose at his workstation",
+            "url": "https://abcnews.go.com/US/wireStory/work-stoppage-support-mechanic-found-noose-snarling-school-107599598",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-02-27T18:16:48Z",
+            "content": "ST. LOUIS -- A Black mechanic for the company that provides school bus services for the St. Louis school district said he found a noose at his workstation, leading at least 100 drivers to stop work i\u2026 [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "RUSS BYNUM Associated Press",
+            "title": "Family of exonerated Black man killed by Georgia deputy is suing him in federal court",
+            "description": "The family of a slain Black man has filed a federal lawsuit against the Georgia deputy who shot him during a traffic stop that spiraled into violence",
+            "url": "https://abcnews.go.com/US/wireStory/family-exonerated-black-man-killed-georgia-deputy-suing-107599193",
+            "urlToImage": "https://i.abcnewsfe.com/a/4d1b5fec-b8f6-4823-b41a-d4c7731bb0ed/wirestory_9d7b69a74245eccc3f094c09de2040b5_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T17:59:46Z",
+            "content": "SAVANNAH, Ga. -- The family of a Black man fatally shot by a Georgia deputy during an October traffic stop filed a federal lawsuit Tuesday seeking more than $16 million in damages, arguing the deputy\u2026 [+3339 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ALICIA RANCILIO Associated Press",
+            "title": "Wendy Williams documentary producers: Didn't know she had dementia while filming",
+            "description": "The executive producers behind Lifetime's Wendy Williams documentary say they, too, were unnerved by some of what they saw while filming the former talk show host",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/wendy-williams-documentary-producers-dementia-filming-scenes-107596987",
+            "urlToImage": "https://i.abcnewsfe.com/a/7fa5c616-6292-4ad6-9464-cf52de90d7e4/wirestory_d3cebb8c20f750a623f9d180a50c03e8_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T16:48:00Z",
+            "content": "If you watched Lifetime's Wendy Williams docuseries that premiered over the weekend and felt uncomfortable, you weren't alone.\r\nWhere is Wendy Williams? premiered over the weekend and featured numero\u2026 [+4836 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Emily Shapiro",
+            "title": "23-year-old pregnant Amish woman killed in Pennsylvania, police say",
+            "description": "Police said they are \"aggressively investigating\" Rebekah Byler's death.",
+            "url": "https://abcnews.go.com/US/23-year-pregnant-amish-woman-killed-pennsylvania-police/story?id=107591317",
+            "urlToImage": "https://i.abcnewsfe.com/a/706d1374-fdc7-4c18-bbdd-7313690d68f2/pregnant-woman-murder-1-ht-bb-240227_1709047085466_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T15:37:00Z",
+            "content": "Police are searching for leads after a 23-year-old pregnant Amish woman was killed in Pennsylvania, authorities said.\r\nOn Monday afternoon, police responded to a home in Sparta Township, about 35 mil\u2026 [+347 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "LOLITA C. BALDOR Associated Press",
+            "title": "US Army is slashing thousands of jobs in major revamp to prepare for future wars",
+            "description": "The U.S. Army is slashing the size of its force by about 24,000, which is nearly 5%",
+            "url": "https://abcnews.go.com/US/wireStory/us-army-slashing-thousands-jobs-major-revamp-prepare-107592529",
+            "urlToImage": "https://i.abcnewsfe.com/a/5a6a7ba8-e5f3-4ec0-9c78-501b528ba575/wirestory_9f2f41cbe512f6330ce6008709e3435b_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T15:30:05Z",
+            "content": "WASHINGTON -- The U.S. Army is slashing the size of its force by about 24,000, or almost 5%, and restructuring to be better able to fight the next major war, as the service struggles with recruiting \u2026 [+3887 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANNE D'INNOCENZIO AP retail writer",
+            "title": "Macy's to close 150 stores as it pivots to luxury at Bloomingdale's and Blue Mercury",
+            "description": "Macy\u2019s will close 150 stores over the next three years, 50 by the end of 2024 after posting a fourth quarter loss and declining sales",
+            "url": "https://abcnews.go.com/Business/wireStory/macys-close-150-stores-sales-slip-pivots-luxury-107585814",
+            "urlToImage": "https://i.abcnewsfe.com/a/98a5e5f2-c230-431d-a535-ee4308a11659/wirestory_adb135fab8bf9ddf6d01119bfcbffb83_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-27T12:44:17Z",
+            "content": "NEW YORK -- Macy's will close 150 stores over the next three years and 50 by the end of 2024, the department store said Tuesday after posting a fourth quarter loss and declining sales.\r\nAt the same t\u2026 [+3197 chars]"
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Actor Gary Sinise's son dead following battle with rare form of cancer",
+            "description": "Gary Sinise's son, McCanna 'Mac' Sinise has died from a rare form of cancer.",
+            "url": "https://www.foxnews.com/entertainment/actor-gary-sinises-son-dead-following-battle-rare-form-cancer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/e20c69c4-g1.jpg",
+            "publishedAt": "2024-02-27T21:09:46Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+791 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chantz Martin",
+            "title": "NBA legend Shaq says former pregame habits included staying up late, eating fries, drinking soda",
+            "description": "NBA great Shaquille O'Neal unveiled an unconventional pregame ritual, which involved staying awake until the early morning hours, and consuming relativity unhealthy food.",
+            "url": "https://www.foxnews.com/sports/nba-legend-shaq-says-former-pregame-habits-included-staying-up-late-eating-fries-drinking-soda",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Shaq.jpg",
+            "publishedAt": "2024-02-27T20:37:16Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+2441 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Trans Virginia lawmaker storms out of chamber after being called 'sir' by Lt. Gov. Winsome Sears",
+            "description": "Virginia Lt. Gov. Winsome Sears referred to a transgender state senator as \"sir\" during a legislature session on Tuesday, and the lawmaker stormed out.",
+            "url": "https://www.foxnews.com/politics/trans-virginia-lawmaker-storms-out-chamber-being-called-sir-lt-gov-winsome-sears",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Winsome-Sears-Danica-Roem-Split.jpg",
+            "publishedAt": "2024-02-27T19:54:17Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+2723 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Taylor Penley",
+            "title": "Fed-up DC business owner spearheads recall effort to unseat soft-on-crime Democrat: 'People are tired'",
+            "description": "Washington, D.C. small business owner Diana Alvarez said out-of-control crime has come to her front door, and she aims to unseat a local Democrat she believes is partially responsible.",
+            "url": "https://www.foxnews.com/media/dc-business-owner-spearheads-recall-effort-unseat-soft-crime-democrat-people-tired",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Alvarez_Nadeau-split.jpg",
+            "publishedAt": "2024-02-27T19:00:29Z",
+            "content": "A disgruntled small business owner is leading a recall effort to unseat a D.C. council member she believes hindered public safety by favoring soft-on-crime policies.\u00a0\r\nThe move comes after repeated r\u2026 [+2852 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Jack Smith responds to blistering Hur report for first time, says Biden, Trump cases not similar",
+            "description": "Special counsel Jack Smith responded to special counsel Rob Hur's report, arguing former President Trump's handling of classified documents is not similar to President Biden's actions.",
+            "url": "https://www.foxnews.com/politics/jack-smith-responds-blistering-hur-report-first-time",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/trump-biden-side-by-side-recent.jpg",
+            "publishedAt": "2024-02-27T18:27:58Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+5216 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sydney Borchers",
+            "title": "Georgia fisherman ties state record after reeling in surprise 'trophy-size' catch",
+            "description": "A Georgia angler has tied a state fishing record after catching a \"trophy-size\" yellow perch from Lake Burton. The Cumming resident said he typically pursues bass.",
+            "url": "https://www.foxnews.com/lifestyle/georgia-fisherman-ties-state-record-reeling-surprise-trophy-size-catch",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Mulhall-with-fish-split.jpg",
+            "publishedAt": "2024-02-27T17:42:31Z",
+            "content": "A fisherman recently reeled in a bright-colored catch to tie a record that was first set in Georgia 10 years ago.\r\nEmerson\u00a0Mulhall, 20, a resident of Cumming, was out on Lake Burton on Feb. 18, when \u2026 [+2926 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Danielle Wallace",
+            "title": "Republican presidential candidate Ryan Binkley drops out, endorses Trump",
+            "description": "Republican presidential candidate Ryan Binkley suspended his campaign and threw support behind former President Trump amid the \"corrupt allegations and indictments\" he's facing.",
+            "url": "https://www.foxnews.com/politics/republican-presidential-candidate-ryan-binkley-drops-out-endorses-trump",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/GettyImages-1923434304.jpg",
+            "publishedAt": "2024-02-27T17:39:05Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+3033 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Alicia Warren",
+            "title": "Comer uncovers pattern in Biden family business probe: 'Very concerning'",
+            "description": "Rep. James Comer, R-Ky., reveals new evidence in the Biden family business probe as testimonies from key players are underway in Congress",
+            "url": "https://www.foxbusiness.com/politics/comer-uncovers-pattern-biden-family-business-probe-very-concerning",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/0/0/comer-hunter-joe-box-split.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-27T17:30:45Z",
+            "content": "The investigation into the Bidens\u2019 businesses is heating up in the House as Republicans continue to dig into the family\u2019s \"very concerning\" patterns.\r\nRep. James Comer, R-Ky., chairman of the House O\u2026 [+4332 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stephen Sorace",
+            "title": "Pittsburgh police won't send officers to certain emergency calls, will redirect to telephone unit",
+            "description": "Certain lower-priority emergency calls in Pittsburgh, Pennsylvania, will be redirected to the police bureau's Telephone Reporting Unit as of Monday.",
+            "url": "https://www.foxnews.com/us/pittsburgh-police-wont-send-officers-certain-emergency-calls-redirect-telephone-unit",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/pittsburgh-police.jpg",
+            "publishedAt": "2024-02-27T16:24:55Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+2577 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christina Coulter",
+            "title": "New York professor wins $30M from ex-boyfriend in landmark revenge porn ruling",
+            "description": "Brooklyn, New York, comedian Ryan Broems was ordered to pay $30 million to his ex Spring Chenoa Cooper on Friday in a landmark ruling after admitting to sharing her nude photos and videos online.",
+            "url": "https://www.foxnews.com/us/new-york-professor-wins-30m-ex-boyfriend-landmark-revenge-porn-ruling",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Spring-cooper-split.jpg",
+            "publishedAt": "2024-02-27T14:14:53Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e\u2026 [+6408 chars]"
+        }
+    ]
+}

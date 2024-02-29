@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Andrew R. Chow",
+            "title": "Why Reddit Users Have Turned Against the Company\u2019s IPO",
+            "description": "Reddit will allow its most active users to buy shares in its IPO. But many of those users are skeptical it will succeed.",
+            "url": "http://time.com/6835612/reddit-users-ipo/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2023785364.jpg?quality=85",
+            "publishedAt": "2024-02-27T20:57:53Z",
+            "content": "Two years ago, Reddit users established themselves as a fearsome economic force when the subreddit community WallStreetBets mobilized to save GameStops stock price from pessimistic Wall Street trader\u2026 [+9122 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jamie Ducharme",
+            "title": "Long COVID Doesn\u2019t Always Look Like You Think It Does",
+            "description": "Long COVID can produce a wide variety of symptoms and severities, which makes it hard to detect, diagnose, and treat.",
+            "url": "http://time.com/6835566/what-are-long-covid-symptoms/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/Long_Covid.png",
+            "publishedAt": "2024-02-27T17:58:36Z",
+            "content": "In the spring of 2023, after her third case of COVID-19, Jennifer Robertson started to feel strange. Her heart raced all day long and she could barely sleep at night. She had dizzy spells. She felt p\u2026 [+6583 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Nik Popli",
+            "title": "Lawmakers in Both Parties Call to Protect IVF After Alabama Ruling",
+            "description": "Lawmakers of both parties across the country are scrambling to safeguard access to in vitro fertilization after the Alabama ruling.",
+            "url": "http://time.com/6835548/lawmakers-ivf-embryos-alabama-legislation/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1498980269.jpg?quality=85",
+            "publishedAt": "2024-02-27T15:13:10Z",
+            "content": "Lawmakers across the country are scrambling to safeguard access to in vitro fertilization (IVF) after several clinics in Alabama paused treatments over a recent state supreme court ruling that classi\u2026 [+6452 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Noah Feldman",
+            "title": "The New Antisemitism",
+            "description": "Harvard Law School professor Noah Feldman details how an ancient hatred has reinvented itself in the modern world.",
+            "url": "http://time.com/6763293/antisemitism/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/annigersary-pogrom-berlin-antisemitism.jpeg?quality=85",
+            "publishedAt": "2024-02-27T13:00:00Z",
+            "content": "Why wont antisemitism die, or at least die down? In the months following Hamas attack on Israel on Oct. 7, 2023, antisemitic incidents increased substantially. The Anti-Defamation League, which keeps\u2026 [+22109 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "A New Way to Make CFOs Care About Climate Change",
+            "description": "Innovative new tax incentives in the Inflation Reduction Act offer a new reason for CFOs to care about reducing emissions.",
+            "url": "http://time.com/6801983/cfo-climate-action-inflation-reduction-act/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/solar-energy-storage.jpg?quality=85",
+            "publishedAt": "2024-02-23T18:05:23Z",
+            "content": "(To get this story in your inbox, subscribe to the TIME CO2 Leadership Report newsletter here.)\r\nIn my conversations with sustainability focused executives at large companies, I am often curious to a\u2026 [+2859 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": null,
+            "title": "Women of the Year",
+            "description": "These are the extraordinary leaders making change across generations, communities, and borders",
+            "url": "http://time.com/collection/women-of-the-year/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/WOTY_Featured.png?crop=0px%2C39px%2C1600px%2C838px&resize=1200%2C628&quality=85&strip",
+            "publishedAt": "2024-02-23T15:07:29.0441673Z",
+            "content": "Lead Editors: Naina Bajekal, Lucy Feldman, and Cate Matthews\r\nEditors: Kelly Conniff, Kyla Mandel, Lily Rothman, Dayana Sarkisova, and Karl Vick\r\nPhoto: Eli Cohen, Dilys Ng, and Katherine Pomerantz\r\n\u2026 [+299 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland/Paris",
+            "title": "Inside Fatih Birol\u2019s Push to Transform the IEA Into a Clean Energy Authority",
+            "description": "Fatih Birol has elevated the stature of the 50 year-old institution\u2014though not everyone is happy with its focus on clean energy.",
+            "url": "http://time.com/6768028/fatih-birol-transform-iea-clean-energy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/fatih-birol-iea-50th-anniversary.jpg?quality=85",
+            "publishedAt": "2024-02-23T10:00:00Z",
+            "content": "(To get this story in your inbox, subscribe to the TIME CO2 Leadership Report newsletter here.)\r\nIn the immediate aftermath of the Russian invasion of Ukraine, many energy experts spoke about the ene\u2026 [+9397 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Vera Bergengruen / Kyiv",
+            "title": "How Tech Giants Turned Ukraine Into an AI War Lab",
+            "description": "The AI tools provided by companies like Palantir and Clearview raise questions about when and how invasive tech should be used in wartime.",
+            "url": "http://time.com/6691662/ai-ukraine-war-palantir/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/02/WPALANTIR_featC.jpg?quality=85",
+            "publishedAt": "2024-02-08T13:00:00Z",
+            "content": "Early on the morning of June 1, 2022, Alex Karp, the CEO of the data-analytics firm Palantir Technologies, crossed the border between Poland and Ukraine on foot, with five colleagues in tow. A pair o\u2026 [+25374 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": null,
+            "title": "East Palestine, One Year After Train Derailment - TIME",
+            "description": "A year ago, a train carrying hazardous materials derailed East Palestine, Ohio. Nothing has been the same since.",
+            "url": "http://time.com/east-palestine-train-derailment/",
+            "urlToImage": "https://d16bl9hbknyxy0.cloudfront.net/3012c1ca-4ba2-4510-997c-6f823e26b6a6/822e4072-762f-4d13-b2ec-39482f9185db/east-palestine-train-derailment-creek-rick.jpg?w=2400&h=2400&fit=inside&Expires=9223372036854775&Signature=UNDtsXlly-QN8ZvQWiGDDBkSTp3ezIpS5pgdOuZmUk3WDOc90QcKzlDYMl9g9ACniOkIpOZI0iX90tOAsoxAImJMUG4RLHi8sHg-xDRs~TMaJFR-L2ML-Os95DjZn8nlMsKjHEOYt3MaVAc-fyuiTq0HVBe00-W6fLoDRlWGZuZd8xV~9pJ-YNS0O-2tSIzKB9-PqiZ0AmywUpW7JNHRRF5sqduOjmbHDXUQ3XRIm7lJtAQ9PF2LFckbad3zY42mZmDAl12Ly6gCqor4HO9Brl3bIR7rNmUL1ISD3huETzHiS~CYNcx7f5xpGuDtJLdaUWwOsHFEEWe2mx1M43A~Yw__&Key-Pair-Id=K2SKI2Y48Y62V1",
+            "publishedAt": "2024-02-02T14:07:25.7091335Z",
+            "content": "Lisa Mahoneys science lab, as her husband Dave jokingly calls it, isnt much to look at: about a dozen black garbage bags slumped in a basement corner beneath their sturdy, 110-year-old home in East P\u2026 [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": null,
+            "title": "The Closers",
+            "description": "18 people working to end the racial wealth gap",
+            "url": "http://time.com/collection/closers/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/01/2a_Closers_Grid_Header22.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-02-01T14:37:20.6685661Z",
+            "content": null
+        }
+    ]
+}

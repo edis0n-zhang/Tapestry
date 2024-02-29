@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cheryl Teh",
+            "title": "Jon Stewart says he has a solution to the Israel-Hamas war",
+            "description": "Apart from asking God for help, Stewart also said the Arab states could form a DMZ between Israel and Palestine, and create a NATO-style organization.",
+            "url": "http://www.businessinsider.com/jon-stewart-daily-show-solution-israel-palestine-gaza-conflict-2024-2",
+            "urlToImage": "https://i.insider.com/65dd7313ce7f1785b2e4155c?width=1200&format=jpeg",
+            "publishedAt": "2024-02-27T07:00:31Z",
+            "content": "On his Monday night show, Jon Stewart outlined what he says is a solution to the Gaza conflict.\r\nFirst, with his signature dry humor, he suggested a scaled-up version of a 2014 event in Maine that in\u2026 [+2366 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Huileng Tan",
+            "title": "Putin needs to keep Russia in a 'permanent state of war' to stay in power: expert",
+            "description": "Political scientist Marie Mendras said Russian President Vladimir Putin's strategy is \"to terrorize everybody\" so that they will accept his desires and rule.",
+            "url": "http://www.businessinsider.com/putin-paranoid-keep-russia-permanent-war-stay-in-power-2024-2",
+            "urlToImage": "https://i.insider.com/65dd484490413ab8e1d70306?width=1200&format=jpeg",
+            "publishedAt": "2024-02-27T05:24:34Z",
+            "content": "Russian President Vladimir Putin needs to ensure his country stays in a permanent state of war to consolidate his power, according to a new book from Marie Mendras, a professor at Sciences Po Univers\u2026 [+1991 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "Putin proven right over US losing focus on Ukraine: ex-CIA operative",
+            "description": "Steve Hall, former CIA chief of Russia operations, told CNN Putin's initial prediction that the US would lose focus on Ukraine is being proven right.",
+            "url": "http://www.businessinsider.com/putin-right-predicted-us-lose-focus-ukraine-ex-cia-operative-2024-2",
+            "urlToImage": "https://i.insider.com/65dd45d06080194819fa5aca?width=1200&format=jpeg",
+            "publishedAt": "2024-02-27T03:11:34Z",
+            "content": "Russian President Vladimir Putin's prediction that the US would lose its \"nerve\" and stop supporting Ukraine is being proven right, according to Steve Hall, former CIA chief of Russia operations.\r\nHa\u2026 [+1626 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Snodgrass",
+            "title": "Biden says Israel-Hamas cease-fire could come as soon as next week",
+            "description": "President Joe Biden said a cease-fire between Israel and Hamas is imminent as negotiators work this week to hammer out details of a potential deal.",
+            "url": "http://www.businessinsider.com/biden-israel-hamas-cease-fire-come-soon-next-week-2024-2",
+            "urlToImage": "https://i.insider.com/657ae9900ec98e92f74f55e4?width=1200&format=jpeg",
+            "publishedAt": "2024-02-27T01:32:10Z",
+            "content": "President Joe Biden said a temporary cease-fire between Israel and Hamas is imminent as negotiators work this week to hammer out the details of a potential deal.\r\nDuring a trip to New York on Monday,\u2026 [+1445 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "Stock market news today: Investors await inflation, GDP data this week",
+            "description": "Investors will be hearing from five Fed presidents later in the week, listening for any clues about when the Fed might cut interest rates.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-news-today-inflation-pce-gdp-data-fedspeak-fed-2024-2",
+            "urlToImage": "https://i.insider.com/65dcf6036080194819fa4831?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T21:04:38Z",
+            "content": "US stocks traded slightly lower on Monday as investors shifted their focus to a slate of macroeconomic data points on the horizon this week.\r\nWith 90% of S&amp;P 500 companies having reported fourth-\u2026 [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "Google has another 'woke' AI problem with Gemini",
+            "description": "Some critics say Google's culture is overly influenced by left-leaning workers.",
+            "url": "http://www.businessinsider.com/google-gemini-woke-images-ai-chatbot-criticism-controversy-2024-2",
+            "urlToImage": "https://i.insider.com/65dcefa390413ab8e1d6ee73?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T20:20:23Z",
+            "content": "Google spent much of last week getting hammered for supposedly creating a \"woke\" AI chatbot and eventually apologized for \"missing the mark.\"\r\nBut the criticism isn't stopping, it's shifting: Last we\u2026 [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Dominick Reuter",
+            "title": "Walton family cashes out $1.5B worth of Walmart stock",
+            "description": "With a combined net worth of $226.3 billion, the three Walton heirs are collectively wealthier than Elon Musk.",
+            "url": "http://www.businessinsider.com/walton-family-sells-walmart-stock-during-rally-2024-2",
+            "urlToImage": "https://i.insider.com/65dcbcaa90413ab8e1d6d0fb?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T19:11:18Z",
+            "content": "The Walton family's cash accounts are a whopping $1.5 billion bigger after they sold nearly 9 million shares of Walmart stock last week, according to SEC filings.\r\nIn a series of three transactions, \u2026 [+2132 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Williams",
+            "title": "How long you should stay at one job, ex-Microsoft HR VP explains",
+            "description": "Should you be job-hopping or loyal to a company? An ex-Microsoft \nVP of HR explains how recruiters evaluate a candidate's prior job tenures and red flags.",
+            "url": "http://www.businessinsider.com/how-long-short-stay-one-job-red-flags-hr-vp-2024-2",
+            "urlToImage": "https://i.insider.com/65dc2d636080194819fa0a05?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T10:40:01Z",
+            "content": "In my more than 40 years in business, including being the vice president of human resources at Microsoft, I've observed a major shift in how long people stay at a job.\r\nWhen I first started my career\u2026 [+5324 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jane Zhang",
+            "title": "What to say in a layoff or termination meeting, from an employment lawyer",
+            "description": "You can't really prepare for a layoff meeting because they're intentionally sudden. But an employment lawyer has advice on what to say if you're terminated.",
+            "url": "http://www.businessinsider.com/how-to-prepare-what-say-layoff-termination-meeting-employment-lawyer-2024-2",
+            "urlToImage": "https://i.insider.com/65dcdeb66080194819fa3cb3?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T10:15:01Z",
+            "content": "This as-told-to essay is based on a conversation with Craig Levey, an employment law attorney and partner at Bennett &amp; Belfort, P.C., a law firm based in Cambridge, Massachusetts. The following h\u2026 [+6666 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Loh",
+            "title": "Woman loses $823,000 injury claim due to Christmas-tree-throwing pic",
+            "description": "Kamila Grabska, 36, told doctors she suffered from constant back and neck pains due to a car accident but won a tree-throwing contest days later.",
+            "url": "http://www.businessinsider.com/woman-loses-823000-injury-claim-christmas-tree-throwing-photo-2024-2",
+            "urlToImage": "https://i.insider.com/65dc07f96080194819fa083e?width=1200&format=jpeg",
+            "publishedAt": "2024-02-26T04:21:09Z",
+            "content": "A woman in Ireland who sued an insurance company for $823,000 had her injury claim tossed out after the court saw a photo of her taking part in a Christmas-tree-throwing competition.\r\nKamila Grabska,\u2026 [+1864 chars]"
+        }
+    ]
+}

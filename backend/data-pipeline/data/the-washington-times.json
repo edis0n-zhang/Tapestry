@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": null,
+            "title": "Missing binder at center of new claim that CIA drummed up spy operation on Trump&#x27;s 2016 campaign",
+            "description": null,
+            "url": "https://www.washingtontimes.com/news/2024/feb/14/missing-binder-at-center-of-new-claim-that-cia-dru/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-15T15:37:14.680345Z",
+            "content": null
+        }
+    ]
+}

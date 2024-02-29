@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Culture Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/culture/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:31.2068471Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Foreign Affairs Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/foreign-affairs/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:28.1816944Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        }
+    ]
+}

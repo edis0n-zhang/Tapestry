@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Crystal Ro",
+            "title": "30 Disturbing Scenes That Have No Right Being In A Kids' Movie",
+            "description": "\"He can't see without his glasses!!!\"",
+            "url": "https://www.buzzfeed.com/crystalro/disturbing-scenes-kids-movies?origin=spl",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-02/27/1/enhanced/20a92def80a6/original-2021-1708996255-2.jpg?crop=1246:652;1,81%26downsize=1250:*",
+            "publishedAt": "2024-02-27T21:07:15.6256338Z",
+            "content": null
+        }
+    ]
+}

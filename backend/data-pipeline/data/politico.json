@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Biden\u2019s economy keeps messing up Trump\u2019s message",
+            "description": "\u201cYou can\u2019t blame the president when policies go wrong, and then say he\u2019s not responsible if things are going right.\u201d",
+            "url": "https://www.politico.com/news/2024/02/02/trump-and-his-allies-adjust-their-messaging-on-the-economy-as-it-steadily-improves-00139447",
+            "urlToImage": null,
+            "publishedAt": "2024-02-03T00:24:41+00:00",
+            "content": "\u201cYou can\u2019t blame the president when policies go wrong, and then say he\u2019s not responsible if things are going right.\u201d"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "US employers added surprisingly robust 353,000 jobs in January in further sign of economic strength",
+            "description": "The unemployment rate stayed at 3.7%, just above a half-century low.",
+            "url": "https://www.politico.com/news/2024/02/02/employers-jobs-january-00139279",
+            "urlToImage": null,
+            "publishedAt": "2024-02-02T14:05:54+00:00",
+            "content": "The unemployment rate stayed at 3.7%, just above a half-century low."
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Biden\u2019s new economic messaging strategy: Attack Trump\u2019s tax legacy",
+            "description": "The strategy shift focuses on Trump\u2019s tax law and poses a simple question to voters: Whose side are you on?",
+            "url": "https://www.politico.com/news/2024/01/29/biden-trump-economics-taxes-00138229",
+            "urlToImage": null,
+            "publishedAt": "2024-01-29T15:00:00+00:00",
+            "content": "Description: Group Number: Group Name: Ip Address: Username: Computer Name:"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "White House seizes on positive economic message",
+            "description": null,
+            "url": "https://www.politico.com/video/2024/01/25/white-house-seizes-on-positive-economic-message-1197853",
+            "urlToImage": null,
+            "publishedAt": "2024-01-25T20:58:51+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Biden's manufacturing boom is underway. But the jobs haven't followed yet.",
+            "description": "The new manufacturing jobs tied to Biden\u2019s investment plans are coming \u2014 but maybe not until after the election.",
+            "url": "https://www.politico.com/news/2024/01/19/biden-manufacturing-factory-jobs-00136473",
+            "urlToImage": null,
+            "publishedAt": "2024-01-19T10:00:00+00:00",
+            "content": "The new manufacturing jobs tied to Biden\u2019s investment plans are coming \u2014 but maybe not until after the election."
+        }
+    ]
+}

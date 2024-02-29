@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Biden Needs to Do the Right Thing and Offer Amnesty to Longterm Undocumente",
+            "description": "By continuing to focus on border management alone, the president is leaving long-term U.S. residents in the cold.",
+            "url": "https://www.newsweek.com/bidens-border-blind-spot-opinion-1872943",
+            "urlToImage": "https://d.newsweek.com/en/full/2353201/president-joe-biden-speaks-governors.jpg",
+            "publishedAt": "2024-02-27T20:16:54Z",
+            "content": "President Joe Biden has a border blind spot, as his latest foray into immigration policy shows. Border management is important, yes, but it is not the only immigration issue of national importance. L\u2026 [+6129 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Paul du Quenoy",
+            "title": "Mass Amnesty for Illegal Migrants Would Be a Disaster",
+            "description": "Declaring amnesty would strongly signal that disobeying our country's laws is not only acceptable but rewarded if sufficient numbers of people violate them.",
+            "url": "https://www.newsweek.com/mass-amnesty-illegal-migrants-would-disaster-opinion-1873571",
+            "urlToImage": "https://d.newsweek.com/en/full/2354704/us-mexico-border.jpg",
+            "publishedAt": "2024-02-27T19:12:21Z",
+            "content": "Last week, U.S. Customs and Border Protection revealed that nearly 7.3 million individuals have entered the United States illegally since Joe Biden became president in January 2021. That figure excee\u2026 [+7038 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Alice Gibbs",
+            "title": "Ukraine Special Forces Forced to Obscure Face of 'Extremely Classified' Cat",
+            "description": "\"The cat is extremely classified,\" the Ministry of Defense of Ukraine said of the feline in the photo.",
+            "url": "https://www.newsweek.com/ukraine-special-forces-forced-obscure-face-extremely-classified-cat-1873711",
+            "urlToImage": "https://d.newsweek.com/en/full/2354297/ukraine-soldier-cat.png",
+            "publishedAt": "2024-02-27T11:50:02Z",
+            "content": "Just days after the second anniversary of the beginning of war in Ukraine, the Ministry of Defense of Ukraine offered a glimpse of levity with a picture of a feline affectionately dubbed a \"Special F\u2026 [+3022 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Brendan Cole",
+            "title": "Ukraine Maps Reveal Russian Advances Along Front Line",
+            "description": "Russian forces have made gains around Avdiivka, the Donetsk city from where Ukraine retreated earlier in February.",
+            "url": "https://www.newsweek.com/russia-ukraine-map-isw-front-line-advances-1873657",
+            "urlToImage": "https://d.newsweek.com/en/full/2354196/ukrainian-soldiers.jpg",
+            "publishedAt": "2024-02-27T11:26:11Z",
+            "content": "Russian forces have advanced in Ukraine's Donetsk oblast and continued engagements across the entire front line, according to the Institute for the Study of War (ISW).\r\nOne of the independent think t\u2026 [+3911 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Jack Royston",
+            "title": "Prince William Cancels Key Appearance for Personal Reason",
+            "description": "Prince William was due to give a reading at a memorial service for his godfather but pulled out at the last minute.",
+            "url": "https://www.newsweek.com/prince-william-cancels-key-appearance-personal-reason-1873694",
+            "urlToImage": "https://d.newsweek.com/en/full/2354309/prince-william-funeral.jpg",
+            "publishedAt": "2024-02-27T11:24:16Z",
+            "content": "Prince William has canceled an appearance in honor of his godfather, citing \"personal reasons.\"\r\nThe Prince of Wales was due to give a reading at a service of thanksgiving at Windsor Castle for King \u2026 [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Darrell Miklos",
+            "title": "I'm Hunting for Nazi U-Boats Loaded With Looted Treasure",
+            "description": "We found lots of amazing evidence along the way, some of it mind-blowing.",
+            "url": "https://www.newsweek.com/i-hunting-nazi-u-boats-looted-treasure-1872397",
+            "urlToImage": "https://d.newsweek.com/en/full/2352667/sunken-ship-hit-nazi-u-boat-wwii.jpg",
+            "publishedAt": "2024-02-27T09:30:01Z",
+            "content": "I'm a treasure hunter by trade. I normally hunt shipwrecks of the early colonial period.\r\nBack when I was 19, I was with my dad hunting shipwrecks in the Caribbean. As we ventured into international \u2026 [+9348 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Nancy Cooper",
+            "title": "What Is Fair Reporting? We Asked Our Readers to Tell Us",
+            "description": "Committed to restoring trust in the media, we launched a 'Fairness Meter' to enable Newsweek readers to hold us accountable.",
+            "url": "https://www.newsweek.com/what-fair-reporting-we-asked-our-readers-tell-us-1871712",
+            "urlToImage": "https://d.newsweek.com/en/full/2351590/nancy-cooper-newsweek-leadership.png",
+            "publishedAt": "2024-02-16T18:07:37Z",
+            "content": "February 16, 2024\r\nToday, news media faces a number of structural challenges: deepening polarization, diminishing trust and a stark decline in reader engagement.\r\nAt Newsweek, we've delved deeply int\u2026 [+6261 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Dev Pragad",
+            "title": "Celebrating Newsweek's Remarkable Year",
+            "description": "We marked our 90th anniversary this year by expanding our commitment to our mission: offering diverse views and voices in the search for common ground.",
+            "url": "https://www.newsweek.com/celebrating-newsweeks-remarkable-year-1856765",
+            "urlToImage": "https://d.newsweek.com/en/full/2351591/dev-pragad-newsweek-leadership.jpg",
+            "publishedAt": "2023-12-31T17:50:43Z",
+            "content": "As 2023 ends, I am proud to reflect on a\u202fremarkable\u202fyear for Newsweek\u2014culminating\u202fin the achievement of record\u202faudience, engagement,\u202fand digital advertising revenues\u202fin Q4.\u202fOur\u202fjourney, set against t\u2026 [+4595 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Nancy Cooper",
+            "title": "When fairness is no longer a doctrine, it must be a practice",
+            "description": "When fairness is no longer a doctrine, it must be a practice",
+            "url": "https://www.newsweek.com/when-fairness-no-longer-doctrine-it-must-practice-1866717",
+            "urlToImage": "https://d.newsweek.com/en/full/2227640/nancy-cooper.png",
+            "publishedAt": "2023-08-17T14:49:23Z",
+            "content": "In the annals of American broadcast journalism, the Fairness Doctrine stands as a testament to a time when balanced reporting was more than a noble pursuit; it was a mandated practice.\r\nThe policy, e\u2026 [+4343 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Kevin Gentzel",
+            "title": "Reinventing The Homepage: Unleashing Its Critical Role In The Future Of Publishing",
+            "description": "Reinventing The Homepage: Unleashing Its Critical Role In The Future Of Publishing",
+            "url": "https://www.newsweek.com/reinventing-homepage-unleashing-its-critical-role-future-publishing-1866721",
+            "urlToImage": "https://d.newsweek.com/en/full/2350980/kevin-gentzel.jpg",
+            "publishedAt": "2023-07-05T17:41:14Z",
+            "content": "The front page of a publication has always been the centerpiece of its relationship with the audience \u2013 the primary expression of the publication's identity and value.\r\nWhen the paper or magazine arr\u2026 [+4434 chars]"
+        }
+    ]
+}
