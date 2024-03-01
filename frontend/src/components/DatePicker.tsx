@@ -22,7 +22,7 @@ export function DatePicker() {
   return (
     <Popover>
       <div className="flex items-center">
-        <div className="ml-2 text-3xl font-bold">
+        <div className="text-3xl font-bold">
           {date ? format(date, "PPP") : <span>{formattedDate}</span>}
         </div>
         <PopoverTrigger asChild>
