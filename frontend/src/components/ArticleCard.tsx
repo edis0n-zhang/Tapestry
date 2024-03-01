@@ -14,33 +14,39 @@ interface ArticleProps {
   id: number;
   title: string;
   description: string;
+  image: string;
 }
 
-const ArticleCard: React.FC<ArticleProps> = ({ id, title, description }) => {
+const ArticleCard: React.FC<ArticleProps> = ({
+  id,
+  title,
+  description,
+  image,
+}) => {
   return (
-    <Card className="w-full max-w-full overflow-hidden rounded-lg border">
-      <div className="flex gap-0.5">
+    <Card className="group w-full max-w-full overflow-hidden rounded-lg border">
+      <Link className="flex gap-0.5" href="#">
         <div className="w-2/3">
-          <Link className="block transition-opacity hover:opacity-90" href="#">
-            <div className="p-4">
-              <h3 className="truncate text-lg font-semibold hover:text-blue-400 dark:hover:text-blue-600">
-                {id}. {title}
-              </h3>
-              <p className="mt-3 line-clamp-2 text-sm text-gray-500">
-                {description}
-              </p>
-            </div>
-          </Link>
+          {/* <Link className="block" href="#"> */}
+          <div className="p-4">
+            <h3 className="delay-50 truncate text-lg font-semibold transition duration-300 ease-in-out group-hover:text-blue-400 dark:group-hover:text-blue-600">
+              {id}. {title}
+            </h3>
+            <p className="mt-3 line-clamp-2 text-sm text-gray-500">
+              {description}
+            </p>
+          </div>
+          {/* </Link> */}
         </div>
-        <div className="w-1/3">
+        <div className="delay-50 relative w-1/3 grayscale transition duration-300 ease-in-out group-hover:grayscale-0">
           <Image
-            src="../public/next.svg"
-            alt="My SVG Image"
-            width={100}
-            height={100}
+            src={image}
+            alt={"${Article.title} Image"}
+            layout="fill"
+            objectFit="cover"
           />
         </div>
-      </div>
+      </Link>
     </Card>
   );
 };

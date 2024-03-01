@@ -4,6 +4,7 @@ interface Article {
   id: number;
   title: string;
   description: string;
+  image: string;
 }
 
 interface ArticleListingProps {
@@ -19,6 +20,7 @@ const ArticleListings: React.FC<ArticleListingProps> = ({ Articles }) => {
             id={Article.id}
             title={Article.title}
             description={Article.description}
+            image={Article.image}
           />
         </div>
       ))}
