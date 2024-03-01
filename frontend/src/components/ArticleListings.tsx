@@ -12,9 +12,9 @@ interface ArticleListingProps {
 
 const ArticleListings: React.FC<ArticleListingProps> = ({ Articles }) => {
   return (
-    <div className="flex-col">
+    <div>
       {Articles.map((Article) => (
-        <div key={Article.id} className="mb-10">
+        <div key={Article.id} className="mb-5">
           <ArticleCard
             id={Article.id}
             title={Article.title}
