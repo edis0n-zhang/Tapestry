@@ -2,7 +2,7 @@ import newspaper
 import json
 
 class ScrapedArticle:
-    def __init__(self, url):
+    def __init__(self, url, source):
         article = newspaper.Article(url=url, language='en')
         article.download()
         article.parse()
@@ -15,6 +15,7 @@ class ScrapedArticle:
         self.videos = str(article.movies)
         self.keywords = str(article.keywords)
         self.summary = str(article.summary)
+        self.source = source
 
     def to_dict(self):
         return {
@@ -25,15 +26,13 @@ class ScrapedArticle:
             "top_image": self.top_image,
             "videos": self.videos,
             "keywords": self.keywords,
-            "summary": self.summary
+            "summary": self.summary,
+            "source": self.source
         }
 
     def to_text(self):
-        return (self.title \
-             + "\n\t\t" + self.published_date \
-             + "\n\n"\
-             + "\n" + self.text\
-             + "\n\n")
+        return f"""TITLE: {self.title} \n\nSOURCE: {self.source} \n\n{self.text}
+        """
 
     def to_json(self):
         return json.dumps(self.to_dict(), indent=4)
@@ -63,4 +62,4 @@ class ScrapedArticle:
 # HuffPost
 
 # url = "https://www.washingtontimes.com/news/2024/feb/14/missing-binder-at-center-of-new-claim-that-cia-dru/"
-# print(ScrapedArticle(url).to_text())
+# print(ScrapedArticle(url, "Washington Times").to_text())
