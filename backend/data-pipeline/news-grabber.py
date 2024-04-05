@@ -11,7 +11,21 @@ NEWS_API_KEY = os.getenv('NEWS_API_KEY')
 api = NewsApiClient(api_key=str(NEWS_API_KEY))
 
 json_objects = {}
-us_news_sources = ["abc-news", "associated-press", "axios", "bloomberg", "breitbart-news", "business-insider", "buzzfeed", "cbs-news", "cnn", "fortune", "fox-news", "msnbc", "nbc-news", "newsweek", "politico", "the-american-conservative", "the-hill", "the-huffington-post", "the-washington-times", "time", "usa-today", "vice-news"]
+us_news_sources = ["abc-news", "associated-press", "breitbart-news", "business-insider", "cbs-news", "cnn", "fortune", "fox-news", "msnbc", "nbc-news", "the-washington-times", "time", "usa-today", "vice-news"]
+# Working news sources:
+    # abc
+    # AP
+    # Breitbart
+    # Business Insider
+    # CBS News
+    # CNN
+    # Fortune
+    # Fox News
+    # MSNBC
+    # Washington Post
+    # Time
+    # USA Today
+    # Vice News
 
 # CODE TO GET SOURCES FOR TOP_HEADLINES
 # json_objects["sources"] = api.get_sources()
