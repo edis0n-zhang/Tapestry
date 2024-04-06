@@ -19,7 +19,7 @@ def organize_headlines(file_name):
         #Send query using given article_id
         query_response = getembeddings.index.query(
             id= article_id,
-            top_k=22,
+            top_k=14,
             include_values=False
         )
         similar_headlines = []

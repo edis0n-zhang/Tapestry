@@ -3,6 +3,7 @@ import getembeddings
 from articlescraper import ScrapedArticle
 with open("sorted_headlines.json", "r") as file:
     data = json.load(file)
+import time
 
 scraped_articles = {}
 i = 1
@@ -18,11 +19,14 @@ for key, items in data.items():
     for article in l1:
         url = fetch_response['vectors'][article]['metadata']['url']
         source = fetch_response['vectors'][article]['metadata']['source']
-        article = ScrapedArticle(url, source)
-        group.append(article.to_text())
+        article_text = ScrapedArticle(url, source)
+        time.sleep(0.1)
+        group.append(article_text.to_text())
 
     #We add entire group to our dict
     scraped_articles[i] = group
     i += 1
+    
 
+#print(scraped_articles[1])
 

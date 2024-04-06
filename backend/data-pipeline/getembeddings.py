@@ -1,10 +1,13 @@
 from openai import OpenAI
 import json
 from pinecone import Pinecone
+import datetime
 
 client = OpenAI()
-pc = Pinecone(api_key="PUT_KEY_HERE")
+pc = Pinecone(api_key="723377a7-7c41-497a-92ff-84dfcb422bca")
 index = pc.Index("headlines")
+current_time = datetime.datetime.now()
+date = "-" + str(current_time.year) + "-" + str(current_time.month) + "-" + str(current_time.day)
 
 
 def push_headlines_to_pinecone(file_name):
@@ -29,9 +32,13 @@ def push_headlines_to_pinecone(file_name):
         index.upsert(
             vectors=[
                 {
-                    "id" : data['articles'][i]['source']['name'] + str(i), 
+                    "id" : data['articles'][i]['source']['id'] + str(i) + date, 
                     "values" : response.data[0].embedding,
-                    "metadata": {"headline": new_headline, "url": data['articles'][i]['url']}
+                    "metadata": {
+                                    "headline": new_headline, 
+                                    "url": data['articles'][i]['url'], 
+                                    "source": data['articles'][i]['source']['name']
+                                }
                 }
             ]
         )
@@ -48,17 +55,16 @@ def get_embedding(text: list):
 
 
 headlines = []
-json_files = ['abc-news.json', 'associated-press.json', 'axios.json', 'bloomberg.json', 'breitbart-news.json', 
-              'business-insider.json', 'buzzfeed.json', 'cbs-news.json', 'cnn.json', 'fortune.json', 'fox-news.json',
-              'google-news.json', 'msnbc.json', 'nbc-news.json', 'newsweek.json', 'politico.json', 'the-american-conservative.json',
-              'the-hill.json', 'the-huffington-post.json', 'the-washington-times.json', 'time.json', 'usa-today.json', 'vice-news.json'
+json_files = ['abc-news.json', 'associated-press.json', 'breitbart-news.json', 'business-insider.json', 
+              'cbs-news.json', 'cnn.json', 'fortune.json', 'fox-news.json', 'msnbc.json', 'nbc-news.json', 
+              'the-washington-times.json', 'time.json', 'usa-today.json', 'vice-news.json'
               ]
 
-for file_name in json_files:
-    print('Current file:' + file_name)
-    push_headlines_to_pinecone('data/' + file_name)
-
-print(headlines[:5])
+if __name__ == '__main__':
+    for file_name in json_files:
+        print('Current file:' + file_name)
+        push_headlines_to_pinecone('data/' + file_name)
+    print(headlines[:5])
 
 
 
