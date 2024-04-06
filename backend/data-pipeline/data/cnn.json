@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clare Duffy",
+            "title": "Elon Musk\u2019s X is back to giving out free blue checks. It\u2019s no surprise they were a tough sell",
+            "description": "It appears that Elon Musk has finally (mostly) given up on trying to make paid blue checks on X a thing.",
+            "url": "https://www.cnn.com/2024/04/04/tech/elon-musk-x-blue-check-subscription-business/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1750514200.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T20:35:49Z",
+            "content": "It appears that Elon Musk has finally (mostly) given up on trying to make paid blue checks on X a thing.\r\nThis week, X users with large followings were surprised to see that their blue checks which t\u2026 [+4937 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Catherine E. Shoichet",
+            "title": "This American landmark is getting a $100 million makeover",
+            "description": "Ellis Island\u2019s museum is getting a 21st-century makeover, more than 100 years after millions of immigrants took their first steps in America there.",
+            "url": "https://www.cnn.com/2024/04/04/travel/ellis-island-museum-renovations-cec/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244456382.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T16:35:19Z",
+            "content": "Ellis Islands museum is getting a 21st-century makeover, more than 100 years after millions of immigrants took their first steps in America there.\r\nA new $100-million project aims to revitalize the 1\u2026 [+5741 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "\u2018It felt like I won gold\u2019: Man\u2019s subway sprint goes viral | CNN",
+            "description": "Two buddies take turns racing a NYC subway train. CNN\u2019s Jeanne Moos has the results.",
+            "url": "https://www.cnn.com/videos/entertainment/2024/04/04/outrun-the-subway-moos-cprog-orig-bdk.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240404101759-outrun-the-subway-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T16:14:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy",
+            "title": "US tourist on safari in Zambia killed by charging elephant",
+            "description": "An 80-year-old American woman was killed in Zambia after an elephant charged at a vehicle carrying tourists in Kafue National Park.",
+            "url": "https://www.cnn.com/2024/04/04/africa/zambia-elephant-tourist-death-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2wr9ffk-1.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T15:12:58Z",
+            "content": "An 80-year-old American woman was killed in Zambia after an elephant charged at a vehicle carrying tourists in Kafue National Park.\r\nAnother woman was injured and was taken to a medical facility in S\u2026 [+1658 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Opinion: The problem with Beyonc\u00e9\u2019s \u2018Jolene\u2019",
+            "description": "Whether or not Beyonc\u00e9\u2019s \u2018Jolene\u2019 has anything to do with real life (hers or anyone else\u2019s), it\u2019s a mistake to see it as a departure from Dolly Parton\u2019s version, writes Holly Thomas.",
+            "url": "https://www.cnn.com/2024/04/04/opinions/beyonce-cowboy-carter-jolene-dolly-parton-thomas/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240401092459-beyonce-cowboy-carter-country-album.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T14:35:50Z",
+            "content": "Editors Note: Holly Thomas is a writer and editor based in London. She is morning editor at Katie Couric Media. She tweets\u00a0@HolstaT. The opinions expressed in this commentary are solely those of the \u2026 [+5057 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "155-year-old chocolate company braces for dramatic rise in cocoa prices | CNN Business",
+            "description": "Guittard Chocolate Company CEO Gary Guittard explains why climate change and disease have made sourcing cocoa more challenging.",
+            "url": "https://www.cnn.com/videos/business/2024/04/04/chocolate-cocoa-prices-climate-cprog-gr-orig.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240404062649-chocolate-prices-01.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T11:55:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jacob Lev, George Ramsay",
+            "title": "Chaos ensues at puck drop between New York Rangers and New Jersey Devils as 10 players brawl",
+            "description": "A full five-on-five brawl erupted just two seconds after the opening puck drop between the New York Rangers and New Jersey Devils at Madison Square Garden on Wednesday.",
+            "url": "https://www.cnn.com/2024/04/04/sport/rangers-devils-nhl-brawl-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24094862527906.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T11:11:37Z",
+            "content": "A full five-on-five brawl erupted just two seconds after the opening puck drop between the New York Rangers and New Jersey Devils at Madison Square Garden on Wednesday.\r\nOnce the fights had broken up\u2026 [+2093 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dalia Faheid",
+            "title": "Powerball jackpot surges to an estimated $1.23 billion after no big winner Wednesday",
+            "description": "The Powerball jackpot has skyrocketed to an estimated $1.23 billion after yet another lottery drawing yielded no grand prize winner Wednesday night.",
+            "url": "https://www.cnn.com/2024/04/03/business/powerball-jackpot-surges-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003122446-powerball-lottery-tickets-2023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T05:05:06Z",
+            "content": "The Powerball jackpot has skyrocketed to an estimated $1.23 billion after yet another lottery drawing yielded no grand prize winner Wednesday night.\r\nWednesdays winning numbers were: 11, 62, 65, 38, \u2026 [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Reporter explains why many Americans suddenly stopped hanging out with friends | CNN",
+            "description": "CNN hosts Gayle King and Charles Barkley sit down with The Atlantic staff writer Derek Thompson and podcast host Van Lathan to discuss a study of how Americans spend their time and why there seems to be a decline in socializing.",
+            "url": "https://www.cnn.com/videos/us/2024/04/04/americans-friends-socializing-decline-study-kc-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220408163824-people-socializing-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-04T03:17:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan",
+            "title": "A billionaire helped bring \u20183-Body Problem\u2019 to Netflix. His business partner ensured he never lived to see its premiere",
+            "description": "Lin Qi, a billionaire fan of \u201cThe Three-Body Problem,\u201d had big plans to bring his favorite Chinese sci-fi novel to TV, cinema and video-game screens across the world.",
+            "url": "https://www.cnn.com/2024/04/03/china/billionaire-three-body-problem-netflix-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/201229134830-lin-qi-chairman-and-ceo-of-yoozoo-games-co.jpg?q=x_3,y_369,h_1531,w_2722,c_crop/w_800",
+            "publishedAt": "2024-04-03T20:00:26Z",
+            "content": "Editors Note: Sign up for\u00a0CNNs Meanwhile in China newsletter\u00a0which explores what you need to know about the countrys rise and how it impacts the world.\r\nLin Qi, a billionaire fan of The Three-Body Pr\u2026 [+6740 chars]"
+        }
+    ]
+}

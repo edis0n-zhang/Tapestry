@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Paul Blest",
+            "title": "A GOP Lawmaker Tested Positive for Coronavirus and Didn't Bother to Tell His Democratic Colleagues",
+            "description": "\"I never ever, ever knew that the Republican leadership of this state would put so many of us at risk for partisanship to cover up a lie,\" said one Pennsylvania state House member.",
+            "url": "https://www.vice.com/en_us/article/wxq549/a-gop-lawmaker-tested-positive-for-coronavirus-and-didnt-bother-to-tell-his-democratic-colleagues",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfceb8212b2b00955fc2f6/lede/1590678499949-AP_20084652838863.jpeg?crop=1xw:0.8436407766990291xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-28T15:13:21Z",
+            "content": "Pennsylvania Democrats are furious after a Republican House lawmaker announced hed tested positive for coronavirus over a week ago but didnt tell them.\r\n State representative Andrew Lewis, a 33-year-\u2026 [+2944 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Cameron Joseph",
+            "title": "This GOP Congressman Officiated a Gay Wedding, and It Could Cost Him an Election",
+            "description": "GOP activists in the rural Virginia district are furious that Rep. Denver Riggleman would marry two men. Now they want to take him out.",
+            "url": "https://www.vice.com/en_us/article/qj48e5/this-gop-congressman-officiated-a-gay-wedding-and-it-could-cost-him-an-election",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfce70c5e37600996cccc2/lede/1590677127974-6Y1A6997.jpeg?crop=1xw:0.8462xh;0xw,0.0769xh&resize=1200:*",
+            "publishedAt": "2020-05-28T15:12:03Z",
+            "content": "When Anthony Rek LeCounte and Alex Siciliano tied the knot last summer, they didnt expect their wedding to become a flashpoint in a congressional campaign.\r\n Shortly after moving down to Charlottesvi\u2026 [+7013 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Tim Hume",
+            "title": "\u2018It's The End of Hong Kong\u2019: The National Security Law China Just Approved Is The Protest Movement's Worst Nightmare",
+            "description": "The vote, while expected, sparked anger and despair in Hong Kong, where many fear it marks an end to the city\u2019s freedoms.",
+            "url": "https://www.vice.com/en_us/article/v7gepy/its-the-end-of-hong-kong-the-national-security-law-china-just-approved-is-the-protest-movements-worst-nightmare",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfc0c4cb72ab00943c6d12/lede/1590673620027-AP_20149302208988.jpeg?crop=1xw:0.8431xh;0xw,0.0982xh&resize=1200:*",
+            "publishedAt": "2020-05-28T14:19:42Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Chinas parliament approved a controversial new national security law for Hong Kong Thursday, sparking outrage in the city, where opp\u2026 [+5246 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Far-Right Social Network Gab Has a Verified Account Waiting For Trump With 27,000 Followers",
+            "description": "Gab users have been instructed to tweet at and write to the president urging him to join the network, which is filled with conspiracy theories, racism, and antisemitism.",
+            "url": "https://www.vice.com/en_us/article/z3exw4/far-right-social-network-gab-has-a-verified-account-waiting-for-trump-with-27000-followers",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecfac1d185c22009661743b/lede/1590670574578-AP_20143569698255.jpeg?crop=1xw:0.8427xh;0xw,0.1573xh&resize=1200:*",
+            "publishedAt": "2020-05-28T13:56:57Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n As President Donald Trump fumes at Twitters decision to fact-check two of his tweets this week, a ready-made replacement social netw\u2026 [+3512 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "David Gilbert",
+            "title": "Minneapolis is Burning: Protesters Loot and Set Buildings On Fire to Protest Police Killing of George Floyd",
+            "description": "Police used tear gas and rubber bullets on protesters who gathered outside the precinct where Derek Chauvin, the officer who kneeled on Floyd's neck until he was unresponsive, worked until this week.",
+            "url": "https://www.vice.com/en_us/article/y3zd5x/minneapolis-is-burning-protesters-loot-and-set-buildings-on-fire-to-protest-police-killing-of-george-floyd",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ecf88fdcb0f08009c8e79f7/lede/1590662200111-AP_20149167679642.jpeg?crop=1xw:0.8387xh;0xw,0.0189xh&resize=1200:*",
+            "publishedAt": "2020-05-28T11:20:17Z",
+            "content": "Want the best of VICE News straight to your inbox? Sign up here.\r\n Minneapolis burned on Wednesday night as protesters clashed with police for a second night following the death of George Floyd after\u2026 [+4576 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Tess Owen",
+            "title": "New Videos Appear to Undermine Police Account That George Floyd 'Resisted' Officers",
+            "description": "The videos show Floyd appearing to surrender before dying after his face was pressed into the street with an officer's knee on his neck.",
+            "url": "https://www.vice.com/en_us/article/4ayv4p/new-videos-appear-to-undermine-police-account-that-george-floyd-resisted-officers",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceeffa501a5500975ebe7d/lede/1590620461411-Screen-Shot-2020-05-27-at-65737-PM.png?crop=1xw:0.8903601694915254xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T23:11:02Z",
+            "content": "Videos taken by bystanders show the moments leading up to the deadly arrest of George Floyd and appear to undermine Minneapolis polices account that he was uncooperative. \r\n Minneapolis cops said tha\u2026 [+2179 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Roberto Ferdman",
+            "title": "Coronavirus Took Away a Huge Milestone for First-Generation Graduates: 'I Can't Stop Crying'",
+            "description": "For them, graduation doesn't just commemorate a personal achievement; it's a collective milestone for the entire family, which they were supposed to celebrate together.",
+            "url": "https://www.vice.com/en_us/article/akzg7j/coronavirus-took-away-a-huge-milestone-for-first-generation-graduates-i-cant-stop-crying",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece997804ee25009b1333e2/lede/1590598192419-1stgencollegeclean.jpeg?crop=1xw:1xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T19:22:23Z",
+            "content": "The class of 2020 isnt exactly going out with a bang, which is a bummer for the millions of 2020 graduates. But for first-generation graduates, the cosmic injustice is even harder to swallow. For the\u2026 [+1318 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Carter Sherman",
+            "title": "Trump's FDA Won't Let Women Get Abortion Pills Remotely In a Pandemic. So The ACLU Is Suing.",
+            "description": "Pregnant people have make an in-person visit to pick up the pill \u2014 even if they've already seen a provider about getting an abortion.",
+            "url": "https://www.vice.com/en_us/article/935yq7/trumps-fda-wont-let-women-get-abortion-pills-remotely-in-a-pandemic-so-the-aclu-is-suing",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5eceae1504ee25009b133490/lede/1590603286527-AbortionPills.jpeg?crop=1xw:0.8425xh;0xw,0.1425xh&resize=1200:*",
+            "publishedAt": "2020-05-27T18:43:49Z",
+            "content": "As the coronavirus pandemic ground almost every U.S. industry to a standstill, the Trump administration urged healthcare professionals to use telemedicine to see patients remotely and stem the spread\u2026 [+4029 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Cameron Joseph",
+            "title": "Tara Reade Is Now Being Investigated For Allegedly Lying on the Witness Stand",
+            "description": "Reade has accused Biden of sexually assaulting her when she was an employee of his Senate office in 1993.",
+            "url": "https://www.vice.com/en_us/article/m7je3b/tara-reade-is-now-being-investigated-for-allegedly-lying-on-the-witness-stand",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece95b99054e1009b3e58f4/lede/1590597812648-Tara-Reade.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T16:45:33Z",
+            "content": "The Monterey County, California District Attorneys office has begun investigating whether Tara Reade lied under oath, an official told Politico.\r\n Reade, who at the time went by Alexandra McCabe, spe\u2026 [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": "vice-news",
+                "name": "Vice News"
+            },
+            "author": "Emma Ockerman",
+            "title": "The Cops Involved in George Floyd's Fatal Arrest Had Previous Violent Incidents on the Force",
+            "description": "Derek Chauvin, who kneeled on Floyd's neck for minutes, had been involved in at least two police shootings during his tenure.",
+            "url": "https://www.vice.com/en_us/article/wxq5gn/the-cops-involved-in-george-floyds-fatal-arrest-had-previous-violent-incidents-on-the-force",
+            "urlToImage": "https://video-images.vice.com/test-uploads/articles/5ece94a6c19e170098c78783/lede/1590597223699-AP_20148017868432.jpeg?crop=1xw:0.8416666666666667xh;center,center&resize=1200:*",
+            "publishedAt": "2020-05-27T16:36:09Z",
+            "content": "Two of the four Minneapolis cops involved in George Floyds fatal arrest Monday including the one seen in a viral video kneeling on the black mans neck for several minutes as he repeatedly cried out t\u2026 [+4196 chars]"
+        }
+    ]
+}

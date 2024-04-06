@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": null,
+            "title": "I&#x27;m a high-school junior. The teacher shortage is wrecking my generation&#x27;s future.",
+            "description": null,
+            "url": "http://www.businessinsider.com/teacher-shortages-america-hurting-students-high-school-tiktok-gen-z-2024-3",
+            "urlToImage": null,
+            "publishedAt": "2024-03-17T14:07:05.054136Z",
+            "content": "{\"en\":{\"access_disabled\":\"Internet Access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is \u2026 [+3945 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alyshia Hull",
+            "title": "Ex-Google recruiter shares lessons from career pivot post-layoffs",
+            "description": "An ex-Google recruiter got into real estate after he was laid off. His career pivot taught him to trust himself and not be afraid of making mistakes.",
+            "url": "http://www.businessinsider.com/google-layoff-career-pivot-lessons-2024-3",
+            "urlToImage": "https://i.insider.com/65f4809c3037f8e81750d5e4?width=1200&format=jpeg",
+            "publishedAt": "2024-03-17T11:30:01Z",
+            "content": "This as-told-to essay is based on a conversation with Adam Hunt, a 32-year-old CEO, real-estate agent, and investor at VSM Real Estate, in Minneapolis. It has been edited for length and clarity.\r\nIn \u2026 [+5151 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hasan Chowdhury",
+            "title": "Nvidia's Jensen Huang is about to give believers a look at AI's future",
+            "description": "The Nvidia CEO is set to host a huge event, dubbed the \"Woodstock of AI,\" which will host a who's who of the sector.",
+            "url": "http://www.businessinsider.com/nvidia-jensen-huang-to-give-look-ai-future-2024-3",
+            "urlToImage": "https://i.insider.com/65f46c761851e792f0f0105e?width=1200&format=jpeg",
+            "publishedAt": "2024-03-17T11:04:01Z",
+            "content": "There's a running gag that Jensen Huang is to AI fanboys what Taylor Swift is to Swifties. Next week could prove it right.\r\nThe Nvidia CEO is set to host the latest installment of his GPU Technology \u2026 [+3210 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "James Rodriguez",
+            "title": "Realtor lawsuit settlement will change the housing market forever",
+            "description": "New rules as part of a $418 million settlement could push down the commissions buyers and sellers pay their agents \u2014 but that's just the beginning.",
+            "url": "http://www.businessinsider.com/national-association-realtors-lawsuit-settlement-housing-market-homebuying-agents-commissions-2024-3",
+            "urlToImage": "https://i.insider.com/65f46fb91851e792f0f01298?width=1200&format=jpeg",
+            "publishedAt": "2024-03-17T09:57:02Z",
+            "content": "Things are about to get weird for homebuyers and sellers.\r\nI wrote late last year that 2024 would mark the beginning of a great experiment in real estate that would upend the way homebuyers and selle\u2026 [+6847 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Hannah Getahun",
+            "title": "Chinese youth are job hunting on Tinder",
+            "description": "Amid sky-high unemployment, Chinese youth are using Tinder to find jobs, NBC News reported.",
+            "url": "http://www.businessinsider.com/china-youth-high-unemployment-job-hunting-dating-apps-tinder-2024-3",
+            "urlToImage": "https://i.insider.com/65f62a761851e792f0f05761?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T23:33:11Z",
+            "content": "People are now going to networking apps to date and dating apps to network and in China, young job hunters have been using the US app Tinder to advance their careers.\r\nChina's youth are struggling wi\u2026 [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erin Snodgrass",
+            "title": "We moved from California to Iowa to retire but only stayed 20 months",
+            "description": "Wendy and Kurt Meyer moved from California to Iowa to be closer to family in retirement. But they quickly realized they didn't like Iowa or retirement.",
+            "url": "http://www.businessinsider.com/moved-from-california-iowa-retire-stayed-less-than-2-years-2024-3",
+            "urlToImage": "https://i.insider.com/65f4acf81851e792f0f042c6?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T12:11:01Z",
+            "content": "This as-told-to essay is based on a conversation with Wendy and Kurt Meyer, a 65-year-old manufacturing manager and 59-year-old toolmaker, who moved from Mission Viejo, California, to Washington, Iow\u2026 [+6030 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "George Glover",
+            "title": "Rethink aging to solve the looming retirement crisis, economist says",
+            "description": "Improved longevity means the world is facing a retirement crisis. Flexible work and a focus on sustainable health would help, says Andrew J. Scott.",
+            "url": "http://www.businessinsider.com/retirement-crisis-aging-longevity-evergreen-economy-2024-3",
+            "urlToImage": "https://i.insider.com/65f19f916080194819ff45c2?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T11:43:09Z",
+            "content": "Life expectancy soared in the first two decades of this century, World Health Organization data shows and that's posing challenges for some rich countries.\r\nPeople tend to underestimate their chances\u2026 [+5662 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Madison Hoff",
+            "title": "Side-hustle recommendations: Here are eight side gigs to try this year",
+            "description": "If you're thinking about pursuing a side hustle, look to things like surveys, dog walking, or holiday-related work.",
+            "url": "http://www.businessinsider.com/side-hustle-recommendations-jobs-to-try-this-year-concerts-surveys-2024-3",
+            "urlToImage": "https://i.insider.com/65f4438d857f90b71522da59?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T09:57:01Z",
+            "content": "Side hustles can include building a profitable business, spending a few minutes on an online gig like survey work, or working a job that falls outside your typical 9-to-5.\r\n\"For people who are lookin\u2026 [+7989 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nora Naughton",
+            "title": "The new car market is a little less brutal",
+            "description": "Falling prices and a return of discounts are making car shopping a lot less painful this year.",
+            "url": "http://www.businessinsider.com/the-new-car-market-is-a-little-less-brutal-2024-3",
+            "urlToImage": "https://i.insider.com/65f4a7dc857f90b715231ce8?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T09:12:01Z",
+            "content": "If you've been waiting to buy a new car until prices start to fall, your patience over the last few years might be paying off.\r\nAverage affordability for new cars is finally heading in the right dire\u2026 [+1650 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Maria Noyen",
+            "title": "Stephen Colbert bolsters rumor that Prince William is having an affair",
+            "description": "As speculation about Kate Middleton's public absence mounts, Stephen Colbert says \"internet sleuths\" claim an old affair rumor is to blame.",
+            "url": "http://www.businessinsider.com/prince-william-rose-hanbury-rumor-kate-middleton-explained-2024-3",
+            "urlToImage": "https://i.insider.com/65f4a4dc3037f8e81750f4ad?width=1200&format=jpeg",
+            "publishedAt": "2024-03-16T07:32:02Z",
+            "content": null
+        }
+    ]
+}

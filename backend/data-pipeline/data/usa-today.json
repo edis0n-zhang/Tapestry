@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Saman Shafiq",
+            "title": "$30 million stolen from secure facility in Los Angeles in one of the city's biggest heists",
+            "description": "Media reports suggested that the theft took place at a GardaWorld, a global cash management and security company, facility in Sylmar, Los Angeles.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/04/04/los-angeles-money-storage-facility-sylmar-30-million-hest/73202540007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73209072007-usatsi-17341763.jpg?crop=5567,3132,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T21:12:25+00:00",
+            "content": "As much as $30 million were stolen from a money storage facility in Los Angeles on Easter Sunday in one of the biggest cash heists in the city's history, the Los Angeles Times reported.\r\nL.A. Police \u2026 [+2438 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Bob Nightengale",
+            "title": "Yankees return home after scorching 6-1 start: 'We're dangerous'",
+            "description": "The Yankees, off to a 6-1 record and tying the second-best start in team history, are showing the baseball world that they are back.",
+            "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2024/04/04/yankees-great-start-2024-season-dangerous/73204192007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73206557007-usatsi-22912009.jpg?crop=4716,2653,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T18:38:28+00:00",
+            "content": "PHOENIX The New York Yankees bounced from Tampa to Jupiter to Fort Myers in Florida, stopped in Mexico City, ventured to Houston, spent 72 hours in Phoenix, and two months after lugging their suitcas\u2026 [+6664 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Brian Truitt",
+            "title": "'Monkey Man' review: Underestimate Dev Patel at your own peril after this action movie",
+            "description": "Dev Patel isn't your average Hollywood buttkicker or action-movie director. But he pulls off both with the gory yet thoughtful thriller \"Monkey Man.\"",
+            "url": "https://www.usatoday.com/story/entertainment/movies/2024/04/04/monkey-man-movie-review/73164801007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73200082007-2584-b-174-c-010-210210-f-0-x-9-mxf-0541961-copy.jpg?crop=2667,1499,x896,y0&width=2667&height=1499&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T17:45:14+00:00",
+            "content": "In his directorial debut Monkey Man, Dev Patel gifts action-movie fans with a multilayered, hyperviolent narrative. Sure, he pulls off a deep dive into Indian mythology, yet he's pretty darn good at \u2026 [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Erin Mansfield",
+            "title": "Georgia bill could 'inject chaos' into swing state election, civil rights advocates fear",
+            "description": "Key provisions of the bill change how election officials decide whether to remove people from voter rolls.",
+            "url": "https://www.usatoday.com/story/news/politics/elections/2024/04/04/georgia-voter-challenge-republican-kemp/73196822007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/03/USAT/73196998007-20221108-t-022047-z-981766979-rc-2-bhx-9-algdu-rtrmadp-3-usaelectiongeorgia.JPG?crop=3999,2251,x0,y208&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T16:19:05+00:00",
+            "content": "A just-passed bill that would change Georgia election law in this year's presidential election awaits approval or rejection from Republican Gov. Brian Kemp but civil rights groups are expected to sue\u2026 [+7844 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Julia Gomez",
+            "title": "2 injured on Southwest flight after turbulence forces emergency landing in Tampa",
+            "description": "A flight attendant and another person on board a Southwest flight from New Orleans to Tampa were injured after the flight encountered turbulence.",
+            "url": "https://www.usatoday.com/story/travel/news/2024/04/04/southwest-flight-attendant-injured-turbulence-tampa/73201233007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/26/USAT/71330028007-ap-23220538763355.jpg?crop=3837,2160,x0,y195&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T15:29:30+00:00",
+            "content": "A Southwest Airlines flight headed to Orlando from New Orleans made an emergency landing in Tampa Wednesday after it encountered turbulence, and two people, including a flight attendant, were injured\u2026 [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Ken Alltucker",
+            "title": "Biden reverses a Trump-era policy on cheap but limited short-term health insurance",
+            "description": "The Biden administration plans to roll back a cornerstone of former President Donald Trump's health policy agenda \u2212 short-term health insurance.",
+            "url": "https://www.usatoday.com/story/news/health/2024/04/04/biden-reverses-trump-health-insurance-policy/73186142007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/12/14/USAT/71925427007-afp-1848356031.jpg?crop=6399,3601,x0,y335&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T14:39:51+00:00",
+            "content": "The Biden administration plans to roll back a cornerstone of former President Donald Trump's health policy agenda short-term health insurance.\r\nShort-term health insurance plans offer limited\u00a0benefit\u2026 [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "John Bacon, Jorge L. Ortiz",
+            "title": "Probe of attack on WCK aid convoy is finished, will be released soon, Israel says",
+            "description": "Seven aid workers, volunteers for celebrity chef Jose\u0301 Andre\u0301s' World Central Kitchen, were killed when their vehicles were bombed Monday.",
+            "url": "https://www.usatoday.com/story/news/world/israel-hamas/2024/04/04/israel-war-news-updates-gaza/73200911007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73201895007-afp-2131308931.jpg?crop=8191,4609,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T13:53:29+00:00",
+            "content": "The Israeli militarys probe into its attack on an aid convoy in Gaza that killed seven international workers this week has been completed and the findings will be released to the public soon, spokesm\u2026 [+7862 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Emily DeLetter",
+            "title": "Elderly American tourist killed after elephant attacks vehicle in Zambia, reports say",
+            "description": "The 80-year-old American woman was injured when an \"aggressive\" bull elephant charged a tour vehicle at Kafue National Park in Zambia.",
+            "url": "https://www.usatoday.com/story/news/world/2024/04/04/woman-elephant-attack-zambia/73200596007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73201100007-b-12-bll-elephant-23.JPG?crop=4255,2395,x0,y218&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T12:58:29+00:00",
+            "content": "An American tourist was killed after an \"aggressive\" bull elephant attacked the vehicle on March 30 during a tour in Zambia, according to media reports.\r\nThe tourist, identified only as an 80-year-ol\u2026 [+1294 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "David Oliver",
+            "title": "These bisexual swingers shocked their Alabama town. Now they're on a mission to spread acceptance.",
+            "description": "Scott and April Shirley\nwant people to know it's possible to embrace who you are and lift up others \u2013 even if it means a mid-life change and judgment.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/04/04/bisexual-swingers-non-monogamy/73173721007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73199983007-image-0.jpeg?crop=493,277,x0,y32&width=493&height=277&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T12:57:06+00:00",
+            "content": "Scott and April Shirley were stuck in the wrong marriages. Marriages that felt constricting amid their burgeoning bisexuality and quest for sexual freedom.\r\nThe pair had been friends for years Scott,\u2026 [+5339 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Naledi Ushe",
+            "title": "Nick Cannon says he feels obligated to 'defend' Sean 'Diddy' Combs in resurfaced interview",
+            "description": "Nick Cannon resurfaced an interview from February in which he discussed feeling defensive over friend Sean \"Diddy\" Combs amid his legal trouble.",
+            "url": "https://www.usatoday.com/story/entertainment/celebrities/2024/04/04/nick-cannon-diddy-comments-resurface-cassie-lawsuit/73200748007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/04/USAT/73201967007-getty-images-107500623.jpg?crop=1579,888,x331,y223&width=1579&height=888&format=pjpg&auto=webp",
+            "publishedAt": "2024-04-04T12:50:32+00:00",
+            "content": "Nick Cannon\u00a0is opening up about his conflicting emotions when it comes to his friend Sean \"Diddy\" Combs' legal troubles.\r\nOn Monday, Cannon, 43, resurfaced a February episode of his \"Counsel Culture\"\u2026 [+4986 chars]"
+        }
+    ]
+}

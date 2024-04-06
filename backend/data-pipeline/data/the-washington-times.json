@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": null,
+            "title": "White House blasts new ban on flying BLM, gay pride flags at embassies",
+            "description": null,
+            "url": "https://www.washingtontimes.com/news/2024/mar/23/white-house-blasts-new-ban-flying-blm-gay-pride-fl/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-24T12:37:13.4836806Z",
+            "content": null
+        }
+    ]
+}

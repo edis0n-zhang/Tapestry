@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Norman Eisen",
+            "title": "Why Trump's legal tactics are getting more frantic and desperate",
+            "description": "Judge Juan Merchan parried Trump's latest effort to derail his Manhattan trial for interfering with the 2016 election via alleged cover-up of hush money payments.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trumps-legal-tactics-are-getting-frantic-desperate-rcna146228",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230404-NYC-Court-Donald-Trump-Indictment-sketch-judge-Merchan-ac-859p-601d51.jpg",
+            "publishedAt": "2024-04-04T23:15:17Z",
+            "content": "On Wednesday, Judge Juan Merchan parried the latest effort by Donald Trump one of at least eight to derail his rapidly approaching Manhattan trial for interfering with the 2016 election via\u00a0an allege\u2026 [+6907 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Susan Del Percio",
+            "title": "The fatal flaw that doomed No Labels' anti-Biden, anti-Trump push",
+            "description": "No Labels raised millions off polls showing Americans do not want to see a 2024 rematch between President Joe Biden and Donald Trump. Here's why it failed.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/no-labels-fail-third-party-2024-election-rcna146473",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230727-no-labels-se-247p-8482d2.jpg",
+            "publishedAt": "2024-04-04T23:01:23Z",
+            "content": "For the past few years, the group No Labels has been raising money off the idea that Americans do not want to see a rematch between President Joe Biden and former President Donald Trump. Its solution\u2026 [+4320 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Aileen Cannon denied Trump's dismissal motion, but danger lurks",
+            "description": "U.S. District Judge Aileen Cannon denied Donald Trump\u2019s motion to dismiss the classified documents case based on the Presidential Records Act.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-aileen-cannon-trump-classified-documents-rcna146459",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240322-aileen-cannon-al-0827-b067a6.jpg",
+            "publishedAt": "2024-04-04T21:21:59Z",
+            "content": "U.S. District Judge Aileen Cannon denied Donald Trumps motion to dismiss the classified documents case based on the Presidential Records Act. It was the only logical conclusion she could have reached\u2026 [+2123 chars]"
+        }
+    ]
+}

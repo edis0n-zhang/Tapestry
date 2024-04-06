@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Biden warns Netanyahu about civilian casualties following strike on WCK workers",
+            "description": "President Biden warned Israeli Prime Minister Benjamin Netanyahu his country must do more to prevent civilian casualties. Secretary of State Antony Blinken said if changes are not made, the U.S. would also make changes to its own policies regarding Israel. Na\u2026",
+            "url": "https://www.cbsnews.com/video/biden-warns-netanyahu-about-civilian-casualties-following-strike-on-wck-workers/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/3fbd76bd-b13e-4a49-83c0-ba50fbac11ad/thumbnail/1200x630/39119ab551c0430ca328faa2497c934e/0404-en-cordes-2812606-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:42:00+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "7-year-old leaps into action to help pregnant teacher who passed out",
+            "description": "Max Angel sprang into action and ran for the school nurse when Jessica Muolo, his pregnant teacher, suddenly passed out. Muolo and her baby are doing fine and Angel was given an award for his bravery.",
+            "url": "https://www.cbsnews.com/video/7-year-old-helps-teacher-in-medical-emergency/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/abb46c1f-121b-4eb6-91dc-7b42cfc0180e/thumbnail/1200x630/303d7b2122d1934f26e0cd225669e99d/0404-en-hoa-2812594-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:41:31+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "\"CBS Evening News\" headlines for Thursday, April 4, 2024",
+            "description": "Here's a look at the top stories making headlines on the \"CBS Evening News with Norah O'Donnell.\"",
+            "url": "https://www.cbsnews.com/video/cbs-evening-news-headlines-for-thursday-april-4-2024/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/d196abfc-223d-4b3b-bd4d-db78acc621a1/thumbnail/1200x630/aab2879dc6656b52df9b9b3be3444689/0404-en-headlines-2812586-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:40:58+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Small Illinois village preps for second total eclipse in 7 years",
+            "description": "The village of Makanda, Illinois, is home to roughly 600 people. But thousands are expected to come for Monday's total solar eclipse, with Makanda directly in the path of totality, just as it was back in 2017. Roxana Saberi has the story.",
+            "url": "https://www.cbsnews.com/video/illinois-village-preps-for-second-total-eclipse/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/3d090aa8-300e-402a-8d25-9be1521e7bd0/thumbnail/1200x630/8a3ecb8f3a610e9dbde376e56ea855f2/0404-en-saberi-2812588-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:40:42+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Jason R. Rich",
+            "title": "5 reasons to switch from an Android phone to an Apple iPhone",
+            "description": "Thinking of making a switch? We're making it easy to migrate from an Android smartphone to an Apple iPhone.",
+            "url": "https://www.cbsnews.com/essentials/switch-to-iphone/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/03/744541a2-3ecb-409e-815b-ff087087eb39/thumbnail/1200x630/a04d5dcea463bf5692569e9dc23cf663/2-split-holiday-gift-guide-2023-19-3.png?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:32:00+00:00",
+            "content": "Apple\r\nThese days, any smartphone -- whether it's an Apple iPhone or Android phone -- can handle the same everyday chores, like calls, texts, games, web surfing, email and more. But there are reasons\u2026 [+9130 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Roxana Saberi",
+            "title": "Small Illinois village preps for second total eclipse in 7 years",
+            "description": "In a cosmic coincidence, the small southern Illinois village of Makanda is preparing for yet another total solar eclipse, with thousands of visitors expected.",
+            "url": "https://www.cbsnews.com/news/makanda-illinois-eclipse-festival/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/98901759-37ed-4fd4-b04d-86afdc4d0e1b/thumbnail/1200x630/bf460c11b26cdaea96332654c3795141/1712271668894.png?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T23:07:47+00:00",
+            "content": "In a cosmic coincidence, the southern Illinois village of Makanda is preparing for yet another total solar eclipse. The town of rouhgly 600 people sits right at the intersection of where the path of \u2026 [+2227 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "EPA awards $20 billion to fund clean energy projects across U.S.",
+            "description": "The Environmental Protection Agency on Thursday awarded $20 billion in federal \"green bank\" grants for clean energy projects across the U.S. John Podesta, senior Biden adviser for international climate policy, joins \"America Decides\" to discuss the grants' po\u2026",
+            "url": "https://www.cbsnews.com/video/epa-awards-20-billion-fund-clean-energy-projects/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/4c5675f0-310c-4dc9-b529-b07214c9d447/thumbnail/1200x630/f29ee3fb297babaf320258c6f71dc356/cbsn-fusion-epa-awards-20-billion-fund-clean-energy-projects-thumbnail-2812433-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T22:59:54+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Sen. Chris Coons says he's open to conditions on Israel aid",
+            "description": "President Biden and Democrats are facing real political pressure on Israel's war with Hamas. Delaware Sen. Chris Coons, a close Biden ally, signaled Thursday he'd be open to placing conditions on aid to Israel. Margaret Talev, senior Axios contributor, and Mo\u2026",
+            "url": "https://www.cbsnews.com/video/chris-coons-says-open-to-conditions-israel-aid/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/e4aadb18-9c3e-4813-a8d7-5c4de04cbd6b/thumbnail/1200x630/54dc9a5c71269dd4c5287ab838d3eba9/cbsn-fusion-chris-coons-says-open-to-conditions-israel-aid-thumbnail-2812414-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T22:57:33+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Breaking down Biden-Netanyahu call on World Central Kitchen deaths",
+            "description": "President Biden and Israeli Prime Minister Benjamin Netanyahu spoke Thursday for the first time since an IDF strike killed seven World Central Kitchen workers in Gaza. CBS News' Olivia Gazis and Nancy Cordes have the details.",
+            "url": "https://www.cbsnews.com/video/breaking-down-biden-netanyahu-call-world-central-kitchen-deaths/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/35f9c755-83d2-487e-b18f-2b3aef0a1801/thumbnail/1200x630/58be15a9a15d4558d84e1ade5282b3aa/cbsn-fusion-breaking-down-biden-netanyahu-call-world-central-kitchen-deaths-thumbnail-2812217-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T22:26:02+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How fast will the solar eclipse go?",
+            "description": "Lana Zak breaks down the speed of the solar eclipse.",
+            "url": "https://www.cbsnews.com/video/how-fast-will-the-solar-eclipse-go/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/03da94c0-bbd7-4924-9a1e-07ff9b0d4723/thumbnail/1200x630/1a4e56a4061908b7eb01a2dec3fa91aa/cbsn-fusion-how-fast-will-the-solar-eclipse-go-thumbnail-2812191-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-04T22:11:02+00:00",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        }
+    ]
+}

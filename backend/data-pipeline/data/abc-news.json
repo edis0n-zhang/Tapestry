@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Will Steakin",
+            "title": "Gaetz's deposition in civil defamation case moved to June: Sources",
+            "description": "Gaetz is not a party to the suit, which was brought by a longtime friend.",
+            "url": "https://abcnews.go.com/US/gaetzs-deposition-civil-defamation-case-moved-june-sources/story?id=108853568",
+            "urlToImage": "https://i.abcnewsfe.com/a/150428e4-69a6-406a-a906-a3291765ccb9/Matt-Gaetz-gty-gmh-240404_1712244721359_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T18:48:40Z",
+            "content": "Rep. Matt Gaetz's deposition in a civil defamation case brought by a longtime friend has been moved to June after initially being set for April 5, multiple sources told ABC News.\r\nGaetz was subpoenae\u2026 [+769 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Dhanika Pineda",
+            "title": "King family visits Memphis on 56th anniversary of MLK Jr.'s assassination",
+            "description": "The visit is a reminder of Dr. King\u2019s fight for peace, justice and equity.",
+            "url": "https://abcnews.go.com/US/king-family-visits-memphis-56th-anniversary-mlk-jrs/story?id=108851473",
+            "urlToImage": "https://i.abcnewsfe.com/a/7e952622-f532-4a1d-afc9-5da3b373c0a4/MLKIII-file-gty-ml-240404_1712244152049_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T18:34:34Z",
+            "content": "Martin Luther King III, his wife Arndrea Waters King and their daughter, Yolanda Renee King, made a rare visit to Memphis, Tennessee, on Thursday to mark the 56th anniversary of Dr. Martin Luther Kin\u2026 [+2659 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Aaron Katersky",
+            "title": "Brooklyn prosecutors target 'pig butchering' crypto scam that cost victims millions",
+            "description": "It's a lucrative scam with victims in multiple states, authorities warn.",
+            "url": "https://abcnews.go.com/US/brooklyn-prosecutors-target-pig-butchering-crypto-scam-cost/story?id=108851385",
+            "urlToImage": "https://i.abcnewsfe.com/a/641b8523-bf65-4738-9329-9389a625ef65/Gonzalez-gty-er-240404_1712246863711_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T16:37:00Z",
+            "content": "Prosecutors in Brooklyn seized nearly two dozen web domains associated with a scheme known as \"pig butchering,\" in which scammers strike online conversations with unsuspecting victims, gain their tru\u2026 [+3654 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Joyce Huang, Karson Yiu, Kevin Shalvey",
+            "title": "Taiwan earthquake death toll climbs to 10, with hundreds still stranded",
+            "description": "More than 700 people are trapped, Taiwanese officials said.",
+            "url": "https://abcnews.go.com/International/taiwan-earthquake-death-toll-climbs-10-38-people/story?id=108836898",
+            "urlToImage": "https://i.abcnewsfe.com/a/a9267988-0a85-4d14-bd53-1d144892bd4b/taiwan-quake_1712222061716_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T15:03:00Z",
+            "content": "The death toll from Wednesday's powerful 7.4 magnitude earthquake in Taiwan climbed to 10 people on Thursday, with hundreds more stranded or trapped, Taiwanese officials said.\r\nAt least 11 people wer\u2026 [+1550 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "Why April's total solar eclipse will be a historic event in the US",
+            "description": "The next total solar eclipse in the contiguous U.S. won't be until August 2044.",
+            "url": "https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119",
+            "urlToImage": "https://i.abcnewsfe.com/a/5e72619b-c1b8-4ade-95b9-8680d152034d/annular-eclipse-1-gty-gmh-231002_1696279875713_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T14:23:00Z",
+            "content": "\"Eclipse Across America,\" will air live Monday, April 8, beginning at 2 p.m. ET on ABC, ABC News Live, National Geographic Channel, Nat Geo WILD, Disney+ and Hulu as well as network social media plat\u2026 [+4121 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Stretch of scenic California Highway 1 that collapsed is closed again amid storms",
+            "description": "As more storms approach California, officials have closed a scenic stretch of iconic Highway 1 where a giant section collapsed into the ocean",
+            "url": "https://abcnews.go.com/US/wireStory/storms-approach-california-stretch-scenic-highway-1-collapsed-108848246",
+            "urlToImage": "https://i.abcnewsfe.com/a/feae1156-15af-4f2f-a8fd-caa7d20bb0cf/wirestory_cb11966133915abb4774c83ba6ba0ea1_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T13:45:38Z",
+            "content": "BIG SUR, Calif. -- As more storms approach California, officials have closed a scenic stretch of iconic Highway 1 where a giant section collapsed into the ocean following heavy weekend rains.\r\nThe Mo\u2026 [+1176 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kevin Shalvey, Meredith Deliso",
+            "title": "'Foul play' suspected in case of missing moms in Oklahoma, police say",
+            "description": "\"They never made it to the pickup location,\" a law enforcement advisory said.",
+            "url": "https://abcnews.go.com/US/foul-play-suspected-case-missing-moms-oklahoma-police/story?id=108841558",
+            "urlToImage": "https://i.abcnewsfe.com/a/6e9b217e-78df-4b36-99f7-554e6929c57c/missing2-ht-ml-240401_1711972546708_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T13:03:00Z",
+            "content": "Two missing mothers in Oklahoma appear to be victims of \"foul play,\" according to authorities, who are investigating why the women never appeared to pick up children as planned.\r\nThe Oklahoma State B\u2026 [+1620 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Aaron Katersky, Josh Margolin, Hannah Prince, Mark Nichols, Jenny Wagnon Courts, Ivan Pereira, Samira Said",
+            "title": "Rise in mass transit crime has LA officials searching for solutions",
+            "description": "Crimes reported on LA's MTA properties increased by 65% since 2020, data shows.",
+            "url": "https://abcnews.go.com/US/rise-mass-transit-crime-la-officials-searching-solutions/story?id=108745419",
+            "urlToImage": "https://i.abcnewsfe.com/a/aa5de820-a8e7-4700-aeb4-21362e6da341/la-metro_1-gty-dp-230403_1712160226521_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T12:08:08Z",
+            "content": "Los Angeles, like other major cities, has seen a surge in crime committed on buses, trains and stations' transit hubs, according to statistics compiled by ABC News, and now transit officials are work\u2026 [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Leah Sarnoff",
+            "title": "Elderly American tourist killed in elephant attack while on safari in Zambia",
+            "description": "The tourist died after the attack at Kafue National Park.",
+            "url": "https://abcnews.go.com/US/elephant-attack-safari-kills-80-year-american-tourist/story?id=108800514",
+            "urlToImage": "https://i.abcnewsfe.com/a/99bd3231-f8a6-4df3-9701-beb3ab911590/Zambia-elephant-1-gty-jm-240403_1712159374784_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-04T01:47:00Z",
+            "content": "An elderly American tourist was killed after an \"aggressive\" bull elephant attacked a vehicle during a game drive in Zambia, the safari operator said.\r\nThe incident took place Saturday morning at Kaf\u2026 [+2405 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "Powerball jackpot climbs to $1.09 billion ahead of Wednesday night's drawing",
+            "description": "There have been 39 consecutive drawings without a jackpot winner.",
+            "url": "https://abcnews.go.com/US/powerball-jackpot-billion-dollar-drawing-wednesday/story?id=108803098",
+            "urlToImage": "https://i.abcnewsfe.com/a/5b6dd832-3b5b-4f23-8f96-1ffadb4e35c7/powerball-1-ap-er-240403_1712158759832_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-03T17:51:00Z",
+            "content": "The Powerball jackpot in Wednesday night's drawing is one of the largest in the game's history.\r\nThe jackpot is an estimated $1.09 billion -- which would make it the fourth-largest in Powerball histo\u2026 [+1086 chars]"
+        }
+    ]
+}

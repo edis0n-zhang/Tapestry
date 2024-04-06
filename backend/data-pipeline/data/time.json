@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "Why an Energy Company Is Building the World\u2019s Biggest Plane",
+            "description": "The plane will be the world\u2019s biggest, but the company building it insists that it\u2019s an energy company.",
+            "url": "http://time.com/6963597/why-an-energy-company-radia-is-building-the-worlds-biggest-plane-windrunner-mark-lundstrom/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/WindRunner-airplane.jpg?quality=85",
+            "publishedAt": "2024-04-04T20:50:44Z",
+            "content": "When it takes to the skies, the Radia WindRunner will be the worlds largest cargo plane. The entrepreneurs behind Radia created it for one reason: to facilitate the shipping of gigantic wind blades t\u2026 [+3162 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Will Henshall",
+            "title": "The Best Apps for the Solar Eclipse",
+            "description": "Here are the best apps for viewing and learning about the 2024 solar eclipse.",
+            "url": "http://time.com/6961535/solar-eclipse-apps-2024/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/EclipseApps.png",
+            "publishedAt": "2024-04-04T11:05:00Z",
+            "content": "People all over the world are preparing for the total solar eclipse set to pass across Mexico, the U.S., and Canada on April 8.\u00a0\r\nMany are set to travel to cities along the path of totality between T\u2026 [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Judy Berman",
+            "title": "A New Netflix Series Makes Andrew Scott the Definitive Tom Ripley",
+            "description": "Netflix's gorgeously realized 'The Talented Mr. Ripley' adaptation is torpid, and even a bit vapid, but Scott makes for a compellingly chameleonic Tom Ripley.",
+            "url": "http://time.com/6962630/ripley-review-netflix-andrew-scott/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/RIPLEY_PA_107_111221_01289_R.jpgRIPLEY_PA_107_111221_01289_R.jpg?quality=85",
+            "publishedAt": "2024-04-04T07:01:00Z",
+            "content": "A crucial scene in Ripley, the latest adaptation of Patricia Highsmiths classic thriller The Talented Mr. Ripley, places the eponymous grifter in Romes Galleria Borghese. As a tour guide lectures on \u2026 [+6641 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Yasmeen Serhan",
+            "title": "How Israel and Its Allies Lost Global Credibility",
+            "description": "Israel's conduct in Gaza, spearheaded by Prime Minister Benjamin Netanyahu, has resulted in untold damage to the country's reputation.",
+            "url": "http://time.com/6963032/israel-netanyahu-allies-global-standing/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1731162446.jpg?quality=85",
+            "publishedAt": "2024-04-03T18:09:05Z",
+            "content": "Israels war on Gaza, which soon enters its sixth month, has done untold damage to the enclave and its people, more than 32,000 of whom have been killed and millions of whom have been displaced. But t\u2026 [+9539 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jamie Ducharme",
+            "title": "Hormonal Birth Control Doesn\u2019t Deserve Its Bad Reputation",
+            "description": "Hormonal birth control methods, including the pill and IUDs, have a downside. But are the health risks meaningful?",
+            "url": "http://time.com/6962771/is-hormonal-birth-control-safe-health-risks/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/birth-control-pill.jpg?quality=85",
+            "publishedAt": "2024-04-03T17:44:39Z",
+            "content": "Almost two-thirds of U.S. women of reproductive age use some kind of contraception, according to the latest federal data. And millions of them use methods that contain hormones, including birth contr\u2026 [+6064 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Moises Mendez II",
+            "title": "A Comprehensive Guide to Beyonc\u00e9\u2019s Cowboy Carter",
+            "description": "Everything you need to know about Beyonc\u00e9's newest album, Cowboy Carter.",
+            "url": "http://time.com/6961993/beyonce-cowboy-carter-album-guide/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/beyonce-album-cowboy-carter-takeaways-2.jpg?quality=85",
+            "publishedAt": "2024-03-29T20:18:51Z",
+            "content": "Beyonc\u00e9 releasing a new album is an event. Not only because she is one of the biggest pop stars in the world, but also because her music begs to be dissected with a fine-tooth comb. We started seeing\u2026 [+10642 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Justin Worland",
+            "title": "The IRA\u2019s New Conventional Wisdom",
+            "description": "Even though the law passed Congress with no Republican votes, it would likely survive future GOP control of Washington.",
+            "url": "http://time.com/6961663/the-iras-new-conventional-wisdom/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/Janet-Yellen-solar-panel-Georgia.jpg?quality=85",
+            "publishedAt": "2024-03-28T19:06:21Z",
+            "content": "When the Inflation Reduction Act was first up for consideration in 2022, it received scant support from corporate America, including the oil-and-gas sector. So it may come as a surprise that it was a\u2026 [+3532 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Stephanie Zacharek",
+            "title": "Jane Fonda Champions Climate Action for Every Generation",
+            "description": "Along with\u00a0two Oscars, the actor and activist has five civil-disobedience arrests for climate protests at the U.S.\u00a0Capitol.",
+            "url": "http://time.com/6958813/earth-awards-2024-jane-fonda/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/earth-awards-2024-jane-fonda-crop.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-03-27T12:00:33Z",
+            "content": "Jane Fonda, at86, is small-boned and elegant, her eyes like soft blue-gray flannel. Yet its startling how much energy shoots through her via a simple handshake: if a woodland creature could shake you\u2026 [+10294 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Solcyr\u00e9 Burga",
+            "title": "How to Find Solar Eclipse Glasses\u2014and Spot Fake Ones",
+            "description": "Here\u2019s everything you need to know about solar eclipse glasses, from where to buy them to how to spot fake ones.",
+            "url": "http://time.com/6958764/solar-eclipse-glasses-free-buy-fakes/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/SolarEclipseGlasses.gif",
+            "publishedAt": "2024-03-20T15:38:18Z",
+            "content": "Jan Mars is so excited about the upcoming solar eclipse that she purchased 1,200 branded pairs of solar eclipse glasses for her clients and friends.\r\nMan, it was definitely one of those things you wi\u2026 [+6899 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Meg Zukin",
+            "title": "The Financial Influencers Women Actually Want to Listen To",
+            "description": "These women aim to help women achieve financial stability without infantilizing them.",
+            "url": "http://time.com/6958080/women-personal-finance-planning/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/240325WFINANCE_girlboss.jpg?quality=85",
+            "publishedAt": "2024-03-20T11:00:00Z",
+            "content": "If youve spent any time on TikTok in the last eight or so months, youve probably come across the concept of girl math. Essentially, its the idea that spending less money, or buying something on sale,\u2026 [+10253 chars]"
+        }
+    ]
+}
