@@ -11,18 +11,12 @@ import Link from "next/link";
 import Image from "next/image";
 
 interface ArticleProps {
-  id: number;
   title: string;
   description: string;
   image: string;
 }
 
-const ArticleCard: React.FC<ArticleProps> = ({
-  id,
-  title,
-  description,
-  image,
-}) => {
+const ArticleCard: React.FC<ArticleProps> = ({ title, description, image }) => {
   return (
     <Card className="group w-full max-w-full overflow-hidden rounded-lg border">
       <Link className="flex gap-0.5" href="#">
@@ -30,7 +24,7 @@ const ArticleCard: React.FC<ArticleProps> = ({
           {/* <Link className="block" href="#"> */}
           <div className="p-4">
             <h3 className="delay-50 truncate text-lg font-semibold transition duration-300 ease-in-out group-hover:text-blue-400 dark:group-hover:text-blue-600">
-              {id}. {title}
+              {title}
             </h3>
             <p className="mt-3 line-clamp-2 text-sm text-gray-500">
               {description}

@@ -54,7 +54,7 @@ export default function Home() {
   ];
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen dark:bg-black">
       <Header />
       <div className="mt-5 flex h-full flex-col px-10 md:px-48">
         <div className="mt-2">
