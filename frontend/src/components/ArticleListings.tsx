@@ -1,11 +1,5 @@
 import ArticleCard from "./ArticleCard";
-
-interface Article {
-  id: number;
-  title: string;
-  description: string;
-  image: string;
-}
+import { Article } from "../types/article";
 
 interface ArticleListingProps {
   Articles: Article[];
@@ -18,7 +12,11 @@ const ArticleListings: React.FC<ArticleListingProps> = ({ Articles }) => {
         <div key={Article.id} className="mb-5">
           <ArticleCard
             title={Article.title}
-            description={Article.description}
+            date={Article.date}
+            content={Article.content}
+            id={Article.id}
+            category={Article.category}
+            tags={Article.tags}
             image={Article.image}
           />
         </div>

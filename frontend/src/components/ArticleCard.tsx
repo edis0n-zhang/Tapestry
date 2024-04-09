@@ -1,4 +1,6 @@
 import { Button } from "@/components/ui/button";
+import { Article } from "../types/article";
+
 import {
   Card,
   CardContent,
@@ -10,13 +12,7 @@ import {
 import Link from "next/link";
 import Image from "next/image";
 
-interface ArticleProps {
-  title: string;
-  description: string;
-  image: string;
-}
-
-const ArticleCard: React.FC<ArticleProps> = ({ title, description, image }) => {
+const ArticleCard: React.FC<Article> = ({ title, content, image }) => {
   return (
     <Card className="group w-full max-w-full overflow-hidden rounded-lg border">
       <Link className="flex gap-0.5" href="#">
@@ -26,9 +22,7 @@ const ArticleCard: React.FC<ArticleProps> = ({ title, description, image }) => {
             <h3 className="delay-50 truncate text-lg font-semibold transition duration-300 ease-in-out group-hover:text-blue-400 dark:group-hover:text-blue-600">
               {title}
             </h3>
-            <p className="mt-3 line-clamp-2 text-sm text-gray-500">
-              {description}
-            </p>
+            <p className="mt-3 line-clamp-2 text-sm text-gray-500">{content}</p>
           </div>
           {/* </Link> */}
         </div>

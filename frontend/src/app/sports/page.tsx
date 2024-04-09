@@ -1,10 +1,10 @@
 import Header from "../../components/Header";
 
-export default function Home() {
+export default function Page() {
   return (
-    <div className="px-10 md:px-32">
+    <div className="min-h-screen dark:bg-black">
       <Header />
-      sports
+      TO BE COMPLETED
     </div>
   );
 }
