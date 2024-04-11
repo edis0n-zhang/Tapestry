@@ -12,27 +12,10 @@ api = NewsApiClient(api_key=str(NEWS_API_KEY))
 
 json_objects = {}
 us_news_sources = ["abc-news", "associated-press", "breitbart-news", "business-insider", "cbs-news", "cnn", "fortune", "fox-news", "msnbc", "nbc-news", "the-washington-times", "time", "usa-today", "vice-news"]
-# Working news sources:
-    # abc
-    # AP
-    # Breitbart
-    # Business Insider
-    # CBS News
-    # CNN
-    # Fortune
-    # Fox News
-    # MSNBC
-    # Washington Post
-    # Time
-    # USA Today
-    # Vice News
-
-# CODE TO GET SOURCES FOR TOP_HEADLINES
-# json_objects["sources"] = api.get_sources()
 
 for source in us_news_sources:
     print(source)
-    response_data = api.get_top_headlines(sources=source)
+    response_data = api.get_everything(sources = source, page_size = 50, sort_by = "publishedAt")
     json_objects[source] = response_data
 
 for name, data in json_objects.items():

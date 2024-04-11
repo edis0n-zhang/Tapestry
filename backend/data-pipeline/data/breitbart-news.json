@@ -1,136 +1,656 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 2266,
     "articles": [
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Kristina Wong",
-            "title": "Judge Aileen Cannon Rejects Trump Request to Dismiss Documents Case",
-            "description": "U.S. District Court Judge Aileen Cannon denied former President Donald Trump's request to dismiss the documents case in a ruling on Thursday.",
-            "url": "https://www.breitbart.com/politics/2024/04/04/judge-aileen-cannon-rejects-trump-request-dismiss-documents-case/",
-            "urlToImage": "https://media.breitbart.com/media/2023/06/Judge-Aileen-Cannon-060923-1024x573-1-640x335.jpg",
-            "publishedAt": "2024-04-04T20:26:48Z",
-            "content": "U.S. District Court Judge Aileen Cannon denied former President Donald Trump\u2019s request to dismiss the documents case in a ruling on Thursday.\r\nTrump\u2019s team had argued that the Presidential Records Ac\u2026 [+1375 chars]"
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Israel Sends Record Number of Aid Trucks into Gaza; White House: 'Not Good Enough'",
+            "description": "National Security Advisor Jake Sullivan said Tuesday that Israel's efforts to increase humanitarian aid to Gaza are \"not good enough,\" despite the fact that a record number of aid trucks are entering the territory daily since last week.\nThe post Israel Sends \u2026",
+            "url": "https://www.breitbart.com/middle-east/2024/04/09/israel-sends-record-number-of-aid-trucks-into-gaza-white-house-not-good-enough/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Jake-Sullivan-Getty-640x335.jpg",
+            "publishedAt": "2024-04-09T23:53:48Z",
+            "content": "National Security Advisor Jake Sullivan said Tuesday that Israel\u2019s efforts to increase humanitarian aid to Gaza are \u201cnot good enough,\u201d despite the fact that a record number of aid trucks are entering\u2026 [+2371 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Nick Gilbertson",
-            "title": "WSJ \u2014 No Labels No-Go: Moderate Group Pulls Plug on Third-Party Bid in 2024",
-            "description": "The No Labels group is reportedly ending its more than year-long efforts to cobble together a moderate presidential ticket.",
-            "url": "https://www.breitbart.com/2024-election/2024/04/04/wsj-no-labels-no-go-moderate-group-pulls-plug-on-third-party-bid-in-2024/",
-            "urlToImage": "https://media.breitbart.com/media/2024/03/wi/ap/election-2024-no-labels-people-no-labels-hold-signs-rally-capitol-hill-washington-july-13-640x335.jpg",
-            "publishedAt": "2024-04-04T19:35:49Z",
-            "content": "No Labels is reportedly ending its efforts to cobble together a presidential ticket after it aimed to provide a \u201claunching pad\u201d for a moderate candidate in 2024s presidential election, in the event v\u2026 [+2325 chars]"
+            "author": "Ian Hanchett, Ian Hanchett",
+            "title": "Kaine: Hamas May Be Keeping Hostages Because Israel's 'Overreacting' and They Want People to Turn Against Israel",
+            "description": "On Tuesday\u2019s broadcast of \u201cCNN This Morning,\u201d Sen. Tim Kaine (D-VA) stated that Hamas may be rejecting deals to release hostages because they don\u2019t want hostages to tell the world how Hamas brutalized them and possibly because \u201cas long as\nThe post Kaine: Hama\u2026",
+            "url": "https://www.breitbart.com/clips/2024/04/09/kaine-hamas-may-be-keeping-hostages-because-israels-overreacting-and-they-want-people-to-turn-against-israel/",
+            "urlToImage": "https://media.breitbart.com/media/2023/10/hostages-israel-640x480-1-640x335.jpg",
+            "publishedAt": "2024-04-09T23:24:37Z",
+            "content": "On Tuesday\u2019s broadcast of \u201cCNN This Morning,\u201d Sen. Tim Kaine (D-VA) stated that Hamas may be rejecting deals to release hostages because they don\u2019t want hostages to tell the world how Hamas brutalize\u2026 [+2233 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Pam Key",
-            "title": "Biden Co-Chair Coons: It's Now Time for U.S. to Put Conditions on Aid to Israel",
-            "description": "Biden 2024 campaign co-chairman Sen. Chris Coons (D-DE) said Thursday on CNN that he now wants the United States to put conditions on military aid to Israel. | Clips",
-            "url": "https://www.breitbart.com/clips/2024/04/04/biden-co-chair-coons-its-now-time-for-u-s-to-put-conditions-on-aid-to-israel/",
-            "urlToImage": "https://media.breitbart.com/media/2024/03/GettyImages-1731045856-640x335.jpg",
-            "publishedAt": "2024-04-04T18:51:52Z",
-            "content": "Biden 2024 campaign co-chairman Sen. Chris Coons (D-DE) said Thursday on CNN that he now wants the United States to put conditions on military aid to Israel.\r\nHost Sara Sidner said, \u201cYou\u2019ve had words\u2026 [+2286 chars]"
+            "author": "Kristina Wong, Kristina Wong",
+            "title": "NPR Editor: Hunter Biden Laptop Revealed 'Connection to the Corrupt World of Multimillion-Dollar Influence Peddling'",
+            "description": "Uri Berliner, a senior business editor at NPR, admitted in an stunning op-ed published Tuesday that his outlet ignored the bombshell Hunter Biden laptop story that came out just weeks from the 2020 presidential election.\nThe post NPR Editor: Hunter Biden Lapt\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/npr-editor-hunter-biden-laptop-revealed-connection-to-the-corrupt-world-of-multimillion-dollar-influence-peddling/",
+            "urlToImage": "https://media.breitbart.com/media/2021/11/Hunter_Biden-640x335.jpg",
+            "publishedAt": "2024-04-09T23:22:00Z",
+            "content": "Uri Berliner, a senior business editor at NPR, admitted in a stunning op-ed published Tuesday that despite his outlet turning a \u201cblind eye\u201d to the Hunter Biden laptop story, the laptop was indeed new\u2026 [+2313 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Joel B. Pollak",
-            "title": "Biden Demands 'Immediate Ceasefire' from Netanyahu in Phone Call",
-            "description": "Biden demanded an \"immediate ceasefire\" from Netanyahu in a phone call Thursday, threatening a loss of U.S. support if Israel does not comply.",
-            "url": "https://www.breitbart.com/middle-east/2024/04/04/biden-demands-immediate-ceasefire-from-netanyahu-in-phone-call/",
-            "urlToImage": "https://media.breitbart.com/media/2021/02/president-joe-biden-telephone-call-640x335.jpg",
-            "publishedAt": "2024-04-04T18:27:12Z",
-            "content": "President Joe Biden demanded an \u201cimmediate ceasefire\u201d from Israeli Prime Minister Benjamin Netanyahu in a phone call on Thursday between the two leaders, threatening a loss of U.S. support for the wa\u2026 [+3433 chars]"
+            "author": "Pam Key, Pam Key",
+            "title": "Axelrod: Arizona Abortion Ban Is an 'Earthquake' that Could 'Tip This Election'",
+            "description": "CNN contributor David Axelrod said Tuesday on \"The Situation Room\" that the\u00a0Arizona Supreme Court upholding a 123-year-old law that bans all abortions except to save the life of the mother was an \"earthquake\" that could \"tip this election.\"\nThe post Axelrod: \u2026",
+            "url": "https://www.breitbart.com/clips/2024/04/09/axelrod-arizona-abortion-ban-is-an-earthquake-that-could-tip-this-election/",
+            "urlToImage": "https://media.breitbart.com/media/2023/11/David-Axelrod-ap-640x335.jpg",
+            "publishedAt": "2024-04-09T23:19:32Z",
+            "content": "CNN contributor David Axelrod said Tuesday on \u201cThe Situation Room\u201d that the\u00a0Arizona Supreme Court upholding a 123-year-old law that bans all abortions except to save the life of the mother was an \u201cea\u2026 [+1210 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "John Nolte",
-            "title": "Nolte: Biden's High Gas Prices Force Him to Cancel Strategic Petroleum Reserve Refill",
-            "description": "The Biden White House looked at Biden\u2019s gas prices and canceled a scheduled refill of our Strategic Petroleum Reserve.",
-            "url": "https://www.breitbart.com/politics/2024/04/04/nolte-bidens-high-gas-prices-force-him-cancel-strategic-petroleum-reserve-refill/",
-            "urlToImage": "https://media.breitbart.com/media/2024/04/Joe-Biden-640x335.jpg",
-            "publishedAt": "2024-04-04T17:46:34Z",
-            "content": "The Biden White House looked at Biden\u2019s gas prices and the sticker shock caused the cancellation of a scheduled refill of our Strategic Petroleum Reserve (SPR).\r\nAlthough the SPR is supposed to be fo\u2026 [+3352 chars]"
+            "author": "Neil Munro, Neil Munro",
+            "title": "Donald Trump Says He Wants Migrants from 'Nice Countries'",
+            "description": "President Donald Trump wants immigrants from \"nice countries,\" but not from countries \"where they\u2019re blowing each other up all over the place,\u201d according to the New York Times.\nThe post Donald Trump Says He Wants Migrants from \u2018Nice Countries\u2019 appeared first \u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/donald-trump-says-wants-migrants-from-nice-countries/",
+            "urlToImage": "https://media.breitbart.com/media/2023/09/GettyImages-1489540185-640x335.jpg",
+            "publishedAt": "2024-04-09T22:26:33Z",
+            "content": "President Donald Trump wants immigrants from \u201cnice countries,\u201d but not from countries \u201cwhere theyre blowing each other up all over the place, according to the New York Times.\r\nTrump made the comments\u2026 [+7857 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Wendell Huseb\u00f8",
-            "title": "Top Democrats Brace for Donald Trump Victory: 'We All Are Prepared to Lose'",
-            "description": "Top Democrats acknowledged Donald Trump's strong chances of completing the greatest political comeback in American history.",
-            "url": "https://www.breitbart.com/2024-election/2024/04/04/top-democrats-brace-for-donald-trump-victory-we-all-are-prepared-to-lose/",
-            "urlToImage": "https://media.breitbart.com/media/2023/09/trump-1-640x335.jpeg",
-            "publishedAt": "2024-04-04T16:50:02Z",
-            "content": "Democrats with deep knowledge of the Biden campaign acknowledged former President Donald Trump\u2019s significant chances of completing the greatest political comeback in American history.\r\nDemocrats are \u2026 [+3729 chars]"
+            "author": "John Carney, John Carney",
+            "title": "Breitbart Business Digest: March Inflation Looms Over Wall Street",
+            "description": "There's a specter haunting Wall Street. The specter of resurgent inflation.\nThe post Breitbart Business Digest: March Inflation Looms Over Wall Street appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/economy/2024/04/09/breitbart-business-digest-march-inflation-looms-over-wall-street/",
+            "urlToImage": "https://media.breitbart.com/media/2022/10/wall-street-stock-market-traders-new-york-stock-exchange-nyse-3-9-20-getty-640x335.jpg",
+            "publishedAt": "2024-04-09T22:20:15Z",
+            "content": "Inflation Has Arisen from the Dead\r\nThere\u2019s a specter haunting Wall Street. The specter of resurgent inflation.\r\nThe major inflation indexes have been rising, giving rise to a debate about whether th\u2026 [+5181 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "John Nolte",
-            "title": "Nolte: Donald Trump Holds Eight-Point Lead over Joe Biden",
-            "description": "Nolte: Former President Donald Trump has an eight-point lead over His Fraudulency Joe Biden, per the latest poll from Rasmussen.",
-            "url": "https://www.breitbart.com/politics/2024/04/04/nolte-donald-trump-holds-eight-point-lead-joe-biden/",
-            "urlToImage": "https://media.breitbart.com/media/2024/01/Donald-Trump-4-640x335.jpg",
-            "publishedAt": "2024-04-04T16:27:16Z",
-            "content": "Former President Donald Trump now has an eight-point lead over His Fraudulency Joe Biden, per the latest poll from Rasmussen.\r\nCurrently, Trump sits at 49 percent, while Hunters Dad earns just 41 per\u2026 [+2583 chars]"
+            "author": "AWR Hawkins, AWR Hawkins",
+            "title": "Parents of Michigan School Shooter Sentenced to 10-15 Years for 'Lack of Acts' to Halt Shooting",
+            "description": "Jennifer\u00a0and\u00a0James Crumbley, parents of Michigan school shooter Ethan Crumbly, were convicted and sentenced to 10 to 15 years on Tuesday.\u00a0\nThe post Parents of Michigan School Shooter Sentenced to 10-15 Years for \u2018Lack of Acts\u2019 to Halt Shooting appeared first \u2026",
+            "url": "https://www.breitbart.com/crime/2024/04/09/parents-michigan-school-shooter-sentenced-10-15-years-after-lack-acts-halt-shooting/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/School-Shooters-parents-James-and-Jennifer-Crumbley-sentenced-640x335.jpg",
+            "publishedAt": "2024-04-09T22:18:48Z",
+            "content": "Jennifer\u00a0and\u00a0James Crumbley, parents of Michigan school shooter Ethan Crumbly, were sentenced to 10 to 15 years in prison on Tuesday.\r\nEthan shot and killed four people at Oxford High School on Novem\u2026 [+2416 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Nick Gilbertson",
-            "title": "Dramatic Nebraska Winner-Takes-All Vote Fails in GOP-Controlled Legislature",
-            "description": "An effort to change the electoral vote allocation system to a winner-takes-all system in Nebraska failed in the state\u2019s unicameral legislature.",
-            "url": "https://www.breitbart.com/2024-election/2024/04/04/dramatic-nebraska-winner-takes-all-vote-fails-gop-controlled-legislature/",
-            "urlToImage": "https://media.breitbart.com/media/2024/02/GettyImages-1058184620-640x335.jpg",
-            "publishedAt": "2024-04-04T15:43:29Z",
-            "content": "An effort to change the electoral vote allocation system to a winner-takes-all system in Nebraska failed in the states unicameral legislature on Wednesday night.\r\nThe\u00a0Lincoln Journal Stars Andrew Weg\u2026 [+3196 chars]"
+            "author": "Elizabeth Weibel, Elizabeth Weibel",
+            "title": "South Carolina Democrat Party Refusing to Allow Black Candidate for Sheriff to Appear on Ballot",
+            "description": "The South Carolina Democrat Party is refusing to allow a black candidate running for sheriff in Charleston County to appear on the ballot.\nThe post South Carolina Democrat Party Refusing to Allow Black Candidate for Sheriff to Appear on Ballot appeared first \u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/south-carolina-democrat-party-refusing-to-allow-black-candidate-for-sheriff-to-appear-on-ballot/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Alvin-Ali-for-Sheriff--640x335.jpg",
+            "publishedAt": "2024-04-09T22:15:07Z",
+            "content": "The South Carolina Democrat Party is refusing to allow a black candidate running for sheriff in Charleston County to appear on the ballot.\r\nSouth Carolina Democrat Party (SCDP) Chair Christale Spain \u2026 [+3050 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Oliver JJ Lane",
-            "title": "Ukraine Will Join NATO, Says Antony Blinken",
-            "description": "NATO leaders already said that while they want Ukraine to join, it doesn't meet eligibility -- including not being at at war and occupied.",
-            "url": "https://www.breitbart.com/europe/2024/04/04/ukraine-will-join-nato-says-antony-blinken/",
-            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-2131310523-e1712241976803-640x335.jpg",
-            "publishedAt": "2024-04-04T14:49:39Z",
-            "content": "NATO is going to \u201cbuild a bridge\u201d towards Ukraine becoming a member state of the defensive alliance, U.S. Secretary of State\u00a0Antony Blinken said on the organisation\u2019s 75th birthday.\r\nNorth Atlantic T\u2026 [+3724 chars]"
+            "author": "John Nolte, John Nolte",
+            "title": "Nolte: Salon Blames MAGA for Deep-Blue NYC Men Punching Women in Face",
+            "description": "In New York City, you can sucker punch women and then count on women-hating outlets such as Salon to Jussie Smollett the problem away.\nThe post Nolte: Salon Blames MAGA for Deep-Blue NYC Men Punching Women in Face appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/nolte-salon-blames-maga-deep-blue-nyc-men-punching-women-face/",
+            "urlToImage": "https://media.breitbart.com/media/2021/10/GettyImages-665882056-640x335.png",
+            "publishedAt": "2024-04-09T21:27:52Z",
+            "content": "In a city where Joe Biden won 76 percent of the vote, the far-left Salon is blaming Donald Trump supporters for a rash of assaults against unsuspecting women.\r\nAll across Democrat-run New York City, \u2026 [+4336 chars]"
         },
         {
             "source": {
                 "id": "breitbart-news",
                 "name": "Breitbart News"
             },
-            "author": "Wendell Huseb\u00f8",
-            "title": "Nationwide Gas Prices Top $3.50, Spiking\u00a0More than 45% Under Biden",
-            "description": "The nationwide average price for regular gas topped $3.54 a gallon, a spike of more than 45 percent under Joe Biden.",
-            "url": "https://www.breitbart.com/politics/2024/04/04/nationwide-gas-prices-top-3-50-spiking-more-than-45-under-joe-biden/",
-            "urlToImage": "https://media.breitbart.com/media/2022/06/joe-biden-gas-prices-gas-card-dollar-oil-getty-640x335.jpg",
-            "publishedAt": "2024-04-04T11:05:44Z",
-            "content": "The nationwide average price for regular gas topped $3.54 a gallon, a spike of more than 45 percent under President Joe Biden,\u00a0AAA reported Wednesday.\r\nIn the past month, gas prices rose 20 cents ($3\u2026 [+2185 chars]"
+            "author": "John Binder, John Binder",
+            "title": "Illegal Alien Accused of Abducting, Sexually Assaulting Migrant Girl Freed into U.S.",
+            "description": "An illegal alien has been sentenced to six months in prison in Bedford County, Virginia, for sex crimes with a 15-year-old girl who arrived in the United States as an Unaccompanied Alien Child (UAC).\u00a0\nThe post Illegal Alien Accused of Abducting, Sexually Assa\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/illegal-alien-accused-of-abducting-sexually-assaulting-migrant-girl-freed-into-u-s/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/BCSO-1-640x335.png",
+            "publishedAt": "2024-04-09T21:27:31Z",
+            "content": "An illegal alien has been sentenced to six months in prison in Bedford County, Virginia, for sex crimes with a 15-year-old girl who arrived in the United States as an Unaccompanied Alien Child (UAC).\u2026 [+2410 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Hannah Knudsen, Hannah Knudsen",
+            "title": "Democrat Rep. Sheila Jackson Lee: Sun Is 'Almost' Impossible to Go Near, Moon 'Made Up Mostly of Gases'",
+            "description": "Democrat Rep. Sheila Jackson Lee is under fire for her remarks about the moon and sun, concluding the former is \"made up mostly of gases.\"\nThe post Democrat Rep. Sheila Jackson Lee: Sun Is \u2018Almost\u2019 Impossible to Go Near, Moon \u2018Made Up Mostly of Gases\u2019 appeare\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/democrat-rep-sheila-jackson-lee-sun-is-almost-impossible-to-go-near-moon-made-up-mostly-of-gases/",
+            "urlToImage": "https://media.breitbart.com/media/2023/01/AP22195588431669-1-640x335.jpg",
+            "publishedAt": "2024-04-09T21:19:00Z",
+            "content": "Democrat Rep. Sheila Jackson Lee (D-TX) is under fire for remarks she made about the moon and sun on Monday, concluding that the former is \u201cmade up mostly of gases\u201d and asserting that it is \u201calmost\u201d \u2026 [+3699 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Alana Mastrangelo, Alana Mastrangelo",
+            "title": "Turning Point Action, Mark Levin to Public: Tell Nebraska Gov. Not to Give Electoral College Vote to Biden",
+            "description": "Charlie Kirk's Turning Point Action organization and Fox News host Mark Levin are calling on the public to contact\u00a0Nebraska Gov. Jim Pillen (R)'s office and urge him to call an emergency session of the legislature and make it so that the state refrains from g\u2026",
+            "url": "https://www.breitbart.com/the-media/2024/04/09/turning-point-action-mark-levin-public-tell-nebraska-gov-not-give-electoral-college-vote-biden/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/AP24002712905359-640x335.jpg",
+            "publishedAt": "2024-04-09T21:07:51Z",
+            "content": "Charlie Kirk\u2019s Turning Point Action organization and Fox News host Mark Levin are calling on the public to contact\u00a0Nebraska Gov. Jim Pillen (R)\u2019s office and urge him to call an emergency session of t\u2026 [+3702 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joshua Klein, Joshua Klein",
+            "title": "Amnesty International Eulogizes Palestinian Terrorist Who Died in Prison as \u2018Writer\u2019",
+            "description": "NGO Amnesty International is facing widespread mockery over a post eulogizing a deceased Palestinian terrorist as a mere \u201cwriter.\u201d\nThe post Amnesty International Eulogizes Palestinian Terrorist Who Died in Prison as \u2018Writer\u2019 appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/middle-east/2024/04/09/amnesty-international-eulogizes-palestinian-terrorist-who-died-prison-as-writer/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Walid-Daqqa-640x335.jpg",
+            "publishedAt": "2024-04-09T21:05:16Z",
+            "content": "International NGO Amnesty International is facing widespread mockery over a post eulogizing a deceased Palestinian terrorist as a mere writer, whose recent death in Israeli custody the group describe\u2026 [+10682 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel, Frances Martel",
+            "title": "Report: Saudi 'Mega-City' Neom Lowers Expectations for 106-Mile Desert Skyscraper",
+            "description": "Reports began surfacing suggesting that Saudi Arabia is recalibrating its ambitious goals for the under-construction \"megacity\" Neom.\nThe post Report: Saudi \u2018Mega-City\u2019 Neom Lowers Expectations for 106-Mile Desert Skyscraper appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/middle-east/2024/04/09/report-saudi-mega-city-neom-lowers-expectations-for-106-mile-desert-skyscraper/",
+            "urlToImage": "https://media.breitbart.com/media/2018/09/Crown-Prince-Mohammed-bin-Salman.png",
+            "publishedAt": "2024-04-09T20:49:10Z",
+            "content": "Reports began surfacing suggesting that Saudi Arabia is recalibrating its ambitious goals for the under-construction \u201cmegacity\u201d Neom, most prominently walking back its promise of housing 1.5 million \u2026 [+7330 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Pam Key, Pam Key",
+            "title": "Sen. Kelly: 'Disaster' Arizona Abortion Ban Because of Trump - He Could Go After Contraception Next",
+            "description": "Senator Mark Kelly (D-AZ) said Tuesday on CNN's \"The Lead \" that it is fomer President Donald Trump's fault the Arizona\u2019s Supreme Court upheld a 123-year-old penal code provision that bans nearly all abortions except to save the life of the mother.\nThe post S\u2026",
+            "url": "https://www.breitbart.com/clips/2024/04/09/sen-kelly-disaster-arizona-abortion-ban-because-of-trump-he-could-go-after-contraception-next/",
+            "urlToImage": "https://media.breitbart.com/media/2022/09/GettyImages-1242128895-1-640x335.jpg",
+            "publishedAt": "2024-04-09T20:41:54Z",
+            "content": "Senator Mark Kelly (D-AZ) said Tuesday on CNN\u2019s \u201cThe Lead \u201d that it is former President Donald Trump\u2019s fault the\u00a0Arizonas Supreme Court upheld a 123-year-old law that bans nearly all abortions except\u2026 [+1240 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Alana Mastrangelo, Alana Mastrangelo",
+            "title": "Two Republicans Help Democrats Block Protections for Girls' Sports in Nebraska",
+            "description": "Two Republicans joined Democrats in blocking legislation that would have stopped transgender athletes from competing in girls' sports in K-12 schools in Nebraska.\nThe post Two Republicans Help Democrats Block Protections for Girls\u2019 Sports in Nebraska appeared\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/two-republicans-help-democrats-block-protections-girls-sports-nebraska/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/AP24096775754979-640x335.jpg",
+            "publishedAt": "2024-04-09T20:38:22Z",
+            "content": "Two Republicans joined Democrats in blocking legislation that would have stopped transgender athletes from competing in girls\u2019 sports in K-12 schools in Nebraska.\r\nA bill that would stop student athl\u2026 [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Bradley Jaye, Bradley Jaye",
+            "title": "Exclusive: Rep. Troy Nehls Condemns Mexican President for 'Diplomatic Blackmail' to Crack Down on Illegal Immigration",
+            "description": "Rep. Troy Nehls (R-TX) filed a resolution Tuesday condemning Mexican President Andres Manuel Lopez Obrador\u2019s (AMLO) comments on 60 Minutes\u00a0on March 24, 2024 and calling on the Mexican government to limit illegal immigration, Breitbart News learned first.\nThe \u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/exclusive-rep-troy-nehls-condemns-mexican-president-for-diplomatic-blackmail-to-crack-down-on-ill/",
+            "urlToImage": "https://media.breitbart.com/media/2023/01/Mexican-President-Celebrates-Mexicans-in-US-640x480-1-640x335.png",
+            "publishedAt": "2024-04-09T20:37:25Z",
+            "content": "Rep. Troy Nehls (R-TX) filed a resolution Tuesday condemning Mexican President Andres Manuel Lopez Obradors (AMLO) comments on 60 Minutes\u00a0on March 24, 2024 and calling on the Mexican government to li\u2026 [+4070 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Katherine Hamilton, Katherine Hamilton",
+            "title": "Arizona Supreme Court Upholds 1864 Law Limiting Nearly All Abortions",
+            "description": "The court ruled that the state must abide by a 123-year-old law which bars all abortions except to save the life of the mother.\u00a0\nThe post Arizona Supreme Court Upholds 1864 Law Limiting Nearly All Abortions appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/arizona-supreme-court-upholds-1864-law-limiting-nearly-all-abortions/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Old-Engraved-Illustration-of-Pregnant-Woman-640x335.jpg",
+            "publishedAt": "2024-04-09T20:22:39Z",
+            "content": "The Arizona Supreme Court issued a historic decision on Tuesday, ruling that the state must abide by a 123-year-old law which bars all abortions except to save the life of the mother.\u00a0\r\nThe law, whic\u2026 [+3147 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Kristina Wong, Kristina Wong",
+            "title": "Senior NPR Editor Admits RussiaGate Was a 'Swing and a Miss', Expresses Regret over Hitching Wagon to Schiff",
+            "description": "Senior NPR business editor Uri Berliner admitted in an explosive op-ed published Tuesday that the public radio station's RussiaGate reporting was a bust, and that it did not fess up to that after no \"Russian collusion\" was found between the Trump campaign and\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/senior-npr-editor-admits-russiagate-swing-miss-expresses-regret-over-hitching-wagon-schiff/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-684189250-640x335.jpg",
+            "publishedAt": "2024-04-09T20:12:58Z",
+            "content": "Senior NPR business editor Uri Berliner admitted in an explosive op-ed published Tuesday that the public radio station\u2019s RussiaGate reporting was a bust, and that it did not fess up to that after no \u2026 [+4378 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Hannah Knudsen, Hannah Knudsen",
+            "title": "Donald Trump: 'The Democrats Are the Radicals on Abortion'",
+            "description": "Democrats are the \"radicals\" on abortion, former President Donald Trump said after revealing his official position on the issue.\nThe post Donald Trump: \u2018The Democrats Are the Radicals on Abortion\u2019 appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/donald-trump-democrats-are-radicals-abortion/",
+            "urlToImage": "https://media.breitbart.com/media/2020/07/trump-march-for-life-pro-life-abortion-getty-640x335.jpg",
+            "publishedAt": "2024-04-09T19:54:25Z",
+            "content": "Democrats are the \u201cradicals\u201d on abortion, former President Donald Trump said after revealing his official position on abortion: sending the decision back to the states.\r\nTrump shared a video of forme\u2026 [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Elizabeth Weibel, Elizabeth Weibel",
+            "title": "Anti-Israel Protesters Shut Down Senate Cafeteria",
+            "description": "A group of anti-Israel protesters calling for Congress to support a ceasefire and end military aid to Israel shut down the Senate cafeteria.\nThe post Anti-Israel Protesters Shut Down Senate Cafeteria appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/anti-israel-protesters-shut-down-senate-cafeteria/",
+            "urlToImage": "https://media.breitbart.com/media/2024/01/GettyImages-1743342020-640x335.jpg",
+            "publishedAt": "2024-04-09T19:49:14Z",
+            "content": "A group of anti-Israel protesters calling for Congress to support a ceasefire and end military aid to Israel shut down the Senate cafeteria.\r\nThe group of protesters, Christians for a Free Palestine,\u2026 [+3484 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Sean Moran, Sean Moran",
+            "title": "Intel Lawmakers Fight for 'Patriot Act 2.0' in Spy Powers Bill",
+            "description": "House Intelligence Committee Chairman Mike Turner (R-OH) and Ranking Member Jim Himes (D-CT) offered an amendment to a spy powers reform bill that effectively serves as a \"Patriot Act 2.0\" and greatly expands surveillance of Americans.\nThe post Intel Lawmaker\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/intel-lawmakers-fight-patriot-act-spy-powers-bill/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Jim-Himes-Turner-640x335.jpg",
+            "publishedAt": "2024-04-09T19:43:30Z",
+            "content": "House Intelligence Committee Chairman Mike Turner (R-OH) and Ranking Member Jim Himes (D-CT) offered an amendment to a spy powers reform bill that effectively serves as a \u201cPatriot Act 2.0\u201d and greatl\u2026 [+4008 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Binder, John Binder",
+            "title": "Chuck Schumer: Mayorkas Impeachment Will Be Resolved 'as Quickly as Possible'",
+            "description": "Sen. Chuck Schumer (D-NY) says the articles of impeachment against DHS Secretary Alejandro Mayorkas are \"absurd.\"\nThe post Chuck Schumer: Mayorkas Impeachment Will Be Resolved \u2018as Quickly as Possible\u2019 appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/chuck-schumer-mayorkas-impeachment-will-be-resolved-as-quickly-as-possible/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-2099926534-640x335.jpg",
+            "publishedAt": "2024-04-09T19:31:14Z",
+            "content": "Senate Majority Leader Chuck Schumer (D-NY) says the articles of impeachment against Department of Homeland Security (DHS) Secretary Alejandro Mayorkas are \u201cabsurd\u201d and that he will \u201cresolve this as \u2026 [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "David Ng, David Ng",
+            "title": "AOC Touts Biden's Student Loan Bailout to Stephen Colbert: Recipients Can Now 'Travel Abroad'",
+            "description": "Rep. Alexandria Ocasio-Cortez (D-NY) appeared Monday on CBS's \"The Late Show with Stephen Colbert\" where she touted President Joe Biden's latest student loan bailout, which is expected to transfer billions of dollars of student debt to American taxpayers.\nThe\u2026",
+            "url": "https://www.breitbart.com/entertainment/2024/04/09/aoc-touts-bidens-student-loan-bailout-to-stephen-colbert-recipients-can-now-travel-abroad/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/AOCCBS-640x335.jpg",
+            "publishedAt": "2024-04-09T19:28:32Z",
+            "content": "Rep. Alexandria Ocasio-Cortez (D-NY) appeared Monday on CBS\u2019s The Late Show with Stephen Colbert where she touted President Joe Biden\u2019s latest student loan bailout, which is expected to transfer bill\u2026 [+1326 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Wendell Huseb\u00f8, Wendell Huseb\u00f8",
+            "title": "Judge Grants Donald Trump's Request to Reconsider Gag Order",
+            "description": "An appeals court judge permitted the full Appellate Division First Department to consider relaxing a sweeping gag order against Donald Trump.\nThe post Judge Grants Donald Trump\u2019s Request to Reconsider Gag Order appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/judge-grants-donald-trumps-request-to-reconsider-gag-order/",
+            "urlToImage": "https://media.breitbart.com/media/2024/02/Donald-Trump-1-640x335.jpg",
+            "publishedAt": "2024-04-09T19:23:29Z",
+            "content": "A New York appeals court judge on Tuesday permitted the full Appellate Division First Department to consider relaxing a sweeping gag order against former President Donald Trump.\r\nThe appellate court \u2026 [+2703 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Warner Todd Huston, Warner Todd Huston",
+            "title": "Billy Dee Williams OK with 'Blackface': Actors Should Be Able to 'Do Anything You Want to Do'",
+            "description": "Billy Dee Williams says he is perfectly OK with non-black actors performing in \"blackface,\" and feels that actors should be take on any role.\nThe post Billy Dee Williams OK with \u2018Blackface\u2019: Actors Should Be Able to \u2018Do Anything You Want to Do\u2019 appeared first\u2026",
+            "url": "https://www.breitbart.com/entertainment/2024/04/09/billy-dee-williams-ok-with-blackface-actors-should-be-able-to-do-anything-you-want-to-do/",
+            "urlToImage": "https://media.breitbart.com/media/2024/02/BillyDeeWilliams-640x335.jpg",
+            "publishedAt": "2024-04-09T19:18:24Z",
+            "content": "Emmy Award nominated actor Billy Dee Williams says he is perfectly OK with non-black actors performing in \u201cblackface,\u201d and feels that actors should be able to take on any role they want to try.\r\nWill\u2026 [+1923 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Breitbart London, Breitbart London",
+            "title": "At Least Three Dead in Explosion at European Hydroelectric Plant",
+            "description": "An explosion in northern Italy killed at least three workers and injured five others, a regional fire chief said.\nThe post At Least Three Dead in Explosion at European Hydroelectric Plant appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/europe/2024/04/09/at-least-three-dead-in-explosion-at-european-hydroelectric-plant/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-1211534574-e1712689821221-640x335.jpg",
+            "publishedAt": "2024-04-09T19:10:32Z",
+            "content": "MILAN (AP) \u2013 An explosion Tuesday at a decades-old hydroelectric plant in northern Italy killed at least three workers and injured five others, a regional fire chief said. At least four other people \u2026 [+1473 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dylan Gwinn, Dylan Gwinn",
+            "title": "Jemele Hill Accuses Dwayne Johnson of 'Political Cowardice' for Refusing to Endorse Biden",
+            "description": "Former ESPN analyst Jemele Hill is calling Dwayne \"The Rock\" Johnson a political coward after his decision to publicly refuse to endorse Joe Biden for reelection in 2024.\nThe post Jemele Hill Accuses Dwayne Johnson of \u2018Political Cowardice\u2019 for Refusing to End\u2026",
+            "url": "https://www.breitbart.com/sports/2024/04/09/jemele-hill-accuses-dwayne-johnson-of-political-cowardice-for-refusing-to-endorse-biden/",
+            "urlToImage": "https://media.breitbart.com/media/2022/09/SXSW_Getty-Images-640x335.jpg",
+            "publishedAt": "2024-04-09T19:08:54Z",
+            "content": "Former ESPN analyst Jemele Hill is calling Dwayne \u201cThe Rock\u201d Johnson a political coward after his decision to publicly refuse to endorse Joe Biden for reelection in 2024.\r\nIn an interview with Fox Ne\u2026 [+3637 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Oliver JJ Lane, Oliver JJ Lane",
+            "title": "Police on High Alert as Islamic State Threatens to Attack Champions League Football Matches",
+            "description": "ISIS-linked media published calls to attack high-profile football matches expected to be attended by tens of thousands of fans this week.\nThe post Police on High Alert as Islamic State Threatens to Attack Champions League Football Matches appeared first on Br\u2026",
+            "url": "https://www.breitbart.com/europe/2024/04/09/police-on-high-alert-as-islamic-state-threatens-to-attack-champions-league-football-matches/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-2148033238-e1712688820430-640x335.jpg",
+            "publishedAt": "2024-04-09T19:07:54Z",
+            "content": "Police across Europe are on high alert after Islamic State-linked media published calls to attack high-profile football quarter-final matches taking place this week and expected to be attended by ten\u2026 [+2640 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Amy Furr, Amy Furr",
+            "title": "VIDEO \u2014 Nope!: Florida Woman Shocked to Find Massive Alligator in Her Kitchen",
+            "description": "A homeowner in Venice, Florida, got the shock of her life when a scaly intruder broke into her house and made itself at home.\nThe post VIDEO \u2014 Nope!: Florida Woman Shocked to Find Massive Alligator in Her Kitchen appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/local/2024/04/09/video-nope-florida-woman-shocked-to-find-massive-alligator-in-her-kitchen/",
+            "urlToImage": "https://media.breitbart.com/media/2021/09/60ca4f475b245.image_-1-640x335.jpg",
+            "publishedAt": "2024-04-09T18:56:31Z",
+            "content": "A homeowner in Venice, Florida, got the shock of her life when a scaly intruder broke into her house.\r\nMary Hollenback was relaxing at home when she heard a rattling noise at her screen door, WESH re\u2026 [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Hayward, John Hayward",
+            "title": "Iraqi Jihadists Claim Flurry of Ineffective Attacks on Israel",
+            "description": "Iran-backed Shiite militias in Iraq claimed responsibility for five drone and missile attacks against targets in Israel.\nThe post Iraqi Jihadists Claim Flurry of Ineffective Attacks on Israel appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/middle-east/2024/04/09/iraqi-jihadists-claim-flurry-of-ineffective-attacks-on-israel/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/iraq-israel-640x335.jpeg",
+            "publishedAt": "2024-04-09T18:43:41Z",
+            "content": "The Islamic Resistance in Iraq (IRI), an umbrella group of Iran-backed Shiite militias that has been conducting terrorist attacks against American and allied forces in Iraq, claimed responsibility on\u2026 [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Bradley Jaye, Bradley Jaye",
+            "title": "Marjorie Taylor Greene Ups Ante Against Johnson: 'Republican Speaker Should Not Be Executing Democrats' Agenda'",
+            "description": "Rep. Marjorie Taylor Greene escalated her war against Speaker Mike Johnson Tuesday with a missive that will greet lawmakers returning to the Capitol for a tense two-week legislative burst.\nThe post Marjorie Taylor Greene Ups Ante Against Johnson: \u2018Republican \u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/greene-ups-ante-johnson-republican-speaker-should-not-be-executing-democrats-agenda/",
+            "urlToImage": "https://media.breitbart.com/media/2023/08/Marjorie-Taylor-Greene-pointing-up-getty-640x335.jpg",
+            "publishedAt": "2024-04-09T18:41:10Z",
+            "content": "Rep. Marjorie Taylor Greene (R-GA) escalated her war against Speaker Mike Johnson (R-LA) Tuesday with a missive that will greet weary lawmakers returning to the Capitol for a tense two-week legislati\u2026 [+7138 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Oliver JJ Lane, Oliver JJ Lane",
+            "title": "Giving Money to Ukraine is in Your Own Best Interest, David Cameron Tells U.S. Congress",
+            "description": "\"Extremely good value... half of Russia\u2019s pre-war military equipment has been destroyed but without the loss of a single American.\"\nThe post Giving Money to Ukraine is in Your Own Best Interest, David Cameron Tells U.S. Congress appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/europe/2024/04/09/cash-to-ukraine-is-in-your-own-best-interest-david-cameron-tells-u-s/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-2144471612-e1712685115776-640x335.jpg",
+            "publishedAt": "2024-04-09T18:16:26Z",
+            "content": "Former British Prime Minister David Cameron told America that \u201cits profoundly in your interests\u201d to shovel more money into Ukraine while saying he would like to meet with any members of Congress in n\u2026 [+5219 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Binder, John Binder",
+            "title": "Exclusive: Sen. Marsha Blackburn Issues Bill to Withhold Federal Funds from Universities Hiring Illegal Aliens",
+            "description": "Sen. Marsha Blackburn is introducing legislation that would withhold federal funding from any college or university that hires illegal aliens.\nThe post Exclusive: Sen. Marsha Blackburn Issues Bill to Withhold Federal Funds from Universities Hiring Illegal Ali\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/exclusive-sen-marsha-blackburn-issues-bill-to-withhold-federal-funds-from-universities-hiring-illegal-aliens/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-1983625320-640x335.jpg",
+            "publishedAt": "2024-04-09T18:15:24Z",
+            "content": "Sen. Marsha Blackburn (R-TN) is introducing legislation that would withhold federal funding from any college or university that hires illegal aliens, Breitbart News has exclusively learned.\r\n\u201cIf coll\u2026 [+1425 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Warner Todd Huston, Warner Todd Huston",
+            "title": "Joe Biden Has Secretly Flown 33,000 Migrants into New York City, 326,000 into Florida, at Taxpayer Expense",
+            "description": "A review of available federal records shows the Biden administration has secretly flown 33,000 illegal aliens into New York City and an astounding 326,000 into the state of Florida over the last several years.\nThe post Joe Biden Has Secretly Flown 33,000 Migr\u2026",
+            "url": "https://www.breitbart.com/immigration/2024/04/09/joe-biden-secretly-flown-33000-migrants-new-york-city-326000-florida-taxpayer-expense/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-1898055226-640x335.jpg",
+            "publishedAt": "2024-04-09T18:05:12Z",
+            "content": "A review of available federal records shows the Biden administration has secretly flown 33,000 illegal aliens into New York City and an astounding 326,000 into the state of Florida over the last seve\u2026 [+3046 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Wendell Huseb\u00f8, Wendell Huseb\u00f8",
+            "title": "Senior Editor:\u00a0NPR Employs 87 Democrats in Editorial Positions, 0 Republicans in DC Newsroom",
+            "description": "NPR employs 87 registered Democrats in editorial positions but zero Republicans in the same positions, NPR's\u00a0Uri Berliner\u00a0wrote.\u00a0\nThe post Senior Editor:\u00a0NPR Employs 87 Democrats in Editorial Positions, 0 Republicans in DC Newsroom appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/the-media/2024/04/09/senior-editor-npr-employs-87-democrats-in-editorial-positions-0-republicans-in-dc-newsroom/",
+            "urlToImage": "https://media.breitbart.com/media/2020/09/NPR-Headquarters-Washington-DC-640x335.jpg",
+            "publishedAt": "2024-04-09T18:04:50Z",
+            "content": "Far-left National Public Radio (NPR) employs 87 registered Democrats in editorial positions but zero Republicans in the same positions in its Washington, DC, headquarters, NPR Senior Editor\u00a0Uri Berli\u2026 [+4765 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Ildefonso Ortiz and Brandon Darby, Ildefonso Ortiz and Brandon Darby",
+            "title": "REPORTS: Mexican Cartels Use Chemical Weapons on Rivals, Civilians in Escalating Turf War",
+            "description": "One of Mexico\u2019s most violent drug cartels reportedly turned to the use of chemical weapons in their ongoing struggle with rival criminal organizations. This region in Western Mexico is experiencing an escalating spike in violence where cartels have been manuf\u2026",
+            "url": "https://www.breitbart.com/border/2024/04/09/cartels-in-mexico-use-chemical-weapons-on-rivals-and-civilians-in-turf-war/",
+            "urlToImage": "https://media.breitbart.com/media/2023/08/Mexican-Cartel-Drops-Bomb-from-Drone-1-640x335.jpg",
+            "publishedAt": "2024-04-09T17:56:38Z",
+            "content": "One of Mexicos most violent drug cartels reportedly turned to the use of chemical weapons in their ongoing struggle with rival criminal organizations. This region in Western Mexico is experiencing an\u2026 [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Christian K. Caruzo, Christian K. Caruzo",
+            "title": "'Throw Him Out': Elon Musk Declares War on Brazil's Most Powerful Judge",
+            "description": "Tesla CEO and Twitter owner Elon Musk accused Brazilian Supreme Federal Tribunal (STF) Minister Alexandre de Moraes of rigging the 2022 presidential election, allowing socialist convicted felon Luiz In\u00e1cio Lula da Silva to be elected president for a third ter\u2026",
+            "url": "https://www.breitbart.com/latin-america/2024/04/09/throw-him-out-elon-musk-declares-war-on-brazils-most-powerful-judge/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Elon-Musk-and-Alexandre-de-Moraes-640x335.jpg",
+            "publishedAt": "2024-04-09T17:49:43Z",
+            "content": "Tesla CEO and X owner Elon Musk accused Brazilian Supreme Federal Tribunal (STF) Minister Alexandre de Moraes of rigging the 2022 presidential election, allowing socialist convicted felon Luiz In\u00e1cio\u2026 [+6421 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dylan Gwinn, Dylan Gwinn",
+            "title": "REPORT: FCC Claims Israeli-Supported Super Bowl Ad Calling for Hostage Return Drew Most Complaints",
+            "description": "An Israeli-funded Super Bowl ad calling for the return of fathers captured by Hamas in their October 7 attack on Israel drew more complaints than any other ad that ran during the championship game, Federal Communications Commission (FCC) documents claim.\nThe \u2026",
+            "url": "https://www.breitbart.com/sports/2024/04/09/report-fcc-claims-israeli-supported-super-bowl-ad-calling-for-hostage-return-drew-most-complaints/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Leon-Neal_Getty-Images-640x335.jpg",
+            "publishedAt": "2024-04-09T17:48:50Z",
+            "content": "An Israeli-funded Super Bowl ad calling for the return of fathers captured by Hamas in their October 7 attack on Israel drew more complaints than any other ad that ran during the championship game, F\u2026 [+1860 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Hannah Knudsen, Hannah Knudsen",
+            "title": "Planet Fitness Slammed with More Than Two Dozen Bomb Threats After Transgender Locker Room Incident",
+            "description": "Planet Fitness has been hit with bomb threats following an incident involving a transgender woman shaving in the women's locker room.\nThe post Planet Fitness Slammed with More Than Two Dozen Bomb Threats After Transgender Locker Room Incident appeared first o\u2026",
+            "url": "https://www.breitbart.com/social-justice/2024/04/09/planet-fitness-slammed-with-more-than-two-dozen-bomb-threats-after-transgender-locker-room-incident/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Planet-Fitness-640x335.jpeg",
+            "publishedAt": "2024-04-09T17:34:29Z",
+            "content": "Planet Fitness has been hit with more than two dozen bomb threats across the country following an incident involving a transgender woman a biological man shaving in the women\u2019s locker room at a franc\u2026 [+2870 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Wendell Huseb\u00f8, Wendell Huseb\u00f8",
+            "title": "Gas Prices Hit Six-Month High, Spiking More than 50% Under Joe Biden",
+            "description": "The nationwide average price for regular gas hit a reported six-month high of $3.60 a gallon on Tuesday, spiking more than 50 percent under President Joe Biden.\nThe post Gas Prices Hit Six-Month High, Spiking More than 50% Under Joe Biden appeared first on Br\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/gas-prices-hit-six-month-high-spiking-more-than-50-under-joe-biden/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/GettyImages-1257640119-640x335.jpg",
+            "publishedAt": "2024-04-09T17:16:44Z",
+            "content": "The nationwide average price for regular gas hit a reported six-month high of $3.60 a gallon on Tuesday, spiking more than 50 percent under President Joe Biden.\r\nIn the past month, gas prices rose mo\u2026 [+2230 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Hannah Knudsen, Hannah Knudsen",
+            "title": "Poll: Most Biden Voters Are Voting 'Against' Trump Rather than 'For' Biden",
+            "description": "Most supporters of President Joe Biden are voting \"against\" former President Donald Trump rather than \"for\" the Democrat incumbent.\nThe post Poll: Most Biden Voters Are Voting \u2018Against\u2019 Trump Rather than \u2018For\u2019 Biden appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/poll-most-biden-voters-are-voting-against-trump-rather-than-biden/",
+            "urlToImage": "https://media.breitbart.com/media/2023/07/donald-trump-joe-biden-filephoto-face-to-face-getty-640x335.jpg",
+            "publishedAt": "2024-04-09T17:11:14Z",
+            "content": "Most supporters of President Joe Biden are voting \u201cagainst\u201d former President Donald Trump rather than \u201cfor\u201d the Democrat incumbent, the latest survey from the Economist/YouGov found.\r\nOverall, Trump \u2026 [+2590 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Hannah Knudsen, Hannah Knudsen",
+            "title": "About 30 Attend Jill Biden's Missouri Fundraiser",
+            "description": "About 30 individuals attended a fundraiser in Ladue, Missouri, on Monday that First Lady Jill Biden headlined.\nThe post About 30 Attend Jill Biden\u2019s Missouri Fundraiser appeared first on Breitbart.",
+            "url": "https://www.breitbart.com/politics/2024/04/09/about-30-attend-jill-bidens-missouri-fundraiser/",
+            "urlToImage": "https://media.breitbart.com/media/2022/08/jill-biden-lady-jill-biden-visits-slovak-ukrainian-mothers-children-families-participate-640x335.png",
+            "publishedAt": "2024-04-09T17:10:45Z",
+            "content": "About 30 individuals attended a fundraiser in Ladue, Missouri, on Monday that First Lady Jill Biden headlined as part of the joint effort of the Biden Victory Fund, months ahead of the election.\r\nSpe\u2026 [+2519 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "John Nolte, John Nolte",
+            "title": "Nolte: 57% Believe Democrats Use Illegal Immigration to \u2018Build Permanent Majority\u2019",
+            "description": "Americans are united on whether or not the Biden administration opened our border to illegal immigrants to rig the system and give Democrats a permanent governing majority, polling shows.\nThe post Nolte: 57% Believe Democrats Use Illegal Immigration to \u2018Build\u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/nolte-57-believe-democrats-use-illegal-immigration-build-permanent-majority/",
+            "urlToImage": "https://media.breitbart.com/media/2024/03/GettyImages-1813801026-640x335.jpg",
+            "publishedAt": "2024-04-09T17:10:30Z",
+            "content": "The issue of illegal immigration is not a divisive one among Normal People. The latest polling shows that Americans are united on all the important questions, including whether or not the Biden admin\u2026 [+3454 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Warner Todd Huston, Warner Todd Huston",
+            "title": "'Tulsa King' Casting Agency Quits Show After Sylvester Stallone Accused of Insulting Background Actors",
+            "description": "The casting agency that was hiring extras for the Paramount+ drama \"Tulsa King\" quit the show Sunday after it was reported that star Sylvester Stallone was heard disparaging the extras on the set.\nThe post \u2018Tulsa King\u2019 Casting Agency Quits Show After Sylveste\u2026",
+            "url": "https://www.breitbart.com/entertainment/2024/04/09/tulsa-king-casting-agency-quits-show-after-sylvester-stallone-accused-of-insulting-background-actors/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/TulsaKingSylvesterStallone-640x335.jpg",
+            "publishedAt": "2024-04-09T16:47:51Z",
+            "content": "The casting agency that was hiring extras for the Paramount+ drama Tulsa King quit the show Sunday after it was reported that star Sylvester Stallone was heard disparaging the extras on the set.\r\nAtl\u2026 [+2441 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Sean Moran, Sean Moran",
+            "title": "Exclusive \u2013 Rep. Andy Biggs: Speaker Johnson Submitting to Intel Agencies on Spy Powers Reform 'Prime Example' of 'D.C. Cartel'",
+            "description": "Rep. Andy Biggs (R-AZ) told Breitbart News in an exclusive interview Tuesday that Speaker Mike Johnson (R-LA) kowtowing to the intelligence agencies on a controversial surveillance law is a \"prime example\" of the \"D.C. cartel.\"\nThe post Exclusive \u2013 Rep. Andy \u2026",
+            "url": "https://www.breitbart.com/politics/2024/04/09/exclusive-andy-biggs-speaker-johnson-submitting-intel-agencies-spy-powers-reform-prime-example-cartel/",
+            "urlToImage": "https://media.breitbart.com/media/2024/01/Mike-Johnson-640x335.jpeg",
+            "publishedAt": "2024-04-09T16:45:00Z",
+            "content": "Rep. Andy Biggs (R-AZ) told Breitbart News in an exclusive interview Tuesday that Speaker Mike Johnson (R-LA) kowtowing to the intelligence agencies on a controversial surveillance law is a \u201cprime ex\u2026 [+3137 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Lucas Nolan, Lucas Nolan",
+            "title": "'What a Nightmare' Elon Musk's Tesla Cybertruck Plagued by Malfunctions and Quality Issues",
+            "description": "Elon Musk's long-awaited Tesla Cybertrucks have been met with a wave of complaints from frustrated owners, who report numerous malfunctions and quality issues just months after the vehicle's launch. One owner reported a complete failure after driving the EV f\u2026",
+            "url": "https://www.breitbart.com/tech/2024/04/09/what-a-nightmare-elon-musks-tesla-cybertrucks-plagued-by-malfunctions-and-quality-issues/",
+            "urlToImage": "https://media.breitbart.com/media/2019/11/Elon-Musk-and-Cybertruck-640x335.jpg",
+            "publishedAt": "2024-04-09T16:41:47Z",
+            "content": "Elon Musk\u2019s long-awaited Tesla Cybertrucks have been met with a wave of complaints from frustrated owners, who report numerous malfunctions and quality issues just months after the vehicle\u2019s launch. \u2026 [+3203 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Dylan Gwinn, Dylan Gwinn",
+            "title": "Solar Eclipse Watchers Will Not Like What Charles Barkley Had to Say About Them",
+            "description": "We all know how Charles Barkley feels about the San Antonio Riverwalk and the women of that city. However, it turns out he is also no fan of solar eclipses or those who watch them.\nThe post Solar Eclipse Watchers Will Not Like What Charles Barkley Had to Say \u2026",
+            "url": "https://www.breitbart.com/sports/2024/04/09/solar-eclipse-watchers-will-not-like-what-charles-barkley-had-to-say-about-them/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/David-Dow_NBAE-via-Getty-Images-640x335.jpg",
+            "publishedAt": "2024-04-09T16:38:45Z",
+            "content": "We all know how Charles Barkley feels about the San Antonio Riverwalk and the women of that city. However, it turns out he is also no fan of solar eclipses or those who watch them.\r\nOn Monday night, \u2026 [+1761 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Pam Key, Pam Key",
+            "title": "Pelosi: Joe Biden Has a 'Beautiful Vision for America'",
+            "description": "Representative Nancy Pelosi (D-CA) said Tuesday on MSNBC's \"Morning Joe\" that Democrats have to win the election because President Joe Biden has a \"beautiful vision for America.\"\nThe post Pelosi: Joe Biden Has a \u2018Beautiful Vision for America\u2019 appeared first o\u2026",
+            "url": "https://www.breitbart.com/clips/2024/04/09/pelosi-joe-biden-has-a-beautiful-vision-for-america/",
+            "urlToImage": "https://media.breitbart.com/media/2022/11/Joe-Biden-and-Nancy-Pelosi-640x335.jpg",
+            "publishedAt": "2024-04-09T16:34:21Z",
+            "content": "Representative Nancy Pelosi (D-CA) said Tuesday on MSNBC\u2019s \u201cMorning Joe\u201d that Democrats have to win the election because President Joe Biden has a \u201cbeautiful vision for America.\u201d\r\nAnchor Willie Geist\u2026 [+1159 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Amy Furr, Amy Furr",
+            "title": "VIDEO \u2014 'Craving for Mayhem and Terror': Idaho Teen Accused in Plot to Attack Churches for ISIS",
+            "description": "Officials have arrested a young man accused of planning to attack churches in Coeur d\u2019Alene, Idaho, for the Islamic terrorist group ISIS.\nThe post VIDEO \u2014 \u2018Craving for Mayhem and Terror\u2019: Idaho Teen Accused in Plot to Attack Churches for ISIS appeared first o\u2026",
+            "url": "https://www.breitbart.com/crime/2024/04/09/video-craving-for-mayhem-and-terror-idaho-teen-accused-in-plot-to-attack-churches-for-isis/",
+            "urlToImage": "https://media.breitbart.com/media/2024/04/Alexander-Scott-Mercurio-640x335.jpeg",
+            "publishedAt": "2024-04-09T16:18:51Z",
+            "content": "Officials have arrested a young man accused of planning to attack churches in his hometown of\u00a0Coeur dAlene, Idaho, for the Islamic terrorist group ISIS.\r\nEighteen-year-old Alexander Scott Mercurio wa\u2026 [+2990 chars]"
         }
     ]
 }

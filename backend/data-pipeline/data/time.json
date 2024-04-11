@@ -1,45 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 647,
     "articles": [
         {
             "source": {
                 "id": "time",
                 "name": "Time"
             },
-            "author": "Justin Worland",
-            "title": "Why an Energy Company Is Building the World\u2019s Biggest Plane",
-            "description": "The plane will be the world\u2019s biggest, but the company building it insists that it\u2019s an energy company.",
-            "url": "http://time.com/6963597/why-an-energy-company-radia-is-building-the-worlds-biggest-plane-windrunner-mark-lundstrom/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/WindRunner-airplane.jpg?quality=85",
-            "publishedAt": "2024-04-04T20:50:44Z",
-            "content": "When it takes to the skies, the Radia WindRunner will be the worlds largest cargo plane. The entrepreneurs behind Radia created it for one reason: to facilitate the shipping of gigantic wind blades t\u2026 [+3162 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Will Henshall",
-            "title": "The Best Apps for the Solar Eclipse",
-            "description": "Here are the best apps for viewing and learning about the 2024 solar eclipse.",
-            "url": "http://time.com/6961535/solar-eclipse-apps-2024/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/EclipseApps.png",
-            "publishedAt": "2024-04-04T11:05:00Z",
-            "content": "People all over the world are preparing for the total solar eclipse set to pass across Mexico, the U.S., and Canada on April 8.\u00a0\r\nMany are set to travel to cities along the path of totality between T\u2026 [+3108 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Judy Berman",
-            "title": "A New Netflix Series Makes Andrew Scott the Definitive Tom Ripley",
-            "description": "Netflix's gorgeously realized 'The Talented Mr. Ripley' adaptation is torpid, and even a bit vapid, but Scott makes for a compellingly chameleonic Tom Ripley.",
-            "url": "http://time.com/6962630/ripley-review-netflix-andrew-scott/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/RIPLEY_PA_107_111221_01289_R.jpgRIPLEY_PA_107_111221_01289_R.jpg?quality=85",
-            "publishedAt": "2024-04-04T07:01:00Z",
-            "content": "A crucial scene in Ripley, the latest adaptation of Patricia Highsmiths classic thriller The Talented Mr. Ripley, places the eponymous grifter in Romes Galleria Borghese. As a tour guide lectures on \u2026 [+6641 chars]"
+            "author": "Solcyr\u00e9 Burga",
+            "title": "What to Know About the Arizona Supreme Court Abortion Ban Ruling",
+            "description": "The Arizona Supreme Court upheld a 160-year-old abortion ban on Tuesday that would prohibit nearly all abortions in the state except when \u201cnecessary to save\u201d a pregnant person\u2019s life.",
+            "url": "https://time.com/6965338/arizona-supreme-court-abortion-ban/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/arizona-abortion.jpg?quality=85",
+            "publishedAt": "2024-04-09T21:48:43Z",
+            "content": "The Arizona Supreme Court upheld a 160-year-old abortion ban on Tuesday that would prohibit nearly all abortions in the state except when necessary to save a pregnant persons life.\u00a0\r\nThe decision rev\u2026 [+4446 chars]"
         },
         {
             "source": {
@@ -47,12 +21,285 @@
                 "name": "Time"
             },
             "author": "Yasmeen Serhan",
-            "title": "How Israel and Its Allies Lost Global Credibility",
-            "description": "Israel's conduct in Gaza, spearheaded by Prime Minister Benjamin Netanyahu, has resulted in untold damage to the country's reputation.",
-            "url": "http://time.com/6963032/israel-netanyahu-allies-global-standing/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1731162446.jpg?quality=85",
-            "publishedAt": "2024-04-03T18:09:05Z",
-            "content": "Israels war on Gaza, which soon enters its sixth month, has done untold damage to the enclave and its people, more than 32,000 of whom have been killed and millions of whom have been displaced. But t\u2026 [+9539 chars]"
+            "title": "Israel Has Been Accused of War Crimes in Gaza. Could Its Allies Be Next?",
+            "description": "Israel\u2019s attack on Gaza could be in breach of international law. Here's what that means for its allies aiding the effort with arms and assistance.",
+            "url": "https://time.com/6965278/israel-gaza-war-crimes-genocide-allies/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1809517082.jpg?quality=85",
+            "publishedAt": "2024-04-09T19:22:05Z",
+            "content": "When Israel launched its retaliatory war to root out Hamas from Gaza in the aftermath of the groups Oct. 7 massacre, it had the overwhelming support of a horrified world. Six months on, Gaza lies in \u2026 [+8535 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Michigan School Shooter\u2019s Parents Sentenced to at Least 10 Years in Prison",
+            "description": "Jennifer and James Crumbley are\u00a0the first parents convicted in a U.S. mass school shooting.",
+            "url": "https://time.com/6965273/michigan-school-shooters-parents-sentenced-to-at-least-10-years-in-prison/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/michigan-shooting-parents-sentence-crumbley.jpg?quality=85",
+            "publishedAt": "2024-04-09T18:40:02Z",
+            "content": "(PONTIAC, Mich.) A judge sentenced the parents of a Michigan school shooter to at least 10 years in prison Tuesday for failing to take steps that could have prevented a runaway train the killing of f\u2026 [+5557 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jeremy Ney",
+            "title": "America\u2019s Growing Birthweight Crisis",
+            "description": "More babies are now born with low birthweights than in the last 30 years.",
+            "url": "https://time.com/6965173/americas-birthweight-crisis/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1247880572.jpg?quality=85",
+            "publishedAt": "2024-04-09T16:44:27Z",
+            "content": "Americans are increasingly at risk of having lower incomes, poorer health, and a worse shot at opportunity even before they are born. More babies are now born with low birthweights than in the last 3\u2026 [+8051 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Philip Elliott",
+            "title": "Why Donald Trump\u2019s Savvy Pivot On Abortion Shouldn\u2019t Surprise You",
+            "description": "Trump can take religious conservatives\u2014and their votes and bonus dollars\u2014for granted because he knows this truth: Where else are they going to go?",
+            "url": "https://time.com/6965211/donald-trump-abortion-religious-conservatives-politics/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1201704310.jpg?quality=85",
+            "publishedAt": "2024-04-09T15:45:16Z",
+            "content": "This article is part of The D.C. Brief, TIMEs politics newsletter. Sign up here to get stories like this sent to your inbox.\r\nIt was a moment some on the right had long suspected would come but many \u2026 [+4774 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Serena Mayeri",
+            "title": "Don\u2019t Be Fooled By Trump\u2019s Failure to Endorse a Nationwide Abortion Ban",
+            "description": "\"Make no mistake: a second Trump administration will empower an anti-abortion movement,\" writes Serena Mayeri.",
+            "url": "https://time.com/6965160/trump-nationwide-abortion-ban-lies-essay/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/trump-abortion-wisconsin-2024.jpg?quality=85",
+            "publishedAt": "2024-04-09T14:51:52Z",
+            "content": "Former President Donald Trump announced on Truth Social that he favors state control over abortion law and policy and declined to endorse a nationwide ban. He also claimed that the Supreme Courts ove\u2026 [+5677 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Madison Muller and Robert Langreth/Bloomberg",
+            "title": "Young Adults May Soon Be Able to Get an RSV Shot",
+            "description": "After a promising trial of Abrysvo in younger adults, Pfizer plans to apply for wider U.S. approval.",
+            "url": "https://time.com/6965155/rsv-vaccine-adults/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/rsv-shot.jpg?quality=85",
+            "publishedAt": "2024-04-09T14:00:45Z",
+            "content": "Pfizer Inc.s RSV shot produced immune reactions in young adults at higher risk of severe illness just as well as in older people, spurring the companys plans to apply for wider U.S. approval.\r\nA sing\u2026 [+2473 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Armani Syed",
+            "title": "Simon Harris, the \u2018TikTok Taoiseach,\u2019 Is Ireland\u2019s New Leader",
+            "description": "The 37-year-old, dubbed the 'TikTok Taoiseach,' was sworn in Tuesday as the country's youngest ever leader.",
+            "url": "https://time.com/6965131/simon-harris-ireland-youngest-leader/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/simon-harris-ireland.jpg?quality=85",
+            "publishedAt": "2024-04-09T13:20:11Z",
+            "content": "Following the shock resignation of Leo Varadkar, Simon Harris has been sworn in as the Republic of Irelands youngest Prime Minister on Tuesday.\r\nDubbed the TikTok taoiseach for his social media prowe\u2026 [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "MOLLY QUELL and RAF CASERT / AP",
+            "title": "Top European Court Hands Swiss Women Landmark Climate Win",
+            "description": "The European Court of Human Rights ruled that its member nations must protect their citizens from the consequences of climate change.",
+            "url": "https://time.com/6965136/swiss-women-landmark-climate-win/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2144463242-1.jpg?quality=85",
+            "publishedAt": "2024-04-09T13:16:13Z",
+            "content": "STRASBOURG, France Europes highest human rights court ruled Tuesday that its member nations must protect their citizens from the consequences of climate change in a landmark ruling that sided with a \u2026 [+4312 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Elliott Young / Made by History",
+            "title": "What AMLO Could Learn From the 19th Century Mexican Journalist He Idealizes",
+            "description": "Mexican President AMLO admires Catarino Garza, a storied journalist and revolutionary. But AMLO's actions fly in the face of Garza's ideals.",
+            "url": "https://time.com/6952920/mexican-journalist-history/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/Catarino-Erasmo-Garza.jpg?quality=85",
+            "publishedAt": "2024-04-09T13:00:00Z",
+            "content": "Mexican President Andr\u00e9s Manuel L\u00f3pez Obrador (AMLO) is a fan of a little-known late 19th century Mexican border revolutionary named Catarino Erasmo Garza. AMLO is so enamored of the border rebel and\u2026 [+8743 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Perri Ormont Blumberg",
+            "title": "What Experts Really Think About Diet Soda",
+            "description": "It's linked to Type 2 diabetes, cancer, and more\u2014but the health effects aren't clear cut, according to experts.",
+            "url": "https://time.com/6964018/diet-soda-health-effects/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/should-I-drink-diet-soda.jpg?quality=85",
+            "publishedAt": "2024-04-09T12:00:00Z",
+            "content": "Growing up, Olivia Dreizen Howell, 39, lived on diet soda. So did her family. At a family reunion in 1996, everyone sported T-shirts with their shared surname in Diet Coke-can font. We drank Diet Cok\u2026 [+9385 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Andrew R. Chow",
+            "title": "How\u00a0The Sympathizer Counters 50 Years of Hollywood Vietnam War Narratives",
+            "description": "An HBO adaptation of Viet Thanh Nguyen's 'The Sympathizer' challenges long-held beliefs about the Vietnam War.",
+            "url": "https://time.com/6961770/the-sympathizer-adaptation-hbo/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/TheSympathizer-TIME-web.jpg?quality=85",
+            "publishedAt": "2024-04-09T12:00:00Z",
+            "content": "When the authorViet Thanh Nguyen was growing up in California as a refugee from the Vietnam War, depictions of that conflict were omnipresent in American culture. Platoon, Apocalypse Now, Full Metal \u2026 [+9137 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Belinda Luscombe",
+            "title": "It\u2019s Going to Be Rough Around the Thanksgiving Table This Year. Start Planning Now",
+            "description": "Relatives are likely to bring strong and differing views to Thanksgiving after the 2024 election. Start preparing now.",
+            "url": "https://time.com/6958086/thanksgiving-election-2024-family-conflict/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/PrepareThanksgiving.jpg?quality=85",
+            "publishedAt": "2024-04-09T11:00:00Z",
+            "content": "Thanksgiving this year arrives three weeks after what's promising to be a very divisive election. If recent history is any guide, there is almost no scenario in which those who voted for the person w\u2026 [+8097 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Alissa Quart",
+            "title": "The Relentless Cost of Chronic Diseases",
+            "description": "We must help ease the economic burden for patients who have chronic diseases, as well as the stigma and disbelief that tend to trail them.",
+            "url": "https://time.com/6963920/chronic-disease-cost-stigma-alissa-quart/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/economic-cost-gray-diseases.jpg?quality=85",
+            "publishedAt": "2024-04-09T11:00:00Z",
+            "content": "At first, my legs buckled. Then I started nearly fainting and was struck by fierce jaw, neck, and back painsix unhappy faces-worth on the scale.\u00a0 Just as quickly, as one tends to do, I created narrat\u2026 [+9628 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Dr. Sharon Malone",
+            "title": "Suffering Shouldn\u2019t Be a Normal Part of Womanhood",
+            "description": "\"We have incorporated the language of misery into the lexicon so effectively that we take suffering for granted,\" writes Dr. Sharon Malone.",
+            "url": "https://time.com/6964655/suffering-womanhood-sharon-malone/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/woman-suffering.jpg?quality=85",
+            "publishedAt": "2024-04-09T11:00:00Z",
+            "content": "One of the most important lessons medical schools teach is one my mom mastered as a teenager left to fill her own mothers shoes: how to figure out who is really sick and needs immediate attention and\u2026 [+6887 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Dan Raviv and Yossi Melman",
+            "title": "Israel\u2019s Dangerous Game With Iran",
+            "description": "Israel's assassination of a top Iranian was a dangerous escalation step, argues Dan Raviv and Yossi Melman.",
+            "url": "https://time.com/6964765/israel-iran-war/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2141940968.jpg?quality=85",
+            "publishedAt": "2024-04-09T09:00:00Z",
+            "content": "The destruction of an entire building in Syrias capital on April 1 was impressively precise. Whoever fired missiles at Irans consular offices in Damascusand anyone with an iota of experience knows it\u2026 [+10181 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Koh Ewe",
+            "title": "Israel Just Used Its \u2018C-Dome\u2019 for the First Time. Here\u2019s What to Know About the Defense System",
+            "description": "Israel\u2019s C-Dome is a lot like its Iron Dome missile interceptor, except mounted on a ship.",
+            "url": "https://time.com/6965118/israel-c-dome-ship-defense-system/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Israel-C-Dome-Defense-System.jpg?quality=85",
+            "publishedAt": "2024-04-09T08:30:00Z",
+            "content": "As a hostile aircraft reportedly entered Israeli airspace near the southern city of Eilat late Monday, sirens sounded to alert the Red Sea port city, and the Israeli military deployed a defense syste\u2026 [+2993 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jane Lanhee Lee / Bloomberg",
+            "title": "U.S. Science Agency Launches Program to Connect American and Taiwanese Startups",
+            "description": "The National Science Foundation intends to expand the program\u2014sponsoring a series of workshops abroad to help U.S. startups work with their overseas counterparts\u2014to U.S.-allied nations over time.",
+            "url": "https://time.com/6965106/taiwan-us-startups-national-science-foundation-program/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/taiwan-us-startups.jpg?quality=85",
+            "publishedAt": "2024-04-09T06:45:00Z",
+            "content": "The U.S. agency tasked with driving scientific research has launched a program to connect American startups with Taiwanese peers, backing the islands ambitions to foster key players in strategic sect\u2026 [+2667 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "David Rising / AP",
+            "title": "Cruelty for Clicks: Cambodia Investigates YouTubers\u2019 Abuse of Monkeys at UNESCO Site",
+            "description": "Authorities say the abuse of monkeys at the Angkor temple complex is a growing problem as people look for new ways to draw online viewers to generate cash.",
+            "url": "https://time.com/6965093/cambodia-angkor-monkey-abuse/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/monkey-cambodia.jpg?quality=85",
+            "publishedAt": "2024-04-09T06:40:00Z",
+            "content": "SIEM REAP, Cambodia A baby monkey struggles and squirms as it tries to escape the man holding it by the neck over a concrete cistern, repeatedly dousing it with water.\r\nIn another video clip, a perso\u2026 [+6245 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Adithi Ramakrishnan / AP",
+            "title": "Missed Out or Want More? Here Are the Next Solar Eclipses to Look Out For",
+            "description": "Whether you saw Monday\u2019s moon block out the sun, were foiled by cloudy weather, or weren't along the path of\u00a0totality, there are still future\u00a0chances to catch a glimpse of the solar spectacle.",
+            "url": "https://time.com/6965092/when-next-solar-eclipse/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/US-Solar-Eclipse.jpg?quality=85",
+            "publishedAt": "2024-04-09T06:05:00Z",
+            "content": "Whether you saw the moon completely block the sun, were foiled by cloudy weather or werent along the path of Mondays total solar eclipse, there are still more chances to catch a glimpse.\r\nHeres what \u2026 [+1901 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Suman Naishadham / AP",
+            "title": "March Was the Warmest Ever\u2014and 10th Consecutive Month to Set Heat Record",
+            "description": "Scientists attribute most of the record-breaking heat to human-caused climate change from carbon dioxide and methane emissions\u2014as well as a strong El Ni\u00f1o.",
+            "url": "https://time.com/6965086/march-record-heat-high-temperature/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/extreme-temperature.jpg?quality=85",
+            "publishedAt": "2024-04-09T03:40:00Z",
+            "content": "For the 10th consecutive month, Earth in March set a new monthly record for global heatwith both air temperatures and the worlds oceans hitting an all-time high for the month, the European Union clim\u2026 [+2692 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Jeffrey Kluger",
+            "title": "The Bliss of Seeing the Eclipse From Cleveland",
+            "description": "A cosmic spectacle played out in clear skies over a fine city.",
+            "url": "https://time.com/6965043/2024-solar-eclipse-cleveland/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/PalomaKluger.jpg?quality=85",
+            "publishedAt": "2024-04-08T21:56:42Z",
+            "content": "The best outfit of the day was worn by a man in an astronauts jumpsuit done up in Cleveland Browns orange, with the word Brownstronaut across the back.\r\nThe best animal of the day was the perfect bal\u2026 [+3811 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Ben Rosenstock",
+            "title": "J. B. Smoove on Why Leon Finally Watched\u00a0Seinfeld\u00a0in the\u00a0Curb Your Enthusiasm\u00a0Series Finale",
+            "description": "TIME caught up with Smoove after the finale to discuss improv, Larry David\u2019s brain, and the qualities that make a perfect TV show ending.",
+            "url": "https://time.com/6965023/curb-your-enthusiasm-finale-jb-smoove-interview/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/j-b-smoove.jpg?quality=85",
+            "publishedAt": "2024-04-08T21:27:26Z",
+            "content": "Spoiler alert: This piece discusses the Curb Your Enthusiasm series finale.\r\nIn many ways, Curb wasnt Curb before Leon Black arrived. Thats a common sentiment among longtime fans of Larry Davids HBO \u2026 [+10364 chars]"
         },
         {
             "source": {
@@ -60,51 +307,25 @@
                 "name": "Time"
             },
             "author": "Jamie Ducharme",
-            "title": "Hormonal Birth Control Doesn\u2019t Deserve Its Bad Reputation",
-            "description": "Hormonal birth control methods, including the pill and IUDs, have a downside. But are the health risks meaningful?",
-            "url": "http://time.com/6962771/is-hormonal-birth-control-safe-health-risks/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/birth-control-pill.jpg?quality=85",
-            "publishedAt": "2024-04-03T17:44:39Z",
-            "content": "Almost two-thirds of U.S. women of reproductive age use some kind of contraception, according to the latest federal data. And millions of them use methods that contain hormones, including birth contr\u2026 [+6064 chars]"
+            "title": "Why Your Head and Eyes Hurt After Viewing the Eclipse",
+            "description": "Lots of people are experiencing headaches and eye pain after the solar eclipse. But experts say it's likely not serious.",
+            "url": "https://time.com/6964996/solar-eclipse-headache-eye-pain/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/eclipse-glasses_632149.jpg?quality=85",
+            "publishedAt": "2024-04-08T21:07:47Z",
+            "content": "If you have a headache or eye pain after viewing the solar eclipseeven if you wore eclipse glassesyoure not alone. But dont panic. Experts say its probably not a sign of serious damage.\r\nLooking stra\u2026 [+1928 chars]"
         },
         {
             "source": {
                 "id": "time",
                 "name": "Time"
             },
-            "author": "Moises Mendez II",
-            "title": "A Comprehensive Guide to Beyonc\u00e9\u2019s Cowboy Carter",
-            "description": "Everything you need to know about Beyonc\u00e9's newest album, Cowboy Carter.",
-            "url": "http://time.com/6961993/beyonce-cowboy-carter-album-guide/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/beyonce-album-cowboy-carter-takeaways-2.jpg?quality=85",
-            "publishedAt": "2024-03-29T20:18:51Z",
-            "content": "Beyonc\u00e9 releasing a new album is an event. Not only because she is one of the biggest pop stars in the world, but also because her music begs to be dissected with a fine-tooth comb. We started seeing\u2026 [+10642 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Justin Worland",
-            "title": "The IRA\u2019s New Conventional Wisdom",
-            "description": "Even though the law passed Congress with no Republican votes, it would likely survive future GOP control of Washington.",
-            "url": "http://time.com/6961663/the-iras-new-conventional-wisdom/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/Janet-Yellen-solar-panel-Georgia.jpg?quality=85",
-            "publishedAt": "2024-03-28T19:06:21Z",
-            "content": "When the Inflation Reduction Act was first up for consideration in 2022, it received scant support from corporate America, including the oil-and-gas sector. So it may come as a surprise that it was a\u2026 [+3532 chars]"
-        },
-        {
-            "source": {
-                "id": "time",
-                "name": "Time"
-            },
-            "author": "Stephanie Zacharek",
-            "title": "Jane Fonda Champions Climate Action for Every Generation",
-            "description": "Along with\u00a0two Oscars, the actor and activist has five civil-disobedience arrests for climate protests at the U.S.\u00a0Capitol.",
-            "url": "http://time.com/6958813/earth-awards-2024-jane-fonda/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/earth-awards-2024-jane-fonda-crop.jpg?quality=85&w=1200&h=628&crop=1",
-            "publishedAt": "2024-03-27T12:00:33Z",
-            "content": "Jane Fonda, at86, is small-boned and elegant, her eyes like soft blue-gray flannel. Yet its startling how much energy shoots through her via a simple handshake: if a woodland creature could shake you\u2026 [+10294 chars]"
+            "author": "Alice Park",
+            "title": "Pregnancy Can Make You Age Faster",
+            "description": "Having children may take a biological toll on the body, according to the latest research.",
+            "url": "https://time.com/6964684/pregnancy-age-faster/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-148193722.jpg?quality=85",
+            "publishedAt": "2024-04-08T19:00:00Z",
+            "content": "Pregnancy is a wonder of biology, but new research shows that feat may come at a price. In a study published in Proceedings of the National Academy of Sciences, scientists found that women who have b\u2026 [+6085 chars]"
         },
         {
             "source": {
@@ -112,25 +333,324 @@
                 "name": "Time"
             },
             "author": "Solcyr\u00e9 Burga",
-            "title": "How to Find Solar Eclipse Glasses\u2014and Spot Fake Ones",
-            "description": "Here\u2019s everything you need to know about solar eclipse glasses, from where to buy them to how to spot fake ones.",
-            "url": "http://time.com/6958764/solar-eclipse-glasses-free-buy-fakes/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/SolarEclipseGlasses.gif",
-            "publishedAt": "2024-03-20T15:38:18Z",
-            "content": "Jan Mars is so excited about the upcoming solar eclipse that she purchased 1,200 branded pairs of solar eclipse glasses for her clients and friends.\r\nMan, it was definitely one of those things you wi\u2026 [+6899 chars]"
+            "title": "What to Do with Your Solar Eclipse Glasses After the Eclipse",
+            "description": "Solar eclipse glasses are a highly-coveted item. Here's how to donate yours.",
+            "url": "https://time.com/6964871/solar-eclipse-glasses-donate-2024/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/eclipse-glasses.jpg?quality=85",
+            "publishedAt": "2024-04-08T18:33:44Z",
+            "content": "More than 31 million people who live in the roughly 115-mile wide path of totality, and millions more who traveled to the U.S. to see Mondays total solar eclipse, will all be gazing at the sun wearin\u2026 [+1596 chars]"
         },
         {
             "source": {
                 "id": "time",
                 "name": "Time"
             },
-            "author": "Meg Zukin",
-            "title": "The Financial Influencers Women Actually Want to Listen To",
-            "description": "These women aim to help women achieve financial stability without infantilizing them.",
-            "url": "http://time.com/6958080/women-personal-finance-planning/",
-            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/240325WFINANCE_girlboss.jpg?quality=85",
-            "publishedAt": "2024-03-20T11:00:00Z",
-            "content": "If youve spent any time on TikTok in the last eight or so months, youve probably come across the concept of girl math. Essentially, its the idea that spending less money, or buying something on sale,\u2026 [+10253 chars]"
+            "author": "Simmone Shah",
+            "title": "See Today\u2019s Total Solar Eclipse in Photos",
+            "description": "Crowds are gathering across the country in preparation for today's solar eclipse. Here are photos of the eclipse and of its millions of viewers.",
+            "url": "https://time.com/6964865/total-solar-eclipse-photos-2024/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/solar-eclipse-photos-11.jpg?quality=85",
+            "publishedAt": "2024-04-08T18:15:45Z",
+            "content": "Crowds are gathering across the U.S. in preparation for todays total solar eclipse, an event expected to draw millions of viewers across the U.S. Viewing sites are being set up across the path of tot\u2026 [+2629 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Solcyr\u00e9 Burga",
+            "title": "Biden Announces New Student Loan Forgiveness Plan Details. Here\u2019s What to Know",
+            "description": "The Biden Administration will announce some new details of its proposed student loan forgiveness plan Monday",
+            "url": "https://time.com/6964826/biden-new-student-loan-forgiveness-plan/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/biden-student-loans.jpg?quality=85",
+            "publishedAt": "2024-04-08T16:58:00Z",
+            "content": "The Biden Administration will announce some new details of its proposed student loan forgiveness plan Monday, which if implemented, could bring forgiveness for a combined 30 million people this fall.\u2026 [+4060 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Judy Berman",
+            "title": "The Curb Your Enthusiasm and Seinfeld Finales Were More Different Than You Think",
+            "description": "Larry David never changes. But, as he subtly points out in the 'Curb Your Enthusiasm' series finale, society has taken a turn for the worse.",
+            "url": "https://time.com/6964642/curb-your-enthusiasm-finale-seinfeld/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/larry-david.jpg?quality=85",
+            "publishedAt": "2024-04-08T16:50:54Z",
+            "content": "Spoiler alert: This piece discusses the Curb Your Enthusiasm series finale.\r\nI am 76 years old, and I have never learned a lesson in my entire life,\" Larry David informs a little boy in a hotel lobby\u2026 [+5589 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "TIME Video",
+            "title": "Watch Live: The 2024 Total Solar Eclipse",
+            "description": "Watch TIME's livestream as we trace the solar eclipse's path of totality across North America.",
+            "url": "https://time.com/6964686/watch-2024-total-solar-eclipse/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-852475682.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2024-04-08T15:37:52Z",
+            "content": "Watch TIME's livestream as we trace the solar eclipse's path of totality across North America.\r\nApril 8, 2024 11:37 AM EDT\r\nWatch TIME's livestream as we trace the solar eclipse's path of totality ac\u2026 [+18 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Morgan Wallen Arrested After Allegedly Throwing a Chair Off a Bar Roof",
+            "description": "Country music singer Morgan Wallen has been arrested after police say he threw a chair off the rooftop of a six-story bar in Nashville",
+            "url": "https://time.com/6964697/morgan-wallen-arrested-chair-throw/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/morgan-wallen-arrest.jpg?quality=85",
+            "publishedAt": "2024-04-08T15:35:48Z",
+            "content": "Country music singer Morgan Wallen has been arrested after police say he threw a chair off the rooftop of a newly opened six-story bar in downtown Nashville. \r\nWallen, 30, was booked into jail early \u2026 [+706 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Time",
+            "title": "Here Are the Five Stages of Today\u2019s Total Solar Eclipse",
+            "description": "Today\u2019s solar eclipse will plunge large swaths of the U.S. into near total darkness as 15 states witness the sun completely cover the moon. It will enter the U.S. in Texas and exit in Maine, passing through Oklahoma, Arkansas, Missouri, Illinois, Kentucky, In\u2026",
+            "url": "https://time.com/6964736/total-solar-eclipse-five-stages/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/solar-eclipse-stages.jpg?quality=85",
+            "publishedAt": "2024-04-08T15:25:17Z",
+            "content": "Todays solar eclipse will plunge large swaths of the U.S. into near total darkness as 15 states witness the sun completely cover the moon.\r\nIt will enter the U.S. in Texas and exit in Maine, passing \u2026 [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Jonathan Majors Sentenced to Probation, Avoiding Jail Time in Domestic Violence Case",
+            "description": "Actor\u00a0Jonathan Majors\u00a0was sentenced to probation but avoided jail time Monday for assaulting his ex-girlfriend in a high-profile case",
+            "url": "https://time.com/6964704/jonathan-majors-sentence-avoids-jail-time/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/jonathan-majors-sentenced-probation.jpg?quality=85",
+            "publishedAt": "2024-04-08T14:59:27Z",
+            "content": "Actor Jonathan Majors was sentenced to probation but avoided jail time Monday for assaulting his ex-girlfriend in a high-profile case that derailed the once-promising stars career.\r\nThe 34-year-old s\u2026 [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Rebecca Boyle",
+            "title": "What the World Has Learned From Past Eclipses",
+            "description": "From Ancient Babylon to Albert Einstein, eclipses have been key moments in advancing our understanding of science.",
+            "url": "https://time.com/6964673/solar-eclipse-history-science/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-90763802.jpg?quality=85",
+            "publishedAt": "2024-04-08T14:49:17Z",
+            "content": "Clouds scudded over the small volcanic island of Principe, off the western coast of Africa, on the afternoon of May 29, 1919. Arthur Eddington, director of the Cambridge Observatory in the U.K., wait\u2026 [+10588 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Nik Popli",
+            "title": "Trump Doesn\u2019t Endorse a Nationwide Abortion Ban",
+            "description": "Donald Trump outlined a position on abortion, declining to endorse a national policy and saying the issue should be left up to the states.",
+            "url": "https://time.com/6964678/donald-trump-abortion-ban-states/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2147093102.jpg?quality=85",
+            "publishedAt": "2024-04-08T14:21:02Z",
+            "content": "Former President Donald Trump has opted not to endorse a nationwide abortion ban, instead asserting that the decision should be left to individual statesa stance that diverges from the desires of man\u2026 [+2773 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Bruce W. Dearstyne / Made by History",
+            "title": "A 1920s Lesson for Today\u2019s History Textbook Wars",
+            "description": "The struggles of a century ago show that historians need to keep explaining their work and role to the public.",
+            "url": "https://time.com/6900042/1920s-history-textbook-debate/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/03/textbook.jpg?quality=85",
+            "publishedAt": "2024-04-08T13:00:00Z",
+            "content": "The teaching of history has become a flashpoint in the culture wars. But while the battle is fierce, its not new. An earlier round in the conflict in the 1920s over the teaching of the American Revol\u2026 [+9018 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Carla K. Johnson/AP",
+            "title": "Most Cancer Drugs Granted Accelerated FDA Approval May Not Work",
+            "description": "The program is designed to give patients access to promising drugs, but most do not demonstrate benefits.",
+            "url": "https://time.com/6964602/do-cancer-drugs-work/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/fda-cancer-drugs.jpg?quality=85",
+            "publishedAt": "2024-04-08T12:43:05Z",
+            "content": "The U.S. Food and Drug Administrations accelerated approval program is meant to give patients early access to promising drugs. But how often do these drugs actually improve or extend patients lives?\r\u2026 [+2795 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Billy Perrigo",
+            "title": "Exclusive: Google Workers Revolt Over $1.2 Billion Contract With Israel",
+            "description": "Two Google workers have resigned and another was fired over a project providing AI and cloud services to the Israeli government and military",
+            "url": "https://time.com/6964364/exclusive-no-tech-for-apartheid-google-workers-protest-project-nimbus-1-2-billion-contract-with-israel/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/google-project-nimbus-no-tech-for-apartheid-2.jpg?quality=85",
+            "publishedAt": "2024-04-08T12:00:00Z",
+            "content": "In midtown Manhattan on March 4, Googles managing director for Israel, Barak Regev, was addressing a conference promoting the Israeli tech industry when a member of the audience stood up in protest. \u2026 [+13324 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Armani Syed",
+            "title": "Trump Posts Bizarre Solar Eclipse Campaign Ad, With His Head Blocking Out the Sun",
+            "description": "The video shows the former President's head block out the sun as he calls his 2024 campaign \u201cthe most important moment in human history.\"",
+            "url": "https://time.com/6964573/trump-bizarre-solar-eclipse-campaign-ad/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-836325138.jpg?quality=85",
+            "publishedAt": "2024-04-08T11:43:57Z",
+            "content": "In a new and bizarre campaign ad, Donald Trumps head takes the place of the moon and blocks out the sun in a nod to Mondays solar eclipse.\r\nThe campaign video was shared on Truth Social on Sunday, an\u2026 [+2143 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Beth Linker",
+            "title": "Actually, It\u2019s OK to Slouch",
+            "description": "Beth Linker explores how we became so obsessed with our posture\u2014and the panic it has created.",
+            "url": "https://time.com/6963839/slouch-posture-panic-essay/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/ok-to-slouch-002.jpg?quality=85",
+            "publishedAt": "2024-04-08T11:00:00Z",
+            "content": "One of the latest and surprising findings in the field of physical therapy is that slouching is not as bad as we think it is. Certain researchers have gone so far as to say that the conventional fear\u2026 [+10366 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Nicole Winfield / AP",
+            "title": "Vatican Calls Gender-Affirming Surgery, Surrogacy a Threat to Human Dignity in New Document",
+            "description": "The Vatican\u2019s doctrine office issued \u201cInfinite Dignity,\u201d a 20-page declaration that has been in the works for five years.",
+            "url": "https://time.com/6964562/vatican-blasts-gender-affirming-surgery/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2146073196.jpg?quality=85",
+            "publishedAt": "2024-04-08T10:51:55Z",
+            "content": "VATICAN CITY The Vatican on Monday declared gender-affirming surgery and surrogacy as grave threats to human dignity, putting them on par with abortion and euthanasia as practices that violate Gods p\u2026 [+5960 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Mike Corder / AP",
+            "title": "Nicaragua Is Taking Germany to Court Over Claim It\u2019s Aiding Israel\u2019s \u2018Genocide\u2019",
+            "description": "The country is arguing before the top U.N. court that Berlin's support for Israel is enabling 'genocide' in Gaza.",
+            "url": "https://time.com/6964555/nicaragua-germany-icj-israel/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2141939884.jpg?quality=85",
+            "publishedAt": "2024-04-08T10:34:26Z",
+            "content": "THE HAGUE, Netherlands Nicaragua on Monday called on the United Nations' top court to halt German military and other aid to Israel, arguing that Berlin's support was enabling acts of genocide and bre\u2026 [+4757 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Will Weissert / AP",
+            "title": "Biden Administration Announces $6.6 Billion for Made in America Microchips",
+            "description": "The funds for\u00a0Taiwan Semiconductor Manufacturing Co.\u00a0mean the company can expand plans for two facilities in Phoenix and add a third.",
+            "url": "https://time.com/6964542/biden-microchips-america/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-1231364830.jpg?quality=85",
+            "publishedAt": "2024-04-08T10:04:27Z",
+            "content": "WILMINGTON, Del. The Biden administration pledged on Monday to provide up to $6.6 billion so that a Taiwanese semiconductor giant can expand the facilities it is already building in Arizona and bette\u2026 [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Russia\u2019s Foreign Minister Visits Beijing to Emphasize Strong Ties Amid War in Ukraine",
+            "description": "Beijing and Moscow have held joint military drills, and are seen as seeking to supplant democracies with dictatorships in areas where they wield influence.",
+            "url": "https://time.com/6964538/russia-foreign-minister-beijing-china-ukraine/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Russia-Foreign-Minister-Sergey-Lavrov-Beijing-Visit.jpg?quality=85",
+            "publishedAt": "2024-04-08T10:00:00Z",
+            "content": "BEIJING Russian Foreign Minister Sergey Lavrov arrived in Beijing Monday to display the strength of ties with close diplomatic ally China amid Moscows grinding war against Ukraine.\r\nThe two continent\u2026 [+3231 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Chad de Guzman",
+            "title": "What to Know About Elon Musk\u2019s Battle With a Brazilian Judge Over Speech on Social Media",
+            "description": "A Supreme Court judge in Brazil is taking on disinformation\u2014and going toe-to-toe with X owner Elon Musk, who claims to champion free speech.",
+            "url": "https://time.com/6964518/elon-musk-brazil-judge-moraes-free-speech-disinformation/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/brazil-social-media.jpg?quality=85",
+            "publishedAt": "2024-04-08T08:45:00Z",
+            "content": "When billionaire Elon Musk acquired Twitternow Xin 2022, some feared that the self-avowed free-speech absolutist would turn the platform into a free-for-all for disinformation. Now, as a Brazilian ju\u2026 [+5134 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Farai Mutsaka / AP",
+            "title": "Over 90 People Dead, Including Many Children, After Ferry Sinks Near Mozambique",
+            "description": "The overcrowded boat was reportedly carrying 130 people and many of those who drowned were children. Rescue efforts for missing people continued on Monday.",
+            "url": "https://time.com/6964511/mozambique-lunga-ferry-sink-drowns-death-toll-children/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/Mozambique-ferry-accident.jpg?quality=85",
+            "publishedAt": "2024-04-08T08:30:00Z",
+            "content": "HARARE, Zimbabwe A makeshift ferry sank off Mozambiques northern coast on Sunday, killing more than 90 people including children, local media reported.\r\nThe overcrowded boat was carrying 130 people a\u2026 [+1171 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Moises Mendez II",
+            "title": "Everything We Learned From Episode 5 of Quiet on Set",
+            "description": "\"Quiet on Set\" released a fifth episode of the docuseries, originally billed as a four-part series. Here's everything we learned.",
+            "url": "https://time.com/6964203/quiet-on-set-episode-5/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/13505969_ID_FKGX-_3214_e2.jpg?quality=85",
+            "publishedAt": "2024-04-08T01:00:00Z",
+            "content": "On Sunday night, Investigation Discovery released a fifth episode of Quiet on Set, a docuseries that has generated much conversation about what happened behind the scenes of several popular childrens\u2026 [+7044 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Sean Gregory",
+            "title": "Even After Championship Loss, Caitlin Clark\u2019s Legacy Is Untarnished",
+            "description": "After South Carolina had the game in hand on Sunday, and was about to win its second national championship in three seasons and finish off the 10th undefeated season in the history of women\u2019s college basketball, the ESPN on ABC cameras panned to Iowa\u2019s Caitli\u2026",
+            "url": "https://time.com/6964487/caitlin-clark-ncaa-championship-legacy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/GettyImages-2146813219.jpg?quality=85",
+            "publishedAt": "2024-04-08T00:43:55Z",
+            "content": "After South Carolina had the game in hand on Sunday, and was about to win its second national championship in three seasons and finish off the 10th undefeated season in the history of womens college \u2026 [+4230 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Associated Press",
+            "title": "Man Arrested for Setting Fire at Bernie Sanders\u2019 Office. Motive Remains Unclear",
+            "description": "A man was charged Sunday with setting a fire outside the Vermont office of U.S. Sen. Bernie Sanders.",
+            "url": "https://time.com/6964462/bernie-sanders-office-fire-man-arrested-charged-motive/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/AP24096773084962.jpg?quality=85",
+            "publishedAt": "2024-04-07T19:59:28Z",
+            "content": "BURLINGTON, Vt. A man was charged Sunday with setting a fire outside the Vermont office of U.S. Sen. Bernie Sanders, federal prosecutors said.\r\nShant Soghomonian, 35, who was previously of Northridge\u2026 [+1068 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Mallory Moench",
+            "title": "What Time to See the Solar Eclipse Broken Down by State",
+            "description": "Here are the times the solar eclipse will pass through the key U.S. states on Monday, April 8.",
+            "url": "https://time.com/6963975/what-time-to-see-solar-eclipse-us-states/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2024/04/solar-eclipse-when-to-see.jpg?quality=85",
+            "publishedAt": "2024-04-07T18:00:00Z",
+            "content": "Tens of millions of people live in the path of the highly-anticipated total solar eclipse passing through the U.S. on Monday, April 8, with others planning to travel to see it.\u00a0\r\nThe total eclipse, d\u2026 [+3193 chars]"
         }
     ]
 }

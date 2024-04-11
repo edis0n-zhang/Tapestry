@@ -1,19 +1,474 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 5190,
     "articles": [
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Megan Myers",
-            "title": "Broker who found alleged Shake Shack squatters in $930K home says city is allowing \u2018culture of lawlessness\u2019",
-            "description": "A New York broker encountered alleged squatters at a Queens property she manages. Now they're suing her and the homeowner to prove their legal rights to be in the property.",
-            "url": "https://www.foxnews.com/media/broker-found-alleged-shake-shack-squatters-930k-home-says-city-allowing-culture-lawlessness",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/ejona-thumb.jpg",
-            "publishedAt": "2024-04-04T22:30:29Z",
-            "content": "NEW YORK CITY A \"culture of lawlessness\" has allowed squatters to take control of properties and haul homeowners through costly, lengthy legal battles, a real estate broker facing alleged squatters o\u2026 [+4680 chars]"
+            "author": "Louis Casiano",
+            "title": "Missouri death row inmate who killed cousin and her husband in 2006 is executed",
+            "description": "A Missouri man slated to be executed for a pair of 2006 slayings ate his last meal hours before his execution, corrections officials said Tuesday.",
+            "url": "https://www.foxnews.com/us/missouri-death-row-inmate-killed-cousin-husband-2006-executed",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/brian_dorsey.jpg",
+            "publishedAt": "2024-04-09T23:48:24Z",
+            "content": "A Missouri death row inmate was executed Tuesday night following denials of two appeals by the U.S. Supreme Court for a pair of 2006 slayings.\r\nBrian Dorsey, 52, was pronounced dead at 6:11 p.m. afte\u2026 [+3056 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lindsay Kornick",
+            "title": "The Rock displayed 'political cowardice' by not endorsing Biden, former ESPN anchor claims",
+            "description": "Former ESPN journalist Jemele Hill called out Dwayne \"The Rock\" Johnson for not endorsing President Biden despite previously supporting him in the 2020 election.",
+            "url": "https://www.foxnews.com/media/the-rock-political-cowardice-not-endorsing-biden-former-espn-anchor-claims",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/DWAYNE-JOHNSON-JEMELE-HILL.jpg",
+            "publishedAt": "2024-04-09T23:36:38Z",
+            "content": "Ex-ESPN anchor Jemele Hill called out Dwayne \"The Rock\" Johnson for \"political cowardice\" because he won't publicly endorse President Biden ahead of the 2024 election.\r\nIn an exclusive interview with\u2026 [+3437 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Paul Simon is performing at Wednesday's White House state dinner for Japan's prime minister Kishida",
+            "description": "Paul Simon will perform at this week's White House state dinner for Japan's prime minister Fumio Kishida; the first lady and Kishida are both admirers of Simon's work, according to the White House.",
+            "url": "https://www.foxnews.com/entertainment/paul-simon-performing-wednesdays-white-house-state-dinner-japans-prime-minister-kishida",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/US-Japan-Dinner.gif",
+            "publishedAt": "2024-04-09T23:30:09Z",
+            "content": "WASHINGTON (AP) Paul Simon, one of Jill Biden's favorite musicians, will sing at this week's White House state dinner for Japan.\r\nThe first lady chose the singer-songwriter as a special tribute for J\u2026 [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Spanish parliament votes to consider residency, work permits for migrants",
+            "description": "Hundreds of thousands of foreigners living in Spain without proper documentation could be granted residency and work permits through new legislation; Spain's parliament agreed to consider it.",
+            "url": "https://www.foxnews.com/world/spanish-parliament-votes-consider-residency-work-permits-migrants",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/DOTCOM_STATE_COUNTRY_NEWS_GEN_SPAIN.png",
+            "publishedAt": "2024-04-09T23:28:37Z",
+            "content": "BARCELONA, Spain (AP) Spain's parliament agreed Tuesday to consider legislation that could grant residency and work permits to hundreds of thousands of foreigners living in Spain without proper docum\u2026 [+1720 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Republicans debate ahead of runoff for Alabama congressional seat",
+            "description": "A debate between Dick Brewbaker and Caroleene Dobson, who are running for Alabama's redrawn 2nd Congressional District, aired on Monday ahead of next week's runoff.",
+            "url": "https://www.foxnews.com/politics/republicans-debate-ahead-runoff-alabama-congressional-seat",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Election-2024-Alabama-House.gif",
+            "publishedAt": "2024-04-09T23:24:51Z",
+            "content": "MONTGOMERY, Ala. (AP) The two Republicans running for Alabama's redrawn 2nd Congressional District clashed in a debate that aired Monday ahead of next week's runoff.\r\nDick Brewbaker, a businessman an\u2026 [+3148 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Morik",
+            "title": "Tim Wakefield's daughter throws out first pitch in Red Sox's first home game since father's death",
+            "description": "The Red Sox honored the 2004 team that famously won the World Series after their history comeback against the Yankees, and the late Tim Wakefield's daughter threw out the first pitch.",
+            "url": "https://www.foxnews.com/sports/tim-wakefields-daughter-throws-out-first-pitch-red-soxs-first-home-game-since-fathers-death",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/brianna-wakefield-1.jpg",
+            "publishedAt": "2024-04-09T23:10:00Z",
+            "content": "The Boston Red Sox played their first home game of the season on Tuesday, but it was somber.\r\nIt was the team's first game at Fenway Park since their former pitcher, Tim Wakefield, died of brain canc\u2026 [+1880 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Dengue fever outbreak in Argentina leads to shortage of a must-have item: mosquito repellent",
+            "description": "As Argentina contends with a dengue fever outbreak, mosquito repellent has been sold out in nearly all stores in Buenos Aires and is selling online for as much as 10 times the retail value.",
+            "url": "https://www.foxnews.com/world/dengue-fever-outbreak-argentina-leads-shortage-must-have-item-mosquito-repellent",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Argentina-Dengue.gif",
+            "publishedAt": "2024-04-09T23:05:10Z",
+            "content": "BUENOS AIRES, Argentina (AP) Shelves have gone empty, as residents hunt in vain and resort to DIY alternatives. And surging resale prices are shocking even to Argentines accustomed to triple-digit in\u2026 [+5238 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Atlanta-area prosecutor to seek misdemeanor charges against driver who killed 4-year-old",
+            "description": "Gwinnett County District Attorney Patsy Austin-Gatson announced Tuesday her office's intent to seek misdemeanor charges against a man accused of fatally running over a four-year-old.",
+            "url": "https://www.foxnews.com/us/atlanta-area-prosecutor-seek-misdemeanor-charges-against-driver-killed-4-year-old",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/468d894e-atlantaskyline.jpg",
+            "publishedAt": "2024-04-09T23:03:35Z",
+            "content": "A suburban Atlanta prosecutor says she will seek misdemeanor charges against a man who ran over and killed a 4-year-old girl after family members protested when police said felony charges weren't jus\u2026 [+1834 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "California struggling to gauge efficacy of homeless crisis spending",
+            "description": "California has struggled to track whether the $24 billion it has spent to combat homelessness over the past five years has done anything to improve the issue.",
+            "url": "https://www.foxnews.com/politics/california-struggling-gauge-efficacy-homeless-crisis-spending",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/california_homelessness.jpg",
+            "publishedAt": "2024-04-09T23:00:00Z",
+            "content": "<ul><li>California is struggling to determine whether the $24 billion spent to combat homelessness over the past five years has had any meaningful impact.</li><li>A state audit released Tuesday found\u2026 [+3451 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Cirque du Soleil to close 'Beatles Love' show after 18 years",
+            "description": "Cirque du Soleil's \"The Beatles Love\" show, which has been seen by some 11.5 million people since its 2006 launch, will close this summer.",
+            "url": "https://www.foxnews.com/entertainment/cirque-du-soleil-close-beatles-love-show-18-years",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/beatles_love.jpg",
+            "publishedAt": "2024-04-09T22:58:04Z",
+            "content": "The final curtain will come down this summer on Cirque du Soleil's long-running show \"The Beatles Love,\" a cultural icon on the Las Vegas Strip that brought band members Paul McCartney and Ringo Star\u2026 [+1741 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "New England Aquarium's 500-pound, 95-year-old sea turtle gets clean bill of health",
+            "description": "\"Myrtle,\" a 500-pound ancient green sea turtle who's been kept at the New England Aquarium in Boston for over 50 years, received a routine medical examination Tuesday.",
+            "url": "https://www.foxnews.com/us/new-england-aquariums-500-pound-95-year-old-sea-turtle-gets-clean-bill-health",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/boston_turtle.jpg",
+            "publishedAt": "2024-04-09T22:56:36Z",
+            "content": "Apparently it's pretty easy being green after all.\r\nThat was the takeaway from Tuesday's physical examination of Myrtle, an ancient green sea turtle that has delighted visitors to the New England Aqu\u2026 [+2118 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Michael Lee",
+            "title": "Raised fees for legal immigration \u2018incentivizes\u2019 illegal crossings: expert",
+            "description": "A U.S. Citizenship and Immigration Services fee increase for legal immigration could only serve to further incentivize illegal immigration and border crossings.",
+            "url": "https://www.foxnews.com/us/raised-fees-legal-immigration-incentivizes-illegal-crossings-expert",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/GettyImages-990913602.jpg",
+            "publishedAt": "2024-04-09T22:51:34Z",
+            "content": "The U.S. Citizenship and Immigration Services first fee increase in over seven years went into effect at the start of April, a change that could further fuel illegal border crossings.\r\n\"If it is fast\u2026 [+3174 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Judge blocks demolition of art installation at Des Moines park",
+            "description": "A federal judge has blocked plans to demolish the dilapidated \"Greenwood Pond: Double Site\" art installation at a Des Moines, Iowa, city park.",
+            "url": "https://www.foxnews.com/us/judge-blocks-demolition-art-installation-des-moines-park",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/iowa_installation.jpg",
+            "publishedAt": "2024-04-09T22:50:43Z",
+            "content": "<ul><li>A federal judge has temporarily prevented the demolition of \"Greenwood Pond: Double Site,\" a deteriorating art installation at a Des Moines city park.</li><li>U.S. District Court Judge Stephe\u2026 [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Teny Sahakian",
+            "title": "Public school students in this state could soon be required to take gun safety courses",
+            "description": "The Tennessee state legislature passed a bill that would require public schools to teach \"age-appropriate and grade-appropriate\" gun safety courses to students.",
+            "url": "https://www.foxnews.com/media/public-school-students-state-could-soon-required-take-gun-safety-courses",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/tennessee-gun-classes-thumb-v1.png",
+            "publishedAt": "2024-04-09T22:43:15Z",
+            "content": "The Tennessee state legislature passed a bill, which is now headed to the governor's desk, requiring public schools to teach \"age-appropriate and grade-appropriate\" gun safety courses to students sta\u2026 [+2582 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "CBP seizes multiple weapons headed for Mexico, including AK-style rifle taped to migrant\u2019s bare chest",
+            "description": "CBP officers seized more than a dozen firearms at the Port of Nogales over 10 days, including one taped to the bare chest of a migrant.",
+            "url": "https://www.foxnews.com/us/cbp-seizes-multiple-weapons-headed-mexico-including-ak-style-rifle-taped-migrants-bare-chest",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/AK-Rifle.jpg",
+            "publishedAt": "2024-04-09T22:43:02Z",
+            "content": "U.S. Customs and Border Protection (CBP) said it seized more than a dozen weapons, mostly AK-style guns, headed for Mexico to support transnational criminal organizations in recent weeks. \u00a0\r\nThe weap\u2026 [+859 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Missouri death row inmate who killed cousin and her husband, eats last meal of cheeseburgers, pizza and fries",
+            "description": "A Missouri man slated to be executed for a pair of 2006 slayings ate his last meal hours before his execution, corrections officials said Tuesday.",
+            "url": "https://www.foxnews.com/us/missouri-death-row-inmate-killed-cousin-husband-cheeseburgers-pizza-fries",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/brian_dorsey.jpg",
+            "publishedAt": "2024-04-09T22:42:44Z",
+            "content": "A Missouri death row inmate slated to be executed Tuesday night following denials of two appeals by the U.S. Supreme Court for a pair of 2006 slayings had a hearty last meal.\r\nBrian Dorsey, 52, was s\u2026 [+2456 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ashlyn Messier",
+            "title": "World\u2019s oldest man, age 111, shares secrets to living a long life",
+            "description": "John Alfred Tinniswood of England is the world's oldest man at 111 years old. Tinniswood said he mostly credits his longevity to \"pure luck.\" But he does have a special meal he eats each week.",
+            "url": "https://www.foxnews.com/lifestyle/worlds-oldest-man-111-shares-secrets-living-long-life",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/john-alfred-tinniswood.gif",
+            "publishedAt": "2024-04-09T22:37:22Z",
+            "content": "How has the worlds oldest man lived such a long life?\r\nFor starters, no smoking, little alcohol and a fair amount of good luck have contributed to his lengthy life\u00a0\r\nAnd maybe a weekly batch of fish \u2026 [+2966 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chantz Martin",
+            "title": "Golfers Scottie Scheffler and Sam Burns on baby standby entering The Masters",
+            "description": "Top ranked golfer, Scottie Scheffler and fellow American star golfer Sam Burns will likely keep a close eye on the status of their respective wives during The Masters tournament.",
+            "url": "https://www.foxnews.com/sports/golfers-scottie-scheffler-sam-burns-baby-standby-entering-the-masters",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Sam-Burns-Scottie-Scheffler.jpg",
+            "publishedAt": "2024-04-09T22:37:09Z",
+            "content": "Scottie Scheffler enters the 2024 Masters Tournament as the world's top ranked pro golfer and one of the favorites to earn the iconic green jacket on Sunday. His close friend and fellow American golf\u2026 [+2408 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Colombian prosecutors say former President Uribe will face trial in witness tampering probe",
+            "description": "Colombia's former President \u00c1lvaro Uribe will be called to trial for alleged 'bribery of witnesses in criminal proceedings and procedural fraud,' the country's prosecutor's office said Tuesday.",
+            "url": "https://www.foxnews.com/world/colombian-prosecutors-say-former-president-uribe-face-trial-witness-tampering-probe",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Colombia-Ex-President-Prosecution.gif",
+            "publishedAt": "2024-04-09T22:27:14Z",
+            "content": "BOGOTA, Colombia (AP) Colombia's prosecutor's office said Tuesday they will call former President \u00c1lvaro Uribe to trial for the alleged crimes of bribery of witnesses in criminal proceedings and proc\u2026 [+1465 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Former Venezuelan oil czar arrested in corruption probe",
+            "description": "Former Venezuelan Oil Minister Tareck El Aissami has been arrested in connection with a corruption scheme based on international petroleum sales.",
+            "url": "https://www.foxnews.com/world/former-venezuelan-oil-czar-arrested-corruption-probe",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/tareck_el_aissami.jpg",
+            "publishedAt": "2024-04-09T22:25:32Z",
+            "content": "<ul><li>Tareck El Aissami, the once-powerful minister in charge of Venezuela's rich oil reserves, has been arrested.</li><li>El Aissami, who resigned last year, is set to appear in court for the firs\u2026 [+2672 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Stepheny Price",
+            "title": "Prominent Las Vegas attorney, his wife gunned down by fellow attorney who had terminal cancer",
+            "description": "The prominent Las Vegas attorney who was gunned down in his own law firm alongside his wife was killed by a fellow attorney who had terminal cancer, a source tells Fox News Digital.",
+            "url": "https://www.foxnews.com/us/prominent-las-vegas-attorney-his-wife-gunned-down-by-fellow-attorney-terminal-cancer",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Dennis-Prince-with-son-.png",
+            "publishedAt": "2024-04-09T22:24:55Z",
+            "content": "A former law partner and close friend of Dennis Prince, the prominent Las Vegas attorney who was gunned down alongside his wife at his own law firm, shared new details about the tragic killing with F\u2026 [+5475 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Chiefs superfan ordered to pay bank teller $10.8 million in string of bank robberies",
+            "description": "Xaviar Babudar was ordered by a federal judge last week to pay a former bank teller $10.8 million for a bank robbery in December 2022.",
+            "url": "https://www.foxnews.com/sports/chiefs-superfan-ordered-pay-bank-teller-10-8-million-string-bank-robberies",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/xavier_Babudar_3.jpg",
+            "publishedAt": "2024-04-09T22:24:32Z",
+            "content": "Xaviar Michael Babudar, the Kansas City Chiefs\r\n superfan known as \"ChiefsAholic,\" was ordered by an Oklahoma judge to pay $10.8 million to a bank teller he threatened and assaulted with a gun during\u2026 [+1927 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Committee discourages impeachment of Vermont sheriff accused of kicking suspect",
+            "description": "A special legislative committee in Vermont has recommended against impeachment proceedings for Franklin County Sheriff John Grismore, but urged that he resign from office.",
+            "url": "https://www.foxnews.com/politics/committee-discourages-impeachment-vermont-sheriff-accused-kicking-suspect",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/12/John-Grismore.jpg",
+            "publishedAt": "2024-04-09T22:23:27Z",
+            "content": "A special legislative committee recommended against impeachment Tuesday of a Vermont sheriff charged with assault for kicking a shackled prisoner but said the sheriff is doing a disservice by remaini\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Elizabeth Stanton",
+            "title": "Reba McEntire\u2019s 'inseparable\u2019 relationship with Rex Linn began 'without ever touching'",
+            "description": "Reba McEntire opened up about kicking off her relationship with Rex Linn by spending time apart during the pandemic and getting to know each other by phone.",
+            "url": "https://www.foxnews.com/entertainment/reba-mcentires-inseparable-relationship-rex-linn-began-without-ever-touching",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/RexLinnRebaMcEntire.jpg",
+            "publishedAt": "2024-04-09T22:22:00Z",
+            "content": "Reba McEntire confirmed that absence does make the heart grow fonder.\r\nIn an interview with E! News, she opened up about her relationship with actor Rex Linn.\r\nThe couple first met in 1991, but were \u2026 [+2435 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Pro-Palestinian protesters' painted red hands a 'symbol' rooted in 'craze to see blood': expert",
+            "description": "The symbol of pro-Palestinian demonstrators with painted red hands is a symbol of \"brutality and human depravity,\" and represents Israel's \"existential threat.\"",
+            "url": "https://www.foxnews.com/world/pro-palestinian-protesters-painted-red-hands-symbol-rooted-craze-see-blood-expert",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Palestine-red-hand.jpg",
+            "publishedAt": "2024-04-09T22:13:15Z",
+            "content": "Pro-Palestinian demonstrators with painted red hands has a deeper meaning that is meant to signify the \"emasculation of Jews\" and represent a \"bloody defeat.\"\r\nAnne Bayefsky, director of the Touro In\u2026 [+4013 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ashley Hume",
+            "title": "Jodie Foster told Robert Downey Jr. she was 'scared of what happens to you next' amid his addiction struggles",
+            "description": "Jodie Foster recalled pulling Robert Downey Jr. aside and expressing her worries over his addiction struggles while on the set of the 1995 movie \"Home for the Holidays.\"",
+            "url": "https://www.foxnews.com/entertainment/jodie-foster-told-robert-downey-jr-scared-what-happens-next-amid-his-addictions-struggles",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/robert_jodie.jpg",
+            "publishedAt": "2024-04-09T22:09:40Z",
+            "content": "Jodie Foster recalled telling Robert Downey Jr. she feared for his future amid his struggles with addiction in the 1990s.\r\nDuring an interview with Esquire, the 61-year-old actress reflected on direc\u2026 [+3967 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Thomas Catenacci",
+            "title": "GOP Senate hopeful looks to distance himself from link to Texas green energy firm",
+            "description": "FIRST ON FOX: Republican Utah Senate candidate Trent Staggs previously worked for a firm that describes itself as an \"ESG company,\" despite his stance against ESG policies.",
+            "url": "https://www.foxnews.com/politics/republican-senate-candidate-running-pro-energy-platform-served-esg-focused-companys-board",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/f07e0dbc-Untitled-2.jpg",
+            "publishedAt": "2024-04-09T22:02:57Z",
+            "content": "Republican Utah Senate candidate Trent Staggs has taken a hard stance against progressive ideas when it comes to environmental, social and governance issues (otherwise known as ESG) while he's been o\u2026 [+2967 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Christine Rousselle",
+            "title": "Pro-life diaper company donates supply of diapers to murdered NYPD officer's family",
+            "description": "The pro-life diaper company EveryLife is providing the widow of NYPD Officer Jonathan Diller with a lifetime supply of diapers and wipes for her young son, Ryan.",
+            "url": "https://www.foxnews.com/lifestyle/pro-life-diaper-company-donates-supply-diapers-murdered-nypd-officers-family",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/TID_Jonathan-Diller_Funeral_3400.jpg",
+            "publishedAt": "2024-04-09T22:01:19Z",
+            "content": "The pro-life diaper company Everylife has donated a lifetime supply of diapers and wipes to the family of murdered NYPD Officer Jonathan Diller.\r\n\"At EveryLife, we believe in supporting families and \u2026 [+2717 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brian Flood",
+            "title": "USA Today reportedly changes headline on Trump\u2019s abortion stance after Biden-Harris campaign complain",
+            "description": "USA Today reportedly changed a headline about presumptive GOP nominee Donald Trump\u2019s abortion stance to appease the Biden-Harris campaign after staffers complained on a press call.",
+            "url": "https://www.foxnews.com/media/usa-today-reportedly-changes-headline-trumps-abortion-stance-after-biden-harris-campaign-complain",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/biden-trump.jpg",
+            "publishedAt": "2024-04-09T22:00:00Z",
+            "content": "USA Today changed a headline about presumptive GOP nominee Donald Trumps abortion stance after the Biden-Harris campaign called it \"erregiously false.\"\u00a0\r\nOn Monday, Biden-Harris campaign manager\u00a0Juli\u2026 [+2668 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Louis Casiano",
+            "title": "Florida woman who stole, sold Biden's daughter's diary sentenced to one month in prison",
+            "description": "A woman who stole and then sold the personal journal of President Biden's daughter was sentenced to a month in federal prison on Tuesday.",
+            "url": "https://www.foxnews.com/politics/florida-woman-stole-sold-bidens-daughters-diary-sentenced-one-month-prison",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Harris.jpg",
+            "publishedAt": "2024-04-09T21:58:07Z",
+            "content": "A Florida woman who stole the diary of President Biden's daughter and then sold it to a conservative group was sentenced Tuesday to one month in prison.\u00a0\r\nAimee Harris appeared in a Manhattan federal\u2026 [+2488 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Morik",
+            "title": "Purdue's Zach Edey 'quit' in national championship, Draymond Green says: 'He was done'",
+            "description": "Draymond Green said Zach Edey \"quit\" early in the second half of the national championship even though Edey scored 21 points in the final 15 minutes of play.",
+            "url": "https://www.foxnews.com/sports/purdues-zach-edey-quit-national-championship-draymond-green-says-he-was-done",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/6480c9a0-Zach-Edey.jpg",
+            "publishedAt": "2024-04-09T21:51:32Z",
+            "content": "Zach Edey had one of the best performances in national championship history on paper, but one NBA veteran says it should have been even better.\r\nThe Purdue big man dropped 37 points, but the UConn Hu\u2026 [+1770 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Joe Schoffstall, Cameron Cawthorne, Michael Lee",
+            "title": "Activist who spurred 'death to America' chants called for Israel's 'absolute annihilation' in unearthed video",
+            "description": "An anti-Israel activist who went viral on social media over the weekend has a history of espousing violent rhetoric, including saying, 'Blood must be spilled.'",
+            "url": "https://www.foxnews.com/politics/activist-who-spurred-death-america-chants-called-israels-absolute-annihilation-unearthed-video",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/protest-jewishflag.jpg",
+            "publishedAt": "2024-04-09T21:44:54Z",
+            "content": "An anti-Israel activist who went viral over the weekend in Michigan for spurring \"Death to America\" and \"Death to Israel\" chants has a history of espousing violent rhetoric.\r\nTarek Bazzi, a Michigan-\u2026 [+4636 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Chris Pandolfo",
+            "title": "Republican senator slams 'unserious' efforts by Congress to hold Biden, COVID authorities accountable",
+            "description": "Wisconsin Republican Sen. Ron Johnson on Tuesday warned that the federal government has grown so large that oversight and accountability is nearly impossible.",
+            "url": "https://www.foxnews.com/politics/republican-senator-slams-unserious-efforts-congress-hold-biden-covid-authorities-accountable",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/ron-johnson.jpg",
+            "publishedAt": "2024-04-09T21:36:58Z",
+            "content": "Sen. Ron Johnson, R-Wisc., lambasted Congress on Tuesday for \"out of control\" federal spending and \"unserious\" efforts to hold the government accountable.\r\nJohnson, the ranking member on the Permanen\u2026 [+3041 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Explosive device thrown onto porch of Satanic Temple in northern Boston suburbs",
+            "description": "An explosive device was thrown onto the porch of the Satanic Temple in Salem, Massachusetts, according to police. No one was present at the time, nor were any injuries reported.",
+            "url": "https://www.foxnews.com/us/explosive-device-thrown-porch-satanic-temple-northern-boston-suburbs",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/satanic_temple.jpg",
+            "publishedAt": "2024-04-09T21:32:41Z",
+            "content": "Someone threw an explosive device onto the porch of The Satanic Temple in Massachusetts at a time when no one was inside, and the device and damage it caused were not found until nearly 12 hours late\u2026 [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Morik",
+            "title": "Ja Morant acted in self-defense during physical altercation with teen, judge rules",
+            "description": "A judge in Tennessee ruled that Memphis Grizzlies All-Star Ja Morant acted in self-defense during his altercation with a then-17-year-old at his house nearly two years ago.",
+            "url": "https://www.foxnews.com/sports/ja-morant-acted-self-defense-physical-altercation-teen-judge-rules",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Ja-Morant6.jpg",
+            "publishedAt": "2024-04-09T21:26:16Z",
+            "content": "A judge ruled that Ja Morant acted in self-defense during his physical altercation at his house in July 2022.\r\nThe incident occurred during a pickup basketball game when then 17-year-old Joshua Holla\u2026 [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "White House downplays Biden accusing GOP of \u2018killing millions of Americans\u2019 by terminating Affordable Care Act",
+            "description": "The White House has downplayed President Biden's suggestion that House Republicans were essentially \u201ckilling millions of Americans\" by slashing the Affordable Care Act.",
+            "url": "https://www.foxnews.com/politics/white-house-downplays-biden-accusing-gop-killing-millions-americans-terminating-affordable-care-act",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/KJP.jpg",
+            "publishedAt": "2024-04-09T21:19:15Z",
+            "content": "The White House on Tuesday downplayed remarks President Biden made earlier in the day in which he seemed to suggest that House Republicans were essentially \"killing millions of Americans\" by slashing\u2026 [+2563 chars]"
         },
         {
             "source": {
@@ -21,64 +476,142 @@
                 "name": "Fox News"
             },
             "author": "Brittany Kasko",
-            "title": "Toronto woman takes novel approach to dating by stamping hands at bars: \u2018You\u2019re cute, you should hit me up'",
-            "description": "A Toronto woman who was struggling to find a partner decided to make a personalized stamp to give to eligible men at the bar. See what it said and if it worked!",
-            "url": "https://www.foxnews.com/lifestyle/toronto-woman-takes-approach-dating-stamping-hands-bars-youre-cute-hit-me-up",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/stamp-split.jpg",
-            "publishedAt": "2024-04-04T22:03:40Z",
-            "content": "A woman has decided to kick her dating efforts up a notch by making custom \"stamps\" to use to her advantage.\u00a0\r\nMichelle Arshad, 24, is from Toronto, Ontario, Canada and is apparently fed up with dati\u2026 [+2600 chars]"
+            "title": "Florida woman shocked to find large alligator crawling through her home: 'I was shaking'",
+            "description": "A woman in Venice, Florida, recently called 911 after discovering a large alligator crawling through her house. The woman said the sight of the reptile had her \"shaking.\"",
+            "url": "https://www.foxnews.com/lifestyle/florida-woman-discovers-alligator-crawling-through-home-i-was-shaking",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/alligator-split.jpg",
+            "publishedAt": "2024-04-09T21:10:26Z",
+            "content": "An alligator recently strolled into a Florida woman's home after making its way through a screen door that was latched shut with a magnet.\r\nOn March 28, the homeowner, Mary Hollenback of Venice, foun\u2026 [+2999 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Hannah Grossman",
-            "title": "Boston hospital to scale back on child abuse and neglect reports that can perpetuate 'structural racism'",
-            "description": "Mass General Brigham announced it would its update policies on automatically flagging child abuse and neglect reports in cases of mothers testing positive for drugs.",
-            "url": "https://www.foxnews.com/media/boston-hospital-scale-back-child-abuse-neglect-reports-perpetuate-structural-racism",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/pregnant-woman-blood-test.jpg",
-            "publishedAt": "2024-04-04T21:27:50Z",
-            "content": "A Boston, Massachusetts, hospital announced Tuesday that after finding Black mothers were more likely to be reported for child abuse and neglect if a toxicology report came back positive, it would be\u2026 [+3885 chars]"
+            "author": "Tracy Wright",
+            "title": "Jay Leno granted conservatorship over wife Mavis due to her dementia diagnosis: report",
+            "description": "Jay Leno was granted a conservatorship over wife Mavis' estate Tuesday after he filed a petition with the Los Angeles courts in January to protect their assets.",
+            "url": "https://www.foxnews.com/entertainment/jay-leno-granted-conservatorship-wife-mavis-due-dementia-diagnosis",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/jay-leno-conservatorship-mavis-wife.jpg",
+            "publishedAt": "2024-04-09T21:01:45Z",
+            "content": "A Los Angeles judge appointed Jay Leno conservator over his wife Mavis' estate Tuesday.\r\nThe former late-night host\r\n filed the petition in January, and stated that his wife of more than four decades\u2026 [+1986 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Jamie Joseph",
-            "title": "Chicago mayor urges Biden to grant work permits to half million illegal immigrants",
-            "description": "Chicago Mayor Brandon Johnson urged President Biden on Thursday to grant work permits to nearly 500,000 illegal migrants living in the state.",
-            "url": "https://www.foxnews.com/politics/chicago-mayor-urges-biden-grant-work-permits-half-million-illegal-immigrants",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/johnson_shelters.png",
-            "publishedAt": "2024-04-04T21:03:55Z",
-            "content": "Chicago Mayor Brandon Johnson urged President Biden on Thursday to grant work permits to nearly 500,000 illegal migrants living in the state. Johnson also said the city, which has roughly 2.7 million\u2026 [+2693 chars]"
+            "author": "Kendall Tietz",
+            "title": "Scrabble releases \u2018less competitive,\u2019 more \u2018inclusive\u2019 version of game to appeal to Gen Z",
+            "description": "Scrabble Together will include helper cards, using a simpler scoring system that will be quicker to play and allow people to play in teams.",
+            "url": "https://www.foxnews.com/media/scrabble-releases-less-competitive-more-inclusive-version-game-appeal-gen-z",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Scrabble.png",
+            "publishedAt": "2024-04-09T21:00:58Z",
+            "content": "A new version of Scrabble is set to be released for the first time in 75 years and the updated rendition of the iconic board game is reportedly aimed at a Gen Z audience.\u00a0\r\nThe updated version, to be\u2026 [+2892 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Peter Aitken",
-            "title": "Biden admin's revolving door on terrorism label draws scathing criticism: 'New low'",
-            "description": "The Biden administration relisted the Houthis as terrorists after months of attacks on Red Sea shipping vessels, having already warned the group repeatedly and striking Houthi assets.",
-            "url": "https://www.foxnews.com/world/biden-admins-revolving-door-on-terrorism-label-draws-scathing-criticism-new-low",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/ee72902c-image.png",
-            "publishedAt": "2024-04-04T20:48:32Z",
-            "content": "A senator has slammed the Biden administrations offer to reverse the Houthis designation as a Specially Designated Global Terrorist (SDGT) group in exchange for guaranteeing an end to attacks against\u2026 [+4142 chars]"
+            "author": "Ryan Morik",
+            "title": "Red Sox's $140 million man's injury woes continue; set to have likely season-ending surgery",
+            "description": "Boston Red Sox shortstop Trevor Story dislocated his shoulder over the weekend, and he will likely miss the rest of the season after surgery.",
+            "url": "https://www.foxnews.com/sports/red-soxs-140-million-mans-injury-woes-continue-season-ending-surgery",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/trevor-story.jpg",
+            "publishedAt": "2024-04-09T21:00:51Z",
+            "content": "A bad era for the Boston Red Sox continues to get worse.\r\nThe Sox signed two-time Silver Slugger shortstop Trevor Story to a $140 million contract before the 2022 campaign by the end of this year, he\u2026 [+2019 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Christina Dugan Ramirez",
-            "title": "'Reacher' star Alan Ritchson compares modeling industry to 'legalized sex trafficking': 'It left some scars'",
-            "description": "Actor Alan Ritchson opened up about his \"horrific\" experience working in the modeling industry and how it impacted his mental health moving forward.",
-            "url": "https://www.foxnews.com/entertainment/reacher-star-alan-ritchson-compares-modeling-industry-legalized-sex-trafficking",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/alan-ritchson.jpg",
-            "publishedAt": "2024-04-04T20:43:12Z",
-            "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nPlease enter a valid email address.\r\nBy en\u2026 [+5491 chars]"
+            "author": "Louis Casiano",
+            "title": "Austin says no evidence that Israel is committing 'genocide' in Gaza Strip war against Hamas",
+            "description": "Israel is not committing a genocide in the Gaza Strip, Defense Secretary Lloyd Austin said on Tuesday during a congressional hearing.",
+            "url": "https://www.foxnews.com/politics/austin-says-evidence-israel-committing-genocide-gaza-strip-war-hamas",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/AP23350000944313.jpg",
+            "publishedAt": "2024-04-09T20:55:38Z",
+            "content": "Defense Secretary Lloyd Austin on Tuesday said there was no evidence that Israeli forces were committing \"genocide\" in the Gaza Strip.\u00a0\r\nAustin was asked about Israel's military operations in Gaza by\u2026 [+1556 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Janelle Ash",
+            "title": "Gwen Stefani shuts down Blake Shelton divorce rumors, admits to 'getting paranoid' in relationship",
+            "description": "Gwen Stefani is addressing rumors suggesting she is divorcing Blake Shelton. Gwen admitted it forces her to face insecurities about her age and appearance.",
+            "url": "https://www.foxnews.com/entertainment/gwen-stefani-shuts-down-blake-shelton-divorce-rumors-admits-paranoid-relationship",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/blake-shelton-gwen-stefani.jpg",
+            "publishedAt": "2024-04-09T20:42:23Z",
+            "content": "Gwen Stefani and Blake Shelton's marriage is still going strong, but that doesn't mean rumors circulating about the couple breaking up don't affect the No Doubt singer.\u00a0\r\nIn an interview with Nylon M\u2026 [+3265 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Wehner",
+            "title": "Spain on high alert amid ISIS threats as European leaders warn of conflict with Russia: 'prewar era'",
+            "description": "The Spanish Ministry of the Interior announced it was on high alert amid terrorist threats from the Islamic State, targeting quarterfinal games of the Champions League in Madrid.",
+            "url": "https://www.foxnews.com/world/spain-high-alert-amid-isis-threats-european-leaders-warn-conflict-russia-prewar-era",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Spain-Police.jpg",
+            "publishedAt": "2024-04-09T20:37:05Z",
+            "content": "Spain's Ministry of the Interior, on Tuesday, announced that it is on high alert and has activated all alert and response systems to prevent jihadist attacks during the Champions League quarterfinal \u2026 [+4961 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lauryn Overhultz",
+            "title": "'Rust' star Alec Baldwin had 'no control' over emotions, 'no concern' how conduct affected set: prosecutors",
+            "description": "Prosecutors called out Alec Baldwin's behavior on the set of \"Rust\" in a court filing. Baldwin had \"no control\" of his emotions on the movie set, according to the documents.",
+            "url": "https://www.foxnews.com/entertainment/alec-baldwin-had-no-control-over-emotions-no-concern-how-conduct-affected-set-prosecutors",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Baldwin-cellphone.jpg",
+            "publishedAt": "2024-04-09T20:34:44Z",
+            "content": "Alec Baldwin had \"no control\" over his emotions on the set of \"Rust,\" according to prosecutors.\r\nBaldwin, 66, was \"frequently screaming and cursing\" while on the Bonanza Creek set and was \"inattentiv\u2026 [+2833 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "David Rutz",
+            "title": "NPR editor found registered Democrats outnumbered Republicans 87 to zero in newsroom",
+            "description": "An NPR editor blowing the whistle on the newsroom found an 87-to-zero ratio in registered Democrats versus Republicans in its headquarters of Washington, D.C.",
+            "url": "https://www.foxnews.com/media/npr-editor-found-registered-democrats-outnumbered-republicans-87-zero-newsroom",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/NPRSchiffTrump.jpg",
+            "publishedAt": "2024-04-09T20:30:19Z",
+            "content": "An NPR editor blowing the whistle on the left-leaning outlet's biased coverage says voter registration records showed an astonishing disparity between Democrats and Republicans in the newsroom: 87 to\u2026 [+3875 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paulina Dedaj",
+            "title": "Astros' Justin Verlander says evolution of pitching the 'biggest' factor in wave of injuries",
+            "description": "Houston Astros ace Justin Verlander is hoping Major League Baseball acts fast to address the recent wave of injuries plaguing pitchers this season.",
+            "url": "https://www.foxnews.com/sports/astros-justin-verlander-says-evolution-pitching-biggest-factor-wave-injuries",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/justin_verlander_mound.jpg",
+            "publishedAt": "2024-04-09T20:24:40Z",
+            "content": "Houston Astros\r\n ace Justin Verlander joins the ranks of the many concerned over the rising injuries plaguing MLB pitchers this season, but he believes it's not as simple as blaming the leagues new p\u2026 [+2870 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Julia Johnson, Elizabeth Elkind",
+            "title": "GOP senators convince Speaker Johnson to delay impeachment article delivery",
+            "description": "GOP senators were able to pressure Speaker Mike Johnson to delay the impeachment article delivery in order to allow more time for debate and discussion of an impeachment trial.",
+            "url": "https://www.foxnews.com/politics/gop-senators-convince-speaker-johnson-delay-impeachment-article-delivery",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/splitt.jpg",
+            "publishedAt": "2024-04-09T20:16:01Z",
+            "content": "Republican senators were able to convince House Speaker Mike Johnson, R-La., to delay the delivery of two impeachment articles against Department of Homeland Security Secretary Alejandro Mayorkas, ci\u2026 [+3214 chars]"
         },
         {
             "source": {
@@ -86,51 +619,38 @@
                 "name": "Fox News"
             },
             "author": "Caroline Thayer",
-            "title": "Michael Douglas astounded Scarlett Johansson is his 'DNA cousin': 'Are you kidding?'",
-            "description": "On a recent episode of \"Finding Your Roots,\" Michael Douglas was excited and shocked to learn he and Scarlett Johansson are distant cousins.",
-            "url": "https://www.foxnews.com/entertainment/michael-douglas-astounded-scarlett-johansson-dna-cousin-are-kidding",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/michael-douglas-scarlett-johansson.jpg",
-            "publishedAt": "2024-04-04T20:16:52Z",
-            "content": "It seems talent runs in the family for Michael Douglas.\r\nDuring a recent episode of the PBS show \"Finding Your Roots,\" which examines celebrities' ancestral backgrounds, Douglas learned, much to his \u2026 [+2115 chars]"
+            "title": "Sean \u2018Diddy\u2019 Combs gave Jelly Roll a bad feeling ahead of meeting: 'I was already skeptical'",
+            "description": "Country star Jelly Roll is explaining why he avoided meeting Sean \"Diddy\" Combs when given the chance. He explained doesn't \"know what it was\" that made him turn down the opportunity.",
+            "url": "https://www.foxnews.com/entertainment/sean-diddy-combs-gave-jelly-roll-bad-feeling-ahead-meeting-was-already-skeptical",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/sean-combs-jelly-roll.jpg",
+            "publishedAt": "2024-04-09T20:15:05Z",
+            "content": "In recent months, Sean \"Diddy\" Combs has made headlines by being named in several sexual assault lawsuits and having his homes raided by Homeland Security in connection to a human-trafficking investi\u2026 [+3398 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Scott Thompson",
-            "title": "Tiger Woods abstaining from sex to remain laser focused for Masters: report",
-            "description": "A friend of Tiger Woods says the five-time Masters winner is doing everything possible to remain focused for this year's tournament, including abstaining from sex.",
-            "url": "https://www.foxnews.com/sports/tiger-woods-abstaining-sex-remain-laser-focused-masters-report",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/tiger-woods-golf.jpg",
-            "publishedAt": "2024-04-04T19:11:49Z",
-            "content": "Tiger Woods will play in the 2024 Masters, and his preparation includes abstaining from sex, according to a friend.\u00a0\r\n\"Hes focused,\" the friend told the New York Post. \"Hes working really hard in the\u2026 [+2520 chars]"
+            "author": "Fox News Staff",
+            "title": "Fox News Politics: Pro-life punt",
+            "description": "The latest updates from the 2024 campaign trail, exclusive interviews and more Fox News politics content",
+            "url": "https://www.foxnews.com/politics/fox-news-politics-punting-pro-life",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Trump-Color-Ad-1.jpg",
+            "publishedAt": "2024-04-09T20:13:18Z",
+            "content": "Welcome to Fox News Politics newsletter with the latest political news from Washington D.C. and updates from the\u00a02024 campaign trail.\u00a0\r\nWhat's happening?\u00a0\r\n- Lone Star Republican urges New York law e\u2026 [+3439 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": "Danielle Wallace",
-            "title": "Arizona rancher George Alan Kelly's wife testifies in murder trial, describes armed men near borderlands home",
-            "description": "Arizona rancher George Alan Kelly's wife took the stand Wednesday, describing seeing two armed men in camo and with backpacks near their border ranch home.",
-            "url": "https://www.foxnews.com/us/arizona-rancher-george-alan-kellys-wife-testifies-murder-trial-describes-armed-men-near-borderlands-home",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/AP24081790280843.jpg",
-            "publishedAt": "2024-04-04T17:20:03Z",
-            "content": "Arizona rancher George Alan Kellys wife was called to testify on behalf of the prosecution on Wednesday, as the high-stakes murder trial with broad implications about the borderlands continues.\u00a0\r\nWan\u2026 [+6215 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Kristine Parks",
-            "title": "Millennials moved to red states like Texas and Montana, fleeing blue New York, California in 2023: study",
-            "description": "A new study analyzing U.S. Census Bureau data finds red states are still enjoying a population boom while young adults continue to flee blue states in droves.",
-            "url": "https://www.foxbusiness.com/media/millennials-moved-red-states-texas-montana-fleeing-blue-new-york-california-2023-study",
-            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/AdobeStock_167451055.jpeg?ve=1&tl=1",
-            "publishedAt": "2024-04-04T09:00:52Z",
-            "content": "A new study finds most millennials stayed put in 2023, but those who did move typically chose red-leaning states and cities over blue locations.\r\nHireAHelper, an online marketplace for finding moving\u2026 [+4553 chars]"
+            "author": "Fox News Staff",
+            "title": "'Unprecedented' ruling against Crumbleys opens up a 'Pandora's box' in criminal justice system: Andy McCarthy",
+            "description": "Fox News contributor Andy McCarthy highlighted his concerns over what impact the ruling against James and Jennifer Crumbley will have on the justice system.",
+            "url": "https://www.foxnews.com/media/unprecedented-ruling-against-crumbleys-opens-up-pandoras-box-criminal-justice-system-andy-mccarthy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/04/Andy-McCarthy-Crumbleys.png",
+            "publishedAt": "2024-04-09T20:00:31Z",
+            "content": "James and Jennifer Crumbley, parents of Oxford High School shooter Ethan Crumbley,\r\n were each sentenced Tuesday to 10-15 years in prison in connection to the 2021 mass shooting. Fox News contributor\u2026 [+2859 chars]"
         }
     ]
 }

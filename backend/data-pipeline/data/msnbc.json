@@ -1,32 +1,58 @@
 {
     "status": "ok",
-    "totalResults": 3,
+    "totalResults": 399,
     "articles": [
         {
             "source": {
                 "id": "msnbc",
                 "name": "MSNBC"
             },
-            "author": "Norman Eisen",
-            "title": "Why Trump's legal tactics are getting more frantic and desperate",
-            "description": "Judge Juan Merchan parried Trump's latest effort to derail his Manhattan trial for interfering with the 2016 election via alleged cover-up of hush money payments.",
-            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trumps-legal-tactics-are-getting-frantic-desperate-rcna146228",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230404-NYC-Court-Donald-Trump-Indictment-sketch-judge-Merchan-ac-859p-601d51.jpg",
-            "publishedAt": "2024-04-04T23:15:17Z",
-            "content": "On Wednesday, Judge Juan Merchan parried the latest effort by Donald Trump one of at least eight to derail his rapidly approaching Manhattan trial for interfering with the 2016 election via\u00a0an allege\u2026 [+6907 chars]"
+            "author": "Ja'han Jones",
+            "title": "Michael Avenatti gives his first interview from federal prison",
+            "description": "After being convicted of trying to extort Nike, Stormy Daniels\u2019 onetime lawyer spoke with MSNBC\u2019s Ari Melber in his first interview from federal prison.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/michael-avenatti-interview-prison-trump-stormy-daniels-rcna147109",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-06/220602-michael-avenatti-mjf-0956-aa00da.jpg",
+            "publishedAt": "2024-04-09T22:42:50Z",
+            "content": "Michael Avenatti, the onetime lawyer for Stormy Daniels, was once seen as a hero of the anti-Trump resistance. His on-camera braggadocio and his insistence that his clients hush money arrangement cou\u2026 [+1612 chars]"
         },
         {
             "source": {
                 "id": "msnbc",
                 "name": "MSNBC"
             },
-            "author": "Susan Del Percio",
-            "title": "The fatal flaw that doomed No Labels' anti-Biden, anti-Trump push",
-            "description": "No Labels raised millions off polls showing Americans do not want to see a 2024 rematch between President Joe Biden and Donald Trump. Here's why it failed.",
-            "url": "https://www.msnbc.com/opinion/msnbc-opinion/no-labels-fail-third-party-2024-election-rcna146473",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230727-no-labels-se-247p-8482d2.jpg",
-            "publishedAt": "2024-04-04T23:01:23Z",
-            "content": "For the past few years, the group No Labels has been raising money off the idea that Americans do not want to see a rematch between President Joe Biden and former President Donald Trump. Its solution\u2026 [+4320 chars]"
+            "author": "Sarah Posner",
+            "title": "A Hobby Lobby plot twist marks a win for abortion rights in Indiana",
+            "description": "An Indiana court, by finding that people with deeply held religious beliefs permitting abortions, should have access, fairly applies religious liberty law.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/indiana-abortion-ruling-hobby-lobby-rcna146844",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-indiana-abortion-ew-516p-2a21bd.jpg",
+            "publishedAt": "2024-04-09T22:11:48Z",
+            "content": "The U.S. Supreme Court\u00a02014 decision in Burwell v. Hobby Lobbyallowed religious, anti-abortion employers to refuse to cover contraception in their employee health insurance. But an extraordinary Apri\u2026 [+6353 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "Trump-loving activists to pay up to $1.25 million settlement for voter suppression scheme",
+            "description": "Jacob Wohl and Jack Burkman, two far-right activists, could pay up to $1.25 million in damages after settling a lawsuit related to a 2020 voter suppression scheme.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/jacob-wohl-jack-burkman-2020-robocall-settlement-rcna147080",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Jacob-Wohl-Jack-Burkman-mn-1550-0d91ca.jpg",
+            "publishedAt": "2024-04-09T21:34:49Z",
+            "content": "Happy Tuesday, all! Here's your Tuesday Tech Drop, the past week's top stories at the intersection of tech and politics. \r\nAnother brick in the Wohl\r\nJacob Wohl and Jack Burkman, two far-right activi\u2026 [+4322 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Daniel R. DePetris",
+            "title": "Everything that\u2019s wrong \u2014 and right \u2014 with Trump\u2019s possible plan for Ukraine",
+            "description": "Trump\u2019s reported \u201cplan\u201d to end the Russia-Ukraine war sounds delusional. But when it comes down to it, a diplomatic agreement that is \u201cgood enough\u201d for both sides is one of the more realistic avenues to pursue.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-russia-ukraine-war-plan-rcna146807",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-donald-trump-vl-1040a-032b2a.jpg",
+            "publishedAt": "2024-04-09T20:11:11Z",
+            "content": "Former President Donald Trump, the presumptive GOP presidential nominee, hasnt said a lot about Russias war in Ukraine, the biggest international news story before Israels war against Hamas in Gaza s\u2026 [+7651 chars]"
         },
         {
             "source": {
@@ -34,12 +60,597 @@
                 "name": "MSNBC"
             },
             "author": "Jordan Rubin",
-            "title": "Aileen Cannon denied Trump's dismissal motion, but danger lurks",
-            "description": "U.S. District Judge Aileen Cannon denied Donald Trump\u2019s motion to dismiss the classified documents case based on the Presidential Records Act.",
-            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/judge-aileen-cannon-trump-classified-documents-rcna146459",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240322-aileen-cannon-al-0827-b067a6.jpg",
-            "publishedAt": "2024-04-04T21:21:59Z",
-            "content": "U.S. District Judge Aileen Cannon denied Donald Trumps motion to dismiss the classified documents case based on the Presidential Records Act. It was the only logical conclusion she could have reached\u2026 [+2123 chars]"
+            "title": "Fani Willis fights disqualification appeal in Trump\u2019s Georgia case",
+            "description": "While Trump faces his first criminal trial in New York, he\u2019s still trying to have his prosecutor in Georgia, Fulton County DA Fani WIllis, disqualified.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/fani-willis-disqualification-trump-georgia-rcna147016",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240304-fani-willis-se-324p-7a71d9.jpg",
+            "publishedAt": "2024-04-09T19:35:41Z",
+            "content": "Remember the Fani Willis disqualification saga? Its not over yet.\r\nDonald Trump and his co-defendants in Georgia are appealing Judge Scott McAfees order that let the Fulton County district attorney s\u2026 [+2335 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Susan Del Percio",
+            "title": "Why Trump-doubting Republicans need time to come around to Biden",
+            "description": "Republicans who can't stomach a second term for Donald Trump still need time to process whether they will vote for Joe Biden instead.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-biden-republican-votes-election-2024-rcna146879",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-joe-biden-rally-ew-503p-1a7a26.jpg",
+            "publishedAt": "2024-04-09T18:30:00Z",
+            "content": "Former Secretary of Defense Mark Esper has called his old boss, Donald Trump, a threat to democracy and declared he will not vote for him in November.\r\nSo, it seemed natural for TV host Bill Maher to\u2026 [+2079 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Arizona Supreme Court: 160-year-old abortion ban can be enforced",
+            "description": "An 1864 near-total abortion ban in Arizona is poised to take effect thanks to a new state Supreme Court ruling \u2014 but voters will soon have their own say.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/arizona-supreme-court-160-year-old-abortion-ban-can-enforced-rcna147053",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-arizona-abortion-protest-ew-126p-124bab.jpg",
+            "publishedAt": "2024-04-09T17:52:23Z",
+            "content": "After Republican-appointed U.S. Supreme Court justices overturned Roe v. Wade, a 15-week abortion ban ultimately took effect in Arizona. There was some question, however, as to whether or not that st\u2026 [+2745 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "Parents of Michigan school shooter each sentenced to 10 to 15 years for role in massacre",
+            "description": "James and Jennifer Crumbley have been sentenced over the deadly mass shooting that their son, Ethan Crumbley, carried out at a Michigan high school in 2021.",
+            "url": "https://www.msnbc.com/top-stories/latest/crumbley-parents-sentence-school-shooting-michigan-rcna146612",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-jennifer-james-crumbley-al-1309-151861.jpg",
+            "publishedAt": "2024-04-09T16:54:11Z",
+            "content": "James and Jennifer Crumbley have each been sentenced to 10 to 15 years in prison for their role in the deadly mass shooting carried out by their son, Ethan Crumbley, at a Michigan high school in 2021\u2026 [+2596 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Even now, right clings to false tale about migrants, charter flights",
+            "description": "The idea that President Joe Biden has chartered \u201csecret flights\u201d to bring \u201cillegals\" into the U.S. has been debunked. The right keeps pushing the claim anyway.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/even-now-right-clings-false-tale-migrants-charter-flights-rcna147034",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-elon-musk-se-1227p-85f35a.jpg",
+            "publishedAt": "2024-04-09T16:47:30Z",
+            "content": "It was nearly a month ago when Sen. Ted Cruz started pushing a brazenly deceptive message about the Biden administration importing illegal aliens into the United States. The Texas Republican even sen\u2026 [+2514 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Jack Smith tries to save Trump trial in Supreme Court brief on immunity",
+            "description": "Trump\u2019s presidential immunity claim is unprecedented and dangerous, and special counsel Jack Smith does well to point that out in his new Supreme Court brief.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-immunity-jack-smith-brief-supreme-court-rcna146974",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240108-jack-smith-1920x1080-ac-949p-8fb709.jpg",
+            "publishedAt": "2024-04-09T15:35:58Z",
+            "content": "Donald Trumps presidential immunity claim is unprecedented and dangerous. As expected, special counsel Jack Smith does well to point that out in his new Supreme Court brief.\r\nYet, mindful that the co\u2026 [+3689 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Hayes Brown",
+            "title": "The latest Biden play to reduce student loan debt is a winner",
+            "description": "Joe Biden announced a new student loan debt relief plan to cancel interest on some accounts in an attempt to get around the Supreme Court and Republicans",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-cancel-student-loan-debt-interest-rcna146850",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-student-debt-se-1110a-3b321c.jpg",
+            "publishedAt": "2024-04-09T15:20:58Z",
+            "content": "President Joe Biden announced a new bid on Monday to provide federal student loan debt relief to millions of Americans, part of a patchwork of debt relief plans the administration has been stitching \u2026 [+5768 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "'Donald Trump did this': Team Biden releases striking abortion ad",
+            "description": "Donald Trump would love to take abortion off the table as a campaign issue. A new ad makes clear that Joe Biden's campaign isn't prepared to let that happen.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/donald-trump-team-biden-releases-striking-abortion-ad-rcna147003",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-Abortion-Rights-Amanda-Zurawski-se-1226p-b05711.jpg",
+            "publishedAt": "2024-04-09T15:20:04Z",
+            "content": "Donald Trump has come to a straightforward conclusion about the 2024 election cycle: The greater the focus on abortion rights, the more likely it becomes that he and his fellow Republicans will lose.\u2026 [+3464 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "As Biden backs more student debt relief, right eyes another court fight",
+            "description": "As the 2024 election cycle advances, there\u2019s no shortage of contrast issues for voters \u2014 and student loan debt relief is high on the list.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/biden-backs-student-debt-relief-right-eyes-another-court-fight-rcna146984",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-joe-biden-al-0852-1e81c4.jpg",
+            "publishedAt": "2024-04-09T13:20:53Z",
+            "content": "Let no one say that President Joe Biden has failed to follow through on campaign promises about student loan debt relief. By any fair measure, the incumbent Democrat has made it one of his administra\u2026 [+3235 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "As Trump and his allies look to rename airport, Dems eye counteroffer",
+            "description": "Republican support for renaming Dulles Airport after Donald Trump is growing. Democrats are offering to rename a federal prison in Miami instead.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-allies-look-rename-airport-dems-eye-counteroffer-rcna146975",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-dulles-airport-ch-0816-f2b0ea.jpg",
+            "publishedAt": "2024-04-09T12:40:19Z",
+            "content": "A generation after Republicans renamed the key airport in the Washington, D.C., area, a different group of GOP lawmakers set their sights on the citys other airport. Under an actual piece of pending \u2026 [+2557 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Matthew Brzezinski",
+            "title": "MAGA Republicans' Ukraine aid opposition must have Reagan turning over in his grave",
+            "description": "The House is back after its Easter break and Speaker Mike Johnson has vowed to pass the aid package Ukraine needs to fight Russia. Can MTG (and Trump) kill it?",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/maga-republican-mtg-ukraine-aid-rcna146918",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-split-zelensky-johnson-ch-0745-b3f46c.jpg",
+            "publishedAt": "2024-04-09T12:14:21Z",
+            "content": "As the House reconvenes after its Easter break on Tuesday, embattled House Speaker Mike Johnson has vowed to cajole recalcitrant Republicans into finally pushing through a critical and long-delayed a\u2026 [+6341 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Why Trump\u2019s furious offensive against Lindsey Graham matters",
+            "description": "Donald Trump's newest position on abortion didn't just receive pushback from the left. It also led to a new clash with a GOP ally: Sen. Lindsey Graham.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trumps-furious-offensive-lindsey-graham-matters-rcna146969",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-donald-trump-lindsey-graham-al-0717-94f7d4.jpg",
+            "publishedAt": "2024-04-09T12:00:32Z",
+            "content": "Donald Trump unveiled a video announcement yesterday morning on his newest position on abortion policy, and if the former presidents goal was to make everyone happy, he failed spectacularly. Critics \u2026 [+4154 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "READ: Jury questionnaire for New Yorkers at Trump\u2019s hush money trial",
+            "description": "Here are the 42 questions that prospective jurors will be asked at Donald Trump\u2019s hush money trial, the first criminal trial against a former U.S. president.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/read-jury-questionnaire-trump-hush-money-trial-rcna146930",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240325-trump-court-sketch-301p-fcfb0b.jpg",
+            "publishedAt": "2024-04-09T10:00:00Z",
+            "content": "In one of the latest signs that Donald Trumps hush money trial will actually happen, Judge Juan Merchan wrote to the parties regarding jury selection. Included in the judges Monday letter to lawyers \u2026 [+1226 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Zeeshan Aleem",
+            "title": "Why Trump\u2019s alarming takeover of the RNC is backfiring",
+            "description": "Trump's hand-picked allies at the helm of the Republican National Committee are now paying for some of the rash actions they took when they took over.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-rnc-takeover-republican-national-committee-rcna146866",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-donald-trump-al-1236-cf05e1.jpg",
+            "publishedAt": "2024-04-09T10:00:00Z",
+            "content": "Its been roughly a month since former President Donald Trumps hand-picked allies took the reins of the Republican National Committee the most tangible example of Trumps ever-tightening grip on the GO\u2026 [+4089 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "John Calipari's hiring at Arkansas shows a looming crisis at U.S. colleges and universities",
+            "description": "Decorated college basketball coach John Calipari is leaving the University of Kentucky to take a job with the University of Arkansas, news outlets reported on Sunday.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/john-calipari-tyson-kentucky-arkansas-rcna146914",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-John-Calipari-2023-ac-548p-ffd679.jpg",
+            "publishedAt": "2024-04-08T23:43:00Z",
+            "content": "Decorated college basketball coach John Calipari is leaving the University of Kentucky to take a job with the University of Arkansas, news outlets reported on Sunday. \r\nCoaches change jobs all the ti\u2026 [+3405 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Katelyn Burns",
+            "title": "Dawn Staley just won another title \u2014 and still had time to stand up for trans athletes",
+            "description": "Before South Carolina defeated Iowa, South Carolina Coach Dawn Staley joined other legends of women's sports who support trans inclusion in women's sports.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/dawn-staley-championship-trans-athletes-rcna146933",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-dawn-staley-championship-wm-317p-69a92c.jpg",
+            "publishedAt": "2024-04-08T23:22:40Z",
+            "content": "This years NCAA womens college basketball tournament was the most watched and arguably the most successful womens college sporting event in history. Millions tuned in to see whether the South Carolin\u2026 [+5271 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "The Rock just used Fox News to throw Black people under the bus",
+            "description": "Dwayne \u201cThe Rock\u201d Johnson, the self-proclaimed \u201cPeople\u2019s Champion,\u201d has never looked weaker, or more selfish, than he did in his interview with Fox News.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/the-rock-dwayne-johnson-woke-fox-news-interview-rcna146902",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-dwayne-johnson-the-rock-vl-413p-aaf31f.jpg",
+            "publishedAt": "2024-04-08T23:05:30Z",
+            "content": "As a longtime fan of Dwayne The Rock Johnson, Ive seen the man chokeslammed, Stone Cold Stunned, Pedigreed, Mandible Clawed and more.\u00a0And yet he never looked weaker to me than he did the other day on\u2026 [+2580 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "Jim Jordan shows how Trump would pressure private companies to do his bidding",
+            "description": "Rep. Jim Jordan is showing Americans how Donald Trump would pressure private businesses, especially in news and social media, to do his bidding.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/jim-jordan-shows-trump-pressure-private-companies-bidding-rcna146881",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-jim-jordan-vl-233p-11b743.jpg",
+            "publishedAt": "2024-04-08T20:36:42Z",
+            "content": "Rep. Jim Jordan is showing Americans how Donald Trump would pressure private businesses, especially in news and social media, to do his bidding if he wins a second term.\r\nAs chair of the House Oversi\u2026 [+3355 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Molly Jong-Fast",
+            "title": "America can\u2019t afford to fall for Trump\u2019s bogus abortion announcement",
+            "description": "Trump's much-teased abortion announcement came in the form of a Truth Social video, and delivered zero information of value to Americans.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-abortion-states-election-2024-rcna146894",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240403-trump-ch-1444-83af2d.jpg",
+            "publishedAt": "2024-04-08T20:28:31Z",
+            "content": "Last week, when Donald Trump started teasing a big abortion announcement, it felt similar to what he used to do with the famous infrastructure week but about womens bodies. For any of us whove even r\u2026 [+4476 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Retired military leaders warn of the threat to democracy if Trump is found to be immune",
+            "description": "Former military leaders are sounding the alarm ahead of Donald Trump\u2019s Supreme Court immunity hearing later this month.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-supreme-court-immunity-military-leaders-rcna146885",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231006-january-6-capitol-riot-cs-47b0f1.jpg",
+            "publishedAt": "2024-04-08T19:53:45Z",
+            "content": "Former military leaders are sounding the alarm ahead of Donald Trumps Supreme Court immunity hearing later this month. Retired four-star admirals and generals, along with former secretaries of the U.\u2026 [+2332 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "RFK Jr.\u2019s weird Jan. 6 rhetoric comes with election implications",
+            "description": "As independent presidential candidate Robert F. Kennedy Jr. pushes strange and false ideas about Jan. 6, it's the political implications that matter most.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/rfk-jrs-weird-jan-6-rhetoric-comes-election-implications-rcna146872",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240329-rfk-jr-ew-132p-967965.jpg",
+            "publishedAt": "2024-04-08T17:09:19Z",
+            "content": "Independent presidential candidate Robert F. Kennedy Jr. has earned a reputation for peddling bizarre ideas, so it didnt come as too big of a surprise when the conspiracy theorist sent out a fundrais\u2026 [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Bragg blasts Trump\u2019s latest delay bid ahead of hush money trial",
+            "description": "The Manhattan DA wrote that Trump\u2019s \u201crewarmed arguments identify no new law or fact that calls into question\u201d the prior recusal denial by Judge Merchan.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-delay-hush-money-trial-bragg-rcna146836",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-alvin-bragg-se-1011a-76e03b.jpg",
+            "publishedAt": "2024-04-08T16:35:51Z",
+            "content": "Were a week out from jury selection in Donald Trumps hush money trial in New York. So expect this week to include rejections of desperate defense attempts to further delay the criminal case.\r\nOne of \u2026 [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Zeeshan Aleem",
+            "title": "Biden's 'border crisis' is actually an economic success story",
+            "description": "Biden sees the large influx of immigrants at the border as a political crisis. But it's been an economic gift \u2014 and he should recognize that.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/biden-democrats-immigration-economy-rcna146448",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-migrants-wrok-ch-1345-008736.jpg",
+            "publishedAt": "2024-04-08T15:41:56Z",
+            "content": "A new analysis from the former chief economist for the White House Council of Economic Advisers found that the large increase in immigration in recent years is a major part of why the U.S. has recent\u2026 [+4277 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Veterans group slams GOP\u2019s Tim Sheehy on evolving gunshot story",
+            "description": "Republican Senate hopeful Tim Sheehy has a bullet stuck in his right forearm. Knowing when and how he was shot, however, is proving to be a little tricky.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/veterans-group-slams-gops-tim-sheehy-evolving-gunshot-story-rcna146845",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-Tim-Sheehy-al-1045-713598.jpg",
+            "publishedAt": "2024-04-08T15:19:25Z",
+            "content": "As a rule, when politicians tell a story with evolving details, it suggests that that something is amiss. In Montana, for example, Senate hopeful Tim Sheehy, a former Navy SEAL, has told voters that \u2026 [+2545 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Trump tries, fails to bring his abortion views into sharp focus",
+            "description": "Donald Trump said he\u2019d come up with an abortion position that would make \u201cboth sides\u201d happy. He instead released a new statement that made no one happy.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/trump-tries-fails-bring-abortion-views-sharp-focus-rcna146833",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240404-donald-trump-vl-1046a-306972.jpg",
+            "publishedAt": "2024-04-08T14:32:01Z",
+            "content": "Its been nearly seven months since Donald Trump appeared on NBCs Meet the Press and made some strange comments about abortion rights. Of particular interest, the former president boasted that he inte\u2026 [+3586 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "GOP leaders literally speechless following great news on jobs",
+            "description": "It appears that the American job market is so good, Republican leaders have literally found themselves at a loss for words \u2014 again.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/gop-leaders-literally-speechless-great-news-jobs-rcna146816",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240205-mike-johnson-mitch-mcconnell-al-1209-283d95.jpg",
+            "publishedAt": "2024-04-08T13:20:18Z",
+            "content": "For those rooting for the American economy, Friday morning offered another round of great news: The economy added 303,000 jobs in March, extending an incredible hot streak, as the unemployment rate i\u2026 [+3146 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Key Republican reps: Russian propaganda has \u2018infected\u2019 much of the GOP",
+            "description": "When powerful Republican committee chairs start complaining about their party being \"infected\" with Russian propaganda, it's clear the GOP has a problem.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/key-republican-reps-russian-propaganda-infected-much-gop-rcna146812",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-Michael-McCaul-al-0842-f5af77.jpg",
+            "publishedAt": "2024-04-08T12:44:49Z",
+            "content": "On Capitol Hill, there are a small handful of prominent Republicans who have a reputation for occasionally breaking party ranks and showing a degree of independence. GOP members such as Sen. Lisa Mur\u2026 [+3045 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Why it matters that Trump keeps comparing himself to Nelson Mandela",
+            "description": "The problem isn't just that Donald Trump keeps comparing himself to Nelson Mandela. It's his motivation that makes the rhetoric significantly worse.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/matters-trump-keeps-comparing-nelson-mandela-rcna146808",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-donald-trump-nelson-mandela-al-0734-8b5629.jpg",
+            "publishedAt": "2024-04-08T12:00:14Z",
+            "content": "Six months ago, Donald Trump held a campaign event in New Hampshire, where the indicted former president suggested he was prepared to be incarcerated. I dont mind being Nelson Mandela because Im doin\u2026 [+3260 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Paola Rosa-Aquino",
+            "title": "You always wanted to be a scientist.\u00a0The eclipse is your chance.",
+            "description": "Monday's solar eclipse won\u2019t just be an awe-inspiring sight; it will also be an opportunity for the public to use their phone and join in cutting-edge science.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/solar-eclipse-path-2024-sunsketcher-phone-app-rcna146663",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-san-antonio-eclipse-watch-2023-ac-1159p-805e92.jpg",
+            "publishedAt": "2024-04-08T10:00:40Z",
+            "content": "On Monday, when the moon passes between the sun and the Earth and causes a total solar eclipse, more than 30 million people across the United States will be under the moons shadow for the otherworldl\u2026 [+4662 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Hayes Brown",
+            "title": "MTG is reading too hard into the total solar eclipse",
+            "description": "The total solar eclipse in North America comes after an earthquake in New York City and with a 'devil comet' in the sky  \u2014 but none are omens of the end times.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/2024-solar-eclipse-totality-new-york-earthquake-rcna146613",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-Marjorie-Taylor-Green-al-1320-5e53f4.jpg",
+            "publishedAt": "2024-04-08T10:00:00Z",
+            "content": "Millions of Americans will find themselves in the path of a total eclipse of the sun on Monday. A rare earthquake shook New York City and the surrounding region Friday, with another aftershock that a\u2026 [+4793 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Kavitha A. Davidson",
+            "title": "March Madness proved the explosive power of women's sports. And a growing dark side.",
+            "description": "The 2024 March Madness women's basketball championship tonight on ESPN pits Caitlin Clark-led Iowa vs. South Carolina. Odds are FanDuel will be a big winner.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/winner-iowa-vs-south-carolina-march-madness-basketball-bookies-rcna146648",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240406-split-clark-cardoso-ch-1250-a56fcd.jpg",
+            "publishedAt": "2024-04-07T16:01:26Z",
+            "content": "2024 is shaping up to be a milestone year for womens sports, both in terms of investment and engagement. Turns out, when you put effort and dollars into the infrastructure of the womens game, people \u2026 [+7854 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "Trump\u2019s history of politicizing murders is outrageous \u2014 and par for the course",
+            "description": "Donald Trump has used yet another violent crime victim to boost his presidential campaign.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/trump-politicizing-murder-crime-rcna146652",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-trump-cg-1620-b4e831.jpg",
+            "publishedAt": "2024-04-07T10:00:00Z",
+            "content": "Donald Trump has used yet another violent crime victim to boost his presidential campaign.\u00a0Trump has faced backlash since Tuesday for invoking the name of Ruby Garcia, a woman allegedly killed by an \u2026 [+2776 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "How not to watch a solar eclipse, courtesy of Donald Trump",
+            "description": "In August 2017, then-President Trump stared directly at the sun during a solar eclipse, violating really the only rule of watching an eclipse.",
+            "url": "https://www.msnbc.com/top-stories/latest/solar-eclipse-2024-donald-trump-rcna146722",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/2240406-solar-ecliptse-donald-trump-wm-1217p-50461b.jpg",
+            "publishedAt": "2024-04-07T10:00:00Z",
+            "content": "The last time North America experienced a solar eclipse, we were seven years younger, a pandemic was the last thing on anybodys mind, and Donald Trump was president of the United States.\r\nIt was Aug.\u2026 [+1343 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "Breaking down RFK Jr.\u2019s ridiculous statement on the Jan. 6 riots",
+            "description": "Independent presidential candidate Robert F. Kennedy Jr. cast doubt on the gravity of the Jan. 6 riots and suggested that  the prosecution of rioters may have been politically motivated.",
+            "url": "https://www.msnbc.com/top-stories/latest/rfk-jr-january-6-rioters-rcna146708",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240406-RFK-ch-1200-5dd117.jpg",
+            "publishedAt": "2024-04-06T19:28:25Z",
+            "content": "Independent presidential candidate Robert F. Kennedy Jr. cast doubt on the gravity of the Jan. 6,2021, riots and suggested that the prosecution of rioters may have been politically motivated.\r\nIn a s\u2026 [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "Trump asks for new judge in hush money trial \u2014 again",
+            "description": "Just days before his hush money trial is set to begin, former President Donald Trump is seeking Judge Juan Merchan\u2019s recusal from the case once again.",
+            "url": "https://www.msnbc.com/top-stories/latest/trump-recusal-hush-money-juan-merchan-rcna146699",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240406-trump-ch-0956-241400.jpg",
+            "publishedAt": "2024-04-06T16:47:29Z",
+            "content": "Just days before his hush money trial is set to begin, former President Donald Trump is seeking Judge Juan Merchans recusal from the case once again.\r\nIn a motion filed Wednesday, Trumps attorneys at\u2026 [+1538 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "James Downie",
+            "title": "Donald Trump\u2019s bond saga showcases a deadly double standard",
+            "description": "Larry Price Jr. weighed 185 pounds in the summer of 2020, when he entered the Sebastian County, Arkansas, jail where he would die.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-bond-new-york-bias-rcna146660",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240402-donald-trump-court-ew-616p-6c2f83.jpg",
+            "publishedAt": "2024-04-06T10:00:00Z",
+            "content": "Larry Price Jr. weighed 185 pounds in the summer of 2020, when he entered the Sebastian County, Arkansas, jail where he would die. When guards found him deceased a year later, he was alone in his cel\u2026 [+5283 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Frankie de la Cretaz",
+            "title": "The troubling male insecurity fueling an increasingly powerful Trump-UFC alliance",
+            "description": "The UFC\u2019s deep links to Donald Trump \u2014 and extremism more broadly \u2014\u00a0make sense in the context of Dana White, Joe Rogan and MMA stars like Sean Strickland.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-ufc-dana-whites-new-favorite-politician-lose-lose-rcna146633",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-trump-ufc-mma-ew-507p-941bfe.jpg",
+            "publishedAt": "2024-04-06T10:00:00Z",
+            "content": "New analysis from The New Republic this week highlights the UFCs deep links to Donald Trump and conservative extremism more broadly. The influential mixed martial arts (MMA) organization, Sam Eagan w\u2026 [+5511 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jackie Powell",
+            "title": "Caitlin Clark is one of many reasons the women's Final Four is much more exciting",
+            "description": "With names like Caitlin Clark, Paige Bueckers, Dawn Staley and Kim Mulkey, women's college basketball has more compelling stars and coaches and storylines than the men's game.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/caitlin-clark-ncaa-womens-basketball-final-four-rcna146582",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-Caitlin-Clark-al-1113-939e29.jpg",
+            "publishedAt": "2024-04-05T22:38:13Z",
+            "content": "Tickets to the NCAA womens Final Four that begins Friday night with South Carolina playing North Carolina State and Iowa playing UConn \u00a0were selling for about twice as much as tickets to the mens tou\u2026 [+9602 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "Tim Scott has new, cursed media venture to attract Black voters",
+            "description": "Failed presidential candidate Tim Scott and some of his Black Republican pals in Congress have launched a media venture to own the libs in (one supposes) an effort to attract Black voters to vote for Donald Trump.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/tim-scott-americas-starting-five-rcna146639",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-tim-scott-2023-ac-440p-9a0de9.jpg",
+            "publishedAt": "2024-04-05T21:25:12Z",
+            "content": "Failed presidential candidate Tim Scott and some of his Black Republican pals in Congress have launched a media venture to own the libs in (one supposes) an effort to attract Black voters to vote for\u2026 [+3450 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Judge blocks \u2018fishing expedition\u2019 on Stormy Daniels documentary",
+            "description": "A federal judge ruled that Donald Trump's lawyers cannot go on a \"fishing expedition\" to gather material about a Stormy Daniels documentary.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-merchan-subpoena-stormy-daniels-documentary-rcna146630",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230316-stormy-daniels-jm-1041-ac8dc2.jpg",
+            "publishedAt": "2024-04-05T21:00:21Z",
+            "content": "Donald Trump keeps getting bad news ahead of his hush money trial in New York. The latest is that he cant go on a fishing expedition in connection with the new Stormy Daniels documentary.\r\nThe film, \u2026 [+1410 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jordan Rubin",
+            "title": "Jack Smith is at the breaking point with Judge Aileen Cannon",
+            "description": "Special counsel Jack Smith is reaching a breaking point with Judge Aileen Cannon in the classified documents case in Florida.",
+            "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/trump-jack-smith-aileen-cannon-deadline-legal-rcna146557",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-jack-smith-aileen-cannon-al-1202-1848e5.jpg",
+            "publishedAt": "2024-04-05T21:00:00Z",
+            "content": "Welcome back, Deadline: Legal Newsletter readers. Donald Trump lost pretrial motions this week in all three criminal cases that havent been paused. (The fourth one is on hold, pending a Supreme Court\u2026 [+3163 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Jessica Levinson",
+            "title": "Jeffrey Clark\u2019s legally baseless pro-Trump plots are coming back to bite him",
+            "description": "A disciplinary panel in Washington, D.C. came to a preliminary, nonbinding conclusion that Trump lawyer Jeffrey Clark violated his ethical duties as an attorney when he attempted to help overturn the 2020 election.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/trump-lawyer-jeffrey-clark-ethics-bar-panel-rcna146501",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240404-Jeffrey-Clark-ew-528p-22ec62.jpg",
+            "publishedAt": "2024-04-05T20:17:29Z",
+            "content": "Theres no way around it; there simply is no legal basis for the legal strategies put forth by lawyers of Donald Trump designed to undermine the results of the 2020 presidential election.\u00a0\r\nExhibit A:\u2026 [+4868 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "Melania Trump to host Republican LGBT group's fundraiser at Mar-a-Lago",
+            "description": "Melania Trump is set to host a fundraiser for Log Cabin Republicans, an LGBT Republican organization, at Mar-a-Lago later this month.",
+            "url": "https://www.msnbc.com/top-stories/latest/melania-trump-log-cabin-republicans-fundraiser-rcna146554",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-melania-trump-ch-0930-69e441.jpg",
+            "publishedAt": "2024-04-05T18:48:51Z",
+            "content": "Melania Trump is set to hold her first major political event of the year at Mar-a-Lago later this month: a fundraiser for Log Cabin Republicans, an LGBT Republican organization.\r\nAccording to Politic\u2026 [+1553 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Steve Benen",
+            "title": "Freedom Caucus creates new challenges for Key Bridge repair effort",
+            "description": "As President Biden heads to Baltimore, the House Freedom Caucus is making demands its members expect to be met before Congress helps repair the Key Bridge.",
+            "url": "https://www.msnbc.com/rachel-maddow-show/maddowblog/freedom-caucus-creates-new-challenges-key-bridge-repair-effort-rcna146606",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-francis-scott-key-bridge-al-1216-d80928.jpg",
+            "publishedAt": "2024-04-05T16:51:07Z",
+            "content": "Soon after the Key Bridge in Baltimore collapsed, President Joe Biden assured the public that he intended to use federal resources to rebuild it. The incumbent Democrat said hed spoken to state and l\u2026 [+2829 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Ja'han Jones",
+            "title": "What the rise of the \u2018Global South\u2019 means for the U.S. and the rest of the world",
+            "description": "Joy Reid discusses the growing global influence of African nations and other countries in the Southern Hemisphere and why it's threatening business as usual for China, Russia and others.",
+            "url": "https://www.msnbc.com/the-reidout/reidout-blog/africa-influence-global-south-china-russia-rcna146488",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-african-union-summit-mn-1150-dc919a.jpg",
+            "publishedAt": "2024-04-05T16:38:20Z",
+            "content": "Here on The ReidOut Blog, Ive been quite interested in covering the international relationships between the United States and various African countries, and my coverage has always had an eye on the f\u2026 [+1600 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Clarissa-Jan Lim",
+            "title": "The whole Northeast is rattled by rare earthquake",
+            "description": "An earthquake shook the New York tristate area on Friday morning, sending residents across several states into a panic \u2014 or, at least, animated conversation at the water cooler.",
+            "url": "https://www.msnbc.com/top-stories/latest/east-coast-earthquake-reactions-rcna146580",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240405-east-coast-earthquake-ew-1047a-69fc56.jpg",
+            "publishedAt": "2024-04-05T15:27:19Z",
+            "content": "An earthquake shook the New York tristate area on Friday morning, sending residents across several states into a panic or, at least, animated conversation at the water cooler.\r\nThe earthquake took pl\u2026 [+621 chars]"
         }
     ]
 }

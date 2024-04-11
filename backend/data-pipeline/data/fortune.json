@@ -1,136 +1,656 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 1288,
     "articles": [
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Emma Hinchliffe, Paige McGlauflin",
-            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
-            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
-            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
-            "publishedAt": "2022-06-01T13:22:34Z",
-            "content": "Skip to Content"
+            "author": "Juan Lozano, The Associated Press",
+            "title": "Texas AG sues to halt a guaranteed income program, calling it a 'socialist experiment'",
+            "description": "A Harris County judge said the suit \"reads more like a MAGA manifesto than a legal document,\" in response to the legal challenge.",
+            "url": "https://fortune.com/2024/04/09/texas-halt-guaranteed-income-program/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2025950386-e1712706410542.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T23:49:24Z",
+            "content": "Texas attorney general filed a lawsuit on Tuesday seeking to stop a guaranteed income program set to start this month for Houston-area residents.The program by Harris County, where Houston is located\u2026 [+2900 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Jessica Mathews",
-            "title": "Unprofitable companies needed to be profitable yesterday",
-            "description": "Capital is more expensive, and investors aren\u2019t bullish on companies struggling to generate their own cash.",
-            "url": "https://fortune.com/2022/06/01/unprofitable-companies-needed-to-be-profitable-yesterday/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/Body-Blow-003.png?resize=1200,600",
-            "publishedAt": "2022-06-01T12:29:29Z",
-            "content": "Skip to Content"
+            "author": "Lucy Maher",
+            "title": "High cortisol levels are wreaking havoc on your health. Here\u2019s how to get fatigue and forgetfulness from too much \u2018stress hormone\u2019 under control",
+            "description": "The problem is when cortisol levels are consistently too high, it can put you at risk of a host of health conditions.",
+            "url": "https://fortune.com/well/article/cortisol-how-to-lower-stress-hormone/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-755651163-e1712694724436.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T23:40:00Z",
+            "content": "If youre like most highway drivers, youve likely seen a car alongside yours suddenly stray into your lane, causing you to quickly swerve to avoid being hit. In addition to feeling a pounding heart an\u2026 [+6492 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "David Meyer",
-            "title": "Elon Musk crows as German authorities start treating greenwashing as fraud",
-            "description": "Raids on Deutsche Bank and its DWS unit show how ESG claims are under unprecedented scrutiny.",
-            "url": "https://fortune.com/2022/06/01/elon-musk-germany-esg-greenwashing-fraud-deutsche-bank-dws/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1228323148.jpg?resize=1200,600",
-            "publishedAt": "2022-06-01T10:55:13Z",
-            "content": "Skip to Content"
+            "author": "Josh Funk, The Associated Press",
+            "title": "Marc Benioff replaces Warren Buffett in private lunch auction for California charity that raised $53 million",
+            "description": "One past auction winner now works for Buffett after spending $5.3 million two lunches.",
+            "url": "https://fortune.com/2024/04/09/marc-benioff-warren-buffett-private-lunch-auction-california-charity/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1930603413-e1712702680256.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T22:46:25Z",
+            "content": "The California homeless charity that received $53 million over the years from investors who wanted a private lunch with billionaire Warren Buffett has found a new business executive to auction off a \u2026 [+2765 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Eamon Barrett",
-            "title": "A new report shows how badly the Trump administration slashed the U.S.\u2019s climate credentials",
-            "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
-            "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
-            "publishedAt": "2022-06-01T10:31:29Z",
-            "content": "Skip to Content"
+            "author": "Paolo Confino",
+            "title": "Long-time AI critic Gary Marcus calls AI a 'Shakespearean tragedy' as widespread scraping of copyrighted data comes to light in bombshell report",
+            "description": "Six years ago, Marcus warned that AI would need so much data it would bend the law to get it. A bombshell New York Times report says that's exactly what's happening.",
+            "url": "https://fortune.com/2024/04/09/ai-openai-llm-meta-google-sam-altman-gary-marcus-youtube-chatgpt/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1255237098-e1712697888939.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T21:55:24Z",
+            "content": "Gary Marcus is a leading AI researcher whos increasingly appalled at what hes seeing. He founded at least two AI startups, one of which sold to Uber, and has been researching the subject for over two\u2026 [+7397 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Kevin Kelleher",
-            "title": "Buybacks vs dividends? In market downturns, the rules may change",
-            "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
-            "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
-            "publishedAt": "2022-06-01T10:15:00Z",
-            "content": "Skip to Content"
+            "author": "The Associated Press",
+            "title": "Postal Service pushes 5th price hike for stamps in 3 years after postmaster warned of 'uncomfortable' price increases",
+            "description": "The Post Office asked its regulator to raise the price of a first-class stamp to 73 cents.",
+            "url": "https://fortune.com/2024/04/09/post-office-stamp-price-increase-73-cents/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1450776324-e1712698196211.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T21:33:33Z",
+            "content": "The U.S. Postal Service signaled plans Tuesday for a rate increase that includes hiking the cost of a first-class stamp from 68 cents to 73 cents, part of an overall 7.8% increase to take effect this\u2026 [+894 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Renate Nyborg",
-            "title": "Why Tinder wants to end the FDA\u2019s discriminatory blood donor policy",
-            "description": "Tinder and Match Group are urging the FDA to lift restrictions on gay and bisexual men donating blood.",
-            "url": "https://fortune.com/2022/06/01/tinder-fda-discrimination-blood-donor-policy-renate-nybor/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1227710498-e1653669254280.jpg?resize=1200,600",
-            "publishedAt": "2022-06-01T09:30:00Z",
-            "content": "Skip to Content"
+            "author": "Carter Johnson, Bloomberg",
+            "title": "Top economist El-Erian said the European Central Bank could cut rates as often or more than the Fed, which was 'unimaginable just months ago'",
+            "description": "The discrepancy between the ECB and the Fed is having an impact on bond and currency markets.",
+            "url": "https://fortune.com/2024/04/09/el-erian-european-central-bank-unimaginable-months-ago/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1251824164-e1712697395645.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T21:19:31Z",
+            "content": "Add Mohamed El-Erian to the growing ranks of those who\u00a0expect\u00a0the Federal Reserve to ease monetary policy less than its peers in the coming months.Slowing growth and sharper disinflation in Europe co\u2026 [+1418 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Ellen McGirt",
-            "title": "The forgotten true story behind Memorial Day\u2014and why it matters now more than ever",
-            "description": "The story, once lost to history, serves as another reminder of the need for accountability, justice, and equity for people of color as the first steps in true racial reckoning.",
-            "url": "https://fortune.com/2022/05/31/forgotten-true-story-behind-memorial-day-martyrs-of-the-race-course-why-it-matters-now/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-90001458-e1654032098432.jpg?resize=1200,600",
-            "publishedAt": "2022-05-31T21:41:09Z",
-            "content": "Skip to Content"
+            "author": "The Associated Press",
+            "title": "Scrabble, the famous game about clever word play, redesigned itself to be \u2018for anyone who finds word games intimidating\u2019",
+            "description": "\u201cWe want to ensure the game continues to be inclusive for all players,\u201d Ray Adler, vice president and global head of games at Mattel said in a prepared statement.",
+            "url": "https://fortune.com/2024/04/09/scrabble-redesign-less-about-word-play-europe/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24100528809878-e1712697452110.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T21:18:56Z",
+            "content": "Scrabble is getting a bit of a makeover, at least in Europe.Mattel has unveiled a double-sided board that features both the classic word-building game and Scrabble Together, a new rendition designed \u2026 [+2878 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Ram Charan",
-            "title": "4 vital steps that U.S. CEOs must take in the economic battle with China",
-            "description": "China's economy is huge, but for many companies the opportunities aren't worth the risks.",
-            "url": "https://fortune.com/2022/05/31/china-us-trade-competition-decoupling-supply-chains-intellectual-property/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1240814688-e1653692803397.jpg?resize=1200,600",
-            "publishedAt": "2022-05-31T13:00:00Z",
-            "content": "Skip to Content"
+            "author": "Amanda Gerut",
+            "title": "All aboard the Nvidia \u2018rocket ship\u2019: Executives are raking in company stock awards despite missing out on their bonuses for 2023",
+            "description": "C-suite execs didn\u2019t get their bonuses because revenue only hit $27 billion, while Jensen Huang only makes a $2 million base salary. But there are other considerations.",
+            "url": "https://fortune.com/2024/04/09/nvidia-executive-compensation-jensen-huang-salary-bonus-equity-stock/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2089849412-e1712694255350.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T20:58:54Z",
+            "content": "Only Nvidia, the suddenly indispensable $2 trillion AI giant, could make a missing C-suite bonus into a total nonissue. The dominant maker of semiconductor chips missed hitting financial goals in fis\u2026 [+6987 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Jeff Grabow",
-            "title": "The next Silicon Valley may not exist. Here\u2019s what smaller hubs can do to attract VC dollars",
-            "description": "We are seeing some regions begin to reap the benefits of a concerted effort to grow their VC ecosystem, says EY's venture capital leader Jeff Grabow.",
-            "url": "https://fortune.com/2022/05/27/next-silicon-valley-exist-smaller-hubs-attract-vc-dollars-startups-entrepreneurs-ey-jeff-grabow/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-569354399.jpg?resize=1200,600",
-            "publishedAt": "2022-05-27T13:20:00Z",
-            "content": "Skip to Content"
+            "author": "Chloe Berger",
+            "title": "Teachers are so fed up with the broken education system that over half wouldn\u2019t tell a young person to do what they do",
+            "description": "Educators cite dissatisfaction with the system",
+            "url": "https://fortune.com/2024/04/09/teacher-burnout-school-education-crisis/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-520752315-1-e1712693189609.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T20:51:05Z",
+            "content": "Not unlike the famed tree of Shel Silversteins divisive childrens book, teachers dont have much left to give. Oppertating in a infamously demanding and poorly-paid sector, many educators have reached\u2026 [+5048 chars]"
         },
         {
             "source": {
                 "id": "fortune",
                 "name": "Fortune"
             },
-            "author": "Marina Purkiss",
-            "title": "Boris Johnson has survived Partygate\u2013and he\u2019s coming for Northern Ireland",
-            "description": "Boris Johnson will not resign despite polls showing most Brits think he should. Instead, he is doubling down.",
-            "url": "https://fortune.com/2022/05/27/boris-johnson-survived-partygate-uk-politics-leadership-international-northern-ireland-international-marina-purkiss/",
-            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1240895230-e1653647119659.jpg?resize=1200,600",
-            "publishedAt": "2022-05-27T10:45:00Z",
-            "content": "Skip to Content"
+            "author": "Marco Quiroz-Gutierrez",
+            "title": "Google is building its own AI chips\u2014and it\u2019s a warning shot at Nvidia and Intel",
+            "description": "The race to make better chips to fuel AI is heating up.",
+            "url": "https://fortune.com/2024/04/09/google-building-ai-chips-axion-amin-vahdat-nvidia-h100-intel-gaudi-3/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2135840737-e1712695111455.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T20:47:45Z",
+            "content": "Google announced a proprietary chip Tuesday that could help it cut back its reliance on heavyweight chipmakers and gain a foothold in the increasingly competitive AI race.The new chip, dubbed Axion, \u2026 [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sasha Rogelberg",
+            "title": "For the first time since the pandemic, Americans prefer hybrid over remote work\u2014and it\u2019s not the free lunches driving the shift",
+            "description": "A new Morning Consult survey found that 29% of employed Americans preferred hybrid work, up from 25% the year before.",
+            "url": "https://fortune.com/2024/04/09/pandemic-covid-americans-hybrid-remote-work-perks-morning-consult-study/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1398260676-e1712693585978.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T20:35:29Z",
+            "content": "Employers have tried a throw-spaghetti-at-a-wall approach to get their workers back in the office after years of remote work, from threatening to withhold promotions unless employees show up to the o\u2026 [+4067 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Sydney Lake",
+            "title": "Billionaire Rupert Murdoch is taking an L on a Manhattan penthouse, slashing the asking price nearly 40% to $38.5 million",
+            "description": "The 7,000-square-foot Flatiron District penthouse was first listed in 2022 at $62 million.",
+            "url": "https://fortune.com/2024/04/09/billionaire-rupert-murdoch-manhattan-penthouse-asking-price/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/CPS_23_East_22nd_Street_PH_New_York_NY_CPS15_1_20240314-125127-e1712687234312.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T18:35:19Z",
+            "content": "Everyone seems to be having a tough time in todays housing market. Even billionaire media mogul and proprietor Rupert Murdoch is strugglingbut just in a very different way from young aspiring home bu\u2026 [+3539 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Tim Fries",
+            "title": "America is debating whether to raise the retirement age\u2013but boomers are already working well into their sixties and seventies",
+            "description": "The baby boomer generation is at the forefront of redefining retirement.",
+            "url": "https://fortune.com/2024/04/09/america-retirement-age-boomers-work-personal-finance/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-107670172-e1712686955238.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T18:24:56Z",
+            "content": "Baby boomers, a large and influential cohort that was only recently surpassed by millennials in terms of size, started retiring in 2011. They started working around 1962and a lot has changed since th\u2026 [+5989 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alena Botros",
+            "title": "Office values will plunge another 25% in \u2018worst-hit metros,\u2019 Capital Economics says\u2014and that\u2019s bad news for San Francisco and Seattle",
+            "description": "Austin has its own set of weaknesses but will eventually \u201cjoin the other southern metros in enjoying a decent recovery,\u201d according to deputy chief property economist Kiran Raichura.",
+            "url": "https://fortune.com/2024/04/09/commercial-real-estate-office-values-san-francisco-seattle-austin-capital-economics/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1272467757-e1712684323931.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T17:50:01Z",
+            "content": "Things may have quieted down in the commercial real-estate world, but offices are not in the clear. After all, interest rates are still high and remote work has mostly prevailed. And for those areas \u2026 [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Irina Ivanova, Sunny Nagpaul",
+            "title": "You think you deserve your raise and you think inflation is unfair: New economic paper sums up Biden\u2019s dilemma",
+            "description": "\u201cWhen workers get pay increases, they think it\u2019s their own work; when they see inflation, they think that\u2019s bad policy,\u201d Dean Baker told Fortune. \u201cAs an economist, it\u2019s annoying.\u201d",
+            "url": "https://fortune.com/2024/04/09/why-economy-negative-sentiment-inflation-joe-biden/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1266704391-e1712684199192.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T17:48:06Z",
+            "content": "Its the economy, stupid, has been the unofficial mantra of all U.S. presidents seeking reelection since the 1990s and that immortal phrase from the ragin cajun himself, James Carville. But Joe Biden \u2026 [+7834 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Matthew Daly, The Associated Press",
+            "title": "Hundreds of chemical plants will be forced to slash toxic emissions likely to cause cancer\u2014and it's a huge win for several majority-Black neighborhoods",
+            "description": "The rule advances President Biden\u2019s commitment to environmental justice by delivering critical health protections for\u00a0communities burdened by industrial pollution.",
+            "url": "https://fortune.com/2024/04/09/epa-chemical-plants-denka-toxic-emissions-cancer-biden-pollution-black-neighborhoods/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24099788664318-e1712680507262.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T16:38:12Z",
+            "content": "WASHINGTON More than 200 chemical plants nationwide will be required to reduce toxic emissions that are likely to cause cancer under a new rule issued Tuesday by the Environmental Protection Agency. \u2026 [+6203 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "The Associated Press",
+            "title": "Superman\u2019s first appearance from 1938 becomes most expensive comic book ever sold at auction, netting $6 million",
+            "description": "The Action Comics No. 1 sale was part of a four-day comic auction event that realized more than $28 million in sales, according to Heritage Auctions.",
+            "url": "https://fortune.com/2024/04/09/superman-action-comics-sells-for-6-million-auction/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-882826558-e1712678689315.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T16:08:35Z",
+            "content": "A 1938 copy of the comic that first introduced Superman to the world has sold for a record-setting $6 million, the auctioneer that handled the purchase said last week.According to Heritage Auctions, \u2026 [+1716 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Priya Abani",
+            "title": "I lead one of the startups accusing Apple of copyright infringement. Here\u2019s why Congress should side with us",
+            "description": "The David vs. Goliath battle over the Apple Watch has reached President Joe Biden\u2019s desk\u2013and, now, the halls of Congress.",
+            "url": "https://fortune.com/2024/04/09/startups-accusing-apple-of-copyright-infringement-congress-tech-politics/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1863294002-e1712677384210.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T15:45:41Z",
+            "content": "When I became CEO of AliveCor, a health tech startup dedicated to heart health, little did I know that we would spend years engaged in a legal fight to protect our intellectual property from one of t\u2026 [+4558 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eleanor Pringle",
+            "title": "Jamie Dimon says he runs JPMorgan with a military tactic in mind named the 'OODA loop'",
+            "description": "\"One cannot overemphasize the importance of observation and a full assessment\u2014the failure to do so leads to some of the greatest mistakes.\"",
+            "url": "https://fortune.com/2024/04/09/jamie-dimon-jpmorgan-military-leadership-tactic-ooda-loop/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1827752803-e1712671211955.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T15:31:17Z",
+            "content": "With over 240,000 staff under his watch and $32 trillion in assets a day to safeguard, its no wonder Jamie Dimon runs a tight ship at JPMorgan. Its perhaps why Americas biggest bank, which posted rec\u2026 [+3808 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Google launches Find My Device network to help users find lost devices",
+            "description": "Google launches 'Find My Device' network",
+            "url": "https://fortune.com/2024/04/09/google-launches-find-my-device/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1283281188-e1712672764791.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T15:23:25Z",
+            "content": "Its about to get a lot easier to find your Android phone after youve misplaced it.Google has launched its much-anticipated Find My Device network, almost a year after it first announced plans for the\u2026 [+1475 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Adam B. Frankel",
+            "title": "United Club Infinite Card review: You get what you pay for, and then some",
+            "description": "The United Club Infinite is the airline card for those who adore flying United. With a United Club lounge membership and the ability to spend your way to elite status, this card justifies its high annual fee for at least some travelers.",
+            "url": "https://fortune.com/recommends/credit-cards/united-club-infinite-card-review/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/Recommends_United-Club\u2120-Infinite-Card.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T15:18:26Z",
+            "content": "Fortune Recommends has partnered with CardRatings for our coverage of credit card products. Fortune Recommends and CardRatings may receive a commission from card issuers.\u00a0Terms apply to American Expr\u2026 [+16825 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Chris Morris",
+            "title": "Elon Musk says AI will be smarter than some humans by next year",
+            "description": "Within five years, Musk added, AI will be smarter than every human on earth.",
+            "url": "https://fortune.com/2024/04/09/elon-musk-ai-smarter-than-humans-by-next-year/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1851835109-e1712672707733.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T14:39:30Z",
+            "content": "Elon Musk is getting even more bullish on artificial intelligence.The Tesla CEO, in an interview on Twitter/X, has accelerated his forecast for the capabilities of AI, saying he expect large language\u2026 [+1615 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ben Stupples, Bloomberg",
+            "title": "Billionaire and Virgin Group founder, Richard Branson\u2019s wealth has tumbled by more than half since 2021 to $3bn",
+            "description": "With Nationwide's announced all-cash takeover of Virgin Money, the publicly traded component of Branson\u2019s wealth will soon nearly vanish.",
+            "url": "https://fortune.com/europe/2024/04/09/billionaire-virgin-group-british-richard-branson-wealth-tumbled-half-since-2021-to-3bn-spac-problems-covid-nationwide-natwest/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1052308178-e1712668340316.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:32:04Z",
+            "content": "Virgin Group founder Richard Branson had almost $2 billion tied up in global stock markets a year or so ago, largely from several cash-burning US companies listed through blank-check firms.Steep slum\u2026 [+4993 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Kevin Payne",
+            "title": "Best United Airlines credit cards of April 2024",
+            "description": "Whether you\u2019re a United loyalist looking for premium benefits like lounge access, a casual traveler seeking a free checked bag, or someone who values flexibility, there\u2019s a credit card for your needs.",
+            "url": "https://fortune.com/recommends/credit-cards/best-united-airlines-credit-cards/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/03/GettyImages-1367368208-e1710464740593.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:30:00Z",
+            "content": "Fortune Recommends has partnered with CardRatings for our coverage of credit card products. Fortune Recommends and CardRatings may receive a commission from card issuers.As one of the largest airline\u2026 [+17104 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Christiaan Hetzner",
+            "title": "Donald Trump\u2019s net worth shrunk by over $2 billion in one week",
+            "description": "At the rate shares in Trump Media and Technology Group are dropping, there might be little value left by the time the former President can sell his stock.",
+            "url": "https://fortune.com/2024/04/09/donald-trump-net-worth-truth-social-barry-diller-meme-stock/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2133642829-e1712660241588.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:21:07Z",
+            "content": "Donald Trumps net wealth is evaporating fast as stock in the parent company of Truth Social plunges to fresh depths since its recent market debut.\u00a0Shares in Trump Media and Technology Group have tumb\u2026 [+3371 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Josh Funk, The Associated Press",
+            "title": "Norfolk Southern settles fiery Ohio derailment class action lawsuit for $600 million",
+            "description": "The company said that the agreement, if approved by the court, will resolve all class action claims within a 20-mile radius from the derailment.",
+            "url": "https://fortune.com/2024/04/09/norfolk-southern-class-action-ohio-derailment-settlement-600-million/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24093707730462-e1712668694111.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:19:49Z",
+            "content": "Norfolk Southern has agreed to pay $600 million in a class-action lawsuit settlement related to a fiery train derailment in February 2023 in eastern Ohio.The company said Tuesday that the agreement, \u2026 [+4571 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "The Associated Press",
+            "title": "New England hit with up to 12 hours of \u2018creep and crawl\u2019 traffic as thousands of eclipse tourists clog the countryside",
+            "description": "In New Hampshire, travelers were stuck in bumper-to-bumper traffic much of the way through about 2 a.m. Tuesday, clogging up southbound Interstate 93.",
+            "url": "https://fortune.com/2024/04/09/eclipse-traffic-new-england-hampshire/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24100408196192-e1712668201479.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:14:55Z",
+            "content": "Thousands of visitors to northern New England communities in the path of the\u00a0total solar eclipse\u00a0were told to pack their patience for the trip. In some areas, they needed it for up to 12 hours after \u2026 [+1690 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Leo Schwartz",
+            "title": "Anthony Pompliano and ex-TechCrunch reporter launch Token Relations to improve crypto projects\u2019 communications",
+            "description": "The project, which is bootstrapped by Pompliano, counts Avalanche, Aptos, and Optimism as launch partners.",
+            "url": "https://fortune.com/crypto/2024/04/09/anthony-pompliano-token-relations-techcrunch-aptos-melinek/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1434496602-e1712595780587.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T13:00:00Z",
+            "content": "As crypto prices soar, everyone from app developers on popular blockchains to token holders is looking for quality sources of information on their favorite projects.Jacquelyn Melinek, a former senior\u2026 [+3277 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Leo Schwartz",
+            "title": "Paradigm leads $225 million round for Monad Labs, which is building a layer-1 blockchain to take on Ethereum and Solana",
+            "description": "The crypto firm founded by ex-Jump Crypto traders also received investment from Electric Capital and Neil Mehta's Greenoaks Capital.",
+            "url": "https://fortune.com/crypto/2024/04/09/monad-paradigm-greenoaks-jump-crypto-funding-225-million/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/crypto-coins-4.jpeg?resize=1200,600",
+            "publishedAt": "2024-04-09T12:00:00Z",
+            "content": "With crypto markets roaring back, different blockchains are jockeying to become the solution that hoovers up demand in the next wave, just as Bitcoin and Ethereum did in past cycles.A new player on t\u2026 [+5692 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Brooke Schultz, The Associated Press",
+            "title": "Tech layoffs push part-time content creators into becoming full-time influencers\u2014but it\u2019s not easy",
+            "description": "In an estimated $250 billion industry, 4% of global content creators pull in more than $100,000 annually, according to Goldman Sachs Research.",
+            "url": "https://fortune.com/2024/04/09/tech-layoffs-part-time-content-creators-full-time-influencersbut-fail-not-make-money/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24099856702403-e1712660275100.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T11:01:05Z",
+            "content": "With a compact mirror in one hand and an eyelash curler in the other, Grace Xu told her roughly 300,000 TikTok followers she was likely about to be laid off.She was right, she tells them in a subsequ\u2026 [+6066 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Niamh Rowe",
+            "title": "Mezo, a Bitcoin L2 that lets HODLers earn yield, debuts after $21 million Series A led by Pantera",
+            "description": "Mezo takes HODLers' otherwise passive Bitcoin holdings and \u201cputs them to work,\u201d the company said.",
+            "url": "https://fortune.com/crypto/2024/04/09/21-million-series-a-mezo-bitcoin-layer-2-hodl-hodlers/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/Matt_Headshot_Landscape4242.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T11:00:00Z",
+            "content": "Thesis, a venture studio launched in 2014, today announced a Bitcoinlayer-2 called Mezo, which the company describes as a Bitcoin Economic Layer. The launch follows a $21 million Series A raise led b\u2026 [+2502 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Prarthana Prakash",
+            "title": "Shell could abandon London for a New York listing as it considers 'all options'\u2014and, if it does, the FTSE 100 could lose its biggest player",
+            "description": "Shell CEO Wael Sawan has made comments since last year about revisiting its home listing in 2025, if it's the only way to prop up valuations.",
+            "url": "https://fortune.com/europe/2024/04/09/shell-wael-sawan-london-stock-exchange-new-york-listing-all-options-ftse-100/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1701545165-e1712658257787.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T10:45:06Z",
+            "content": "Theres no disputing Shells stature compared to other British, or even European, stocks.\u00a0By most measureswhether thats the FTSE 100 companies ranked by market cap, or the Fortune 500 Europe list that \u2026 [+2834 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Eleanor Pringle",
+            "title": "Finance guru Dave Ramsey slams 'awful' Gen Z and Millennials who live with their parents: 'They suck. They can't buy a house because they don't work'",
+            "description": "Personal finance guru and 'The Ramsey Show' podcast host Dave Ramsey says millennials and Gen Z's that live at home 'suck.'",
+            "url": "https://fortune.com/2024/04/09/dave-ramsey-gen-z-millennials-suck-property-ladder/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-837536002-e1712656495598.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T10:19:04Z",
+            "content": "Personal finance guru Dave Ramsey has got no time for staffersparticularly young peoplewho complain about their economic outlook but arent willing to put in the work to change it.The New York Times b\u2026 [+3670 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Robert Burnson, Bloomberg",
+            "title": "Elon Musk says he is \u2018guilty of many self-inflicted wounds\u2019 in defamation lawsuit accusing him of falsely identifying man as federal agent posing as neo-Nazi",
+            "description": "But the billionaire also said he didn\u2019t think he had \u201cmeaningfully harmed\u201d the Jewish 22-year-old who sued him for defamation.",
+            "url": "https://fortune.com/2024/04/09/elon-musk-self-inflicted-wounds-defamation-lawsuit-falsely-identifying-man-federal-agent-neo-nazi/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2074369175_25d2a0-e1712656101672.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T09:52:08Z",
+            "content": "Elon Musk said he is guilty of many self-inflicted wounds while being questioned in a lawsuit accusing him of promoting a conspiracy theory falsely identifying a California man as a federal agent pos\u2026 [+2431 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jonas Bergman, Ambereen Choudhury, Bloomberg",
+            "title": "HSBC pulls out of Argentina at a $1 billion loss as Asia pivot continues",
+            "description": "The move \"enables us to focus our resources on higher value opportunities across our international network,\u201d said CEO Noel Quinn.",
+            "url": "https://fortune.com/europe/2024/04/09/hsbc-pulls-out-argentina-1-billion-loss-asia-pivot-continues-javier-milei-hyperinflation/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2139242488-e1712655379244.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T09:49:53Z",
+            "content": "HSBC Holdings Plc agreed to sell its business in Argentina, and will book a $1 billion charge in the first quarter from the disposal as the lender hones its focus on faster growing Asian markets.The \u2026 [+2934 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Rodrigo Orihuela, Alice Gledhill, William Horobin, Bloomberg",
+            "title": "Southern Europe is the continent's new economic growth engine",
+            "description": "This year, Spain, Portugal, and Greece are expected to be among the top-performing economies in the 20-nation bloc, according to the European Commission.",
+            "url": "https://fortune.com/europe/2024/04/09/southern-europe-icontinent-new-economic-growth-engine-thanks-to-green-energy-sea-sun-foreign-buyers/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1462095002-e1712653525409.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T09:33:08Z",
+            "content": "Southern European economies that were long sneered at by their richer northern neighbors have turned the tables as they cement their role as growth drivers in the sputtering euro area.Business survey\u2026 [+5183 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Paul Tugwell, Sotiris Nikas, Bloomberg",
+            "title": "Greece wants to pour $2.3 billion into fighting climate change and natural disasters",
+            "description": "The Aegis program will be Greece\u2019s biggest-ever procurement program.",
+            "url": "https://fortune.com/europe/2024/04/09/wildfires-greece-2-3-billion-fighting-climate-change-natural-disasters-aegis-program/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1636800884-e1712652720497.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T09:14:23Z",
+            "content": "Greece is investing 2.1 billion ($2.27 billion) to protect the nation from natural disasters caused by climate change as wildfires are already breaking out ahead of fire season, which normally starts\u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Mike Schneider",
+            "title": "Disney allowed a 2-month pause in its federal lawsuit against Florida Gov. DeSantis",
+            "description": "The settlement deal halted almost two years of litigation that was sparked by DeSantis\u2019 takeover of the district following Disney's opposition to Florida\u2019s so-called\u00a0Don\u2019t Say Gay law.",
+            "url": "https://fortune.com/2024/04/09/disney-federal-lawsuit-florida-gov-ron-desantis/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2141960882-e1712653122151.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:59:36Z",
+            "content": "An appellate court on Monday granted Disneys request for a two-month pause in a federal lawsuit against Florida Gov. Ron DeSantis and his appointees to Walt Disney Worlds governing district after the\u2026 [+2693 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Daniele Lepido, Bloomberg",
+            "title": "Ferrari opens battery lab in northern Italy as it gears up to produce its first fully electric supercar",
+            "description": "The new research center, known as E-Cells Lab, could accelerate plans to bring Ferrari, famous for its roaring 12-cylinder engines, into the electric world.",
+            "url": "https://fortune.com/europe/2024/04/09/ferrari-battery-lab-northern-italy-first-fully-electric-car-ev-byd-lamborghini/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1242478552-e1712651860714.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:57:33Z",
+            "content": "Ferrari NV unveiled a new laboratory to research lithium battery cells as it gears up to produce its first fully electric supercar by late next year.The facility, led by University of Bologna scienti\u2026 [+1912 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Wayne Parry, The Associated Press",
+            "title": "Atlantic City casinos were less profitable in 2023 even with a boost from New Jersey\u2019s booming online gambling market",
+            "description": "All nine casinos were profitable in 2023, but only three saw an increase in profitability.",
+            "url": "https://fortune.com/2024/04/09/atlantic-city-casinos-less-profitable-2023-boost-new-jersey-online-gambling-market/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24099671415032-e1712652707901.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:55:29Z",
+            "content": "Figures released Monday by the New Jersey Division of Gaming Enforcement show the nine casinos collectively reported a gross operating profit of $744.7 million in 2023, a decline of 1.6% from 2022. W\u2026 [+3142 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Amy Beth Hanson, Matthew Brown, The Associated Press",
+            "title": "Montana asbestos victims want Warren Buffett\u2019s railroad company held responsible for thousands exposed to toxic dust",
+            "description": "The railroad\u2014now owned by Warren Buffett's Berkshire Hathaway\u2014hauled asbestos-tainted vermiculite from a nearby mine through Libby, Montana, over decades.",
+            "url": "https://fortune.com/2024/04/09/montana-asbestos-victims-warren-buffett-railroad-company-bnsf/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-525380426-e1712652458408.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:49:12Z",
+            "content": "An attorney for two people who died of a rare lung cancer argued on Monday for a jury to hold BNSF Railway responsible for pollution in a\u00a0small Montana town\u00a0near the U.S.-Canada border where thousand\u2026 [+5128 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Darlene Superville, Collin Binkley, The Associated Press",
+            "title": "Biden\u00a0says his\u00a0new plan to ease student loan debt would offer \u2018life-changing\u2019 relief to more than 30 million borrowers",
+            "description": "Biden said he wanted to \u201cgive everybody a fair shot\u201d and the \u201cfreedom to chase their dreams\u201d as he lamented the rising cost of higher education.",
+            "url": "https://fortune.com/2024/04/09/biden-new-plan-ease-student-loan-debt-life-changing-relief-30-million-borrowers/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24099694997825-e1712651417928.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:39:05Z",
+            "content": "President\u00a0Joe Biden\u00a0said Monday that more than 30 million borrowers would see life-changing relief from his\u00a0new plan to ease their student loan debt burdens, a fresh attempt by the Democratic preside\u2026 [+5580 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alyssa Sparacino",
+            "title": "Can creatine supplements really boost your workouts and muscle growth? Here's what experts say about these popular supplements",
+            "description": "\u201cYou can't just eat creatine and hope that you wake up bigger and stronger.\u201d",
+            "url": "https://fortune.com/well/article/creatine-health-benefits/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-982409358-e1712621546520.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:30:00Z",
+            "content": "You might think that creatine supplements are just the latest wellness fad to hit the gym floor, and youd be right, but thats only part of its story. In fact, your body produces creatine on its own, \u2026 [+6739 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Suman Naishadham, The Associated Press",
+            "title": "March was the 10th month in a row to be the hottest on record, scientists say",
+            "description": "Since last June,\u00a0the globe has broken heat records each month, with marine heat waves across large areas of the globe\u2019s oceans contributing.",
+            "url": "https://fortune.com/2024/04/09/march-10th-straight-month-hottest-record-scientists-copernicus/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/AP24099593594579-e1712650993718.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:25:31Z",
+            "content": "For the 10th consecutive month, Earth in March set a new monthly record for global heat with both air temperatures and the worlds oceans hitting an all-time high for the month, the European Union cli\u2026 [+2622 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lionel Lim",
+            "title": "China's 'Tomb Sweeping' holiday spending surpasses pre-COVID levels as the country continues a slow and steady recovery",
+            "description": "China's white-collar workers may have \"greater willingness to spend,\u201d Ben Cavender, managing director at China Market Research Group, told Reuters.",
+            "url": "https://fortune.com/asia/2024/04/09/china-tomb-sweeping-holiday-spending-surpasses-pre-covid-levels-consumption-recovery/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2139244340-e1712640686177.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T08:16:48Z",
+            "content": "Chinas crisis of consumer confidence may be turning a corner. Chinas economy has been shaky for much of the past year, with economists pointing to a prolonged property crisis, stubbornly high youth u\u2026 [+2259 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Alexa Mikhail",
+            "title": "These are the 10 worst U.S. states to live in for your mental health, according to a new study",
+            "description": "Number one is home to the highest proportion of \u201cmentally unhealthy adults.\u201d",
+            "url": "https://fortune.com/well/2024/04/08/10-worst-states-live-mental-health-study/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1199994542-e1712598824319.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T00:00:00Z",
+            "content": "Overall well-being is influenced by your financial standing, relationships, work, sense of purpose, and safety, but where you live and your communitys health care system also play a vital role. In an\u2026 [+2627 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ryan Hogg",
+            "title": "Tony Blair's son is using AI to match employers with their dream hire",
+            "description": "Euan Blair's edtech startup Multiverse has acquired an AI platform to teach employers what makes a good hire.",
+            "url": "https://fortune.com/europe/2024/04/08/tony-blairs-son-euan-blair-ai-employers-dream-hire-50-million-losses-education-unicorn-multiverse/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1742136038-e1712324986670.jpg?resize=1200,600",
+            "publishedAt": "2024-04-09T00:00:00Z",
+            "content": "Euan Blair, the oldest son of former U.K. Prime Minister Tony Blair, has built a nine-figure net worth by revolutionizing the way employers match with young talent.Now, the company wants to go one st\u2026 [+5357 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "The Associated Press",
+            "title": "Tesla settles wrongful death lawsuit brought by family of Apple engineer who used Autopilot on his way to work",
+            "description": "The settlement was reached the day before a trial was set to start.",
+            "url": "https://fortune.com/2024/04/08/tesla-settles-wrongful-death-lawsuit/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-1963523622_f78523-e1712620444290.jpg?resize=1200,600",
+            "publishedAt": "2024-04-08T23:55:06Z",
+            "content": "Tesla has settled lawsuit brought by the family of a Silicon Valley engineer who died in a crash while relying on the companys semi-autonomous driving software.The size of the settlement was not disc\u2026 [+1953 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Jill R. Shah, Jeannine Amodeo, Gowri Gurumurthy, Bloomberg",
+            "title": "JPMorgan leads underwriters on a piece of the deal to buy out the controlling investor in WWE, Ultimate Fighting Championship",
+            "description": "Banks and direct lenders are going head-to-head to finance deals.",
+            "url": "https://fortune.com/2024/04/08/jpmorgan-leads-underwriters-deal-investor-wwe-ultimate-fighting-championship/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-2147421138-e1712619563918.jpg?resize=1200,600",
+            "publishedAt": "2024-04-08T23:41:56Z",
+            "content": "Silver Lake Management has lined up as much as $8.5 billion of debt financing for its\u00a0buyout\u00a0of Endeavor Group Holdings Inc., the talent agency and controlling investor in WWE and the Ultimate Fighti\u2026 [+1685 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Richard Eisenberg",
+            "title": "Why so many Medicare beneficiaries have trouble getting their Part D plan to cover their medications\u2014and how to prevent it from happening to you",
+            "description": "Take steps to ensure that the medications your doctors want you to take are covered.",
+            "url": "https://fortune.com/well/article/medicare-beneficiaries-part-d-plans-ensure-prescription-medication-covered/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/04/GettyImages-82796275-e1712606646897.jpg?resize=1200,600",
+            "publishedAt": "2024-04-08T23:14:00Z",
+            "content": "If you have a Medicare Part D prescription drug plan and take one or more brand-name medicationsespecially, expensive onestheres a very good chance youll run into trouble getting it covered.Even wors\u2026 [+9379 chars]"
         }
     ]
 }

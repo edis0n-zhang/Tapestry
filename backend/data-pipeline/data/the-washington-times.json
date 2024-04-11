@@ -1,19 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 1,
+    "totalResults": 2,
     "articles": [
         {
             "source": {
                 "id": "the-washington-times",
                 "name": "The Washington Times"
             },
-            "author": null,
-            "title": "White House blasts new ban on flying BLM, gay pride flags at embassies",
+            "author": "www.washingtontimes.com",
+            "title": "PRIORITIES: Supreme Court says public officials CAN block social media followers...",
             "description": null,
-            "url": "https://www.washingtontimes.com/news/2024/mar/23/white-house-blasts-new-ban-flying-blm-gay-pride-fl/",
+            "url": "https://www.washingtontimes.com/news/2024/mar/15/supreme-court-says-public-officials-can-block-soci/",
             "urlToImage": null,
-            "publishedAt": "2024-03-24T12:37:13.4836806Z",
-            "content": null
+            "publishedAt": "2024-03-15T17:00:03Z",
+            "content": "PRIORITIES: Supreme Court says public officials CAN block social media followers...Click here to read the full article The post PRIORITIES: Supreme Court says public officials CAN block social media \u2026 [+463 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "www.washingtontimes.com",
+            "title": "Biden draws 'red line' for Netanyahu: No Israeli attack on Rafah!",
+            "description": null,
+            "url": "https://www.washingtontimes.com/news/2024/mar/10/biden-draws-red-line-for-prime-minister-benjamin-n/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T17:00:03Z",
+            "content": "Biden draws 'red line' for Netanyahu: No Israeli attack on Rafah!Click here to read the full article The post Biden draws 'red line' for Netanyahu: No Israeli attack on Rafah! captured from The Drudg\u2026 [+427 chars]"
         }
     ]
 }

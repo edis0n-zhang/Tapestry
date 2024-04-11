@@ -1,18 +1,31 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 3337,
     "articles": [
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
+            "author": null,
+            "title": "Group of Jewish and Palestinian women look to build bridges between cultures",
+            "description": "Zeitouna \u2014 the Arabic word for olive tree \u2014 is a group of six Jewish and six Palestinian women who have been meeting twice a month for over 20 years.",
+            "url": "https://www.cbsnews.com/news/zeitouna-michigan-jewish-palestinian-women-group/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/0e59ac13-67eb-46d9-9ef9-3db88cae8c34/thumbnail/1200x630/e54e7d2a29871dfe1fb346014691f0db/1712703488978.png?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:46:51Z",
+            "content": "They call themselves Zeitouna \u2014 a group of six Jewish and six Palestinian women in Michigan that has been meeting twice a month for more than two years. The name is the Arabic word for olive tree, an\u2026 [+2045 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
             "author": "CBS News",
-            "title": "Biden warns Netanyahu about civilian casualties following strike on WCK workers",
-            "description": "President Biden warned Israeli Prime Minister Benjamin Netanyahu his country must do more to prevent civilian casualties. Secretary of State Antony Blinken said if changes are not made, the U.S. would also make changes to its own policies regarding Israel. Na\u2026",
-            "url": "https://www.cbsnews.com/video/biden-warns-netanyahu-about-civilian-casualties-following-strike-on-wck-workers/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/3fbd76bd-b13e-4a49-83c0-ba50fbac11ad/thumbnail/1200x630/39119ab551c0430ca328faa2497c934e/0404-en-cordes-2812606-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:42:00+00:00",
+            "title": "Nonprofit provides free guide dogs for the visually impaired",
+            "description": "\"Guiding Eyes for the Blind,\" a New York-based nonprofit, provides free guide dogs for the visually impaired. Each year the group is able to provide 150 dogs, which can costs thousands of dollars to train and care for, to those in need.",
+            "url": "https://www.cbsnews.com/video/nonprofit-provides-free-guide-dogs-for-the-visually-impaired/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/749d7e45-f627-4b67-b0f5-cdbcd19734d0/thumbnail/1200x630/91ec49a47dc528d01eb6650e612a60c9/0409-en-hoa.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:46:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -21,11 +34,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "7-year-old leaps into action to help pregnant teacher who passed out",
-            "description": "Max Angel sprang into action and ran for the school nurse when Jessica Muolo, his pregnant teacher, suddenly passed out. Muolo and her baby are doing fine and Angel was given an award for his bravery.",
-            "url": "https://www.cbsnews.com/video/7-year-old-helps-teacher-in-medical-emergency/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/abb46c1f-121b-4eb6-91dc-7b42cfc0180e/thumbnail/1200x630/303d7b2122d1934f26e0cd225669e99d/0404-en-hoa-2812594-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:41:31+00:00",
+            "title": "Norfolk Southern agrees to $600 million payment to settle lawsuit over train derailment",
+            "description": "Norfolk Southern has agreed to pay $600 million to settle a class action lawsuit over the 2023 train derailment in East Palestine, Ohio. Some 2,000 people were displaced from their homes and many fear future health issues from the train's toxic payload. Roxan\u2026",
+            "url": "https://www.cbsnews.com/video/norfolk-southern-agrees-to-600-million-payment-to-settle-lawsuit-over-train-derailment/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/e5f7f259-4e9a-4702-9a5a-3d1f91fbfd71/thumbnail/1200x630/fb9d1e0def038a2073589f92999e209d/0409-en-saberi.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:44:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -34,11 +47,128 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "\"CBS Evening News\" headlines for Thursday, April 4, 2024",
+            "title": "Group of Jewish, Palestinian women build bridges",
+            "description": "A group of Jewish and Palestinian women has been meeting for over 20 years with the goal of building bridges between their two cultures. Lisa Ling takes a look at the work they've been doing in the wake of the Oct. 7 attack and the ongoing war in Gaza.",
+            "url": "https://www.cbsnews.com/video/group-of-jewish-palestinian-women-build-bridges/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/4faa21e8-2a4e-47f2-8f30-3a97ef86cfcb/thumbnail/1200x630/151eff652365c56c8c05adefdad588c4/0409-en-ling.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:44:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Netanyahu insistent on Rafah invasion",
+            "description": "Israeli Prime Minister Benjamin Netanyahu remains adamant that his country's military will embark on a ground offensive in the southern Gaza city of Rafah, despite mounting international pressure against the move. Debora Patta has the latest on the war in Gaz\u2026",
+            "url": "https://www.cbsnews.com/video/netanyahu-insistent-on-rafah-invasion/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/56c688ae-bba1-4723-8b27-17e0b7349164/thumbnail/1200x630/ac5dcab2618820544d53a49226d844da/0409-en-patta.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:40:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "18-year-old arrested for alleged planned terror attack in name of ISIS",
+            "description": "An 18-year-old Idaho man was arrested for allegedly planning a terror attack that he supposedly wanted to carry out in the name of ISIS. Elise Preston has the details.",
+            "url": "https://www.cbsnews.com/video/18-year-old-arrested-for-alleged-planned-terror-attack-in-name-of-isis/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/46322573-7ccf-42b9-9b0a-4a065d58fe2a/thumbnail/1200x630/ee936184da4ef990358441f0c3cb6196/0409-en-preston.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:38:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Parents of Michigan school shooter sentenced to 10 to 15 years in prison",
+            "description": "James and Jennifer Crumbley, the parents of a Michigan school shooter who killed four and injured seven back in 2021, were sentenced Tuesday to 10 to 15 years in prison. They were given the maximum sentence after being found guilty of involuntary manslaughter\u2026",
+            "url": "https://www.cbsnews.com/video/parents-of-michigan-school-shooter-sentenced-to-10-to-15-years-in-prison/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/6dab4040-f61d-4e2c-ab40-e64bcdbb8b58/thumbnail/1200x630/3519cd5912fa4580ab40da835912f4f3/0409-en-guittierez.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:35:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Heavy rain and strong winds hit southern U.S.",
+            "description": "Downpours and strong winds toppled trees and caused traffic nightmares throughout the South. The Weather Channel meteorologist Alex Wilson looks at what we can expect next.",
+            "url": "https://www.cbsnews.com/video/heavy-rain-and-strong-winds-hit-southern-u-s/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/aa2a823e-ff8a-4291-b125-616feaba26d2/thumbnail/1200x630/4cd822504d3825ead4b5b0442d5b85c3/0409-en-wilson.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:34:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Arizona Supreme Court rules abortion ban from 1864 can be enforced",
+            "description": "The Arizona Supreme Court on Tuesday ruled that a Civil War-era abortion ban that does not provide exceptions for rape and incest can be enforced. That ban will supersede a 15-week abortion ban that was signed into law in 2022. Nancy Cordes has the latest.",
+            "url": "https://www.cbsnews.com/video/arizona-supreme-court-rules-abortion-ban-from-1864-can-be-enforced/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/adb2d8dd-5218-4ec3-a420-61660c027f86/thumbnail/1200x630/dee06e5dd1e2199eb6429b667e396eac/0409-en-cordes.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:32:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "\"CBS Evening News\" headlines for Tuesday, April 9, 2024",
             "description": "Here's a look at the top stories making headlines on the \"CBS Evening News with Norah O'Donnell.\"",
-            "url": "https://www.cbsnews.com/video/cbs-evening-news-headlines-for-thursday-april-4-2024/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/d196abfc-223d-4b3b-bd4d-db78acc621a1/thumbnail/1200x630/aab2879dc6656b52df9b9b3be3444689/0404-en-headlines-2812586-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:40:58+00:00",
+            "url": "https://www.cbsnews.com/video/cbs-evening-news-headlines-for-tuesday-april-9-2024/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/5935c83e-1f56-4cb0-89be-e4e6fb5de242/thumbnail/1200x630/839183515f1fdb1d1a108808f3a4c551/0409-en-headlines.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:31:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Ubah Ali",
+            "title": "Minnesota Muslims prep to celebrate Eid Al-Fitr",
+            "description": "Minnesota Muslims are getting ready to celebrate Eid Al-Fitr, one of the most anticipated Islamic holidays.",
+            "url": "https://www.cbsnews.com/minnesota/news/minnesota-muslims-prep-to-celebrate-eid-al-fitr/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/f5cdf489-7444-4e13-baa9-90b7992894c1/thumbnail/1200x630/5dc6346ed5e3ecf500dd7390ac6b4978/6p-pkg-end-of-ramadan-wcco5692.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:19:42Z",
+            "content": "MINNEAPOLIS \u2014\u00a0One of the most anticipated Islamic holidays, is just around the corner. Muslims around the world are getting ready to celebrate Eid Al-Fitr on Wednesday.\r\nEid is an Islamic holiday mar\u2026 [+1146 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Updated On: April 9",
+            "title": "Federal court orders Philips Respironics to stop manufacturing sleep apnea machines at 3 Pittsburgh-area facilities",
+            "description": "The company responsible for a global recall of sleep apnea machines is now legally barred from resuming production at U.S. facilities until it meets a number of safety requirements.",
+            "url": "https://www.cbsnews.com/pittsburgh/news/philips-respironics-court-order-overhaul-manufacturing-distribution/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/08/9f50b181-aabc-4eb6-9df5-9061e82d2de8/thumbnail/1200x630/674c5d988c49a3dc1473700ea275228c/cbsn-fusion-philips-reaches-479-million-settlement-over-cpap-machine-recall-thumbnail-2276420-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T23:03:40Z",
+            "content": "The company responsible for a global recall of sleep apnea machines will be barred from resuming production at U.S. facilities until it meets a number of safety requirements, under a long-awaited set\u2026 [+4731 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Biden calls Trump the biggest threat to U.S. democracy",
+            "description": "President Biden called his predecessor the biggest threat to democracy in an interview with Televisa-Univision. CBS News contributor and Televisa-Univision anchor Enrique Acevedo, who spoke with the president, joins \"America Decides\" to assess Mr. Biden's lat\u2026",
+            "url": "https://www.cbsnews.com/video/biden-calls-trump-biggest-threat-to-us-democracy/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/c51f6317-598c-4636-b1c9-452252dcebf4/thumbnail/1200x630/af96b2a1790f5b4178a004d9be06045c/cbsn-fusion-biden-calls-trump-biggest-threat-to-us-democracy-thumbnail.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:27:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -47,11 +177,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Small Illinois village preps for second total eclipse in 7 years",
-            "description": "The village of Makanda, Illinois, is home to roughly 600 people. But thousands are expected to come for Monday's total solar eclipse, with Makanda directly in the path of totality, just as it was back in 2017. Roxana Saberi has the story.",
-            "url": "https://www.cbsnews.com/video/illinois-village-preps-for-second-total-eclipse/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/3d090aa8-300e-402a-8d25-9be1521e7bd0/thumbnail/1200x630/8a3ecb8f3a610e9dbde376e56ea855f2/0404-en-saberi-2812588-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:40:42+00:00",
+            "title": "Unpacking political fallout from Arizona abortion ban ruling",
+            "description": "The Arizona Supreme Court on Tuesday ruled an abortion ban from 1864 can be enforced. Robert Costa, CBS News chief election and campaign correspondent, and Daniella Diaz, Politico congressional correspondent, join \"America Decides\" to examine how the decision\u2026",
+            "url": "https://www.cbsnews.com/video/unpacking-political-fallout-arizona-abortion-ban-ruling/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/5ba469a2-3d69-411b-9616-cd08f054a083/thumbnail/1200x630/db6a83b29107b4efc83c98470e07c384/cbsn-fusion-unpacking-political-fallout-arizona-abortion-ban-ruling-thumbnail.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:20:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -59,39 +189,26 @@
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Jason R. Rich",
-            "title": "5 reasons to switch from an Android phone to an Apple iPhone",
-            "description": "Thinking of making a switch? We're making it easy to migrate from an Android smartphone to an Apple iPhone.",
-            "url": "https://www.cbsnews.com/essentials/switch-to-iphone/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/03/744541a2-3ecb-409e-815b-ff087087eb39/thumbnail/1200x630/a04d5dcea463bf5692569e9dc23cf663/2-split-holiday-gift-guide-2023-19-3.png?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:32:00+00:00",
-            "content": "Apple\r\nThese days, any smartphone -- whether it's an Apple iPhone or Android phone -- can handle the same everyday chores, like calls, texts, games, web surfing, email and more. But there are reasons\u2026 [+9130 chars]"
+            "author": "Adam Thompson",
+            "title": "Baltimore City Fire mourns paramedic who died in motorcycle crash on I-95",
+            "description": "Baltimore City Fire mourns paramedic who died in motorcycle crash on I-95cbsnews.com",
+            "url": "https://www.cbsnews.com/baltimore/news/baltimore-city-fire-mourns-paramedic-who-died-in-motorcycle-crash-on-i-95/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/98ed207d-d1ba-4f6f-82a4-0f259a5eb721/thumbnail/1200x630/b4e9d919b42a8ba97166525aa777febb/harrison.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:15:44Z",
+            "content": "BALTIMORE -- A Baltimore City Fire paramedic died from a motorcycle crash Friday morning on I-95.\r\nErica Harrison, 39, had been with the Baltimore City Fire Department for 2 1/2 years. She would have\u2026 [+2189 chars]"
         },
         {
             "source": {
                 "id": "cbs-news",
                 "name": "CBS News"
             },
-            "author": "Roxana Saberi",
-            "title": "Small Illinois village preps for second total eclipse in 7 years",
-            "description": "In a cosmic coincidence, the small southern Illinois village of Makanda is preparing for yet another total solar eclipse, with thousands of visitors expected.",
-            "url": "https://www.cbsnews.com/news/makanda-illinois-eclipse-festival/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/98901759-37ed-4fd4-b04d-86afdc4d0e1b/thumbnail/1200x630/bf460c11b26cdaea96332654c3795141/1712271668894.png?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T23:07:47+00:00",
-            "content": "In a cosmic coincidence, the southern Illinois village of Makanda is preparing for yet another total solar eclipse. The town of rouhgly 600 people sits right at the intersection of where the path of \u2026 [+2227 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "CBS News",
-            "title": "EPA awards $20 billion to fund clean energy projects across U.S.",
-            "description": "The Environmental Protection Agency on Thursday awarded $20 billion in federal \"green bank\" grants for clean energy projects across the U.S. John Podesta, senior Biden adviser for international climate policy, joins \"America Decides\" to discuss the grants' po\u2026",
-            "url": "https://www.cbsnews.com/video/epa-awards-20-billion-fund-clean-energy-projects/",
-            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/04/4c5675f0-310c-4dc9-b529-b07214c9d447/thumbnail/1200x630/f29ee3fb297babaf320258c6f71dc356/cbsn-fusion-epa-awards-20-billion-fund-clean-energy-projects-thumbnail-2812433-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T22:59:54+00:00",
-            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+            "author": "Kate Gibson",
+            "title": "Lunchables have concerning levels of lead, sodium, Consumer Reports says",
+            "description": "The prepackaged boxes of deli meat, cheese and crackers are not a healthy choice for kids, advocacy group says.",
+            "url": "https://www.cbsnews.com/news/lunchables-lead-sodium-consumer-reports-kraft-heinz/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2014/08/08/c37f42f4-397f-43d9-87b9-305d1223ca64/thumbnail/1200x630/4f2749f9c038106e95257708a6452c1b/picky_eaters_-_thinkstock_21.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:15:00Z",
+            "content": "Lunchables \u2014 prepackaged boxes of deli meat, cheese and crackers \u2014 are not the healthiest option when it comes to picking snacks or lunches for kids, as they contain troublesome levels of lead and so\u2026 [+2745 chars]"
         },
         {
             "source": {
@@ -99,11 +216,11 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Sen. Chris Coons says he's open to conditions on Israel aid",
-            "description": "President Biden and Democrats are facing real political pressure on Israel's war with Hamas. Delaware Sen. Chris Coons, a close Biden ally, signaled Thursday he'd be open to placing conditions on aid to Israel. Margaret Talev, senior Axios contributor, and Mo\u2026",
-            "url": "https://www.cbsnews.com/video/chris-coons-says-open-to-conditions-israel-aid/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/04/e4aadb18-9c3e-4813-a8d7-5c4de04cbd6b/thumbnail/1200x630/54dc9a5c71269dd4c5287ab838d3eba9/cbsn-fusion-chris-coons-says-open-to-conditions-israel-aid-thumbnail-2812414-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T22:57:33+00:00",
+            "title": "Father of Hamas hostage discusses meeting with Vice President Harris",
+            "description": "Relatives of American hostages held captive by Hamas met with Vice President Kamala Harris on Tuesday afternoon. Jonathan Dekel-Chen, whose son was kidnapped on Oct. 7, joins \"America Decides\" to share his takeaways from the meeting.",
+            "url": "https://www.cbsnews.com/video/father-hamas-hostage-discusses-meeting-with-kamala-harris/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/2ad19d3d-1ff5-4678-aa21-c65dedcc7564/thumbnail/1200x630/85e68171cd6f8f3528c17440a32e1270/cbsn-fusion-father-hamas-hostage-discusses-meeting-with-kamala-harris-thumbnail.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:14:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -112,11 +229,102 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "Breaking down Biden-Netanyahu call on World Central Kitchen deaths",
-            "description": "President Biden and Israeli Prime Minister Benjamin Netanyahu spoke Thursday for the first time since an IDF strike killed seven World Central Kitchen workers in Gaza. CBS News' Olivia Gazis and Nancy Cordes have the details.",
-            "url": "https://www.cbsnews.com/video/breaking-down-biden-netanyahu-call-world-central-kitchen-deaths/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/35f9c755-83d2-487e-b18f-2b3aef0a1801/thumbnail/1200x630/58be15a9a15d4558d84e1ade5282b3aa/cbsn-fusion-breaking-down-biden-netanyahu-call-world-central-kitchen-deaths-thumbnail-2812217-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T22:26:02+00:00",
+            "title": "Vice President Kamala Harris meets with families of Hamas hostages",
+            "description": "Vice President Kamala Harris on Tuesday met with families of Americans taken hostage by Hamas during the Oct. 7 attack. CBS News senior White House correspondent Weijia Jiang has more on the meeting.",
+            "url": "https://www.cbsnews.com/video/kamala-harris-meets-with-families-hamas-hostages/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/57a0d069-0e8b-4fa3-ae6a-5e8b3d883626/thumbnail/1200x630/5a3520bbbaee04bf9a623124575794ef/cbsn-fusion-kamala-harris-meets-with-families-hamas-hostages-thumbnail.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T22:10:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Lucia Suarez Sang",
+            "title": "Ex-Virginia assistant principal charged in case of student who shot teacher",
+            "description": "A special grand jury found that Ebony Parker showed a \"reckless disregard for the human life\" of students at Richneck Elementary School when a 6-year-old shot his teacher Abigail Zwerner in class.",
+            "url": "https://www.cbsnews.com/news/ebony-parker-charged-child-neglect-shooting-richneck-elementary-school-virginia/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/09/04f4f5bd-612a-4519-9d96-3377554a18be/thumbnail/1200x630/456afd680a74f82a8656ada66c9bdbc5/gettyimages-1247284407.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T21:37:00Z",
+            "content": "The former assistant principal of a Virginia elementary school where a 6-year-old boy shot and wounded his first-grade teacher last year has been indicted on eight felony counts of child neglect.\r\nA \u2026 [+3935 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "Black-owned bookstore in North Carolina is shutting down over threats",
+            "description": "Owner Victoria Scott-Miller said on Instagram that violent threats and hate mail made it unsafe to continue operating the store featuring Black authors.",
+            "url": "https://www.cbsnews.com/news/northcarolina-raleigh-childrens-bookstore-black-owned-death-threats-imagination-station/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/27172c3e-94e3-4932-8f6d-b771ff17c229/thumbnail/1200x630/93223948a749def0942fbc0c5c1fe5c3/victoria1-credit-courtney-winter-martin.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T21:11:00Z",
+            "content": "The owner of a Black-owned children's bookstore in Raleigh, North Carolina, said she is closing its doors less than a year after it opened because of violent threats.\u00a0\r\nThe store, called Liberation S\u2026 [+2520 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Joshua Rodriguez",
+            "title": "How much would a $250,000 home equity loan cost per month?",
+            "description": "You can probably do quite a bit with a $250,000 home equity loan. But how much would it cost to get it?",
+            "url": "https://www.cbsnews.com/news/how-much-would-a-250000-home-equity-loan-cost-per-month/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/5ac96828-0032-46e3-9762-a55cadc284b3/thumbnail/1200x630/d3992393eb21faaa654105a851fd8086/gettyimages-817726962.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T21:05:56Z",
+            "content": "The monthly payment on a $250,000 home equity loan depends on multiple factors.\u00a0\r\nGetty Images\r\nThe average American homeowner has some $299,000 worth of home equity. That's a significant amount of v\u2026 [+4632 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin Yilek",
+            "title": "Marjorie Taylor Green renews threat to oust Speaker Mike Johnson",
+            "description": "Rep. Marjorie Taylor Greene offered a searing rebuke of the House speaker as she renewed her threat to oust him.",
+            "url": "https://www.cbsnews.com/news/marjorie-taylor-green-letter-mike-johnson-ouster/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/22/997c704c-bda5-4364-a2ff-42424fbb912d/thumbnail/1200x630/731b28947ea79220a5363b5a1ea7e4cf/gettyimages-2097695686.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:54:45Z",
+            "content": "Washington \u2014 Rep. Marjorie Taylor Greene on Tuesday renewed her threat to oust Speaker Mike Johnson, writing a blistering letter that condemned his leadership as she tries to gain support among her R\u2026 [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Carolin Lehmann, Rachel Center, Lily Rose",
+            "title": "Best sofa beds for 2024",
+            "description": "Help your guests sleep better with these top-rated sofa beds from AllModern, Walmart and more.",
+            "url": "https://www.cbsnews.com/essentials/best-sofa-beds-sleepers-futons/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/ce2d250a-f2c3-4cf4-9810-c65979916253/thumbnail/1200x630/7ef8752173b59c55856c33df8eb14f15/sleeper-sofa-hero.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:46:00Z",
+            "content": "Burrow\r\nWithout a guest room, it can be challenging to entice guests to stay overnight. Instead of trying to tempt visitors with an old air mattress, consider upgrading to a new sofa bed that's actua\u2026 [+6198 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt Schooley",
+            "title": "Kowloon expanding with new restaurant at New Hampshire casino",
+            "description": "Kowloon, the iconic Massachusetts restaurant, is partnering with a New Hampshire casino to open a second location.",
+            "url": "https://www.cbsnews.com/boston/news/kowloon-the-brook-seabrook-new-hampshire-saugus/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/8079e73d-8e6b-427b-a476-7824a1351d4c/thumbnail/1200x630/d39cae5477ef2263359456f84159e818/gettyimages-632671040-1.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:36:41Z",
+            "content": "SEABROOK, N.H. \u2013 Kowloon, the iconic Massachusetts restaurant, is partnering with a New Hampshire casino to open a second location.\r\nThe original Kowloon is a popular restaurant located on Route 1 in\u2026 [+1459 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Maryland's governor, members of Congress seek federal aid after Baltimore bridge collapse",
+            "description": "Maryland Gov. Wes Moore met with lawmakers on Capitol Hill on Tuesday to discuss plans to rebuild the Francis Scott Key Bridge in Baltimore. Officials hope to remove the debris from the collapsed bridge to resume shipping by the end of May. CBS News' Scott Ma\u2026",
+            "url": "https://www.cbsnews.com/video/maryland-governor-members-congress-federal-aid-baltimore-bridge-collapse/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/c772869e-1214-48ac-9994-04a00e60b523/thumbnail/1200x630/ed826e7820fa12a235b3c0551e025a86/cbsn-fusion-maryland-federal-officials-present-goals-on-baltimore-bridge-collapse-thumbnail-2823091-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:28:58Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
         },
         {
@@ -125,12 +333,324 @@
                 "name": "CBS News"
             },
             "author": "CBS News",
-            "title": "How fast will the solar eclipse go?",
-            "description": "Lana Zak breaks down the speed of the solar eclipse.",
-            "url": "https://www.cbsnews.com/video/how-fast-will-the-solar-eclipse-go/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/04/03da94c0-bbd7-4924-9a1e-07ff9b0d4723/thumbnail/1200x630/1a4e56a4061908b7eb01a2dec3fa91aa/cbsn-fusion-how-fast-will-the-solar-eclipse-go-thumbnail-2812191-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
-            "publishedAt": "2024-04-04T22:11:02+00:00",
+            "title": "Tax Day is less than 1 week away: What to know",
+            "description": "Americans still have a few days to file their 2023 taxes. The IRS says more than 90 million tax returns have been received as of March 29. Medora Lee, a personal finance reporter for USA Today, joins CBS News with tips on making the deadline.",
+            "url": "https://www.cbsnews.com/video/tax-day-is-less-than-1-week-away-what-to-know/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/0a5c0a8c-450e-4735-81a3-4366fa3cdac3/thumbnail/1200x630/57cd1150ba898eea014b78e59313f624/cbsn-fusion-tax-day-is-less-than-one-week-away-what-to-know-thumbnail-2823085-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:22:41Z",
+            "content": "Copyright \u00a92024 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kaia Hubbard",
+            "title": "House Republicans delay sending Mayorkas impeachment articles to Senate",
+            "description": "House Republicans were expected to transmit the impeachment articles against DHS Secretary Alejandro Mayorkas to the Senate Wednesday.",
+            "url": "https://www.cbsnews.com/news/house-republicans-postpone-mayorkas-impeachment-articles-senate/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/03/28/05919cea-b9ec-4751-bb23-c88df6931126/thumbnail/1200x630g2/69321e9a0e8fda414d94fbf54779ac2c/gettyimages-1918147474.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:16:30Z",
+            "content": "Washington \u2014 House Republicans postponed sending the articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate until next week, amid concerns over the timing of an \u2026 [+2022 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Nearly 150 years since last cabinet member was tried by Senate",
+            "description": "The House of Representatives is preparing to deliver two articles of impeachment against Department of Homeland Security Secretary Alejandro Mayorkas to the Senate. CBS News' Lilia Luciano breaks down the history of impeachment efforts against presidential ca\u2026",
+            "url": "https://www.cbsnews.com/video/almost-150-years-since-last-cabinet-member-tried-by-senate/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/f043427d-57e8-484e-a9fe-2fd268a1d2d9/thumbnail/1200x630/1681dbf951bfa8a343e9da622ce60de6/cbsn-fusion-almost-150-years-since-last-cabinet-member-tried-by-senate-thumbnail-2823079-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:16:00Z",
             "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "European nations must protect citizens from climate change impacts, court rules",
+            "description": "The European Court of Human Rights ruled member nations have an obligation to protect their citizens from the damaging effects of climate change. CBS News' Imtiaz Tyab breaks down the ruling's implications.",
+            "url": "https://www.cbsnews.com/video/european-nations-must-protect-citizens-from-climate-change-impacts-court-rules/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/95ce7d24-0565-439b-a9ef-86a0680ff887/thumbnail/1200x630/59685a49b72cd30ba5e9fc0e2859b9ab/cbsn-fusion-european-nations-must-protect-citizens-from-climate-change-impacts-court-says-thumbnail-2823074-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:16:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump bid to delay \"hush money\" trial rejected",
+            "description": "A New York appeals court judge denied former President Donald Trump's motion to pause his upcoming criminal trial slated to begin April 15. CBS News' Katrina Kaufman has the latest in the various legal cases against Trump.",
+            "url": "https://www.cbsnews.com/video/trump-bid-to-delay-hush-money-trial-rejected/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/c8afe403-ec5c-4f64-854c-890d5a8aec07/thumbnail/1200x630/f83e909cb16348ba0de5151ca45d1a32/cbsn-fusion-trump-bid-to-delay-hush-money-trial-rejected-thumbnail-2823064-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:04:58Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Aimee Picchi",
+            "title": "Is America suffering from a \"vibecession\"? Here's what the data says.",
+            "description": "Economists say Americans should be more upbeat about the economy given strong job growth and lower inflation.",
+            "url": "https://www.cbsnews.com/news/cpi-report-inflation-economy-vibecession-cbs-explains/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/14/ea11d960-1bc9-4af8-8943-94373c04870c/thumbnail/1200x630/8e8652d6dd0a0edf6f5f3fbfe0d40c69/cbsn-fusion-wholesale-inflation-hotter-than-expected-in-february-thumbnail-2759039-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T20:01:40Z",
+            "content": "Inflation, financial pressures lead more Americans to believe they need more in retirement savings \r\nInflation, financial pressures lead more Americans to believe they need more in retirement savings\u2026 [+4942 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Mayorkas articles of impeachment headed to Senate",
+            "description": "The House of Representatives is expected to deliver two articles of impeachment against Department of Homeland Security Secretary Alejandro Mayorkas to the Senate on Wednesday. CBS News congressional correspondent Nikole Killion is following the latest effort\u2026",
+            "url": "https://www.cbsnews.com/video/mayorkas-articles-of-impeachment-expected-in-senate-wednesday/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/00294b3a-bdca-4104-b9bb-31e1b285e357/thumbnail/1200x630/7cde561ff976a27b97805a5e3acc1b3b/cbsn-fusion-mayorkas-articles-of-impeachment-expected-in-senate-wednesday-thumbnail-2823048-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:58:41Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Caitlin O'Kane",
+            "title": "Periodical cicadas will emerge this spring. Here's what to know.",
+            "description": "Periodical cicadas aren't present every spring, but when they do emerge, they come in loud, buzzing hordes. Here's what you need to know.",
+            "url": "https://www.cbsnews.com/news/periodical-cicadas-will-2024-when-will-cicadas-emerge-where-what-do-they-eat-lifespan-of-bug/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/06/a0a5d620-166a-4930-a505-c4d266c70ead/thumbnail/1200x630/ce2bbe10af24d9b40d9df2618c352709/cbsn-fusion-what-to-know-about-trillions-cicadas-about-to-swarm-us-thumbnail-2815861-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:52:32Z",
+            "content": "Periodical cicadas aren't present every spring, but when they do emerge, they come in loud, buzzing hordes. This year, trillions of these beady-eyed bugs are expected to appear in several U.S. states\u2026 [+5317 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Megan Cerullo",
+            "title": "FAA investigating Boeing whistleblower claims about 787 Dreamliner",
+            "description": "Boeing engineer alleges that assembly issues with Boeing's 787 Dreamliner raises safety concerns.",
+            "url": "https://www.cbsnews.com/news/boeing-787-dreamliner-whistleblower-faa-investigating/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/e57c6f07-3a87-4647-ac3b-bc123d917e52/thumbnail/1200x630/60aec93b0e26230c9a5e7924e82b1a76/gettyimages-2071869144.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:49:00Z",
+            "content": "The Federal Aviation Administration is investigating a Boeing engineer's allegations that assembly defects in the company's 787 Dreamliner raise safety concerns.\u00a0\r\nSam Salehpour, a quality engineer a\u2026 [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Blinken, Cameron meet in D.C. to discuss Ukraine funding",
+            "description": "Secretary of State Antony Blinken met with U.K. Foreign Secretary David Cameron in Washington, D.C., on Tuesday to discuss new military aid for Ukraine, which has been stalled in Congress for months. CBS News intelligence and national security reporter Olivia\u2026",
+            "url": "https://www.cbsnews.com/video/blinken-cameron-meet-in-dc-to-discuss-ukraine-funding/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/3ae1a936-ee8e-4305-adf2-8b8fd47fcfcf/thumbnail/1200x630/8850b29e553eb4f97938bd08d72a1261/cbsn-fusion-blinken-cameron-meet-in-dc-on-ukraine-funding-thumbnail-2823011-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:41:24Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Joshua Rodriguez",
+            "title": "Debt consolidation vs. bankruptcy: What's the difference?",
+            "description": "Debt consolidation and bankruptcy are both debt relief options, but how exactly do they differ?",
+            "url": "https://www.cbsnews.com/news/debt-consolidation-vs-bankruptcy-whats-the-difference/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/3ceffb20-126a-4e15-a784-553b525354f2/thumbnail/1200x630/302b3aed809c661cf400cbbb68065dc9/gettyimages-977418884.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:35:03Z",
+            "content": "Credit card debt consolidation and bankruptcy are two very different debt relief options.\u00a0\r\nGetty Images\r\nIf you're dealing with mounting credit card debt, you may feel overwhelmed. After all, with s\u2026 [+5926 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brittany Vincent, Carolin Lehmann, Kaylyn McKenna, Michelle Uy",
+            "title": "The best waterproof portable speakers of 2024 are the perfect for the pool",
+            "description": "Bring the party to the beach, the pool, or wherever you go this summer with these perfectly portable speakers.",
+            "url": "https://www.cbsnews.com/essentials/best-portable-waterproof-speakers/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/08/459379ac-6e4e-4201-a60b-235f5acd95a1/thumbnail/1200x630/4bff646b4f191e56e2f9b312df27a02b/waterproofspeakers.png?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:34:16Z",
+            "content": "Amazon/Getty Images\r\nIf you're planning on catching some sun this spring, don't forget to bring a speaker with you. After all, tunes are essential for relaxation. Whether you're planning a great day \u2026 [+5987 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Netanyahu vows expansion of Rafah offensive",
+            "description": "Prime Minister Benjamin Netanyahu says a date has been set for an expansion of Israel's military offensive in the southern Gaza city of Rafah. It is not clear when Israel will carry out the expansion or if it will actually take place. Sebastian Usher, a BBC N\u2026",
+            "url": "https://www.cbsnews.com/video/netanyahu-vows-expansion-of-rafah-offensive/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/b4e40b9c-d7a9-4318-92ca-b06a96c0bc26/thumbnail/1200x630/4bec3b237a7dd8ea44561eac8a3e225f/cbsn-fusion-israel-vows-to-carry-out-rafah-offensive-thumbnail-2823000-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:29:02Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Michael Hurley",
+            "title": "Brianna Wakefield, daughter of Tim and Stacy, throws out first pitch at Fenway Park Opening Day",
+            "description": "Red Sox fans in attendance at Fenway Park and at home watching on TV experienced a range of emotions on Opening Day on Tuesday.",
+            "url": "https://www.cbsnews.com/boston/news/tim-wakefield-brianna-wakefield-red-sox-2004-ceremony-first-pitch/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/545a98b7-fa72-4bbb-b8c6-9d0c785b0d54/thumbnail/1200x630/a6d7f323cc65628c5052eb76bc03d2ee/gettyimages-2144475520.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:15:50Z",
+            "content": "BOSTON -- Red Sox fans in attendance at Fenway Park and at home watching on TV experienced a range of emotions on Opening Day on Tuesday.\r\nThe return of the 2004 Red Sox represented a celebration of \u2026 [+4028 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Christopher Brito",
+            "title": "South Carolina-Iowa final draws in nearly 19 million viewers",
+            "description": "Sunday's championship, which sealed South Carolina's undefeated season and Caitlin Clark's last college game, was the most-watched women's college basketball game ever.",
+            "url": "https://www.cbsnews.com/news/south-carolina-iowa-championship-caitlin-clark/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/3c7d4ca0-e17f-40f5-b514-d3292c3ea5f2/thumbnail/1200x630/26ebf8bfb7d40ad97053756293a527a1/gettyimages-2147503000.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T19:15:00Z",
+            "content": "The national championship game between South Carolina and Iowa smashed ratings records after averaging nearly 19 million viewers, ESPN said.\u00a0\r\nThe South Carolina Gamecocks beat college superstar\u00a0Cait\u2026 [+2443 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Matt Richardson",
+            "title": "What if mortgage rates don't fall? 3 things buyers can do this spring",
+            "description": "Homebuyers were hoping that mortgage rates would have fallen this spring. Here's what they should do while waiting.",
+            "url": "https://www.cbsnews.com/news/what-if-mortgage-rates-dont-fall-things-buyers-can-do-this-spring/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/9e161522-7587-4fdb-a30d-48869186d5ca/thumbnail/1200x630/26521438baccc5f736fe1164715263a9/gettyimages-1472147698.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T18:58:13Z",
+            "content": "While waiting for rates to fall homebuyers should consider taking some smart steps this spring.\r\nGetty Images\r\nBy the spring of 2024, many homebuyers had expected an adjustment to the mortgage rate c\u2026 [+3731 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Khristopher J. Brooks",
+            "title": "Dude Perfect's latest trick \u2014 sinking up to $300 million in venture money",
+            "description": "Dude Perfect started with five college friends posting sports trick-shot videos on YouTube. Now it's being labeled a \"media juggernaut.\"",
+            "url": "https://www.cbsnews.com/news/dude-perfect-youtube-trick-shot/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/08bf3aae-1f6d-44e7-a135-a0a6a3e29229/thumbnail/1200x630/7d3c1b7a16dcd4fd60d8d775f3e29fb4/gettyimages-471564022.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T18:48:14Z",
+            "content": "It started with a YouTube\u00a0video of several young dudes hitting absurdly difficult trick shots on a backyard basketball hoop. Some 15 years later, those pals \u2014 now with more than 60 million subscriber\u2026 [+3004 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Sara Moniuszko",
+            "title": "\"Menopause does not mean you have to suffer\": An OB-GYN on breaking the stigma",
+            "description": "About one million women\u200b in the United States experience menopause every year, but it's still surrounded by stigma \u2014 something OB-GYN Dr. Sharon Malone is trying to change.",
+            "url": "https://www.cbsnews.com/news/menopause-grown-woman-talk-obgyn/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/5d4ec38e-1d93-4fa1-a924-791d40980287/thumbnail/1200x630/d176c9795b96e40660e5341fef2e934c/gettyimages-1326633655.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T18:47:44Z",
+            "content": "An estimated one million women in the United States experience menopause every year, but it's still often\u00a0surrounded by stigma \u2014 something Dr. Sharon Malone is trying to change.\r\nMalone, an OB-GYN an\u2026 [+2650 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "3 dead, 6 missing in explosion at hydroelectric plant in Italy",
+            "description": "An explosion at a hydroelectric plant in central Italy on Tuesday left at least three people dead and another six missing, officials said.",
+            "url": "https://www.cbsnews.com/news/italy-explosion-hydroelectric-power-plant-deaths-missing-injured-officials/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/b0c89cf2-5a3a-4726-87b0-80b79ea2546b/thumbnail/1200x630/e2157ac6e7e67d24583520d9013e2706/italy-explosion.png?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T18:44:16Z",
+            "content": "Three people have died and six are missing following an explosion at a hydroelectric power station near Bologna in central Italy on Tuesday, a local official told AFP.\r\nThree people were also injured\u2026 [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Delta passengers get engaged mid-flight while seeing total solar eclipse from 30,000 feet",
+            "description": "How did you celebrate the April 8 total solar eclipse? This couple did it with a proposal \u2013 30,000 feet in the air.",
+            "url": "https://www.cbsnews.com/video/delta-passengers-get-engaged-mid-flight-while-seeing-total-solar-eclipse-from-30000-feet/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/cf39af33-337b-42b0-816e-73d11e7b3a87/thumbnail/1200x630/43131636bac061f1ce77f130ab45a274/0409-ecpliseproposal-social.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T18:44:00Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Arizona Supreme Court upholds near-total abortion ban from 1864",
+            "description": "The Arizona Supreme Court has ruled that a century-old abortion ban may be enforced. The 1864 ban has an exception to save the life of the mother but none in cases of rape or incest. Scott Fredericksen, a defense attorney, joins CBS News with more details on \u2026",
+            "url": "https://www.cbsnews.com/video/arizona-supreme-court-upholds-near-total-abortion-ban/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/966cc391-c11b-4abc-9e8d-c795217a73e8/thumbnail/1200x630/3d9694ab3de6e47df091dc191b0a6e06/cbsn-fusion-arizona-supreme-court-upholds-near-total-abortion-ban-thumbnail-2822917-640x360.jpg?v=8f9acb0830ce2ef2593f1d92f65cccba",
+            "publishedAt": "2024-04-09T18:37:02Z",
+            "content": "Watch CBS News\r\nCopyright \u00a92024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Angelica Leicht",
+            "title": "How to benefit from gold's high price now",
+            "description": "Gold prices have hit numerous milestones over the last few weeks. Here's how you can reap the benefits today.",
+            "url": "https://www.cbsnews.com/news/how-to-benefit-from-golds-high-price-now/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/04/09/cbfa1c03-5305-4123-9c62-8984a9401a5b/thumbnail/1200x630/8b1d43f10bded558de809ad337141730/gettyimages-1485698683.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T18:01:15Z",
+            "content": "You have a few different options to consider if you want to capitalize on today's high gold prices.\r\nLemonsoup14/Getty Images\r\nGold prices have been climbing over the last year, a trend that's been d\u2026 [+5366 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Lucia Suarez Sang",
+            "title": "Beyonc\u00e9 is first Black woman to top Billboard country albums chart",
+            "description": "Beyonc\u00e9 is the first Black woman to top the Billboard Country Albums chart.",
+            "url": "https://www.cbsnews.com/news/beyonce-cowboy-carter-top-billboard-country-albums-chart/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/30/fa7d4181-f768-4a77-af0c-aa836e807e95/thumbnail/1200x630/44fb994bb94b098344698f3834dd5419/cbsn-fusion-what-inspired-beyonce-new-album-cowboy-carter-thumbnail-2798592-640x360.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T17:41:58Z",
+            "content": "Beyonc\u00e9 just keeps making history.\r\nThe Houston-born singer became the first Black woman to top the Billboard Country Albums chart after her latest album \"Act II: Cowboy Carter\" hit the No. 1 spot. I\u2026 [+1414 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Graham Kates",
+            "title": "Potential jurors in Trump's \"hush money\" trial will be asked these questions",
+            "description": "Potential jurors will face a quiz like none other while being considered for a seat at Donald Trump's upcoming New York trial \u2014 the first criminal trial of a former president in U.S. history.",
+            "url": "https://www.cbsnews.com/news/trump-jury-questions-new-york-hush-money-trial/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/04/09/a0c7e7f9-fd84-4bcf-a8d1-7c8a6bb01d38/thumbnail/1200x630g1/47e203959ccb283d45007cb4fe879c94/gettyimages-2105326698.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T17:35:40Z",
+            "content": "\"Do you listen to or watch podcasts? If so, which ones?\"\r\n\"Do you listen to talk radio? If so, which programs?\"\r\n\"Do you currently follow Donald Trump on any social media site or have you done so in \u2026 [+3056 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Shawna Mizelle",
+            "title": "Arizona Supreme Court rules abortion ban from 1864 can be enforced",
+            "description": "The ruling clears the way for a near-total ban on abortions in the state.",
+            "url": "https://www.cbsnews.com/news/arizona-abortion-ban-supreme-court-1864/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/04/09/9c201185-ea25-4568-96f4-3b33d299a602/thumbnail/1200x630/0ee285d509113e7546e3307d13de01c0/ap22365037441860.jpg?v=95af720165ffeea582866d60dd9b1b18",
+            "publishedAt": "2024-04-09T17:33:41Z",
+            "content": "The Arizona Supreme Court ruled Tuesday that a century-old abortion ban may be enforced,\u00a0clearing the way for a near-total ban on abortions in the state.\r\nThe 1864 ban has exceptions to save the life\u2026 [+370 chars]"
         }
     ]
 }

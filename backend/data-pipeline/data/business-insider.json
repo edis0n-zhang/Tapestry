@@ -1,123 +1,123 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 2209,
     "articles": [
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": null,
-            "title": "I&#x27;m a high-school junior. The teacher shortage is wrecking my generation&#x27;s future.",
-            "description": null,
-            "url": "http://www.businessinsider.com/teacher-shortages-america-hurting-students-high-school-tiktok-gen-z-2024-3",
-            "urlToImage": null,
-            "publishedAt": "2024-03-17T14:07:05.054136Z",
-            "content": "{\"en\":{\"access_disabled\":\"Internet Access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is \u2026 [+3945 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Alyshia Hull",
-            "title": "Ex-Google recruiter shares lessons from career pivot post-layoffs",
-            "description": "An ex-Google recruiter got into real estate after he was laid off. His career pivot taught him to trust himself and not be afraid of making mistakes.",
-            "url": "http://www.businessinsider.com/google-layoff-career-pivot-lessons-2024-3",
-            "urlToImage": "https://i.insider.com/65f4809c3037f8e81750d5e4?width=1200&format=jpeg",
-            "publishedAt": "2024-03-17T11:30:01Z",
-            "content": "This as-told-to essay is based on a conversation with Adam Hunt, a 32-year-old CEO, real-estate agent, and investor at VSM Real Estate, in Minneapolis. It has been edited for length and clarity.\r\nIn \u2026 [+5151 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Hasan Chowdhury",
-            "title": "Nvidia's Jensen Huang is about to give believers a look at AI's future",
-            "description": "The Nvidia CEO is set to host a huge event, dubbed the \"Woodstock of AI,\" which will host a who's who of the sector.",
-            "url": "http://www.businessinsider.com/nvidia-jensen-huang-to-give-look-ai-future-2024-3",
-            "urlToImage": "https://i.insider.com/65f46c761851e792f0f0105e?width=1200&format=jpeg",
-            "publishedAt": "2024-03-17T11:04:01Z",
-            "content": "There's a running gag that Jensen Huang is to AI fanboys what Taylor Swift is to Swifties. Next week could prove it right.\r\nThe Nvidia CEO is set to host the latest installment of his GPU Technology \u2026 [+3210 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "James Rodriguez",
-            "title": "Realtor lawsuit settlement will change the housing market forever",
-            "description": "New rules as part of a $418 million settlement could push down the commissions buyers and sellers pay their agents \u2014 but that's just the beginning.",
-            "url": "http://www.businessinsider.com/national-association-realtors-lawsuit-settlement-housing-market-homebuying-agents-commissions-2024-3",
-            "urlToImage": "https://i.insider.com/65f46fb91851e792f0f01298?width=1200&format=jpeg",
-            "publishedAt": "2024-03-17T09:57:02Z",
-            "content": "Things are about to get weird for homebuyers and sellers.\r\nI wrote late last year that 2024 would mark the beginning of a great experiment in real estate that would upend the way homebuyers and selle\u2026 [+6847 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
             "author": "Hannah Getahun",
-            "title": "Chinese youth are job hunting on Tinder",
-            "description": "Amid sky-high unemployment, Chinese youth are using Tinder to find jobs, NBC News reported.",
-            "url": "http://www.businessinsider.com/china-youth-high-unemployment-job-hunting-dating-apps-tinder-2024-3",
-            "urlToImage": "https://i.insider.com/65f62a761851e792f0f05761?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T23:33:11Z",
-            "content": "People are now going to networking apps to date and dating apps to network and in China, young job hunters have been using the US app Tinder to advance their careers.\r\nChina's youth are struggling wi\u2026 [+2102 chars]"
+            "title": "A random Chinese company selling food-grade glycine is Gen Z's newest obsession on TikTok",
+            "description": "Donghua Jinlong, a Chinese company that manufactures glycine, is becoming a meme among Gen Z on TikTok for no meaningful reason.",
+            "url": "https://www.businessinsider.com/donghua-jinlong-glycine-meme-tiktok-2024-4",
+            "urlToImage": "https://i.insider.com/661467f516bde8d4ead6c3f7?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T23:07:02Z",
+            "content": "A amino acid called glycine has captured TikTok's attention \u2014 but not for its potential health benefits.MTStock Studio/Getty Images\r\n<ul><li>Gen Z is enamored with an amino acid called glycine.</li><\u2026 [+3171 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Erin Snodgrass",
-            "title": "We moved from California to Iowa to retire but only stayed 20 months",
-            "description": "Wendy and Kurt Meyer moved from California to Iowa to be closer to family in retirement. But they quickly realized they didn't like Iowa or retirement.",
-            "url": "http://www.businessinsider.com/moved-from-california-iowa-retire-stayed-less-than-2-years-2024-3",
-            "urlToImage": "https://i.insider.com/65f4acf81851e792f0f042c6?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T12:11:01Z",
-            "content": "This as-told-to essay is based on a conversation with Wendy and Kurt Meyer, a 65-year-old manufacturing manager and 59-year-old toolmaker, who moved from Mission Viejo, California, to Washington, Iow\u2026 [+6030 chars]"
+            "author": "insider@insider.com (Jennifer Sisson)",
+            "title": "I thought I'd earn more by keeping my money in the stock market than a savings account, but I couldn't have been more wrong",
+            "description": "Writer Jennifer Sisson wanted her travel savings for her dream trip to Italy to earn money, but she lost big when the stock market dropped.",
+            "url": "https://www.businessinsider.com/mistake-investing-money-instead-of-saving-it-2024-04",
+            "urlToImage": "https://i.insider.com/6345c870d2050f0011d3d8fa?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T22:28:01Z",
+            "content": "Affiliate links for the products on this page are from partners that compensate us and terms apply to offers listed (see our advertiser disclosure with our list of partners for more details). However\u2026 [+5002 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "George Glover",
-            "title": "Rethink aging to solve the looming retirement crisis, economist says",
-            "description": "Improved longevity means the world is facing a retirement crisis. Flexible work and a focus on sustainable health would help, says Andrew J. Scott.",
-            "url": "http://www.businessinsider.com/retirement-crisis-aging-longevity-evergreen-economy-2024-3",
-            "urlToImage": "https://i.insider.com/65f19f916080194819ff45c2?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T11:43:09Z",
-            "content": "Life expectancy soared in the first two decades of this century, World Health Organization data shows and that's posing challenges for some rich countries.\r\nPeople tend to underestimate their chances\u2026 [+5662 chars]"
+            "author": "aismael@insider.com (Amir Ismael)",
+            "title": "I tried Bombas' Gripper Slippers, which combine the comfort of socks with the traction slippers \u2014 and I never want to take them off",
+            "description": "Bombas used its expertise in socks to make some of the most comfortable slippers I've ever worn. Plus, they'll donate a pair for every pair sold.",
+            "url": "https://www.businessinsider.com/guides/style/bombas-gripper-slippers-review",
+            "urlToImage": "https://i.insider.com/63e5204127e5db0018eee9f9?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:58:00Z",
+            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nIntroducing: Gripper Slippers by Bombas\r\nBombas is known for being one of the internet's best brands of \u2026 [+6488 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Madison Hoff",
-            "title": "Side-hustle recommendations: Here are eight side gigs to try this year",
-            "description": "If you're thinking about pursuing a side hustle, look to things like surveys, dog walking, or holiday-related work.",
-            "url": "http://www.businessinsider.com/side-hustle-recommendations-jobs-to-try-this-year-concerts-surveys-2024-3",
-            "urlToImage": "https://i.insider.com/65f4438d857f90b71522da59?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T09:57:01Z",
-            "content": "Side hustles can include building a profitable business, spending a few minutes on an online gig like survey work, or working a job that falls outside your typical 9-to-5.\r\n\"For people who are lookin\u2026 [+7989 chars]"
+            "author": "insider@insider.com (Joey Hadden)",
+            "title": "Then and now: Inside the legendary Orient Express train",
+            "description": "The Orient Express is an iconic, historic train that's been revived by the Venice Simplon-Orient-Express.",
+            "url": "https://www.businessinsider.com/then-and-now-orient-express-train-photos-2024-4",
+            "urlToImage": "https://i.insider.com/660eea163f923f7dab04bd80?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:56:39Z",
+            "content": "The Orient Express is perhaps the most well-known train in history.\r\nAs the first transcontinental express train in Europe, the Orient Express served the rich and royal on overnight journeys from 188\u2026 [+715 chars]"
         },
         {
             "source": {
                 "id": "business-insider",
                 "name": "Business Insider"
             },
-            "author": "Nora Naughton",
-            "title": "The new car market is a little less brutal",
-            "description": "Falling prices and a return of discounts are making car shopping a lot less painful this year.",
-            "url": "http://www.businessinsider.com/the-new-car-market-is-a-little-less-brutal-2024-3",
-            "urlToImage": "https://i.insider.com/65f4a7dc857f90b715231ce8?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T09:12:01Z",
-            "content": "If you've been waiting to buy a new car until prices start to fall, your patience over the last few years might be paying off.\r\nAverage affordability for new cars is finally heading in the right dire\u2026 [+1650 chars]"
+            "author": "Lauren Frias",
+            "title": "See Israel's aerial defense systems in action on land and sea",
+            "description": "Israel's defense systems are some of the most advanced in the world, designed to intercept targets at vast ranges and altitudes on both land and sea.",
+            "url": "https://www.businessinsider.com/see-israel-defense-systems-weapons-in-action-2024-4",
+            "urlToImage": "https://i.insider.com/66155ea91caec1275a6e22b1?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:53:56Z",
+            "content": "Missiles launched from the Iron Dome defense system attempt to intercept a rocket fired from Gaza strip.MAHMUD HAMS/AFP via Getty Images\r\n<ul><li>Israel has one of the most advanced air defense syste\u2026 [+9713 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Victoria Cavazos)",
+            "title": "Living abroad in a tiny Spanish apartment taught me 5 money lessons that are still saving me thousands",
+            "description": "Victoria Cavazos lived in Rota, Spain, while on assignment with the Navy. She learned to spend on experiences instead of things.",
+            "url": "https://www.businessinsider.com/living-abroad-money-lessons-saving-thousands-navy-2024-04",
+            "urlToImage": "https://i.insider.com/62deba0cd571050018ad62f6?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:48:01Z",
+            "content": "Affiliate links for the products on this page are from partners that compensate us and terms apply to offers listed (see our advertiser disclosure with our list of partners for more details). However\u2026 [+4709 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jake Epstein,Paul Ronzheimer",
+            "title": "All the deadly drones Ukraine is building to fight Russia can't make up for the weapons it really needs but doesn't have, Zelenskyy says",
+            "description": "Ukrainian officials have repeatedly identified air-defense systems as one of their most pressing requirements for shielding troops and civilians.",
+            "url": "https://www.businessinsider.com/ukraine-drones-cant-replace-weapons-it-really-needs-zelenskyy-says-2024-4",
+            "urlToImage": "https://i.insider.com/6615a55e3f923f7dab0612e6?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:05:57Z",
+            "content": "A Patriot missile is fired during an exercise at the Black Sea training range in Capu Midia, Constanta, Romania on Nov. 15, 2023.INQUAM PHOTOS/George Calin\r\n<ul><li>Ukraine has built up a formidable \u2026 [+4319 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ana Altchek",
+            "title": "Google just unveiled a new weapon against Microsoft and Amazon in the AI arms race",
+            "description": "Google is partnering with Arm to make more of its own chips, its latest move forward in the race to scale up in AI.",
+            "url": "https://www.businessinsider.com/google-ramped-up-ai-competition-against-microsoft-amazon-2024-4",
+            "urlToImage": "https://i.insider.com/66154e1e1caec1275a6e1454?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T21:04:51Z",
+            "content": "Google announced its first Arm-based CPU on Tuesday.SOPA Images/Getty\r\n<ul><li>Google announced the development of its own Arm-based CPU processor Axion.</li><li>The move gives Google an edge in its \u2026 [+2281 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cpanella@businessinsider.com (Chris Panella,Paul Ronzheimer)",
+            "title": "Russia 'knew where we were going to attack,' Zelenskyy says in reflection on why Ukraine's big counteroffensive stumbled",
+            "description": "Ukraine's counteroffensive last year didn't achieve its objectives, in part because the Kremlin knew the plans, Zelenskyy said.",
+            "url": "https://www.businessinsider.com/russia-knew-where-ukraines-counteroffensive-was-attacking-zelenskyy-2024-4",
+            "urlToImage": "https://i.insider.com/661587b016bde8d4ead70520?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:54:32Z",
+            "content": "Reflecting on the unsuccessful summer 2023 counteroffensive, Ukrainian President Volodymyr Zelenskyy noted this week that the operation may have been doomed from the start.\r\n\"The Russians knew where \u2026 [+5807 chars]"
         },
         {
             "source": {
@@ -125,12 +125,532 @@
                 "name": "Business Insider"
             },
             "author": "Maria Noyen",
-            "title": "Stephen Colbert bolsters rumor that Prince William is having an affair",
-            "description": "As speculation about Kate Middleton's public absence mounts, Stephen Colbert says \"internet sleuths\" claim an old affair rumor is to blame.",
-            "url": "http://www.businessinsider.com/prince-william-rose-hanbury-rumor-kate-middleton-explained-2024-3",
-            "urlToImage": "https://i.insider.com/65f4a4dc3037f8e81750f4ad?width=1200&format=jpeg",
-            "publishedAt": "2024-03-16T07:32:02Z",
-            "content": null
+            "title": "People pay up to $2,700 a month to live with 27 roommates in a NYC townhouse \u2014 see inside",
+            "description": "Coliving startup Cohabs owns 14 NYC locations where people pay for furnished rooms with flexible leases, plus access to common amenity spaces.",
+            "url": "https://www.businessinsider.com/cohabs-harlem-new-york-townhouse-tour-coliving-costs-benefits-photos-2024-4",
+            "urlToImage": "https://i.insider.com/660b23211caec1275a6ba076?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:38:04Z",
+            "content": "Cohabs is a Belgian-founded coliving company with 14 locations in New York.Pierre Jampy\r\n<ul><li>Coliving company Cohabs has 14 homes in New York, where people rent rooms and share common spaces.</li\u2026 [+16196 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Nvidia stock tumbles as AI chip competition heats up",
+            "description": "\"Intel can tell us all day long about how powerful its chips are, it doesn't have that software advantage that Nvidia does,\" Alex Kantrowitz said.",
+            "url": "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-ai-chip-competition-heats-up-intel-alphabet-2024-4",
+            "urlToImage": "https://i.insider.com/6615934b3f923f7dab06013f?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:18:22Z",
+            "content": "Nvidia stock fell as much as 5% on Tuesday as competitors in the highly lucrative market for AI chips unveiled big developments.\u00a0\r\nDirect competition from Intel appears to be ramping up, with the com\u2026 [+1935 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "US stocks slip as investors brace for big March inflation report",
+            "description": "After the CPI report, investors will turn their attention to the start of first quarter earnings results with the major banks reporting on Friday.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-today-us-stocks-drop-march-cpi-inflation-report-2024-4",
+            "urlToImage": "https://i.insider.com/64592e7e65a21600192fa5e6?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:16:43Z",
+            "content": "US stocks slipped on Tuesday as investors brace for the Wednesday morning release of the March CPI report.\r\nThe March consumer price index report is set to be released Wednesday morning, and investor\u2026 [+1341 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Talia Lakritz",
+            "title": "Hundreds of couples got married during the solar eclipse. Photos show mass weddings featuring moon-themed cakes and protective glasses.",
+            "description": "Towns in the path of totality hosted wedding ceremonies where couples exchanged vows and enjoyed views of the solar eclipse.",
+            "url": "https://www.businessinsider.com/eclipse-mass-weddings-photos-totality-2024-4",
+            "urlToImage": "https://i.insider.com/6615a11716bde8d4ead71615?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:12:24Z",
+            "content": "Lori Lycans and Tom Wissinger watch the eclipse at \"Elope at the Eclipse\" in Tiffin, Ohio, before getting married during totality.Maddie McGarvey/For The Washington Post via Getty Images\r\n<ul><li>Man\u2026 [+4929 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Peter Kafka",
+            "title": "How Ozempic made a musician a million dollars",
+            "description": "A 50-year-old hit turned into a big pharma windfall for David Paton after it was used as the theme song for Ozempic.",
+            "url": "https://www.businessinsider.com/ozempic-magic-ad-song-david-paton-pilot-million-2024-4",
+            "urlToImage": "https://i.insider.com/661598c816bde8d4ead7100a?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T20:05:43Z",
+            "content": "David Paton (right) and his band Pilot in 1975. Five decades later, their hit song \"Magic\" has become a key part of Ozempic's marketing campaign.Koh Hasebe/Shinko Music\r\n<ul><li>David Paton's 1974 so\u2026 [+2898 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Erica Star Domena,Tamara Lindstrom",
+            "title": "A report says Starlink terminals are being used in Russia after Putin and Musk deny it",
+            "description": "Ukraine says Putin's troops are using Elon Musk's Starlink to coordinate attacks, and a new Wall Street Journal report points to a black market.",
+            "url": "https://www.businessinsider.com/starlink-terminals-russia-ukraine-putin-musk-war-sudan-2024-4",
+            "urlToImage": "https://i.insider.com/661598f616bde8d4ead7102f?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T19:55:36Z",
+            "content": "Ukraine says Putin's troops are using Elon Musk's Starlink to coordinate attacks, and a new Wall Street Journal report points to a black market. Despite Musk's denial, House Democrats are pressuring \u2026 [+103 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Taylor Rains",
+            "title": "Another Boeing whistleblower has come forward, this time alleging safety lapses on the 777 and 787 widebodies",
+            "description": "A veteran Boeing engineer said parts of the company's 787 and 777 jets were misaligned during assembly, possibly impacting safety on 1,400 planes.",
+            "url": "https://www.businessinsider.com/boeing-whistleblower-777-787-plane-safety-production-2024-4",
+            "urlToImage": "https://i.insider.com/6615905716bde8d4ead70919?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T19:31:21Z",
+            "content": "Boeing 787s at Boeing's Washington assembly line in June 2022.Taylor Rains/Insider\r\n<ul><li>A whistleblower has come forward with allegations about the safety of at least 1,400 Boeing planes.</li><li\u2026 [+4114 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Yuheng Zhan",
+            "title": "JPMorgan drops its recession call for the first half and now sees a 55% chance of a soft landing for the global economy",
+            "description": "\"The larger shift in our recent thinking, however, is about the relationship between interest rates and the life of the expansion,\" JPMorgan analysts wrote.",
+            "url": "https://www.businessinsider.com/us-recession-odds-economy-outlook-soft-landing-inflation-fed-jpmorgan-2024-4",
+            "urlToImage": "https://i.insider.com/6615799c1caec1275a6e3342?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T19:31:11Z",
+            "content": "zhuweiyi49/Getty Images\r\n<ul>\n<li>JPMorgan scrapped its recession forecast for the first half of 2024 and now sees 55% odds of a soft landing.</li>\n<li>The bank sees a 30% chance that global expansio\u2026 [+2320 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bryan Metzger",
+            "title": "GOP Senate candidate Kari Lake bashes Arizona's new abortion ban. She praised it less than 2 years ago.",
+            "description": "In 2022, Lake said the 1864 law was \"great\" and could pave the way for other states. Now, she says it's \"out of step.\"",
+            "url": "https://www.businessinsider.com/kari-lake-arizona-abortion-ban-good-law-2024-4",
+            "urlToImage": "https://i.insider.com/66158d451caec1275a6e3eab?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T19:29:35Z",
+            "content": "Arizona GOP Senate candidate Kari Lake leaving the Capitol in Washington, DC last month.Tom Williams/CQ-Roll Call via Getty Images\r\n<ul><li>A near-total abortion ban from 1864 will soon take effect i\u2026 [+3328 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "knotopoulos@businessinsider.com (Katie Notopoulos)",
+            "title": "Your Google Docs are (probably) safe from AI training",
+            "description": "Google has been using documents that are publicly available to train its AI. Does that mean my Google Docs are vulnerable? I investigated.",
+            "url": "https://www.businessinsider.com/google-docs-publicly-available-ai-training-settings-private-shared-2024-4",
+            "urlToImage": "https://i.insider.com/661589003f923f7dab05fc7f?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T19:18:11Z",
+            "content": "I use Google Docs like a chaos gremlin: constantly and with a nihilistic approach to organization and labeling. I'd guess that 75% of my Google Drive is items called \"Untitled.\" I start new text docu\u2026 [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kevin Reilly,Grant Tyler",
+            "title": "How Nespresso and Keurig spend millions trying to solve coffee-pod waste",
+            "description": "Coffee companies like Keurig and Nespresso produce almost 50 billion single-serve coffee pods a year. Club Coffee makes a compostable alternative.",
+            "url": "https://www.businessinsider.com/nespresso-keurig-spend-millions-trying-to-solve-coffee-pod-waste-2024-4",
+            "urlToImage": "https://i.insider.com/6613fe0a1caec1275a6da947?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:54:55Z",
+            "content": "Each year, coffee companies like Keurig and Nespresso produce almost 50 billion single-serve coffee pods, which are notoriously difficult to recycle. Keurig even says so on its labels. Club Coffee in\u2026 [+374 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Geoff Weiss",
+            "title": "A virtual pop star appeared at her live concerts in just 2D \u2014 and fans are throwing fits",
+            "description": "Hatsune Miku, a vocaloid singer set to grace the Coachella stage this weekend, performed as a hologram in the past.",
+            "url": "https://www.businessinsider.com/virtual-popstar-hatsune-miku-performs-on-2d-screen-disappointing-fans-2024-4",
+            "urlToImage": "https://i.insider.com/661579b93f923f7dab05f3b2?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:54:12Z",
+            "content": "PlayStation\r\n<ul><li>Hatsune Miku, the vocaloid singer, kicked off her new tour on a giant LED screen.</li><li>Some fans are fuming, 404 Media reports, given she's appeared as a hologram in the past.\u2026 [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Noah Sheidlower",
+            "title": "Texas AG sues county over Houston-area guaranteed income program giving participants $500 a month no strings attached",
+            "description": "The Texas Attorney General's office sued Houston's home county over its Uplift Harris guaranteed income pilot, which it alleges is unconstitutional.",
+            "url": "https://www.businessinsider.com/houston-texas-guaranteed-income-ubi-sued-ken-paxton-austin-poverty-2024-4",
+            "urlToImage": "https://i.insider.com/66158d483f923f7dab05fe84?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:51:43Z",
+            "content": "Texas Attorney General Ken Paxton called Uplift Harris an \"unlawful\" program.Sean Pavone/Shutterstock\r\n<ul><li>The Texas Attorney General's office is suing Houston's home county over a guaranteed inc\u2026 [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Filip De Mott",
+            "title": "Sanctions are squeezing Russia, turning up its dependence on China and 'rogue' states, think tank says",
+            "description": "Sanctions are working as Moscow is relying on North Korea, Iran, and China to stay afloat, think tank expert Stephen Blank wrote.",
+            "url": "https://www.businessinsider.com/russia-economy-outlook-sanctions-west-oil-war-weapons-rogue-states-2024-4",
+            "urlToImage": "https://i.insider.com/661572b416bde8d4ead6f7c7?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:41:45Z",
+            "content": "Russian leader Vladimir Putin.Sergei Guneyev/Pool/AFP via Getty Images\r\n<ul>\n<li>Sanctions are pushing Russia into the arms of rogue states and deepening dependence on China, a think tank said.\u00a0</li>\u2026 [+3350 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "The US Navy's grappling with another Ford-class supercarrier delay that could run into the next decade",
+            "description": "Navy officials blamed USS Enterprise's extended delays on supply chain issues and lingering COVID-19 issues.",
+            "url": "https://www.businessinsider.com/us-navy-grappling-with-another-ford-class-supercarrier-delay-2024-4",
+            "urlToImage": "https://i.insider.com/6615888516bde8d4ead705c8?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:38:02Z",
+            "content": "Gerald R. Ford is the U.S. Navy's newest and most advanced aircraft carrier, representing a generational leap in the U.S. Navy's capacity to project power on a global scale.U.S. Navy photo by Mass Co\u2026 [+5091 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "The March inflation report is a make-or-break moment for the market's rate-cut forecasts",
+            "description": "\"The US CPI print seems to have the greatest potential to further shape the narrative if it materially surprises higher or lower,\" JPMorgan said.",
+            "url": "https://markets.businessinsider.com/news/stocks/march-cpi-inflation-preview-fed-interest-rate-cuts-this-year-2024-4",
+            "urlToImage": "https://i.insider.com/5f3a828fe89ebf001f04527d?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:31:42Z",
+            "content": "All eyes are on the March consumer price index report, which represents a make-or-break moment for potential interest rate cuts this year.\r\nThe inflation report, set to be released Wednesday morning,\u2026 [+3164 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jpandy@insider.com (Jordan Pandy)",
+            "title": "I always dreamed of living in Paris. I moved and found it's more affordable than a big city in the US.",
+            "description": "Sage VanAlstine moved to Paris and discovered that rent, high-quality food and drinks, and more are more attainable than she thought.",
+            "url": "https://www.businessinsider.com/american-moved-to-paris-finds-it-more-affordable-than-expected-2024-4",
+            "urlToImage": "https://i.insider.com/6615824e16bde8d4ead701d7?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:11:02Z",
+            "content": "This as-told-to essay is based on a conversation with Sage VanAlstine, 23, and her decision to move from Okemos, Michigan, a 25,000-person city outside of Lansing, to Paris for a job in marketing. Th\u2026 [+7152 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "amok@insider.com (Aaron Mok)",
+            "title": "Elon Musk says AI will be smarter than humans in 2 years",
+            "description": "Tech billionaire Elon Musk believes AI will outsmart humans by 2026. But data scarcity and a chip shortage may get in the way.",
+            "url": "https://www.businessinsider.com/elon-musk-says-ai-will-outsmart-humans-by-2026-2024-4",
+            "urlToImage": "https://i.insider.com/64bea71ded4f460019620753?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T18:02:47Z",
+            "content": "Elon Musk is once again betting that artificial intelligence will outsmart us all and he expects that to occur sooner than he initially thought.\r\n\"My guess is we'll have AI that is smarter than any o\u2026 [+3633 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jennifer Sor",
+            "title": "Home prices are poised to jump another 5% this year as the market is even tighter than it was in 2023, economist says",
+            "description": "The housing market looks even tighter than it did in 2023 as the demand for homes revs up, according to Capital Economics.",
+            "url": "https://www.businessinsider.com/home-price-forecast-housing-market-outlook-mortgage-rate-lock-inventory-2024-4",
+            "urlToImage": "https://i.insider.com/635262b7ffcac3001876ab16?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T17:37:47Z",
+            "content": "House with American flag and 'for sale' sign, low angle view - stock photoPhillip Spears/ Getty Images\r\n<ul>\n<li>Home prices could see another 5% surge in 2024, Capital Economics predicted.</li>\n<li>\u2026 [+2876 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Rebecca Strong)",
+            "title": "How to make quick and easy air fryer hamburgers",
+            "description": "Air fryer burgers cook up quickly, retain their juiciness, and develop a crisp crust. They are also lower in fat than pan-fried patties.",
+            "url": "https://www.businessinsider.com/guides/kitchen/air-fryer-burgers",
+            "urlToImage": "https://i.insider.com/61f04a13702f4b001866ee57?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T17:36:31Z",
+            "content": "When you're craving a mouthwatering burger that takes minimal effort, turn to the best air fryer. Not only is air frying less work than grilling or searing on the stovetop, but Brian Lee, the executi\u2026 [+5603 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "nnaughton@insider.com (Nora Naughton)",
+            "title": "Anything but Tesla: US shoppers want more EV options",
+            "description": "EV shoppers are growing tired of Tesla and want more options, new study finds.",
+            "url": "https://www.businessinsider.com/ev-shoppers-are-looking-for-more-than-tesla-2024-4",
+            "urlToImage": "https://i.insider.com/65808f611c5c7b8c9a09576a?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T17:22:53Z",
+            "content": "Electric vehicle shoppers are getting sick of Tesla.\r\nWell over half of the EV shoppers surveyed by UBS in an annual study said they would prefer to buy an electric car from a legacy carmaker over a \u2026 [+2028 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jbrains@businessinsider.com (James Brains)",
+            "title": "Serta iComfortECO foam mattress review: The best firm mattress we've tested",
+            "description": "The Serta iComfortECO foam mattress is among the firmest we've tested, making it ideal for stomach and back sleepers.",
+            "url": "https://www.businessinsider.com/guides/home/serta-icomforteco-foam-mattress-review",
+            "urlToImage": "https://i.insider.com/661417553f923f7dab0582f1?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T17:20:54Z",
+            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nBefore the bed-in-a-box industry took off in the 2010s, there were three major mattress brands: Serta, S\u2026 [+10017 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John L. Dorman",
+            "title": "Democrats rely on college towns to win close races in swing states. But the conflict in Gaza is creating a tricky path for Biden's reelection.",
+            "description": "The Democratic playbook for turning out the party's base voters has hit a major roadblock this year over Biden's handling of the Israel-Hamas war.",
+            "url": "https://www.businessinsider.com/biden-democrats-gaza-israel-hamas-war-college-towns-swing-states-2024-4",
+            "urlToImage": "https://i.insider.com/661563eb1caec1275a6e268f?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T17:07:48Z",
+            "content": "Madison, Wisconsin.Getty Images\r\n<ul><li>Democrats generally have well-tuned plans to turn out their party's most loyal base voters.</li><li>But the Israel-Hamas war has complicated the party's hold \u2026 [+3027 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "I watched the total solar eclipse in a city that doubled in size during the event. I don't regret it.",
+            "description": "I watched the total solar eclipse in a city that doubled in size during the event. Here's what it was like.",
+            "url": "https://www.businessinsider.com/total-solar-eclipse-burlington-vermont-what-it-was-like-2024-4",
+            "urlToImage": "https://i.insider.com/6615722b1caec1275a6e2eb6?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:54:45Z",
+            "content": "Burlington's Waterfront Park on a typical day (left) versus the day of the total solar eclipse (right).Barry Winiker/Getty Images / Ellyn Lapointe\r\n<ul><li>I traveled to Burlington, Vermont to watch \u2026 [+4488 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Brendan Griffiths)",
+            "title": "Champions League quarter-finals: How to watch a free Real Madrid vs. Man City live stream from anywhere",
+            "description": "A huge Champions League quarter-final clash between two giant teams can seen for free today. Don't miss the Real Madrid vs. Man City live stream.",
+            "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-real-madrid-vs-man-city-live-stream-free-champions-league",
+            "urlToImage": "https://i.insider.com/6615709a3f923f7dab05edab?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:53:55Z",
+            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nThe Champions League quarter-finals are finally getting underway tonight, and this is the pick of the bu\u2026 [+9586 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Yuheng Zhan",
+            "title": "Small business sentiment is the lowest in over a decade as inflation proves sticky",
+            "description": "Inflation is the top hurdle for business owners, while the tight labor market has made staffing a challenge in many sectors.",
+            "url": "https://www.businessinsider.com/us-economy-small-business-confidence-11-year-low-inflation-recession-2024-4",
+            "urlToImage": "https://i.insider.com/661563c616bde8d4ead6ef07?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:53:20Z",
+            "content": "The small pharmacy section in a New York grocery store.Talia Lakritz/Business Insider\r\n<ul>\n<li>Confidence among US small business owners is at an 11-year low, according to NFIB.</li>\n<li>High inflat\u2026 [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "nraucheisen@businessinsider.com (Nicole Raucheisen,Charlie Floyd,Joe Avella,Harry Kersh,David Ibekwe)",
+            "title": "An American tourist and a local find the best Sunday roast in London",
+            "description": "\"Food Wars\" hosts Harry Kersh and Joe Avella visit four restaurants across London to find the best Sunday roast in the city.",
+            "url": "https://www.businessinsider.com/american-local-find-best-sunday-roast-london-2024-4",
+            "urlToImage": "https://i.insider.com/66140ae816bde8d4ead68018?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:52:16Z",
+            "content": "\"Food Wars\" hosts Harry Kersh and Joe Avella travel across London to find the best Sunday roast in the city. They'll be visiting four locations in just one day to see what the city has to offer. This\u2026 [+16 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "skenny@businessinsider.com (Serafina Kenny)",
+            "title": "Being a psychopath helped me excel as a lawyer and not care about gender roles. Non-psychopaths can learn 2 things from me.",
+            "description": "M.E. Thomas is a female psychopath who thinks her psychopathy helped her succeed as a lawyer and reject gender stereotypes.",
+            "url": "https://www.businessinsider.com/female-psychopath-sociopath-lawyer-job-work-advice-2024-4",
+            "urlToImage": "https://i.insider.com/661562101caec1275a6e2573?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:42:53Z",
+            "content": "This as-told-to essay is based on a conversation with M.E. Thomas, the pen-name of an attorney, ex-law professor, and author of \"Confessions of a Sociopath: A Life Spent Hiding in Plain Sight.\" Busin\u2026 [+4459 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Laura Italiano",
+            "title": "Trump loses tenth attempt to delay hush money trial, this time over his gag order",
+            "description": "Trump had hoped to stall his April 15 trial so he would have time to fight his gag order.  On Monday, an appellate judge in Manhattan said no.",
+            "url": "https://www.businessinsider.com/trump-loses-10th-attempt-to-delay-hush-money-trial-2024-4",
+            "urlToImage": "https://i.insider.com/66156dc03f923f7dab05ebf2?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:39:02Z",
+            "content": "Donald Trump lost his tenth attempt to delay his hush money trial on Monday this time over his gag order.\r\nTrump had hoped to delay his first criminal trial long enough to mount a full appeal of the \u2026 [+1200 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lara O'Reilly",
+            "title": "IBM's marketing chief explains how the company is harnessing AI to boost productivity",
+            "description": "Jonathan Adashek says IBM employees are using in-house AI technology to improve client interactions.",
+            "url": "https://www.businessinsider.com/ibm-marketing-ai-for-productivity-in-workplace-2024-4",
+            "urlToImage": "https://i.insider.com/66018b7a1caec1275a68f648?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:34:51Z",
+            "content": "IBM employees are using in-house generative AI to produce quicker quality results for clients, says marketing chief Jonathan Adashek.Photo courtesy of Jonathan Adashek; Alyssa Powell/BI\r\n<ul><li>IBM \u2026 [+6445 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cchen@insider.com (Connie Chen)",
+            "title": "Snake River Farms review: The best online selection of premium meat like American wagyu and Kurobuta pork",
+            "description": "Snake River Farms specializes in American wagyu beef, but also offers premium seafood, pork, and Texas barbecue. Here's why we love the service.",
+            "url": "https://www.businessinsider.com/guides/kitchen/snake-river-farms-review",
+            "urlToImage": "https://i.insider.com/5eb0673d3dac9a17533e2274?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:24:20Z",
+            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nWagyu beef is prized among steak lovers for its unique marbling, rich flavor, and melt-in-your-mouth ten\u2026 [+5957 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "ggoodwin@businessinsider.com (Grace Eliza Goodwin)",
+            "title": "Microsoft is about to pump billions more into AI data centers",
+            "description": "Microsoft's largest investment in Japan includes AI training for 3 million workers and a $9.9 million research lab, Nikkei Asia reported.",
+            "url": "https://www.businessinsider.com/microsoft-invest-billions-into-japan-ai-data-centers-2024-4",
+            "urlToImage": "https://i.insider.com/66155fc83f923f7dab05e3aa?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:19:18Z",
+            "content": "Microsoft is investing some serious capital in new AI data centers, and Japan is the latest country to benefit.\r\nThe tech giant plans to pour $2.9 billion into AI data centers in Japan by 2025, accor\u2026 [+2040 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ella Sherman",
+            "title": "Giving Trump sweeping immunity would bring 'chaos,' former US generals, admirals, and military service leaders say",
+            "description": "19 former military leaders argued in an amicus brief that granting Trump immunity from election interference charges may result in irreparable damage.",
+            "url": "https://www.businessinsider.com/trumps-bid-for-immunity-opposed-by-former-military-officials-2024-4",
+            "urlToImage": "https://i.insider.com/661565101caec1275a6e2724?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T16:02:45Z",
+            "content": "Former President Donald TrumpJim Vondruska/Getty Images\r\n<ul><li>Nineteen former military officials opposed Trump's immunity bid in a Supreme Court amicus brief.</li><li>Trump, facing felony charges,\u2026 [+3031 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "These are the top 10 holdings of Destiny Tech100 Fund, which has soared 1,110% since its debut last month",
+            "description": "DXYZ has seen volatile trades recently, with the closed-end fund rising 69% on Monday and falling about 23% on Tuesday.",
+            "url": "https://markets.businessinsider.com/news/funds/destiny-tech100-stock-price-top-10-holdings-dxyz-spacex-openai-2024-4",
+            "urlToImage": "https://i.insider.com/6615346716bde8d4ead6cffd?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T15:47:55Z",
+            "content": "The Destiny Tech100 fund has soared since its debut late last month, rising by as much as 1,110% at Monday's closing price of $99.79.\r\nThe closed-end fund, which trades under the ticker symbol \"DXYZ,\u2026 [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Geoff Weiss)",
+            "title": "Chip-company CEO says we need to solve AI's 'insatiable' hunger for energy",
+            "description": "AI technology needs to be more sustainable, or it'll slow down innovation, Arm CEO Rene Haas told The Wall Street Journal.",
+            "url": "https://www.businessinsider.com/ai-insatiable-hunger-energy-rene-haas-2024-4",
+            "urlToImage": "https://i.insider.com/66155bd53f923f7dab05e0ae?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T15:16:43Z",
+            "content": "AI has an \"insatiable\" hungry for more power and if AI firms don't figure out how to be more energy efficient, it'll slow down research, the CEO of a top chip design firm said.\r\nArm CEO Rene Haas tol\u2026 [+1537 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Sowmya Krishnamurthy)",
+            "title": "J. Cole let hip-hop down",
+            "description": "J. Cole's apology for dissing Kendrick Lamar isn't a good look for hip-hop.",
+            "url": "https://www.businessinsider.com/j-cole-kendrick-lamar-diss-drake-2024-4",
+            "urlToImage": "https://i.insider.com/661559123f923f7dab05deb5?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T15:06:47Z",
+            "content": "In 2013, J. Cole released a tribute to his favorite rapper, \"Let Nas Down.\" This weekend, he made another confession: He let Kendrick Lamar down.\r\nWhile onstage for his annual Dreamville Festival in \u2026 [+5457 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mmaniece@businessinsider.com (Mykenna Maniece)",
+            "title": "13 slang words Gen Zers are using in 2024 and what they really mean",
+            "description": "If the phrase, \"she ate and left no crumbs\" makes no sense to you, allow us to explain.",
+            "url": "https://www.businessinsider.com/gen-z-slang-words-2024-4",
+            "urlToImage": "https://i.insider.com/66154f4816bde8d4ead6dda3?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T15:06:32Z",
+            "content": "Just like fashion, slang goes in and out of style.\r\nThink about it: When was the last time you heard anyone say \"YOLO,\" \"da bomb,\" or \"tubular\" unironically?\r\nSocial media has made it even harder to \u2026 [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Allie Kelly,Noah Sheidlower",
+            "title": "Here's how guaranteed basic-income programs get their funding",
+            "description": "Basic income programs in San Antonio, Austin, Denver, and Atlanta draw funding from federal relief, city budgets, and private donations.",
+            "url": "https://www.businessinsider.com/basic-income-funding-comes-from-philanthropy-federal-budget-housing-taxes2024-4",
+            "urlToImage": "https://i.insider.com/66145a3d16bde8d4ead6be05?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T14:53:51Z",
+            "content": "Denver, Colorado is one of several US cities piloting guaranteed basic income.f11photo/Shutterstock\r\n<ul><li>Guaranteed basic-income pilots across the US give no-strings cash assistance to low-income\u2026 [+5991 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bryan Metzger",
+            "title": "AOC says there's an 'upside' to the anti-Biden movement",
+            "description": "Ocasio-Cortez said she will vote for Biden in November, but defended voters who are refusing to vote for him over US support for Israel.",
+            "url": "https://www.businessinsider.com/ocasio-cortez-uncommitted-campaign-joe-biden-israel-gaza-upside-2024-4",
+            "urlToImage": "https://i.insider.com/661546843f923f7dab05ce82?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T14:47:21Z",
+            "content": "Rep. Alexandria Ocasio-Cortez with Rep. Rashida Tlaib at a press conference on Capitol Hill.Mandel Ngan/AFP via Getty Images\r\n<ul><li>Uncommitted voters have been refusing to vote for Biden over his \u2026 [+2535 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "fdemott@insider.com (Filip De Mott)",
+            "title": "3 factors could derail gold's record-setting rally, veteran advisor says",
+            "description": "Gold is vulnerable to a setback as it's not supported by fundamentals, Bob Parker of International Capital Markets Association told CNBC.",
+            "url": "https://markets.businessinsider.com/news/commodities/gold-outlook-rally-fed-interest-rates-bitcoin-dollar-bond-yields-2024-4",
+            "urlToImage": "https://i.insider.com/6615291d3f923f7dab05c6e9?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T14:45:09Z",
+            "content": "Gold is back in the limelight as the yellow metal continues hitting fresh all-time highs, inspiring bullish outlooks on where it might go next.\r\nBut while some analysts hold that gold still has major\u2026 [+2583 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jsor@businessinsider.com (Jennifer Sor)",
+            "title": "Apple stock is down 10% this year, but there are 5 reasons for investors to remain bullish, Wedbush says",
+            "description": "Apple stock could soar nearly 50% higher this year thanks to five bullish factors for iPhone maker, according to Wedbush.",
+            "url": "https://markets.businessinsider.com/news/stocks/apple-stock-price-outlook-iphone-upgrade-ai-china-demand-wedbush-2024-4",
+            "urlToImage": "https://i.insider.com/5c2e1d1d0df17623256b8296?width=1200&format=jpeg",
+            "publishedAt": "2024-04-09T14:40:48Z",
+            "content": "Apple stock has had a disappointing year so far, but there are still reasons for investors to stay bullish on the iPhone maker, according to Wedbush.\r\nThe firm pointed to a \"black cloud\" hanging over\u2026 [+2721 chars]"
         }
     ]
 }

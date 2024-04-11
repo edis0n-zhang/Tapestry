@@ -1,19 +1,656 @@
 {
     "status": "ok",
-    "totalResults": 1,
+    "totalResults": 1794,
     "articles": [
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "NBC News",
-            "title": "Key Bridge collapse live updates: Ship hits bridge in Baltimore",
-            "description": "Francis Scott Key Bridge collapse live updates: DALI container ship hits bridge in Baltimore, Maryland.",
-            "url": "https://www.nbcnews.com/news/us-news/live-blog/francis-scott-key-bridge-collapse-live-updates-rcna145049",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240326-francis-scott-key-bridge-mb-0810-15043e.jpg",
-            "publishedAt": "2024-03-26T08:31:41Z",
-            "content": "A major bridge in Baltimore, Maryland, partially collapsed Tuesday morning, possibly leaving a number of people in the river below, authorities said.\r\nA spokesperson for Baltimore Police Department t\u2026 [+447 chars]"
+            "author": "The Associated Press",
+            "title": "Hoping for a Jon Snow sequel to \u2018Game of Thrones'? Don't hold your breath, says Kit Harington",
+            "description": "Winter, apparently, is not coming back.",
+            "url": "https://www.nbcnews.com/pop-culture/tv/hoping-jon-snow-sequel-game-thrones-dont-hold-breath-says-kit-haringto-rcna147119",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-kit-harrington-game-of-thrones-jon-snow-ac-741p-1537fd.jpg",
+            "publishedAt": "2024-04-09T23:54:25Z",
+            "content": "Winter, apparently, is not coming back.\u00a0Kit Harington\u00a0has shut down talk of a Jon Snow sequel to\u00a0HBOs massive hit Game of Thrones.\r\nThere are no plans for it at the moment. Its off the table for the \u2026 [+1677 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Dennis Romero",
+            "title": "Missouri executes convicted murderer despite prison staff\u2019s campaign to save him",
+            "description": "Despite dozens of prison staffers\u2019 campaign to save him, Missouri on Tuesday executed Brian Dorsey for killing his cousin and her husband in 2006.",
+            "url": "https://www.nbcnews.com/news/us-news/brian-dorsey-missouri-execution-rcna147113",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-3x2-brian-dorsey-ew-625p-cbde03.jpg",
+            "publishedAt": "2024-04-09T23:29:00Z",
+            "content": "Despite dozens of prison staffers\u00a0campaign to save him, Missouri on Tuesday executed Brian Dorsey for killing his cousin and her husband in 2006.\r\nDorsey, 51, was the first prisoner sentenced to deat\u2026 [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "David Ingram",
+            "title": "Waymo will launch paid robotaxi service in Los Angeles on Wednesday",
+            "description": "Tech startup Waymo said that it would begin offering paid robotaxi rides in Los Angeles beginning Wednesday.",
+            "url": "https://www.nbcnews.com/tech/innovation/waymo-will-launch-paid-robotaxi-service-los-angeles-wednesday-rcna147101",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240304-waymo-los-angeles-mb-0951-a213c2.jpg",
+            "publishedAt": "2024-04-09T23:19:23Z",
+            "content": "Tech startup Waymo said Tuesday that it would begin offering paid robotaxi rides in Los Angeles beginning Wednesday, as the nations experiment with self-driving car technology picks up steam.\u00a0\r\nWaymo\u2026 [+3673 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Mexico releases video of Ecuadorian police raiding its embassy in Quito",
+            "description": "Mexico has released video of the moments when Ecuadorian authorities forced their way into Mexico\u2019s embassy in Quito.",
+            "url": "https://www.nbcnews.com/news/latino/mexico-releases-video-ecuadorian-police-raiding-embassy-quito-rcna147093",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-mexico-embassy-police-raid-ac-439p-05658a.jpg",
+            "publishedAt": "2024-04-09T23:02:04Z",
+            "content": "MEXICO CITY Mexico released security camera video Tuesday of the moments when Ecuadorian authorities forced their way into Mexicos embassy, pushed a Mexican diplomat to the ground and carried out Ecu\u2026 [+1552 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Angela Yang",
+            "title": "California judge dismisses one of \u2018Are We Dating the Same Guy?\u2019 lawsuits",
+            "description": "A California judge dismissed a case brought forth by a man who is suing dozens of women for sharing stories about him in multiple private Facebook groups.",
+            "url": "https://www.nbcnews.com/tech/judge-dismisses-are-we-dating-same-guy-facebook-group-lawsuit-rcna147043",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-stanley-mosk-courthouse-los-angeles-mn-1445-096dfb.jpg",
+            "publishedAt": "2024-04-09T22:59:09Z",
+            "content": "A California judge on Monday dismissed one of many cases brought forth by a man who is suing dozens of women for sharing stories about him in multiple private Facebook groups, including offshoots of \u2026 [+3462 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Women outshine men in NCAA final TV viewership",
+            "description": "For the first time, more people watched the NCAA women\u2019s final game than the men\u2019s, Nielsen said Tuesday.",
+            "url": "https://www.nbcnews.com/news/sports/women-outshine-men-ncaa-final-tv-viewership-rcna147112",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-caitlin-clark-ncaa-final-ew-612p-3bb189.jpg",
+            "publishedAt": "2024-04-09T22:43:35Z",
+            "content": "For the first time, more people watched the NCAA womens final game than the mens, Nielsen said Tuesday.\r\nThe hyped game in which the Iowa Hawkeyes and record-breaking star Caitlin Clark took on, and \u2026 [+933 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "More than half of foreign-born people in U.S. live in 4 states, and half are from Latin America",
+            "description": "More than half of the foreign-born population in the U.S. lives in California, Texas, Florida and New York. Half of the foreign-born population is from Latin America.",
+            "url": "https://www.nbcnews.com/news/latino/half-foreign-born-people-us-live-just-4-states-rcna147111",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-San-Antonio-Texas-natualization-ceremony-ac-622p-c6b03d.jpg",
+            "publishedAt": "2024-04-09T22:28:13Z",
+            "content": "ORLANDO, Fla. More than half of the foreign-born population in the United States lives in just four states California, Texas, Florida and New York and their numbers grew older and more educated over \u2026 [+2243 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Megan Lebowitz and Tara Prindiville",
+            "title": "Biden says Netanyahu is making a 'mistake' with his handling of the Israel-Hamas war",
+            "description": "President Joe Biden upped his criticism of Prime Minister Benjamin Netanyahu role in the Israel-Hamas war but did not indicate any significant changes in U.S. policy toward its Mideast ally.",
+            "url": "https://www.nbcnews.com/politics/white-house/biden-says-netanyahu-making-mistake-handling-israel-hamas-war-rcna147092",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-joe-biden-kh-78a76c.jpg",
+            "publishedAt": "2024-04-09T22:00:00Z",
+            "content": "President Joe Biden upped his criticism of Prime Minister Benjamin Netanyahu role in the Israel-Hamas war but did not indicate any significant changes in U.S. policy toward its Mideast ally.\r\n\"I thin\u2026 [+3357 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Erik Ortiz and Chelsea Damberg and Daniel Barnes and Courtney Brogle and Daisy Conant and Victoria Ebner and Julia Jester",
+            "title": "Former assistant principal of Virginia school where 6-year-old shot teacher charged with child abuse",
+            "description": "The former assistant principal of a Virginia elementary school where a 6-year-old student shot his teacher in 2023 has been indicted on child abuse charges, court records show.",
+            "url": "https://www.nbcnews.com/news/us-news/former-assistant-principal-virginia-school-6-year-old-shot-teacher-cha-rcna147041",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-04/230426-Newport-News-richneck-elementary-school-ac-1136p-57c0cd.jpg",
+            "publishedAt": "2024-04-09T21:56:33Z",
+            "content": "The former assistant principal of a Virginia elementary school where a 6-year-old student shot his teacher in 2023 has been indicted on child abuse charges, court records show. \r\nParker is facing eig\u2026 [+3830 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kat Tenbarge",
+            "title": "Dove pledges to never represent \u2018real bodies\u2019 with AI in advertising",
+            "description": "Dove, a beauty brand known for its 20-year marketing campaign around showcasing \u201creal bodies,\u201d has taken the initiative a step forward in the age of AI.",
+            "url": "https://www.nbcnews.com/tech/internet/dove-pledges-never-represent-real-bodies-ai-ads-rcna147067",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Dove-The-Code-ew-315p-67b6ec.jpg",
+            "publishedAt": "2024-04-09T21:48:01Z",
+            "content": "Dove, a beauty brand known for its 20-year marketing campaign around showcasing real bodies, has taken the initiative a step forward in the age of artificial intelligence.\r\nDove announced Tuesday tha\u2026 [+2690 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Linda Carroll",
+            "title": "Acetaminophen during pregnancy not associated with ADHD or autism risk",
+            "description": "Taking acetaminophen during pregnancy has been associated with an increased risk of autism, and ADHD in children in some research.",
+            "url": "https://www.nbcnews.com/health/womens-health/acetaminophen-pregnancy-not-adhd-autism-risk-rcna146893",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-pregnant-pills-stock-vl-512p-64285e.jpg",
+            "publishedAt": "2024-04-09T21:46:28Z",
+            "content": "Taking acetaminophen during pregnancy has been associated with an increased risk of autism, and ADHD in children in some research. A new study suggests that it is not acetaminophen that is linked to \u2026 [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sakshi Venkatraman",
+            "title": "Father sues Texas Hindu temple, alleging it branded 11-year-old with hot iron",
+            "description": "A Texas man is suing a Hindu temple in Sugar Land, alleging it branded his son with a hot iron during a cultural ceremony.",
+            "url": "https://www.nbcnews.com/news/asian-america/branding-lawsuit-texas-hindu-temple-rcna147060",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Old-Fort-Bend-County-Courthouse-al-1432-3c693a.jpg",
+            "publishedAt": "2024-04-09T21:41:23Z",
+            "content": "A Texas man is suing a local Hindu temple, alleging it branded his son with a hot iron during a cultural ceremony.\u00a0\r\nVijay Cheruvu, of Fort Bend County, said he did not give his consent for his son t\u2026 [+1839 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Variety",
+            "title": "Billy Dee Williams defends blackface, says actors 'should do anything' they want to do",
+            "description": "Billy Dee Williams believes actors should be able to perform in blackface.",
+            "url": "https://www.nbcnews.com/news/nbcblk/billy-dee-williams-defends-blackface-says-actors-anything-want-rcna147100",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Billy-Dee-Williams-portrait-ac-527p-2863e9.jpg",
+            "publishedAt": "2024-04-09T21:38:13Z",
+            "content": "Billy Dee Williams\u00a0believes actors should be able to perform in blackface.\r\nIn a new episode of\u00a0Bill Mahers Club Random podcast, the Star Wars actor recalled watching Laurence Olivier in 1965s Othell\u2026 [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rob Wile",
+            "title": "Economic uncertainty reigns as the grip of inflation persists",
+            "description": "Inflation likely remained elevated once again for the month of March, adding another round of price increases to Americans' already-strained wallets.",
+            "url": "https://www.nbcnews.com/business/economy/inflation-report-march-2024-percentage-how-high-interest-rate-cuts-rcna146991",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-march-inflation-report-kh-954746.jpg",
+            "publishedAt": "2024-04-09T21:35:12Z",
+            "content": "Inflation likely remained elevated once again for the month of March,\u00a0adding another round of price increases to Americans' already-strained wallets. \r\nOn paper, the U.S. economy looks solid. The une\u2026 [+4754 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Evan Bush",
+            "title": "Prestigious cancer research institute has retracted 7 studies amid controversy over errors",
+            "description": "Seven studies from researchers at the Dana-Farber Cancer Institute have been retracted, following allegations that images used in them had been manipulated or duplicated.",
+            "url": "https://www.nbcnews.com/science/science-news/cancer-institute-dana-farber-retracts-studies-errors-rcna143922",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-03/240318-dana-farber-cancer-institute-se-129p-29a84c.jpg",
+            "publishedAt": "2024-04-09T21:32:57Z",
+            "content": "Seven studies from researchers at the prestigious Dana-Farber Cancer Institute have been retracted over the last two months after a scientist blogger alleged that images used in them had been manipul\u2026 [+7226 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Politics Desk",
+            "title": "Biden bets on a beefed-up campaign operation: From the Politics Desk",
+            "description": "President Joe Biden is building a massive campaign staff ahead of the 2024 general election against Donald Trump, who appears to be lagging behind.",
+            "url": "https://www.nbcnews.com/politics/biden-beef-up-campaign-politics-desk-rcna147099",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-wisconsin-joe-biden-ac-502p-89e5b6.jpg",
+            "publishedAt": "2024-04-09T21:30:12Z",
+            "content": "Welcome to the online version of\u00a0From the Politics Desk, an evening newsletter that brings you the NBC News Politics teams latest reporting and analysis from the campaign trail, the White House and C\u2026 [+5805 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bethany Heitman",
+            "title": "Is at-home microneedling safe?",
+            "description": "Dermatologists answer the question, what is microneedling and is it safe? Plus, we share a list of highly rated microneedling tools available on Amazon.",
+            "url": "https://www.nbcnews.com/select/shopping/microneedling-at-home-rcna147097",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-at-home-microneedling-kb-main-921aee.jpg",
+            "publishedAt": "2024-04-09T21:24:56Z",
+            "content": "Sticking tons of tiny needles in your face in the name of beauty? Its called microneedling, and it doesnt hurt. Lovers of this procedure rave about its benefits, saying it can plump and smooth skin. \u2026 [+5874 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Marlene Lenthang",
+            "title": "Ohio police release body camera video of officer shooting 15-year-old boy who had toy gun",
+            "description": "Police in Akron, Ohio, have released body camera footage of an officer shooting a 15-year-old boy who was holding what his family says was a toy gun.",
+            "url": "https://www.nbcnews.com/news/us-news/ohio-police-release-body-camera-video-officer-shooting-15-year-old-boy-rcna147023",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-ohio-bodycam-mn-1220-1000aa.jpg",
+            "publishedAt": "2024-04-09T20:57:02Z",
+            "content": "Police in Akron, Ohio, released video of an officer shooting a 15-year-old boy who was holding what his family says was a toy gun, video that shows the teen was struck seconds after the officer order\u2026 [+6864 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jo Yurcaba",
+            "title": "NAIA bans transgender women from competing in women\u2019s sports",
+            "description": "The National Association of Intercollegiate Athletics has rolled out a new policy that bans trans women from competing in women\u2019s sports at more than 200 mostly small colleges.",
+            "url": "https://www.nbcnews.com/nbc-out/out-news/naia-bans-transgender-women-competing-womens-sports-rcna147017",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-NAIA-ch-1133-f1707c.jpg",
+            "publishedAt": "2024-04-09T20:53:28Z",
+            "content": "The National Association of Intercollegiate Athletics, or NAIA, which oversees more than 83,000 athletes at mostly smaller colleges, has rolled out a new policy that bans transgender women from compe\u2026 [+5806 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Scott Wong and Ali Vitali and Sahil Kapur and Frank Thorp V and Kate Santaliz and Rebecca Kaplan",
+            "title": "Republicans delay DHS Secretary Mayorkas' impeachment trial until next week",
+            "description": "House Republicans will delay the impeachment trial of Homeland Security Secretary Alejandro Mayorkas until next week.",
+            "url": "https://www.nbcnews.com/politics/congress/republicans-delay-dhs-secretary-mayorkas-impeachment-trial-week-rcna147090",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-alejandro-mayorkas-vl-411p-7f5cc7.jpg",
+            "publishedAt": "2024-04-09T20:29:53Z",
+            "content": "WASHINGTON House Speaker Mike Johnson will delay until next week sending articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate, his spokesman said, after previo\u2026 [+1815 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rebecca Shabad and Adam Edelman and Alex Tabet",
+            "title": "White House says Kamala Harris will travel to Arizona after state Supreme Court abortion ban ruling",
+            "description": "Vice President Kamala Harris will travel to Arizona on Friday, the White House announced Tuesday, shortly after the state Supreme Court upheld a near-total abortion ban.",
+            "url": "https://www.nbcnews.com/politics/white-house/white-house-says-kamala-harris-will-travel-arizona-state-supreme-court-rcna147074",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-kamala-harris-vl-253p-669445.jpg",
+            "publishedAt": "2024-04-09T20:14:26Z",
+            "content": "Vice President Kamala Harris will travel to Arizona on Friday, the White House announced Tuesday, shortly after the state Supreme Court upheld a near-total abortion ban.\r\nHarris will travel to Tucson\u2026 [+1625 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Peter Higgs, who proposed the existence of the 'God particle' has died at 94",
+            "description": "Nobel prize-winning physicist Peter Higgs, who proposed the existence of the so-called \u201cGod particle\u201d that helped explain how matter formed after the Big Bang, has died at age 94.",
+            "url": "https://www.nbcnews.com/science/science-news/peter-higgs-proposed-existence-god-particle-died-94-rcna147088",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Peter-Higgs-obit-se-355p-42569a.jpg",
+            "publishedAt": "2024-04-09T20:10:32Z",
+            "content": "LONDON Nobel prize-winning physicist Peter Higgs, who\u00a0proposed the existence of the so-called God particle\u00a0that helped explain how matter formed after the Big Bang, has died at age 94, the University\u2026 [+3244 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Peter Nicholas and Allan Smith and Vaughn Hillyard and Adam Edelman and Ben Kamisar and Alex Tabet and Matt Dixon and Olympia Sonnier",
+            "title": "Biden is building a behemoth of a campaign. Trump at this point seems to be playing catch-up.",
+            "description": "President Joe Biden has been scooping up record-making donations and plowing the money into an expanding campaign operation in battleground states that appears to surpass what Donald Trump has built thus far.",
+            "url": "https://www.nbcnews.com/politics/2024-election/biden-building-behemoth-campaign-trump-point-seems-playing-catch-rcna145903",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240404-joe-biden-field-office-new-hampshire-se-335p-add7ff.jpg",
+            "publishedAt": "2024-04-09T20:04:31Z",
+            "content": "PHILADELPHIA President Joe Biden has been scooping up record-making donations and plowing the money into an expanding campaign operation in battleground states that appears to surpass what Donald Tru\u2026 [+12478 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Elizabeth Chuck",
+            "title": "Low-income families have more to spend on fruit and veggies thanks to new WIC rule",
+            "description": "U.S. officials announced that the federal program that helps low-income women and children access nutritious food will permanently allot more funds for produce.",
+            "url": "https://www.nbcnews.com/news/us-news/low-income-families-spend-fruit-veggies-thanks-new-wic-rule-rcna147006",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-fruit-market-al-1033-502d6f.jpg",
+            "publishedAt": "2024-04-09T19:51:05Z",
+            "content": "U.S. officials on Tuesday announced that the federal program that helps low-income women and young children access nutritious food will permanently allot more funds for fruit, vegetables and other vi\u2026 [+4208 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bianca Alvarez",
+            "title": "Everything you need to know about bunions",
+            "description": "Alleviate the common effects of bunions from the comfort of your home. Learn about all of your options, including bunion correctors and toe spacers, from experts.",
+            "url": "https://www.nbcnews.com/select/shopping/best-bunion-treatment-at-home-rcna147011",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/shutterstock2103432977-a7da9a.jpg",
+            "publishedAt": "2024-04-09T19:49:13Z",
+            "content": "You may notice a small bump on the inside of your foot that doesnt seem to go away no matter all the home remedies and creams you try well, thats because its a bunion. Bunions are a common hereditary\u2026 [+7580 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Reiss and Dareh Gregorian",
+            "title": "Right-wing operatives agree to pay up to $1.2 million for misleading 2020 robocalls",
+            "description": "Far-right operatives Jacob Wohl and Jack Burkman have agreed to pay New York Attorney General Letitia James' office up to $1.2 million for a robocall campaign they orchestrated to suppress the Black vote ahead of the 2020 election.",
+            "url": "https://www.nbcnews.com/politics/politics-news/right-wing-operatives-jacob-wohl-jack-burkman-agree-pay-12-million-mis-rcna147019",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Jacob-Wohl-Jack-Burkman-ch-1149-669885.jpg",
+            "publishedAt": "2024-04-09T19:09:00Z",
+            "content": "Far-right operatives Jacob Wohl and Jack Burkman have agreed to pay New York Attorney General Letitia James' office up to $1.2 million for a robocall campaign they orchestrated to suppress the Black \u2026 [+2553 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Fredlyn Pierre Louis",
+            "title": "Children of migrant workers become college-bound tutors under a successful local program",
+            "description": "In the agricultural community of Immokalee, Florida known for its migrant worker population, the Guadalupe Center Tutor Corps program has promoted higher education as a path to prosperity and helped students prepare, apply and afford going to college.",
+            "url": "https://www.nbcnews.com/news/latino/tutor-program-immokalee-florida-migrant-workers-kids-college-rcna146882",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Guadalupe-Center-Tutor-Corps-John-Auguste-se-1252p-e31fbd.jpg",
+            "publishedAt": "2024-04-09T19:00:16Z",
+            "content": "In the agricultural community of Immokalee, Florida, known for its large migrant worker population, a 40-year-old tutoring and mentoring program has made big strides in promoting higher education as \u2026 [+5286 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Noah Osborne",
+            "title": "New York pediatrician dies after falling from moving Airstream trailer during family trip",
+            "description": "A New York children's physician is dead after falling out of an Airstream trailer on Saturday during a family road trip, officials said.",
+            "url": "https://www.nbcnews.com/news/us-news/new-york-pediatrician-dies-falling-moving-airstream-trailer-family-tri-rcna147018",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-doctor-killed-accident-mn-1235-a0a4db.jpg",
+            "publishedAt": "2024-04-09T18:34:35Z",
+            "content": "A New York children's physician is dead after falling out of an Airstream trailer on Saturday during a family road trip, officials said. \r\nDr. Monika Woroniecka, 58, fell out of the moving trailer on\u2026 [+1743 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Sakshi Venkatraman",
+            "title": "Rumors of Avantika playing a live-action Rapunzel spark racist backlash online",
+            "description": "\u201cMean Girls\u201d star Avantika Vandanapu has been the subject of racist backlash following rumors that she\u2019s set to play Rapunzel in a live-action version of the Disney animated film \u201cTangled.\u201d",
+            "url": "https://www.nbcnews.com/news/asian-america/avantika-rapunzel-racist-backlash-rcna147039",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-avantika-Vandanapu-vl-107p-52d3e0.jpg",
+            "publishedAt": "2024-04-09T18:34:00Z",
+            "content": "Mean Girls star Avantika Vandanapu has been the subject of racist backlash following rumors\u00a0 that shes set to play Rapunzel in a live-action version of the Disney animated film Tangled.\u00a0\r\nNo live-act\u2026 [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Scott Wong and Monica Alba",
+            "title": "Los Angeles Mayor Karen Bass pitches Rep. Barbara Lee to be the next U.S. Housing secretary",
+            "description": "Los Angeles Mayor Karen Bass is urging President Joe Biden to name a fellow Rep. Barbara Lee as the next secretary of Housing and Urban Development.",
+            "url": "https://www.nbcnews.com/politics/politics-news/los-angeles-mayor-karen-bass-pitches-rep-barbara-lee-housing-secretary-rcna147066",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Barbara-Lee-se-215p-8ed906.jpg",
+            "publishedAt": "2024-04-09T18:30:33Z",
+            "content": "WASHINGTON Los Angeles Mayor Karen Bass is urging President Joe Biden to name a fellow California Democrat and progressive stalwart, longtime Rep. Barbara Lee, to be the next secretary of Housing and\u2026 [+2316 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kif Leswing, CNBC",
+            "title": "Intel unveils latest AI chip as Nvidia competition heats up",
+            "description": "Intel on Tuesday unveiled its latest artificial intelligence chip, called Gaudi 3, as chipmakers rush to produce semiconductors that can train and deploy big AI models, such as the one underpinning OpenAI\u2019s ChatGPT.",
+            "url": "https://www.nbcnews.com/tech/tech-news/intel-unveils-latest-ai-chip-nvidia-competition-heats-rcna147063",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-intel-gaudi-3-ai-accelerator-vl-203p-d3e7e6.jpg",
+            "publishedAt": "2024-04-09T18:28:44Z",
+            "content": "Intel\u00a0on Tuesday unveiled its latest\u00a0artificial intelligence\u00a0chip, called Gaudi 3, as chipmakers rush to produce\u00a0semiconductors\u00a0that can train and deploy big AI models, such as the one underpinning O\u2026 [+3233 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Natasha Korecki and Sahil Kapur and Peter Nicholas",
+            "title": "'Major hurdles': The reality check behind Biden's big abortion promise",
+            "description": "President Joe Biden has said that if re-elected, he would reverse the Trump-era actions that transformed abortion rights in America and make Roe v. Wade protections the law of the land.",
+            "url": "https://www.nbcnews.com/politics/joe-biden/biden-big-abortion-promise-fact-check-roe-v-wade-rcna146668",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240229-biden-ch-1702-746fb8.jpg",
+            "publishedAt": "2024-04-09T17:47:15Z",
+            "content": "President Joe Biden has repeatedly said that if re-elected, he would reverse the Trump-era actions that transformed abortion rights in America and make Roe v. Wade protections the law of the land. \r\n\u2026 [+8401 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Racial diversity among college faculty lags behind other professional fields, report finds",
+            "description": "Black professionals in industries like law, science and engineering make up roughly 9.1% of the workforce, compared to 7.1% of college faculty, according to a federal report.",
+            "url": "https://www.nbcnews.com/news/nbcblk/racial-diversity-college-faculty-lags-professional-fields-report-finds-rcna147036",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-professor-teacher-stock-vl-1250p-ca1ac8.jpg",
+            "publishedAt": "2024-04-09T17:42:33Z",
+            "content": "Despite gains in faculty diversity at American universities over the last two decades, Black and Hispanic professors remain underrepresented compared to their students and to professionals with advan\u2026 [+2764 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Patrick Smith and Diana Dasrath",
+            "title": "Alec Baldwin lost control on 'Rust' set and lied about his actions, prosecutors say",
+            "description": "Alec Baldwin lost control of his emotions on set, put others in danger and also changed his story in the aftermath of the fatal shooting of cinematographer Halyna Hutchins on the set of a movie in New Mexico in 2021, according to new court documents filed by \u2026",
+            "url": "https://www.nbcnews.com/news/us-news/alec-baldwin-lost-control-rust-set-lied-actions-prosecutors-say-rcna146964",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-01/240125-Alec-Baldwin-ew-445p-975ffb.jpg",
+            "publishedAt": "2024-04-09T17:28:34Z",
+            "content": "Alec Baldwin lost control of his emotions on set, put others in danger and also changed his story in the aftermath of the fatal shooting of cinematographer Halyna Hutchins on the set of a movie in Ne\u2026 [+3181 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Edelman and Alex Tabet",
+            "title": "Arizona Supreme Court rules that a near-total abortion ban from 1864 is enforceable",
+            "description": "The Arizona Supreme Court ruled Tuesday that a 160-year-old near-total abortion ban still on the books in the state is enforceable, a bombshell decision that adds the state to the growing lists of places where abortion care is effectively banned.",
+            "url": "https://www.nbcnews.com/politics/arizona-supreme-court-ruling-abortion-ban-rcna146915",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-arizona-abortion-rights-demonstration-2022-ac-1158p-75eca8.jpg",
+            "publishedAt": "2024-04-09T17:07:47Z",
+            "content": "PHOENIX The Arizona Supreme Court ruled Tuesday that a 160-year-old near-total abortion ban still on the books in the state is enforceable, a bombshell decision that adds the state to the growing lis\u2026 [+1541 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Adam Reiss and Lisa Rubin and Dareh Gregorian",
+            "title": "Appeals court judge rejects Trump's effort to delay his hush money trial as he appeals a gag order",
+            "description": "A state appeals court judge on Tuesday denied Donald Trump's bid to halt his criminal trial while he appeals his gag order in the case, a ruling that came less than 24 hours after another judge rejected the former president's request to delay his impending cr\u2026",
+            "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-judge-rejects-trumps-effort-delay-hush-money-trial-appea-rcna147026",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-donald-trump-court-ew-1219p-7699c3.jpg",
+            "publishedAt": "2024-04-09T16:55:36Z",
+            "content": "A state appeals court judge on Tuesday denied Donald Trump's bid to halt his criminal trial while he appeals his gag order in the case, a ruling that came less than 24 hours after another judge rejec\u2026 [+3152 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Mosheh Gains and Rebecca Shabad",
+            "title": "Defense Secretary Lloyd Austin rejects accusations Israel has committed genocide in Gaza",
+            "description": "WASHINGTON \u2014 Defense Secretary Lloyd Austin on Tuesday said the U.S. has seen no evidence that Israel has committed genocide during its military operations against Hamas in Gaza.",
+            "url": "https://www.nbcnews.com/politics/congress/defense-secretary-lloyd-austin-rejects-accusations-israel-committed-ge-rcna147031",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-lloyd-austin-vl-1213p-634bf9.jpg",
+            "publishedAt": "2024-04-09T16:20:48Z",
+            "content": "WASHINGTON Defense Secretary Lloyd Austin on Tuesday said the U.S. has seen no evidence that Israel has committed genocide during its military operations against Hamas in Gaza. \r\n\"We dont have any ev\u2026 [+959 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jo Yurcaba",
+            "title": "New research helps explain why lesbians report more orgasms than straight women",
+            "description": "A new study published in Sage this month found that differences in the amount of orgasms women have could be in part due to sexual scripts.",
+            "url": "https://www.nbcnews.com/nbc-out/out-health-and-wellness/new-research-helps-explain-lesbians-report-orgasms-straight-women-rcna146661",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240408-orgasm-study-female-pleasure-wm-1148-02-b8cd49.jpg",
+            "publishedAt": "2024-04-09T15:50:47Z",
+            "content": "Research over the last decade has found that lesbians have more orgasms than straight women, but questions remained as to why.\u00a0\r\nA new study published this month in the journal Social Psychological a\u2026 [+5268 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Jessica Golden, CNBC",
+            "title": "Barstool's Dave Portnoy won $2.7 million betting on UConn in NCAA men's final",
+            "description": "Barstool Sports founder Dave Portnoy is cashing in $2.76 million on UConn\u2019s big win over Purdue on Monday night in the NCAA men\u2019s championship game.",
+            "url": "https://www.nbcnews.com/business/business-news/barstools-dave-portnoy-won-27-million-betting-uconn-ncaa-mens-final-rcna147024",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Dave-Portnoy-ew-1144a-c72c41.jpg",
+            "publishedAt": "2024-04-09T15:49:46Z",
+            "content": "Barstool Sports founder Dave Portnoy is cashing in $2.76 million on UConns big win over Purdue on Monday night in the NCAA mens championship game.\r\nPortnoy tweeted the massive score off a March 20 $6\u2026 [+1959 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Kathryn Prociv",
+            "title": "Severe weather outbreak with tornadoes, large hail and flooding possible across the South",
+            "description": "Following Monday's spectacular eclipse, severe thunderstorms broke out across Texas shortly after the the totality ended.",
+            "url": "https://www.nbcnews.com/news/weather/severe-weather-outbreak-tornadoes-large-hail-flooding-possible-south-rcna146998",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-noaa-weather-mn-1000-14db11.jpg",
+            "publishedAt": "2024-04-09T15:17:27Z",
+            "content": "Following Monday's spectacular eclipse, severe thunderstorms broke out across Texas shortly after the totality ended.\r\nThrough the night into Tuesday morning, there were dozens of hail reports of up \u2026 [+2907 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Karen Gilchrist, CNBC and Ruxandra Iordache, CNBC",
+            "title": "Janet Yellen says she won't rule out possible tariffs on China's green exports",
+            "description": "Treasury Secretary Janet Yellen said Monday that she would not rule out any measures, including potential tariffs, on China\u2019s green energy exports.",
+            "url": "https://www.nbcnews.com/news/world/yellen-says-wont-rule-possible-tariffs-chinas-green-exports-rcna147005",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-janet-yellen-se-1001a-9bcc42.jpg",
+            "publishedAt": "2024-04-09T14:17:24Z",
+            "content": "Treasury Secretary Janet Yellen said Monday that she would not rule out any measures, including potential tariffs, on Chinas green energy exports.\r\nI wouldnt rule anything out at this point. We need \u2026 [+4870 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters and Jay Marques and Carolin Sri-Narayana",
+            "title": "Europe tightens security for top soccer games after ISIS threats",
+            "description": "France and Spain will step up security ahead of the Champions League quarter-finals being held in Madrid and in Paris on Tuesday and Wednesday nights, top government officials said, citing threats from the Islamic State group to the showpiece soccer events.",
+            "url": "https://www.nbcnews.com/news/world/europe-security-champions-league-games-isis-threats-rcna146994",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-madrid-champions-league-al-1003-40bbfb.jpg",
+            "publishedAt": "2024-04-09T14:13:13Z",
+            "content": "LONDON France and Spain will step up security ahead of the Champions League quarter-finals being held in Madrid and in Paris on Tuesday and Wednesday nights, top government officials said, citing thr\u2026 [+2136 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Lora Kolodny, CNBC",
+            "title": "Tesla settles lawsuit over Autopilot crash that killed Apple engineer",
+            "description": "Tesla has settled a wrongful death lawsuit brought by the family of Walter Huang, an Apple engineer and father of two who died after his Model X SUV, with Autopilot features switched on, crashed into a highway barrier near Mountain View, California, in 2018.",
+            "url": "https://www.nbcnews.com/business/business-news/tesla-settles-lawsuit-autopilot-crash-killed-apple-engineer-rcna146995",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-tesla-crash-ch-0944-176b41.jpg",
+            "publishedAt": "2024-04-09T13:59:36Z",
+            "content": "Tesla has settled a wrongful death lawsuit brought by the family of Walter Huang, an Apple engineer and father of two who died after his Model X SUV, with Autopilot features switched on, crashed into\u2026 [+3705 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Marlene Lenthang",
+            "title": "Florida pre-med student stabs mother more than 70 times, killing her during visit home from college",
+            "description": "A Florida pre-med university student killed his mother by stabbing her over 70 times without saying a word when he visited her from college over the weekend, authorities said.",
+            "url": "https://www.nbcnews.com/news/us-news/florida-pre-med-student-stabs-mother-70-killing-visit-home-college-rcna146976",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-Emmanuel-Espinoza-al-0839-26b513.jpg",
+            "publishedAt": "2024-04-09T13:52:38Z",
+            "content": "A Florida pre-med university student killed his mother by stabbing her over 70 times without saying a word when he visited her from college over the weekend, authorities said. \r\nAfter Emmanuel Espino\u2026 [+4372 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Bethany Heitman",
+            "title": "7 best tranexamic acid serums",
+            "description": "Tranexamic acid serum is good for melasma and dark spots. Dermatologists recommend tranexamic acid serum from brands like SkinMedica, Glow Recipe and Paula\u2019s Choice.",
+            "url": "https://www.nbcnews.com/select/shopping/best-tranexamic-acid-serum-rcna146988",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240400-tranexamic-acid-kb-main-1-b78e3a.jpg",
+            "publishedAt": "2024-04-09T13:44:02Z",
+            "content": "Is your skin feeling dry? A hyaluronic acid serum can help. Is dullness getting you down? Consider a vitamin C serum. But what about dark spots? Focusing on a serum with a lesser-known ingredient cal\u2026 [+8344 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Noah Osborne",
+            "title": "$1.3 billion Powerball jackpot, 4th largest in history, claimed in Oregon",
+            "description": "The $1.3 billion Powerball jackpot has been claimed in Oregon after a lucky lotto player came forward on Monday, officials announced.",
+            "url": "https://www.nbcnews.com/news/us-news/13-billion-powerball-jackpot-4th-largest-history-claimed-oregon-rcna146978",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-powerball-ch-0851-f36146.jpg",
+            "publishedAt": "2024-04-09T13:34:59Z",
+            "content": "The $1.3 billion Powerball jackpot has been claimed in Oregon after a lucky lotto player came forward on Monday, officials announced.\r\nThe winning ticket was told at the Plaid Pantry at 6060 NE Colum\u2026 [+1512 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "The Olympic rings for the Paris Games will be displayed on the Eiffel Tower",
+            "description": "The Olympic rings will be displayed on the Eiffel Tower, organizers said in a statement on Tuesday, as the French capital prepares to mark 100 days until the start of the Paris Games.",
+            "url": "https://www.nbcnews.com/news/sports/paris-olympic-rings-eiffel-tower-rcna146989",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-paris-olympic-rings-eiffel-tower-al-0901-5fe859.jpg",
+            "publishedAt": "2024-04-09T13:09:36Z",
+            "content": "PARIS The Olympic rings will be displayed on the Eiffel Tower, organizers said in a statement on Tuesday, as the French capital prepares to mark 100 days until the start of the Paris Games.\r\nA 29-met\u2026 [+905 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Summer Concepcion and Megan Lebowitz",
+            "title": "Trump says Jews who vote for Biden do 'not love Israel' and 'should be spoken to'",
+            "description": "Former President Donald Trump said any Jewish person who votes for President Joe Biden \u201cdoes not love Israel\u201d and \u201cshould be spoken to,\u201d invoking an antisemitic trope suggesting American Jews have dual loyalties to the U.S. and Israel.",
+            "url": "https://www.nbcnews.com/politics/2024-election/trump-says-jews-vote-biden-not-love-israel-spoken-rcna146972",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-04/240409-donald-trump-al-0733-e6490e.jpg",
+            "publishedAt": "2024-04-09T13:07:05Z",
+            "content": "Former President Donald Trump on Monday said any Jewish person who votes for President Joe Biden does not love Israel and should be spoken to.\r\nDuring an interview that aired Monday night on Real Ame\u2026 [+2505 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "Norfolk Southern reaches $600M settlement more than a year after Ohio train derailment",
+            "description": "Norfolk Southern has agreed to a $600 million settlement to resolve class-action lawsuits filed after a freight train derailed in East Palestine, Ohio, spilling toxic chemicals into the community.",
+            "url": "https://www.nbcnews.com/news/us-news/norfolk-southern-reaches-600m-settlement-year-ohio-train-derailment-rcna146980",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-02/230223-east-palestine-ohio-train-derailment-al-0925-78a8b5.jpg",
+            "publishedAt": "2024-04-09T12:48:53Z",
+            "content": "\"This could include healthcare needs and medical monitoring, property restoration and diminution, and compensation for any net business loss,\" the company continued. \"In addition, individuals within \u2026 [+623 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Emi Tuyetnhi Tran",
+            "title": "Latino students make up most of the nation's growth in college degrees",
+            "description": "Latino students accounted for the vast majority, 79%, of the four percent overall increase in degree attainment over the last five years, though they still lag behind other groups, according to a new report from Excelencia in Education.",
+            "url": "https://www.nbcnews.com/news/latino/latino-hispanic-students-most-growth-in-college-degrees-rcna146905",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-02/220228-ucla-student-silhouette-2021-ac-623p-3107a7.jpg",
+            "publishedAt": "2024-04-09T12:39:45Z",
+            "content": "Latinos are making substantial strides in college degree attainment, according to a report released Tuesday.\r\nHispanic students accounted for the vast majority, 79%, of the 4% overall increase in deg\u2026 [+2478 chars]"
         }
     ]
 }

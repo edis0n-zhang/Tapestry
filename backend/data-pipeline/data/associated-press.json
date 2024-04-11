@@ -1,97 +1,617 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 464,
     "articles": [
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "LINDSAY WHITEHURST and ALANNA DURKIN RICHER",
-            "title": "Federal report finds 68,000 guns were illegally trafficked through unlicensed dealers over 5 years",
-            "description": "WASHINGTON (AP) \u2014 More than 68,000 illegally trafficked firearms in the U.S. came through unlicensed dealers who aren\u2019t required to perform background checks over a five-year period, according to new data released Thursday by the Bureau of Alcohol, Tobacco Fi\u2026",
-            "url": "https://apnews.com/fd07592977bf4512e742513bb68aea7f",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/decaf0800d3b4e78a209bd9b0533da06/3000.jpeg",
-            "publishedAt": "2024-04-04T21:32:55Z",
-            "content": "WASHINGTON (AP) \u2014 More than 68,000 illegally trafficked firearms in the U.S. came through unlicensed dealers who aren\u2019t required to perform background checks over a five-year period, according to new\u2026 [+2565 chars]"
+            "author": "Stony Brook",
+            "title": "NY doctor dies after falling out of moving trailer while headed to see the eclipse",
+            "description": "Authorities say a Long Island doctor who was headed to upstate New York to see the solar eclipse with her family fell out of a moving trailer on a highway and died. The State Police say Dr. Monika Woroniecka was in the 2024 Airstream trailer along with other \u2026",
+            "url": "https://apnews.com/article/eclipse-trailer-new-york-doctor-death-227ddaed935cedcfedb7647b21c9d71e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7b841fb/2147483647/strip/true/crop/2593x1459+0+135/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F02%2Fcf%2F0f9b2eb81a551ac956230db873d3%2F3b1de7d8d1f04170b1c8001deadb221e",
+            "publishedAt": "2024-04-09T21:59:04Z",
+            "content": "BROWNVILLE, N.Y. (AP) A Long Island doctor who was headed to upstate New York to see the solar eclipse with her family fell out of a moving trailer on a highway and died, authorities said. \r\nDr. Moni\u2026 [+999 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "BRIAN SLODYSKO",
-            "title": "When Trump needs cash, a California bank and one of its top shareholders have come to the rescue",
-            "description": "WASHINGTON (AP) \u2014 Donald Trump left the White House facing a cash crunch and a tattered reputation after his attempts to overturn the 2020 election, threatening the viability of his business empire.",
-            "url": "https://apnews.com/37846dca8056962bee4973105e51e045",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7fdae4bb2cee4479ae2e9d55e544c61b/3000.jpeg",
-            "publishedAt": "2024-04-04T19:53:01Z",
-            "content": null
+            "author": null,
+            "title": "US Postal Service seeking to hike cost of first-class stamp to 73 cents",
+            "description": "The U.S. Postal Service is planning a rate increase that would raise the price of a first-class stamp from 68 cents to 73 cents. The filing on the planned increase was made Tuesday with the Postal Regulatory Commission. The commission must approve the propose\u2026",
+            "url": "https://apnews.com/article/us-postal-service-proposed-rate-increase-ff7e99b87b19f2d6bc949f6c9f57d51f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2024-04-09T20:59:41Z",
+            "content": "WASHINGTON (AP) The U.S. Postal Service signaled plans Tuesday for a rate increase that includes hiking the cost of a first-class stamp from 68 cents to 73 cents, part of an overall 7.8% increase to \u2026 [+912 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "ERIC TUCKER",
-            "title": "Judge rejects Trump request to dismiss classified documents prosecution",
-            "description": "WASHINGTON (AP) \u2014 A federal judge refused Thursday to throw out the classified documents prosecution of Donald Trump, turning aside defense arguments that a decades-old law permitted the former president to retain the sensitive records after he left office.",
-            "url": "https://apnews.com/b862ec627ac0070e5353ac324d8d333f",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/787372846d68443490ccc24f6d615ac5/3000.jpeg",
-            "publishedAt": "2024-04-04T19:06:55Z",
-            "content": "WASHINGTON (AP) \u2014 A federal judge refused Thursday to throw out the classified documents prosecution of Donald Trump, turning aside defense arguments that a decades-old law permitted the former presi\u2026 [+5433 chars]"
+            "author": "Joe Reedy",
+            "title": "Women's NCAA title game outdraws the men's championship with an average of 18.9 million viewers",
+            "description": "South Carolina\u2019s 87-75 victory over Caitlin Clark and Iowa in the women\u2019s NCAA championship game averaged 18.9 million viewers on ABC and ESPN, making it the second most-watched non-Olympic women\u2019s sporting event on U.S. television. The audience for the game \u2026",
+            "url": "https://apnews.com/article/march-madness-ratings-iowa-clark-b592435cc286c75a7ac9278c97326ad8",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a1b2c5c/2147483647/strip/true/crop/4971x2796+0+259/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F44%2F3bc6ae10a62d085088d0180af100%2F9d4e606220a1451ca19751862e35101f",
+            "publishedAt": "2024-04-09T20:41:18Z",
+            "content": "South Carolinas 87-75 victory over Caitlin Clark and Iowa in the womens NCAA championship game has achieved a pair of milestones.\r\nIt is the first time the womens title game outdrew the men. It also \u2026 [+6400 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "STEVE PEOPLES and JONATHAN J. COOPER",
-            "title": "No Labels won\u2019t run a third-party campaign after trying to recruit a centrist presidential candidate",
-            "description": "NEW YORK (AP) \u2014 The No Labels group said Thursday it will not field a presidential candidate in November after strategists for the bipartisan organization failed to attract a high-profile centrist willing to seize on the widespread dissatisfaction with Presid\u2026",
-            "url": "https://apnews.com/c7477857e1dd05535326b8850f4500a1",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f7a551f7c0d34620bf79202da05ddd68/3000.jpeg",
-            "publishedAt": "2024-04-04T18:40:45Z",
-            "content": "NEW YORK (AP) \u2014 The No Labels group said Thursday it will not field a presidential candidate in November after strategists for the bipartisan organization failed to attract a high-profile centrist wi\u2026 [+4252 chars]"
+            "author": "Jonathan J. Cooper",
+            "title": "Democrats pounce on Arizona Supreme Court's abortion ruling",
+            "description": "An Arizona Supreme Court decision that would end virtually all abortions in the state puts the issue front and center in a critical 2024 battleground. Democrats immediately pounced on the ruling Tuesday, blaming former President Donald Trump for the loss of a\u2026",
+            "url": "https://apnews.com/article/abortion-arizona-supreme-court-ruling-biden-democrats-361cff78974e6038e532e73e261ae8a4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f245f39/2147483647/strip/true/crop/3936x2214+0+205/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffe%2Fb3%2F570ccddf3249f827b39bfd0106e5%2Ff62cb8dbd8f04037b949dfad764948dc",
+            "publishedAt": "2024-04-09T17:59:31Z",
+            "content": "PHOENIX (AP) Democrats pounced Tuesday on an Arizona Supreme Court ruling that permits enforcement of an 1864 law effectively banning abortion in the state, blaming former President Donald Trump and \u2026 [+5946 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "JILL COLVIN",
-            "title": "Trump says Israel has to get war in Gaza over 'fast' and warns it is 'losing the PR war'",
-            "description": "NEW YORK (AP) \u2014 Former President Donald Trump offered a tough message to Israel over its war against Hamas on Thursday, urging the country to: \u201cGet it over with.\u201d",
-            "url": "https://apnews.com/21faee332d95fec99652c112fbdcd35d",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c5a10ff1d6ba491fa16a6c9a7d175aad/3000.jpeg",
-            "publishedAt": "2024-04-04T17:51:29Z",
-            "content": "NEW YORK (AP) \u2014 Former President Donald Trump offered a tough message to Israel over its war against Hamas on Thursday, urging the country to: \u201cGet it over with.\u201dIn an interview with conservative rad\u2026 [+5212 chars]"
+            "author": "Patrick Whittle",
+            "title": "Ancient sea turtle housed at Boston aquarium for more than 50 years passes another physical",
+            "description": "Myrtle, an ancient green sea turtle that has delighted visitors to the New England Aquarium in Boston for more than 50 years, is in good physical shape. Veterinarians performed Myrtle\u2019s checkup Tuesday after the 500-pound reptile was hoisted from the aquarium\u2026",
+            "url": "https://apnews.com/article/sea-turtle-medical-exam-boston-7c2bc1ac35a575ac9644f0782ca65e29",
+            "urlToImage": "https://dims.apnews.com/dims4/default/534a9da/2147483647/strip/true/crop/3672x2066+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdf%2Fd7%2Fc026284af9487e48bafdfa1e6843%2F5089d6de57764329b40c874b0871eb3a",
+            "publishedAt": "2024-04-09T17:51:04Z",
+            "content": "BOSTON (AP) Apparently, its pretty easy being green after all.\r\nThat was the takeaway from Tuesdays physical examination of Myrtle, an ancient green sea turtle that has delighted visitors to the New \u2026 [+2550 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "AAMER MADHANI and ZEKE MILLER",
-            "title": "Biden tells Israel's Netanyahu future US support for war depends on new steps to protect civilians",
-            "description": "WASHINGTON (AP) \u2014 President Joe Biden issued a stark warning to Israeli Prime Minister Benjamin Netanyahu on Thursday that future U.S. support for Israel's Gaza war depends on the swift implementation of new steps to protect civilians and aid workers.",
-            "url": "https://apnews.com/3591fb5f82b22cf8e5d1060fccaef115",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0e055863a3e5439696531a8f35068c36/3000.jpeg",
-            "publishedAt": "2024-04-04T17:51:11Z",
-            "content": "WASHINGTON (AP) \u2014 President Joe Biden issued a stark warning to Israeli Prime Minister Benjamin Netanyahu on Thursday that future U.S. support for Israel's Gaza war depends on the swift implementatio\u2026 [+7195 chars]"
+            "author": "JACQUES BILLEAUD",
+            "title": "Arizona can enforce an 1864 law criminalizing nearly all abortions, court says",
+            "description": "The Arizona Supreme Court says the state can enforce its long-dormant law criminalizing all abortions except when a mother\u2019s life is at stake. The ruling examined whether the state is still subject to a law that predates Arizona\u2019s statehood. The 1864 law prov\u2026",
+            "url": "https://apnews.com/article/arizona-abortion-restrictions-1864-9c68866d69dca38c728dd27b80592e8f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2024-04-09T17:27:28Z",
+            "content": "PHOENIX (AP) The Arizona Supreme Court ruled Tuesday that the state can enforce its long-dormant law criminalizing all abortions except when a mothers life is at stake. \r\nThe case examined whether th\u2026 [+1174 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "DAVE COLLINS",
-            "title": "April nor'easter with heavy, wet snow bears down on Northeast, 630,000 still without power",
-            "description": "A major spring storm brought heavy snow, rain and high winds to the Northeast into Thursday, downing trees and power lines and leaving nearly 700,000 homes and businesses without power at some point.",
-            "url": "https://apnews.com/74cc15230cdd6e0a20d3431df41484be",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e45e28731ffd4b8984999289b5803f21/1920.jpeg",
-            "publishedAt": "2024-04-04T14:48:38Z",
-            "content": "A major spring storm brought heavy snow, rain and high winds to the Northeast into Thursday, downing trees and power lines and leaving nearly 700,000 homes and businesses without power at some point.\u2026 [+5301 chars]"
+            "author": "ED WHITE",
+            "title": "PARENTS OF MASS SHOOTER SENTENCED TO 15 YEARS...",
+            "description": "The parents of a Michigan school shooter have each been sentenced to at least 10 years in prison for failing to take steps that could have prevented the killing of four students in 2021. Jennifer and James Crumbley are the first parents convicted in a U.S. ma\u2026",
+            "url": "https://apnews.com/article/james-crumbley-jennifer-crumbley-oxford-school-shooting-e5888f615c76c3b26153c34dc36d5436",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4164982/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F21%2F5dd306baa90fcf45afb79e3864d4%2Feee7a53a3ae44f47b3a1287d535ad573",
+            "publishedAt": "2024-04-09T16:58:37Z",
+            "content": "PONTIAC, Mich. (AP) The parents of a Michigan school shooter were each sentenced to at least 10 years in prison Tuesday for failing to take steps that could have prevented the killing of four student\u2026 [+3748 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Heritage Auctions",
+            "title": "Rare copy of comic featuring Superman's first appearance sells for $6 million at auction",
+            "description": "A 1938 copy of the comic that first \u201cintroduced Superman to the world\u201d has sold for a record-setting $6 million, the auctioneer that handled the purchase said last week. According to Heritage Auctions, the rare copy of Action Comics No. 1 was sold to an anony\u2026",
+            "url": "https://apnews.com/article/superman-comic-auction-6-million-0bd4b08494eeb271e32557362815f5ff",
+            "urlToImage": "https://dims.apnews.com/dims4/default/8d18761/2147483647/strip/true/crop/1895x1066+0+967/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2Ff5%2F0cfb89dca6490ff82e361672d7da%2F1aa030fce7e74e118131094ce1f567ba",
+            "publishedAt": "2024-04-09T15:37:54Z",
+            "content": "NEW YORK (AP) A 1938 copy of the comic that first introduced Superman to the world has sold for a record-setting $6 million, the auctioneer that handled the purchase said last week.\r\nAccording to Her\u2026 [+1732 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Maria Sherman",
+            "title": "Beyonc\u00e9 becomes first Black woman to hit No. 1 on Billboard country albums chart",
+            "description": "Beyonc\u00e9 has made history once again. Her latest album, the epic \u201cAct ll: Cowboy Carter,\u201d hit No. 1 on the Billboard country albums chart, making her the first Black woman to top the chart since its 1964 inception. The album also topped the all-genres Billboar\u2026",
+            "url": "https://apnews.com/article/beyonce-cowboy-carter-country-albums-chart-9e542a074e5a8d6113d80caff6a3cda7",
+            "urlToImage": "https://dims.apnews.com/dims4/default/6909122/2147483647/strip/true/crop/4768x2682+0+379/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F16%2Fc8%2Ff34960f67a5f8d002532bf570961%2F589ad9de496c4ed38853fc767740a341",
+            "publishedAt": "2024-04-09T14:16:10Z",
+            "content": "NEW YORK (AP) Beyonc\u00e9 has made history once again. Her latest album, the epic Act ll: Cowboy Carter, hit No. 1 on the Billboard country albums chart, making her the first Black woman to top the chart\u2026 [+914 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "Librarians fear new penalties, even prison, as activists challenge books...",
+            "description": "Across the country, book bans and attempted bans have soared to the highest levels in decades. Public and school-based libraries have been inundated with complaints from community members and conservative activists. And now some lawmakers are considering addi\u2026",
+            "url": "https://apnews.com/article/book-bans-libraries-lawsuits-fines-prison-0914fa6cbb2a99b540cbbd28a38179b4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3a62162/2147483647/strip/true/crop/5778x3250+0+301/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F1e%2F1c5913dcb0b3c533f1a78e6a83e7%2F0e9adaa1deac474ba464bc874d653d16",
+            "publishedAt": "2024-04-09T14:00:03Z",
+            "content": "When an illustrated edition of Margaret Atwoods The Handmaids Tale was released in 2019, educators in Clayton, Missouri needed little debate before deciding to keep copies in high school libraries. T\u2026 [+6551 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Daly",
+            "title": "EPA says chemical plants must reduce emissions likely to cause cancer",
+            "description": "More than 200 chemical plants nationwide must reduce toxic emissions likely to cause cancer under a new Environmental Protection Agency rule. Officials say the rule issued Tuesday advances President Joe Biden\u2019s commitment to environmental justice with health \u2026",
+            "url": "https://apnews.com/article/epa-chemical-pollution-cancer-environmental-justice-louisiana-3207b752c9e0e9d6e3e7e715be92e8eb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dd28676/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F50%2Fbf%2Fbdef1293ad46c9526d967a854ab0%2F268b382df1cc4547b9ea83efbc8de139",
+            "publishedAt": "2024-04-09T13:00:58Z",
+            "content": "WASHINGTON (AP) More than 200 chemical plants nationwide will be required to reduce toxic emissions that are likely to cause cancer under a new rule issued Tuesday by the Environmental Protection Age\u2026 [+5217 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "AP",
+            "title": "Many eclipse visitors to northern New England pulled an all-nighter trying to leave",
+            "description": "Thousands of visitors to northern New England communities in the path of the total solar eclipse were told to pack their patience for the trip. Some needed it for up to 12 hours after the event started, inching their way\u2026",
+            "url": "https://apnews.com/article/solar-eclipse-traffic-jams-5fa6ac695a3a53a90b754b97c4719d31",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/b/90/b907bdfe-1eef-5049-9f21-a603b7a35acd/66154f827b495.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-09T12:43:00Z",
+            "content": "FRANCONIA, N.H. (AP) Thousands of visitors to northern New England communities in the path of the total solar eclipse were told to pack their patience for the trip. In some areas, they needed it for \u2026 [+1868 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Josh Funk",
+            "title": "Ohio train derailment: Norfolk Southern agrees to pay $600M in settlement",
+            "description": "Norfolk Southern has agreed to pay $600 million in a class-action lawsuit settlement related to a fiery train derailment in February 2023 in eastern Ohio. The company said Tuesday that the agreement, if approved by the court, will resolve all class action cla\u2026",
+            "url": "https://apnews.com/article/norfolk-southern-ohio-bd020560b01f5cb58bb6e15072ca97a1",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4aa75fb/2147483647/strip/true/crop/7938x4465+0+413/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F54%2F67c6a4dabde108ff9fe084a18f92%2Fc74f954ec8d34e5b8694a103703e026f",
+            "publishedAt": "2024-04-09T12:10:38Z",
+            "content": "Norfolk Southern has agreed to pay $600 million in a class-action lawsuit settlement related to a fiery train derailment in February 2023 in eastern Ohio. \r\nThe company said Tuesday that the agreemen\u2026 [+3103 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By MICHAEL CASEY - Associated Press",
+            "title": "More than 200 women and several men accuse ex-Brigham and Women's doctor in lawsuit of sexual abuse, unnecessary exams",
+            "description": "More than 200 women have accused a Massachusetts doctor in a lawsuit of sexual abusing them by performing unnecessary pelvic and breast exams. Former rheumatologist Dr. Derrick Todd is accused in the lawsuit of the abuse taking place over the\u2026",
+            "url": "https://apnews.com/article/doctor-sexual-abuse-lawsuit-todd-brigham-hospital-7aff1e9fa11f387703e765e6c0513dc3",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/thesunchronicle.com/content/tncms/assets/v3/editorial/4/4b/44be333a-a00a-5ee9-9dac-0ff346c2c847/661537d70a79b.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-09T11:24:00Z",
+            "content": "BOSTON (AP) More than a decade ago, Kristin Fritz was struggling with pain in her spine and saw a rheumatologist recommended by her doctor at Brigham and Womens Hospital in Boston.\r\nThe visit with Dr\u2026 [+5642 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Claire Rush",
+            "title": "Person comes forward to claim $1.3 billion Powerball jackpot in Oregon",
+            "description": "Oregon officials say a person with a ticket matching all six Powerball numbers in Saturday\u2019s $1.3 billion jackpot has come forward to claim the prize. The Oregon Lottery said in a statement that the ticket holder came forward on Monday and that the ticket was\u2026",
+            "url": "https://apnews.com/article/portland-powerball-winner-00883e00b4d510a51ade35cffa3f3336",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a74157d/2147483647/strip/true/crop/3993x2246+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffd%2F1d%2Fa75a8806e21f98a07a3aaf5e49ca%2F8a6d0931f3cb4aefbd2930a4dfcd7dfd",
+            "publishedAt": "2024-04-09T00:42:42Z",
+            "content": "PORTLAND, Ore. (AP) A person with a ticket matching all six Powerball numbers in Saturdays $1.3 billion jackpot came forward Monday to claim the prize, Oregon officials said.\r\nThe lottery ticket was \u2026 [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "NCAA women's title game: Early figures make it most-watched hoops game in 5 years",
+            "description": "South Carolina\u2019s victory over Caitlin Clark and Iowa in Sunday\u2019s women\u2019s NCAA championship game had a preliminary audience average of 18.7 million on ABC and ESPN. The only sporting events in the United States to draw a bigger TV audience since 2019 have been\u2026",
+            "url": "https://apnews.com/article/march-madness-iowa-south-carolina-ratings-fe3c29aabbea557d83a911afb4ebf637",
+            "urlToImage": "https://dims.apnews.com/dims4/default/07954d2/2147483647/strip/true/crop/5599x3149+0+292/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F85%2F31cf59c15fd496ffd03f72d2cdf6%2Ff1dcdb4c3f52425cbc27841ca12b94c1",
+            "publishedAt": "2024-04-08T22:14:07Z",
+            "content": "BRISTOL, Conn. (AP) South Carolinas victory over Caitlin Clark and Iowa in Sundays womens NCAA championship game had a preliminary audience average of 18.7 million on ABC and ESPN. The only sporting \u2026 [+2036 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Steve Peoples",
+            "title": "Trump's abortion statement angers conservatives and gives the Biden campaign a new target",
+            "description": "Donald Trump still says he\u2019s proud that the Supreme Court justices he nominated overturned Roe v. Wade. Yet he spent much of the last year avoiding tough questions about abortion, including whether he would support a national abortion ban should he return to \u2026",
+            "url": "https://apnews.com/article/abortion-trump-republican-presidential-election-2024-585faf025a1416d13d2fbc23da8d8637",
+            "urlToImage": "https://dims.apnews.com/dims4/default/775024f/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2F64%2Fa28a2c8d6cf7aa805cdc542b5892%2F1a798b2263a54f7793fc9bf7399ab904",
+            "publishedAt": "2024-04-08T19:34:31Z",
+            "content": "NEW YORK (AP) Donald Trump still says hes proud that the Supreme Court justices he nominated overturned Roe v. Wade. Yet he again on Monday avoided tough questions about abortion, including whether h\u2026 [+8210 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Mead Gruver",
+            "title": "Winner in Portland: What AP knows about the $1.3 billion Powerball jackpot so far",
+            "description": "A lucky ticket-buyer in Oregon has won a $1.3 billion Powerball jackpot, which was the eighth-largest lottery prize in U.S. history. Should the winner who matched all six numbers forgo the rarely claimed option of a payout over 30 years, the lump-sum before t\u2026",
+            "url": "https://apnews.com/article/powerball-jackpot-lottery-winner-oregon-billion-0fc95c179ebc3335ad1deb721923cda5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/907722c/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F6e%2F851ee3bafeaeb6e6a882dc0e4578%2F0e3ae6c869324385a5b4484aef37597b",
+            "publishedAt": "2024-04-08T18:32:00Z",
+            "content": "A lucky ticket-buyer in Oregon has won a $1.3 billion Powerball jackpot, which was the eighth-largest lottery prize in U.S. history.\r\nShould the winner who matched all six numbers forgo the rarely cl\u2026 [+3378 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Scott Bauer",
+            "title": "Evers vetoes a Republican bill that would have allowed teens to work without parental consent",
+            "description": "Democratic Gov. Tony Evers has vetoed a Republican bill that would have allowed 14- and 15-year-olds in Wisconsin to work without getting consent from their parents or a state permit. Evers vetoed the bill Monday that passed the Legislature with all Republica\u2026",
+            "url": "https://apnews.com/article/wisconsin-child-labor-evers-veto-work-permit-a562ebc31e8238434df96c7dc1c8e3d0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/69601e8/2147483647/strip/true/crop/3842x2161+0+200/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F1a%2F0948f42b2fe3b71e25ca3f82ea59%2Fab5367d5c86244f982aacc43eb8ad771",
+            "publishedAt": "2024-04-08T16:05:43Z",
+            "content": "MADISON, Wis. (AP) Democratic Gov. Tony Evers on Monday vetoed a Republican bill that would have allowed 14- and 15-year-olds in Wisconsin to work without getting consent from their parents or a stat\u2026 [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Morgan Wallen arrested after police say he threw a chair off roof",
+            "description": "Police say country music singer Morgan Wallen has been arrested after police say he threw a chair off the rooftop of a newly opened six-story bar in downtown Nashville. Police tweeted that the 30-year-old singer was booked into jail early Monday on three felo\u2026",
+            "url": "https://apnews.com/article/morgan-wallen-arrested-throw-chair-nashville-016f6ed540dae5d4aa794025e3cf3e1e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ab66b25/2147483647/strip/true/crop/4795x2697+0+1651/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F25%2Fde%2Fda4f1742a6d71507189d7db1075d%2F2e9084528d9944d983dbe472ddcefc17",
+            "publishedAt": "2024-04-08T14:14:53Z",
+            "content": "NASHVILLE, Tenn. (AP) Country music singer Morgan Wallen has been arrested after police say he threw a chair off the rooftop of a newly opened six-story bar in downtown Nashville.\r\nWallen, 30, was bo\u2026 [+2044 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "apnews.com",
+            "title": "SCRAMBLE TO FIND PERFECT VIEW!",
+            "description": "A total solar eclipse will cross over Mexico, Texas, Vermont, Massachusetts and 13 other U.S. states today.",
+            "url": "https://apnews.com/live/eclipse-solar-2024-updates",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9cab277/2147483647/strip/true/crop/3258x1833+0+330/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F42%2F0a%2F44d57b3d657e1c19955ebf5d6d85%2F62aecd41c2e84cb5a10ca37d4d1eb3a7",
+            "publishedAt": "2024-04-08T14:00:03Z",
+            "content": "Need some background music? The Rock &amp; Roll Hall of Fame in Cleveland has come up with a playlist.\r\nThe list of over 100 songs includes Bonny Tylers Total Eclipse of the Heart, of course. Also on\u2026 [+689 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Michael Goldberg",
+            "title": "As a Mississippi town reels from a devastating tornado, a displaced family finds its way home",
+            "description": "The town of Rolling Fork, Mississippi, has struggled to rebuild after a devastating tornado struck last year. The tornado killed 14 residents and reduced the town to rubble as it charted a merciless path across one of the country\u2019s poorest regions. For the pe\u2026",
+            "url": "https://apnews.com/article/mississippi-rolling-fork-tornado-2770031251184d8d1894b20f24c11351",
+            "urlToImage": "https://dims.apnews.com/dims4/default/8dd60a0/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbe%2F0b%2Fb160c7496b14f3cabcff6b6aa2e3%2Fd5393733609c468a81eebdee9fede6a8",
+            "publishedAt": "2024-04-08T13:27:12Z",
+            "content": "ROLLING FORK, Miss. (AP) As a deadly tornado barreled toward their home in the Mississippi Delta, Ida Cartlidge only had time to scoop up her 1-year-old son, Nolan, and hold him close.\r\nCartlidge hud\u2026 [+9369 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Fatima Hussein",
+            "title": "Culinary diplomacy: The internet is obsessed with what Janet Yellen eats in China",
+            "description": "Ever since she ate mushrooms that can have psychedelic effects in Beijing last July, Janet Yellen has united Americans and Chinese in wanting to know what she will eat next. Now that the U.S. Treasury secretary is back in China this week, having stopped in Gu\u2026",
+            "url": "https://apnews.com/article/yellen-china-us-food-beijing-f4cd5106eb5458ed390d903266e4eb35",
+            "urlToImage": "https://dims.apnews.com/dims4/default/31e0f98/2147483647/strip/true/crop/8386x4717+0+437/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2F11%2F6a97bf6d2c0a1fc2af3de8ec4962%2F9eede26c9aa64534b642cec9644c3c82",
+            "publishedAt": "2024-04-08T12:41:13Z",
+            "content": "BEIJING (AP) Ever since she ate mushrooms that can have psychedelic effects in Beijing last July, Janet Yellen has united Americans and Chinese in wanting to know what she will eat next. \r\nAnd now th\u2026 [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "Vatican blasts gender affirming surgery, surrogacy, gender theory as threats to human dignity...",
+            "description": "The Vatican has declared that gender-affirming surgeries and surrogacy are grave threats to human dignity. A new document from the doctrine office puts them on par with abortion and euthanasia as practices that violate God\u2019s plan for human life.In its most ea\u2026",
+            "url": "https://apnews.com/article/vatican-gender-surrogacy-abortion-pope-3f84d8eb97f045b0cfb0ec1efa4e614e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/bd4197b/2147483647/strip/true/crop/3386x1905+0+176/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F04%2F0b42fab4d99ab24b8e75955a7b33%2F94454d18c57d4cb99d1fc06eef5ad98a",
+            "publishedAt": "2024-04-08T11:00:03Z",
+            "content": "VATICAN CITY (AP) The Vatican on Monday declared gender-affirming surgery and surrogacy as grave threats to human dignity, putting them on par with abortion and euthanasia as practices that violate G\u2026 [+6137 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "Musk will be investigated over fake news and obstruction in Brazil...",
+            "description": "A crusading Brazilian Supreme Court justice is adding Elon Musk to an investigation over the dissemination of fake news and investigating him separately for alleged obstruction. Justice Alexandre de Moraes noted that Musk began a \u201cdisinformation campaign\u201d reg\u2026",
+            "url": "https://apnews.com/article/brazil-musk-x-supreme-court-investigation-a645757b95a66ee658832802908466ab",
+            "urlToImage": "https://dims.apnews.com/dims4/default/420c830/2147483647/strip/true/crop/8070x4539+0+420/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2a%2F7f%2Fa3506a8131287aebb2106a01f9bb%2Fdf7457d0b2b94a3b8f6615c39d18a96b",
+            "publishedAt": "2024-04-08T11:00:03Z",
+            "content": "RIO DE JANEIRO (AP) A crusading Brazilian Supreme Court justice included Elon Musk as a target in an ongoing investigation over the dissemination of fake news and opened a separate investigation late\u2026 [+3667 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Will Weissert",
+            "title": "Biden administration announces $6.6 billion to ensure leading-edge microchips are built in the US",
+            "description": "The Biden administration has pledged to provide up to $6.6 billion so that a Taiwanese semiconductor giant can expand the facilities it is already building in Arizona and better ensure that the most-advanced microchips are produced domestically for the first \u2026",
+            "url": "https://apnews.com/article/microchips-biden-commerce-arizona-taiwan-semiconductor-manufacturing-7e627aad5b9ce5a715aa4d660ad86149",
+            "urlToImage": "https://dims.apnews.com/dims4/default/906cfe5/2147483647/strip/true/crop/6000x3375+0+388/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F54%2Ffb%2F9954d835df752815b00dee0cdd72%2F7d5334c420ac46368d7d3ef400c555af",
+            "publishedAt": "2024-04-08T09:28:49Z",
+            "content": "WILMINGTON, Del. (AP) The Biden administration pledged on Monday to provide up to $6.6 billion so that a Taiwanese semiconductor giant can expand the facilities it is already building in Arizona and \u2026 [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Fatima Hussein",
+            "title": "US will push China to change policy that threatens American jobs, Treasury Secretary Yellen says",
+            "description": "Treasury Secretary Janet Yellen says the Biden administration will push China to change an industrial policy that poses a threat to U.S. jobs. Yellen said this on Monday after four days of talks with Chinese officials. She also said during her visit to Beijin\u2026",
+            "url": "https://apnews.com/article/china-us-yellen-overcapacity-ukraine-industrial-policy-ab1b8fbef365352096492206e532c7c6",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f9e01c8/2147483647/strip/true/crop/6637x3733+0+345/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd9%2F5f%2F9a428751e971a970b0988dbe4092%2F67dc0a3c8b9c4c4b8568736eb7f1c7bb",
+            "publishedAt": "2024-04-08T08:13:41Z",
+            "content": "BEIJING (AP) The Biden administration will push China to change an industrial policy that poses a threat to U.S. jobs, Treasury Secretary Janet Yellen said Monday after wrapping up four days of talks\u2026 [+3548 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Christopher Rugaber",
+            "title": "Will China flood globe with EVs, green tech? What's behind latest US-China trade fight",
+            "description": "China\u2019s burgeoning production of electric cars and other green technologies has become a flashpoint in a new U.S.-China trade fight. Treasury Secretary Janet Yellen's five-day visit to China is highlighting the issue. China has sharply ramped up production of\u2026",
+            "url": "https://apnews.com/article/china-electric-cars-green-technology-janet-yellen-9901c54cea8e8ee823fa2290c4d719d8",
+            "urlToImage": "https://dims.apnews.com/dims4/default/a73c05f/2147483647/strip/true/crop/7034x3957+0+366/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2F8c%2Fc43fa0262859483a63f9f8299211%2F4c5c73b3a2c541c69716817364c2629b",
+            "publishedAt": "2024-04-08T08:00:55Z",
+            "content": "WASHINGTON (AP) Chinas burgeoning production of electric cars and other green technologies has become a flashpoint in a new U.S.-China trade fight, highlighted by Treasury Secretary Janet Yellen duri\u2026 [+5899 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jill Colvin",
+            "title": "Trump says he'll announce his position on abortion Monday, a key moment in the presidential race",
+            "description": "Former President Donald Trump has declined to endorse a national abortion ban and says he believes abortion should be left to the states. The presumptive Republican presidential nominee released a video outlining his position Monday. Trump says whatever the s\u2026",
+            "url": "https://apnews.com/article/trump-abortion-2024-ban-7bf06e0856b88a710c79a6eb85cffa6a",
+            "urlToImage": "https://dims.apnews.com/dims4/default/eed8f16/2147483647/strip/true/crop/3085x1735+0+161/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F66%2F4c%2F923318fe2c768e827d554bb13a22%2F6cfcf92aafcb4775b29a3ca4005bd471",
+            "publishedAt": "2024-04-08T04:55:07Z",
+            "content": "NEW YORK (AP) Former President Donald Trump said he believes abortion should be left to the states in a video released Monday morning outlining his position after months of mixed messages and specula\u2026 [+6415 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "voisin",
+            "title": "10k miles and 352 days later, a UK man completes run the length of Africa",
+            "description": "British charity fundraiser Russ Cook has reached the northernmost point of Africa, completing a year-long quest to run the length of the continent. Dozens of supporters cheered Sunday as Cook reached a rocky outcrop in northern Tunisia. The 27-year-old set of\u2026",
+            "url": "https://apnews.com/article/russ-cook-africa-10000-mile-run-dd53f51d3cb9a90fc431e007e58c2af0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/991ef42/2147483647/strip/true/crop/8256x4644+0+430/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdf%2F654addda3c2bf66dee523aaa94f8%2F10d8647a5eed4dc38dfb2d754e148fd5",
+            "publishedAt": "2024-04-08T04:37:14Z",
+            "content": "RAS ANGELA, Tunisia (AP) Sore and sandblasted but triumphant, runner Russ Cook reached the northernmost point of Africa on Sunday, almost a year after he set off from its southern tip on a quest to r\u2026 [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JACK JEFFERY, TIA GOLDENBERG",
+            "title": "RAFAH HOLDOUT",
+            "description": "Israel\u2019s military says it has withdrawn its forces from the southern Gaza city of Khan Younis, wrapping up a key phase in its ground offensive against the Hamas militant group. But defense officials say troops are merely regrouping as the army prepares to mov\u2026",
+            "url": "https://apnews.com/article/israel-hamas-gaza-war-news-04-07-2024-5257a90302686de80788469f74aab40c",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ec4a86d/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2Fbe%2F7e5db9340e1dff9f36378e4bbe71%2F9b13ec9e89eb4aeda3b1aba0d5cc598d",
+            "publishedAt": "2024-04-08T00:13:37Z",
+            "content": "JERUSALEM (AP) Israels military announced Sunday it had withdrawn its forces from the southern Gaza city of Khan Younis, wrapping up a key phase in its ground offensive against the Hamas militant gro\u2026 [+6018 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MARCIA DUNN",
+            "title": "SCRAMBLE TO FIND PERFECT VIEW!",
+            "description": "Eclipse enthusiasts are staking out their spots across three countries, fervently hoping for clear skies. Forecasts are calling for clouds along most of the sun-vanishing route stretching from Mexico to the U.S. to Canada on Monday. North America won't see an\u2026",
+            "url": "https://apnews.com/article/total-solar-eclipse-sun-moon-06767dd9e63cce8eb2351c22e90e38b1",
+            "urlToImage": "https://dims.apnews.com/dims4/default/22a9acb/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fee%2F46%2Fa778955e64c0e2a12450b9b73466%2F4dc7bf3056aa42cc9d706bfd3c28c7a1",
+            "publishedAt": "2024-04-08T00:13:36Z",
+            "content": "MESQUITE, Texas (AP) Eclipse spectators staked out their spots across three countries Sunday, fervently hoping for clear skies despite forecasts calling for clouds along most of the sun-vanishing rou\u2026 [+3672 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "By DOUG FEINBERG, AP Basketball Writer",
+            "title": "South Carolina finishes off perfect season with NCAA championship, beating Clark and Iowa 87-75",
+            "description": "The 38-0 Gamecocks became the 10th Division I team to go through a season without a loss. They accomplished the feat despite losing all five starters from last season\u2019s team.",
+            "url": "https://apnews.com/article/march-madness-score-iowa-clark-south-carolina-80c556d6a9130a301d0f59e6eb997a4d",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/58/058c1dff-5934-5dc0-85cc-12191aca910a/6613110a7269e.preview.jpg?crop=1759%2C923%2C0%2C56&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-07T21:21:00Z",
+            "content": "By DOUG FEINBERG, AP Basketball Writer\r\nCLEVELAND Dawn Staley and South Carolina completed their perfect season, ending Caitlin Clarks historic college career with an 87-75 win over Iowa in the NCAA \u2026 [+15225 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Carla K. Johnson",
+            "title": "Study: Many cancer drugs unproven 5 years after accelerated approval",
+            "description": "Researchers have found that most cancer drugs granted accelerated approval by the U.S. Food and Drug Administration do not deliver on their early promise. The program allows the FDA to grant early approval to drugs that show favorable initial results against \u2026",
+            "url": "https://apnews.com/article/cancer-drugs-fda-accelerated-approval-d5adffd124e0d038a8fd0357ced59546",
+            "urlToImage": "https://dims.apnews.com/dims4/default/01a4f50/2147483647/strip/true/crop/2742x1542+0+142/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F12%2F58%2F5562a305f3fdacf61a58dec89aa7%2Fdf8aec122d9e44a6afc11432f99c4eed",
+            "publishedAt": "2024-04-07T18:20:47Z",
+            "content": "The U.S. Food and Drug Administrations accelerated approval program is meant to give patients early access to promising drugs. But how often do these drugs actually improve or extend patients lives? \u2026 [+2916 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "TOM KRISHER The Associated Press",
+            "title": "US first-quarter auto sales grew 5.1% despite high interest rates, but EV growth slows further",
+            "description": "New vehicle sales in the U.S. rose 5.1% from January through March, as buyers stayed in the market despite high interest rates. But electric vehicle sales growth slowed.",
+            "url": "https://apnews.com/article/auto-sales-strong-electric-vehicle-sales-slow-70a663fbc0719ebda7a4ca814c2827d2",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/0c/90c6aaf2-dc26-5842-a122-7f7521803e3f/660f35be58f13.image.jpg?crop=1881%2C988%2C0%2C56&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2024-04-07T16:45:00Z",
+            "content": "TOM KRISHER\r\nThe Associated Press\r\nDETROIT New vehicle sales in the U.S. rose 5.1% from January through March, as buyers stayed in the market despite high interest rates. But electric vehicle sales g\u2026 [+5115 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Colleen Long",
+            "title": "2 women who say abortion restrictions put them in medical peril feel compelled to campaign for Biden",
+            "description": "As he campaigns for a second term, President Joe Biden is highlighting how women\u2019s health has been affected by the overturning of federal abortion protections. And now his campaign is getting help from two women who say abortion restrictions put them in medic\u2026",
+            "url": "https://apnews.com/article/biden-abortion-restrictions-roe-reproductive-health-election-eb79daf45180e16ac594480a9345bcde",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9cb72ae/2147483647/strip/true/crop/4333x2437+0+152/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2Fa9%2F1eed304c9391cdcd0bf401c0ef20%2F85506e9fcd8c43f39e4bf722aa0f3bd3",
+            "publishedAt": "2024-04-07T14:47:19Z",
+            "content": "WASHINGTON (AP) A Texas woman who went into premature labor, developed sepsis and nearly died and a Louisiana woman who said restrictive abortion laws prevented her from getting medical help for a mi\u2026 [+4640 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Taiwo Adebayo",
+            "title": "A Dubai company\u2019s staggering land deals in Africa raise fears about risks to Indigenous livelihoods",
+            "description": "A raft of agreements between African countries and Dubai-based company Blue Carbon could give the company control over large swaths of land for conservation projects. In Liberia, 10% of the country's land area is to be signed away, and 20% in Zimbabwe. Activi\u2026",
+            "url": "https://apnews.com/article/carbon-credits-africa-communities-protests-92f99dfd488c80e1b5a4cae69c07e6fd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/76c2d5f/2147483647/strip/true/crop/1598x899+1+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F58%2F57f1e971e8f51f48aa2d9998177f%2F2b53bcffacdc4b79b584826e2a8d13c7",
+            "publishedAt": "2024-04-07T07:52:30Z",
+            "content": "ABUJA, Nigeria (AP) Matthew Walleys eyes sweep over the large forest that has sustained his Indigenous community in Liberia for generations. Even as the morning sun casts a golden hue over the canopy\u2026 [+7488 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Powerball draws numbers for estimated $1.3B jackpot after delay of more than 3 hours",
+            "description": "A Powerball player in Oregon has won a jackpot worth more than $1.3 billion, ending a winless streak that had stretched more than three months. Powerball says the single ticket matched all six numbers drawn early Sunday to win a jackpot worth $1.326 billion. \u2026",
+            "url": "https://apnews.com/article/powerball-jackpot-lottery-bbc041bf14b984c38d9f66803394d398",
+            "urlToImage": "https://dims.apnews.com/dims4/default/907722c/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F6e%2F851ee3bafeaeb6e6a882dc0e4578%2F0e3ae6c869324385a5b4484aef37597b",
+            "publishedAt": "2024-04-07T07:08:33Z",
+            "content": "DES MOINES, Iowa (AP) A Powerball player in Oregon won a jackpot worth more than $1.3 billion on Sunday, ending a winless streak that had stretched more than three months.\r\nThe single ticket matched \u2026 [+1688 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Leah Willingham",
+            "title": "Following program cuts, new West Virginia University student union says fight is not over",
+            "description": "The West Virginia United Students\u2019 Union is the leading oppositional force against cuts at the state's flagship university. The union has organized protests, circulated petitions and helped save a handful of teaching positions before 143 faculty and 28 majors\u2026",
+            "url": "https://apnews.com/article/west-virginia-university-student-union-budget-cuts-139c2e5c638e009555c3c19c17caf5dd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e3fc410/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F4f%2Fb2a307b038b4e4be438c9645f459%2F3810e169e3c44032866ea002a50d632a",
+            "publishedAt": "2024-04-07T05:10:06Z",
+            "content": "CHARLESTON, W.Va. (AP) Sophomore Christian Adams expected he would be studying Chinese when he enrolled at West Virginia University, with a dream of working in labor or immigration law.\r\nHe didnt for\u2026 [+6477 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Matthew Brown",
+            "title": "Victims of Montana asbestos pollution that killed hundreds take Warren Buffet's railroad to court",
+            "description": "It's been almost 25 years since federal authorities, responding to news reports of deaths and illnesses, descended on the small northwestern Montana town of Libby to clean it up. Now, some asbestos victims and their family members are seeking to hold publicly\u2026",
+            "url": "https://apnews.com/article/asbestos-libby-montana-bnsf-railroad-trial-e9b7587c0cc78fb93afca24436639eb6",
+            "urlToImage": "https://dims.apnews.com/dims4/default/42eee10/2147483647/strip/true/crop/5750x3234+0+299/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F55%2F976b2ef8600be6e6e40465375501%2Fad29336b41d94f5184f0f4ad2c307472",
+            "publishedAt": "2024-04-07T04:50:56Z",
+            "content": "LIBBY, Mont. (AP) Paul Resch remembers playing baseball as a kid on a field constructed from asbestos-tainted vermiculite, mere yards from railroad tracks where trains kicked up clouds of dust as the\u2026 [+6546 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Andrew Demillo",
+            "title": "Things to know when the Arkansas Legislature convenes to take up a budget and other issues",
+            "description": "Arkansas lawmakers are meeting at the Capitol for a session that will focus on Gov. Sarah Huckabee Sanders' $6.3 billion proposed budget for the coming year. The budget is the top agenda item for the session that kicks off Wednesday with Sanders addressing th\u2026",
+            "url": "https://apnews.com/article/arkansas-legislature-budget-cryptocurrency-huckabee-sanders-9c7363ea53b8ef3500013edd3ba49576",
+            "urlToImage": "https://dims.apnews.com/dims4/default/03da570/2147483647/strip/true/crop/4032x2268+0+378/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F82%2F10869f10eb3839912b4fad4d8b4e%2F489ae1fd8fe34a1ab0c2a3e1ed96bf41",
+            "publishedAt": "2024-04-07T04:27:11Z",
+            "content": "LITTLE ROCK, Ark. (AP) Arkansas lawmakers are convening at the Capitol and their top agenda item is taking up Gov. Sarah Huckabee Sanders $6.3 billion proposed budget for the coming year. \r\nThe sessi\u2026 [+4095 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Powerball lottery drawing delayed",
+            "description": "The Powerball lottery drawing has been delayed to complete procedures required before the numbers are announced. The organizers say the Saturday night drawing for the game, including an estimated $1.3 billion jackpot, has been delayed to enable one of the org\u2026",
+            "url": "https://apnews.com/article/powerball-jackpot-lottery-delay-ef6c513ad9fc94dd3d07cd9db2e8e22f",
+            "urlToImage": "https://dims.apnews.com/dims4/default/907722c/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F44%2F6e%2F851ee3bafeaeb6e6a882dc0e4578%2F0e3ae6c869324385a5b4484aef37597b",
+            "publishedAt": "2024-04-07T03:44:51Z",
+            "content": "DES MOINES, Iowa (AP) The Powerball lottery drawing scheduled for Saturday night has been delayed to complete procedures required before the numbers are announced, the games organizers said.\r\nThe dra\u2026 [+1140 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Fatima Hussein",
+            "title": "US-China relationship on 'more stable footing,' Yellen says",
+            "description": "U.S. Treasury Secretary Janet Yellen has met with Chinese Premier Li Qiang and sent a message of mutual cooperation despite the nations\u2019 differences. Yellen came to China top of mind with trade practices that put American companies and workers at an unfair co\u2026",
+            "url": "https://apnews.com/article/treasury-yellen-china-economics-trade-cbeef6b23ffb6c6cf6cb11dab25ed08b",
+            "urlToImage": "https://dims.apnews.com/dims4/default/e376fd1/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2F46%2Ff3e398ace8422402f6ae241c4d9a%2F1eb662f0717f477eae548a7eb8710733",
+            "publishedAt": "2024-04-07T03:34:44Z",
+            "content": "BEIJING (AP) U.S. Treasury Secretary Janet Yellen met Sunday in Beijing with Chinese Premier Li Qiang and sent a message of mutual cooperation despite the nations differences.\r\nYellen came to China t\u2026 [+1469 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Iowa-UConn women's Final Four match was most-watched hoops game in ESPN history; 14.2M avg. viewers",
+            "description": "Iowa\u2019s 71-69 victory over UConn at the women\u2019s Final Four on Friday night averaged 14.2 million viewers on ESPN, making it the most-viewed women\u2019s basketball game on record and the largest audience for an ESPN basketball broadcast. The previous women\u2019s hoops \u2026",
+            "url": "https://apnews.com/article/final-four-ratings-uconn-iowa-clark-7ac76c353a0d1c2ed7f45c46a91b5ac5",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7242f0c/2147483647/strip/true/crop/3836x2158+0+200/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F88%2F03%2F2bceedbc5abd15cdeb7215b5a535%2F1d214f301ac34bf398226e8b863ec511",
+            "publishedAt": "2024-04-06T21:39:47Z",
+            "content": "BRISTOL, Conn. (AP) Iowas 71-69 victory over UConn at the womens Final Four on Friday night averaged 14.2 million viewers on ESPN, making it the most-viewed womens basketball game on record and the l\u2026 [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Marcia Dunn",
+            "title": "Total solar eclipse 2024: Towns in totality prepare for sun chasers",
+            "description": "Small town businesses are embracing the eclipse crowds, as weekend festivities heat up before Monday's big event. Overcast skies are forecast for Monday's cosmic wonder across Texas, already packing in eclipse chasers. Daytime darkness will follow a narrow co\u2026",
+            "url": "https://apnews.com/article/total-solar-eclipse-moon-sun-8f9bf6abe01315a287032917266654bd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4e4d44c/2147483647/strip/true/crop/3930x2211+0+204/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F86%2Fc26174c34d1ff2a2a5afa48ef614%2Fbafa1e3b550a415f8692ed16360332f1",
+            "publishedAt": "2024-04-06T19:45:24Z",
+            "content": "WAXAHACHIE, Texas (AP) The last time a total solar eclipse passed through this Texas town, horses and buggies filled the streets and cotton fetched 9 cents a pound. Nearly 150 years later, one thing \u2026 [+3707 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ap news",
+            "title": "POLL: Americans think president's power should be checked -- unless their side wins...",
+            "description": "A poll from The Associated Press-NORC Center for Public Opinion Research finds that while Americans say they respect the Constitution\u2019s checks and balances and don\u2019t want a president to have too much power, that view shifts if the candidate of their party win\u2026",
+            "url": "https://apnews.com/article/american-presidential-power-ap-norc-poll-e7e0f499b7d8bb93420f76ec4c72aae0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/9086cbb/2147483647/strip/true/crop/4000x2250+0+208/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3d%2F81%2Fdcc3640e11cc43986e3e26cfb00f%2F84a798f10bca4f7fa0549cae6b2dcc82",
+            "publishedAt": "2024-04-06T17:00:03Z",
+            "content": "WASHINGTON (AP) Like many Americans, Richard Bidon says hed like to see the U.S. government go back to its original design a system of checks and balances developed nearly 240 years ago to prevent an\u2026 [+6282 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "dev_tty01",
+            "title": "Citizen scientist has measured Rockies snowfall for 50 years",
+            "description": "As snow hydrologists fan across the western U.S. to measure peak snowpack this spring, citizen scientist Billy Barr will be measuring snow \u2014 as always \u2014 at 9,500 feet outside his cabin in the remote mountain town of Gothic in central Colorado. This is Barr\u2019s \u2026",
+            "url": "https://apnews.com/article/citizen-scientist-snow-rocky-mountains-drought-water-3a4e053d7db9be3eb22aa6809eab57c0",
+            "urlToImage": "https://dims.apnews.com/dims4/default/ca0162d/2147483647/strip/true/crop/4240x2385+0+224/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1f%2Fba%2Ff3499d5b5a0fa24c157e0341d9e4%2F00151a826a2f48679f84208434093899",
+            "publishedAt": "2024-04-06T16:31:13Z",
+            "content": "GOTHIC, Colo. (AP) Four miles from the nearest plowed road high in Colorados Rocky Mountains, a 73-year-old man with a billowing gray beard and two replaced hips trudged through his front yard to mea\u2026 [+8332 chars]"
         },
         {
             "source": {
@@ -99,38 +619,38 @@
                 "name": "Associated Press"
             },
             "author": "JILL LAWLESS",
-            "title": "Senior UK jurists have joined calls to stop arms sales to Israel. Other allies face similar pressure",
-            "description": "LONDON (AP) \u2014 More than 600 British jurists, including three retired judges from the U.K. Supreme Court, are calling on the government to suspend arms sales to Israel, piling pressure on Prime Minister Rishi Sunak after the deaths of three U.K.",
-            "url": "https://apnews.com/19430d222e6a2f61ffd264e9e494bf63",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3f8eb41d7be64f16b80ef066bc65b564/3000.jpeg",
-            "publishedAt": "2024-04-04T11:15:24Z",
-            "content": "LONDON (AP) \u2014 More than 600 British jurists, including three retired judges from the U.K. Supreme Court, are calling on the government to suspend arms sales to Israel, piling pressure on Prime Minist\u2026 [+3434 chars]"
+            "title": "European allies pulling back support...",
+            "description": "The Israeli military\u2019s killing of seven aid workers in Gaza has triggered unprecedented criticism from European leaders. They have used words like \u201cappalled\" and \u201coutraged\u201d while stepping up calls for a cease-fire. Some are even halting arms sales to Israel a\u2026",
+            "url": "https://apnews.com/article/israel-europe-allies-gaza-criticism-arms-5df91e8c4755823ae041175ca4b7aba2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/0564fd0/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Fcf%2Fae4ff6902d16a3e41a1ed8105514%2F1a670d659e3f4f1087acfa5b41428130",
+            "publishedAt": "2024-04-06T16:28:36Z",
+            "content": "LONDON (AP) The words coming from some of Israels closest allies have been startling in their vehemence: appalled, outraged, no more excuses.\r\nThe Israeli militarys killing of seven aid workers in Ga\u2026 [+7831 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "ERIKA KINETZ and SOLOMIIA HERA",
-            "title": "The true toll of the war in Ukraine is measured in bodies. This man brings them home, one at a time",
-            "description": "DOVHENKE, Ukraine (AP) \u2014 The smell in the car is sick and sweet, the overpowering scent of corpses that have lain too long in muck and ruin, the ones the dogs didn\u2019t devour. Oleksii Yukov, a 38-year-old martial arts instructor who leads a team of volunteer bo\u2026",
-            "url": "https://apnews.com/43bfc0848fdaa9b36d63abfa8c24f885",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/00c7905e99e74251b6e52f4fddf4ac40/3000.jpeg",
-            "publishedAt": "2024-04-04T08:16:27Z",
-            "content": "DOVHENKE, Ukraine (AP) \u2014 The smell in the car is sick and sweet, the overpowering scent of corpses that have lain too long in muck and ruin, the ones the dogs didn\u2019t devour. Oleksii Yukov, a 38-year-\u2026 [+18624 chars]"
+            "author": "JOSEF FEDERMAN",
+            "title": "After six months of war, Israel's isolation grows...",
+            "description": "When Israel declared war against Hamas last October, it stood unified at home and enjoyed broad backing from around the world following an unprecedented attack by the Islamic militant group. Six months later, Israel finds itself in a far different place: bogg\u2026",
+            "url": "https://apnews.com/article/israel-palestinians-hamas-gaza-war-oct-7-327bfeb7bfce5cb0de1568bf41a0ff06",
+            "urlToImage": "https://dims.apnews.com/dims4/default/7feaecb/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F80%2Fef%2F1ca5facacfb162c597653e787f2e%2Fc3f898af56d543e487eb3786aeac5423",
+            "publishedAt": "2024-04-06T16:28:36Z",
+            "content": "JERUSALEM (AP) When Israel declared war against Hamas last October, it stood unified at home and enjoyed broad backing from around the world following an unprecedented attack by the Islamic militant \u2026 [+9643 chars]"
         },
         {
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "author": "The Associated Press",
-            "title": "In the aftermath of the Moscow concert hall attack, is a harsher era under Putin in the works?",
-            "description": "Video and photos of suspects in a mass shooting show them apparently being brutalized by Russian security forces \u2014 without any rebuke from authorities.",
-            "url": "https://apnews.com/a59085c6fe690ea55d43d132ea628eb2",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5785d560a19f44dd984a4d1ae163b4e2/3000.jpeg",
-            "publishedAt": "2024-04-04T05:16:34Z",
-            "content": "Video and photos of suspects in a mass shooting show them apparently being brutalized by Russian security forces \u2014 without any rebuke from authorities. A top Kremlin official urges that hit squads be\u2026 [+7594 chars]"
+            "author": "ALI SWENSON, MELISSA GOLDIN",
+            "title": "Anonymous users dominating right-wing discussions online. They also spread false info...",
+            "description": "As the presidential election draws nearer, the spread of bogus information online is getting a huge boost from social media accounts that have been created anonymously. A post this past week about a surge in new voters registering without photo ID is the late\u2026",
+            "url": "https://apnews.com/article/misinformation-anonymous-accounts-social-media-2024-election-8a6b0f8d727734200902d96a59b84bf7",
+            "urlToImage": "https://dims.apnews.com/dims4/default/01b4491/2147483647/strip/true/crop/7218x4060+0+376/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2Fbe%2F7d85e7caa6b4ead10121b277648b%2F21f71a3a802d421595d980866ebda28d",
+            "publishedAt": "2024-04-06T16:28:36Z",
+            "content": "NEW YORK (AP) The reposts and expressions of shock from public figures followed quickly after a user on the social platform X who uses a pseudonym claimed that a government website had revealed skyro\u2026 [+9037 chars]"
         }
     ]
 }

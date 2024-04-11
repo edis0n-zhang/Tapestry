@@ -1,71 +1,32 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 5858,
     "articles": [
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Will Steakin",
-            "title": "Gaetz's deposition in civil defamation case moved to June: Sources",
-            "description": "Gaetz is not a party to the suit, which was brought by a longtime friend.",
-            "url": "https://abcnews.go.com/US/gaetzs-deposition-civil-defamation-case-moved-june-sources/story?id=108853568",
-            "urlToImage": "https://i.abcnewsfe.com/a/150428e4-69a6-406a-a906-a3291765ccb9/Matt-Gaetz-gty-gmh-240404_1712244721359_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T18:48:40Z",
-            "content": "Rep. Matt Gaetz's deposition in a civil defamation case brought by a longtime friend has been moved to June after initially being set for April 5, multiple sources told ABC News.\r\nGaetz was subpoenae\u2026 [+769 chars]"
+            "author": "KIMBERLEE KRUESI Associated Press",
+            "title": "Tennessee Senate advances bill to allow death penalty for child rape",
+            "description": "Tennessee\u2019s GOP-controlled Senate has advanced legislation allowing the death penalty in child rape convictions",
+            "url": "https://abcnews.go.com/Politics/wireStory/tennessee-senate-advances-bill-death-penalty-child-rape-109057163",
+            "urlToImage": "https://i.abcnewsfe.com/a/b5a51a53-5d2f-45f9-b43f-e0606be028c6/wirestory_a37909e303411daa1137dac02de2aa66_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T23:50:32Z",
+            "content": "NASHVILLE, Tenn. -- Tennessee's GOP-controlled Senate advanced legislation on Tuesday allowing the death penalty in child rape convictions as critics raised concerns that the U.S. Supreme Court has b\u2026 [+2868 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Dhanika Pineda",
-            "title": "King family visits Memphis on 56th anniversary of MLK Jr.'s assassination",
-            "description": "The visit is a reminder of Dr. King\u2019s fight for peace, justice and equity.",
-            "url": "https://abcnews.go.com/US/king-family-visits-memphis-56th-anniversary-mlk-jrs/story?id=108851473",
-            "urlToImage": "https://i.abcnewsfe.com/a/7e952622-f532-4a1d-afc9-5da3b373c0a4/MLKIII-file-gty-ml-240404_1712244152049_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T18:34:34Z",
-            "content": "Martin Luther King III, his wife Arndrea Waters King and their daughter, Yolanda Renee King, made a rare visit to Memphis, Tennessee, on Thursday to mark the 56th anniversary of Dr. Martin Luther Kin\u2026 [+2659 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Aaron Katersky",
-            "title": "Brooklyn prosecutors target 'pig butchering' crypto scam that cost victims millions",
-            "description": "It's a lucrative scam with victims in multiple states, authorities warn.",
-            "url": "https://abcnews.go.com/US/brooklyn-prosecutors-target-pig-butchering-crypto-scam-cost/story?id=108851385",
-            "urlToImage": "https://i.abcnewsfe.com/a/641b8523-bf65-4738-9329-9389a625ef65/Gonzalez-gty-er-240404_1712246863711_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T16:37:00Z",
-            "content": "Prosecutors in Brooklyn seized nearly two dozen web domains associated with a scheme known as \"pig butchering,\" in which scammers strike online conversations with unsuspecting victims, gain their tru\u2026 [+3654 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Joyce Huang, Karson Yiu, Kevin Shalvey",
-            "title": "Taiwan earthquake death toll climbs to 10, with hundreds still stranded",
-            "description": "More than 700 people are trapped, Taiwanese officials said.",
-            "url": "https://abcnews.go.com/International/taiwan-earthquake-death-toll-climbs-10-38-people/story?id=108836898",
-            "urlToImage": "https://i.abcnewsfe.com/a/a9267988-0a85-4d14-bd53-1d144892bd4b/taiwan-quake_1712222061716_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T15:03:00Z",
-            "content": "The death toll from Wednesday's powerful 7.4 magnitude earthquake in Taiwan climbed to 10 people on Thursday, with hundreds more stranded or trapped, Taiwanese officials said.\r\nAt least 11 people wer\u2026 [+1550 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Leah Sarnoff",
-            "title": "Why April's total solar eclipse will be a historic event in the US",
-            "description": "The next total solar eclipse in the contiguous U.S. won't be until August 2044.",
-            "url": "https://abcnews.go.com/US/aprils-total-solar-eclipse-historic-event-us/story?id=107977119",
-            "urlToImage": "https://i.abcnewsfe.com/a/5e72619b-c1b8-4ade-95b9-8680d152034d/annular-eclipse-1-gty-gmh-231002_1696279875713_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T14:23:00Z",
-            "content": "\"Eclipse Across America,\" will air live Monday, April 8, beginning at 2 p.m. ET on ABC, ABC News Live, National Geographic Channel, Nat Geo WILD, Disney+ and Hulu as well as network social media plat\u2026 [+4121 chars]"
+            "author": "KIMBERLEE KRUESI Associated Press",
+            "title": "Tennessee Senate advances bill to allow death penalty for child rape",
+            "description": "Tennessee\u2019s GOP-controlled Senate has advanced legislation allowing the death penalty in child rape convictions",
+            "url": "https://abcnews.go.com/US/wireStory/tennessee-senate-advances-bill-death-penalty-child-rape-109057160",
+            "urlToImage": "https://i.abcnewsfe.com/a/b5a51a53-5d2f-45f9-b43f-e0606be028c6/wirestory_a37909e303411daa1137dac02de2aa66_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T23:34:28Z",
+            "content": "NASHVILLE, Tenn. -- Tennessee's GOP-controlled Senate advanced legislation on Tuesday allowing the death penalty in child rape convictions as critics raised concerns that the U.S. Supreme Court has b\u2026 [+2868 chars]"
         },
         {
             "source": {
@@ -73,64 +34,623 @@
                 "name": "ABC News"
             },
             "author": "The Associated Press",
-            "title": "Stretch of scenic California Highway 1 that collapsed is closed again amid storms",
-            "description": "As more storms approach California, officials have closed a scenic stretch of iconic Highway 1 where a giant section collapsed into the ocean",
-            "url": "https://abcnews.go.com/US/wireStory/storms-approach-california-stretch-scenic-highway-1-collapsed-108848246",
-            "urlToImage": "https://i.abcnewsfe.com/a/feae1156-15af-4f2f-a8fd-caa7d20bb0cf/wirestory_cb11966133915abb4774c83ba6ba0ea1_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T13:45:38Z",
-            "content": "BIG SUR, Calif. -- As more storms approach California, officials have closed a scenic stretch of iconic Highway 1 where a giant section collapsed into the ocean following heavy weekend rains.\r\nThe Mo\u2026 [+1176 chars]"
+            "title": "Missouri man executed for killing his cousin and her husband in attack that left couple\u2019s 4-year-old girl home alone",
+            "description": "Missouri man executed for killing his cousin and her husband in attack that left couple\u2019s 4-year-old girl home alone",
+            "url": "https://abcnews.go.com/US/wireStory/missouri-man-executed-killing-cousin-husband-attack-left-109057014",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T23:34:00Z",
+            "content": "Missouri man executed for killing his cousin and her husband in attack that left couples 4-year-old girl home alone\r\nBONNE TERRE, Mo. -- Missouri man executed for killing his cousin and her husband i\u2026 [+53 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Kevin Shalvey, Meredith Deliso",
-            "title": "'Foul play' suspected in case of missing moms in Oklahoma, police say",
-            "description": "\"They never made it to the pickup location,\" a law enforcement advisory said.",
-            "url": "https://abcnews.go.com/US/foul-play-suspected-case-missing-moms-oklahoma-police/story?id=108841558",
-            "urlToImage": "https://i.abcnewsfe.com/a/6e9b217e-78df-4b36-99f7-554e6929c57c/missing2-ht-ml-240401_1711972546708_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T13:03:00Z",
-            "content": "Two missing mothers in Oklahoma appear to be victims of \"foul play,\" according to authorities, who are investigating why the women never appeared to pick up children as planned.\r\nThe Oklahoma State B\u2026 [+1620 chars]"
+            "author": "Aaron Katersky",
+            "title": "NYC Mayor Eric Adams' attorney asks court to dismiss sexual assault case",
+            "description": "The woman claims Adams exposed himself to her in 1993 after she sought his help with an employment issue. The mayor has denied the allegation.",
+            "url": "https://abcnews.go.com/US/nyc-mayor-eric-adams-attorney-asks-court-dismiss/story?id=109052458",
+            "urlToImage": "https://i.abcnewsfe.com/a/d8d5433d-353d-4adb-93ba-44406444cffd/eric-adams-1-gty-dp-040924_1712695228942_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T23:22:22Z",
+            "content": "The sexual assault lawsuit against New York Mayor Eric Adams is \"entirely fictitious\" and should be dismissed, his defense attorney Alex Spiro wrote in a new court filing.\r\nSpiro is assisting the cit\u2026 [+1448 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Aaron Katersky, Josh Margolin, Hannah Prince, Mark Nichols, Jenny Wagnon Courts, Ivan Pereira, Samira Said",
-            "title": "Rise in mass transit crime has LA officials searching for solutions",
-            "description": "Crimes reported on LA's MTA properties increased by 65% since 2020, data shows.",
-            "url": "https://abcnews.go.com/US/rise-mass-transit-crime-la-officials-searching-solutions/story?id=108745419",
-            "urlToImage": "https://i.abcnewsfe.com/a/aa5de820-a8e7-4700-aeb4-21362e6da341/la-metro_1-gty-dp-230403_1712160226521_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T12:08:08Z",
-            "content": "Los Angeles, like other major cities, has seen a surge in crime committed on buses, trains and stations' transit hubs, according to statistics compiled by ABC News, and now transit officials are work\u2026 [+3908 chars]"
+            "author": "MICHAEL R. BLOOD AP political writer",
+            "title": "California court affirms Kevin McCarthy protege's dual candidacies on state ballot",
+            "description": "In a decision that could leave voters doing a double take, a California appeals court ruled that a state legislator can appear as a candidate in two races on the November ballot",
+            "url": "https://abcnews.go.com/US/wireStory/california-court-affirms-kevin-mccarthy-proteges-dual-candidacies-109056767",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T23:18:07Z",
+            "content": "LOS ANGELES -- In a decision that could leave voters doing a double take, a California court ruled Tuesday that a state legislator can appear as a candidate in two races on the November ballot one fo\u2026 [+2304 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Leah Sarnoff",
-            "title": "Elderly American tourist killed in elephant attack while on safari in Zambia",
-            "description": "The tourist died after the attack at Kafue National Park.",
-            "url": "https://abcnews.go.com/US/elephant-attack-safari-kills-80-year-american-tourist/story?id=108800514",
-            "urlToImage": "https://i.abcnewsfe.com/a/99bd3231-f8a6-4df3-9701-beb3ab911590/Zambia-elephant-1-gty-jm-240403_1712159374784_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-04T01:47:00Z",
-            "content": "An elderly American tourist was killed after an \"aggressive\" bull elephant attacked a vehicle during a game drive in Zambia, the safari operator said.\r\nThe incident took place Saturday morning at Kaf\u2026 [+2405 chars]"
+            "author": "MICHAEL R. BLOOD AP political writer",
+            "title": "California court affirms Kevin McCarthy protege's dual candidacies on state ballot",
+            "description": "In a decision that could leave voters doing a double take, a California appeals court ruled that a state legislator can appear as a candidate in two races on the November ballot",
+            "url": "https://abcnews.go.com/Politics/wireStory/california-court-affirms-kevin-mccarthy-proteges-dual-candidacies-109056768",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T23:10:09Z",
+            "content": "LOS ANGELES -- In a decision that could leave voters doing a double take, a California court ruled Tuesday that a state legislator can appear as a candidate in two races on the November ballot one fo\u2026 [+2304 chars]"
         },
         {
             "source": {
                 "id": "abc-news",
                 "name": "ABC News"
             },
-            "author": "Meredith Deliso",
-            "title": "Powerball jackpot climbs to $1.09 billion ahead of Wednesday night's drawing",
-            "description": "There have been 39 consecutive drawings without a jackpot winner.",
-            "url": "https://abcnews.go.com/US/powerball-jackpot-billion-dollar-drawing-wednesday/story?id=108803098",
-            "urlToImage": "https://i.abcnewsfe.com/a/5b6dd832-3b5b-4f23-8f96-1ffadb4e35c7/powerball-1-ap-er-240403_1712158759832_hpMain_16x9.jpg?w=1600",
-            "publishedAt": "2024-04-03T17:51:00Z",
-            "content": "The Powerball jackpot in Wednesday night's drawing is one of the largest in the game's history.\r\nThe jackpot is an estimated $1.09 billion -- which would make it the fourth-largest in Powerball histo\u2026 [+1086 chars]"
+            "author": "ANTHONY IZAGUIRRE Associated Press",
+            "title": "New York City to end its relationship with embattled migrant services contractor",
+            "description": "New York City will end its relationship with a medical services company tasked with housing and caring for an influx of international migrants, following scrutiny over the company\u2019s lucrative deal with the city and the quality of its humanitarian services",
+            "url": "https://abcnews.go.com/US/wireStory/new-york-city-end-relationship-embattled-migrant-services-109056401",
+            "urlToImage": "https://i.abcnewsfe.com/a/0f6b1048-da93-4072-b43b-7717463e1097/wirestory_048c1cb735d881ef9fecb0c2ed1aad77_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:46:30Z",
+            "content": "ALBANY, N.Y. -- New York City will end its relationship with a medical services company tasked with housing and caring for a recent influx of international migrants, following scrutiny over the compa\u2026 [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "STEFANIE DAZIO Associated Press",
+            "title": "Woman blamed in murder-suicide that left a man and a baby dead in Los Angeles",
+            "description": "Authorities in Southern California say an infant girl and her sister who were found on a busy Los Angeles-area freeway were thrown from a moving SUV and investigators believe their mother was responsible",
+            "url": "https://abcnews.go.com/US/wireStory/woman-blamed-murder-suicide-left-man-baby-dead-109056518",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T22:46:03Z",
+            "content": "LOS ANGELES -- An infant girl and her 9-year-old sister who were found on a busy Los Angeles-area freeway were thrown from a moving SUV, and investigators believe their mother was responsible and die\u2026 [+1475 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JULIE CARR SMYTH Associated Press, SAMANTHA HENDRICKSON /REPORT FOR AMERICA Associated Press",
+            "title": "Former Ohio utility regulator who was charged in sweeping bribery scheme dies by suicide",
+            "description": "A former top utility regulator awaiting trial on charges he took millions in bribes in conjunction with the largest corruption scandal in Ohio history has died by suicide",
+            "url": "https://abcnews.go.com/US/wireStory/former-ohio-utility-regulator-charged-sweeping-bribery-scheme-109056310",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T22:45:53Z",
+            "content": "COLUMBUS, Ohio -- A former top utility regulator awaiting trial on charges he took millions in bribes in conjunction with the largest corruption scandal in Ohio's history died by suicide on Tuesday, \u2026 [+1265 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANTHONY IZAGUIRRE Associated Press",
+            "title": "New York City to end its relationship with embattled migrant services contractor",
+            "description": "New York City will end its relationship with a medical services company tasked with housing and caring for an influx of international migrants, following scrutiny over the company\u2019s lucrative deal with the city and the quality of its humanitarian services",
+            "url": "https://abcnews.go.com/Politics/wireStory/new-york-city-end-relationship-embattled-migrant-services-109056402",
+            "urlToImage": "https://i.abcnewsfe.com/a/0f6b1048-da93-4072-b43b-7717463e1097/wirestory_048c1cb735d881ef9fecb0c2ed1aad77_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:38:53Z",
+            "content": "ALBANY, N.Y. -- New York City will end its relationship with a medical services company tasked with housing and caring for a recent influx of international migrants, following scrutiny over the compa\u2026 [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Sen. Bob Menendez's wife cites need for surgery in request to delay her trial",
+            "description": "The wife of New Jersey Sen. Bob Menendez is seeking a delay to her criminal trial next month, saying a newly diagnosed and serious medical condition requires surgery within six weeks",
+            "url": "https://abcnews.go.com/Politics/wireStory/sen-bob-menendezs-wife-cites-surgery-request-delay-109056104",
+            "urlToImage": "https://i.abcnewsfe.com/a/496c6b37-2b3a-4098-92bb-87a0a53cc5bc/wirestory_f24efdbf35b72803274cd2a3d5689e51_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:30:34Z",
+            "content": "NEW YORK -- The wife of New Jersey Sen. Bob Menendez is seeking a delay to her criminal trial next month, saying a newly diagnosed and serious medical condition requires a surgical procedure within s\u2026 [+977 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Sen. Bob Menendez's wife cites need for surgery in request to delay her trial",
+            "description": "The wife of New Jersey Sen. Bob Menendez is seeking a delay to her criminal trial next month, saying a newly diagnosed and serious medical condition requires surgery within six weeks",
+            "url": "https://abcnews.go.com/US/wireStory/sen-bob-menendezs-wife-cites-surgery-request-delay-109056103",
+            "urlToImage": "https://i.abcnewsfe.com/a/496c6b37-2b3a-4098-92bb-87a0a53cc5bc/wirestory_f24efdbf35b72803274cd2a3d5689e51_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:30:30Z",
+            "content": "NEW YORK -- The wife of New Jersey Sen. Bob Menendez is seeking a delay to her criminal trial next month, saying a newly diagnosed and serious medical condition requires a surgical procedure within s\u2026 [+977 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "2 Mississippi businessmen found not guilty in pandemic relief fraud trial",
+            "description": "Two Mississippi businessmen have been cleared of all charges in a case where they were accused of fraudulently receiving more than $2 million in COVID-19 pandemic relief",
+            "url": "https://abcnews.go.com/US/wireStory/2-mississippi-businessmen-found-guilty-pandemic-relief-fraud-109055925",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T22:30:03Z",
+            "content": "COLUMBUS, Miss. -- Two Mississippi businessmen, one of whom served on the governors economic recovery advisory commission, have been cleared of all charges in a case where they were accused of fraudu\u2026 [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MEAD GRUVER Associated Press",
+            "title": "Two days after $1.3 billion Powerball drawing, the winning Oregon ticket holder remains unknown",
+            "description": "Oregon lottery officials say the winner of the eighth-biggest lottery prize in U.S. history won\u2019t be announced for at least a couple more weeks while the win is verified and arrangements for the massive payment are made",
+            "url": "https://abcnews.go.com/US/wireStory/days-after-13-billion-powerball-drawing-winning-oregon-109056102",
+            "urlToImage": "https://i.abcnewsfe.com/a/734f4e21-aeb9-4406-b7ff-5c287ee3ca61/wirestory_90a90611da0c7d57e332a652eea41a00_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:22:51Z",
+            "content": "The winner of the eighth-biggest lottery prize in U.S. history won't be announced for at least a couple more weeks until their ticket is verified and arrangements for the massive payment are made, Or\u2026 [+1580 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW DEMILLO Associated Press",
+            "title": "Audit on Arkansas governor's $19,000 lectern to be released within next 10 days, lawmaker says",
+            "description": "A top lawmaker says he expects the audit report on the $19,000 lectern purchased for Gov. Sarah Huckabee Sanders will be released in the next 10 days",
+            "url": "https://abcnews.go.com/Politics/wireStory/audit-arkansas-governors-19000-lectern-released-10-days-109055729",
+            "urlToImage": "https://i.abcnewsfe.com/a/4f00a55b-8397-4883-afeb-789636836a33/wirestory_68e3a8d1fc9e0f74907f183ba58c9ae7_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:14:35Z",
+            "content": "LITTLE ROCK, Ark. -- The co-chairman of a legislative committee that ordered the audit of a $19,000 lectern bought for Arkansas Gov. Sarah Huckabee Sanders said Tuesday he expects the report on the p\u2026 [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ANDREW DEMILLO Associated Press",
+            "title": "Audit on Arkansas governor's $19,000 lectern to be released within next 10 days, lawmaker says",
+            "description": "A top lawmaker says he expects the audit report on the $19,000 lectern purchased for Gov. Sarah Huckabee Sanders will be released in the next 10 days",
+            "url": "https://abcnews.go.com/US/wireStory/audit-arkansas-governors-19000-lectern-released-10-days-109055728",
+            "urlToImage": "https://i.abcnewsfe.com/a/4f00a55b-8397-4883-afeb-789636836a33/wirestory_68e3a8d1fc9e0f74907f183ba58c9ae7_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:14:31Z",
+            "content": "LITTLE ROCK, Ark. -- The co-chairman of a legislative committee that ordered the audit of a $19,000 lectern bought for Arkansas Gov. Sarah Huckabee Sanders said Tuesday he expects the report on the p\u2026 [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLIN BINKLEY AP education writer",
+            "title": "More Republican states sue to block Biden\u2019s student loan repayment plan",
+            "description": "Another group of Republican-led states is suing to block the Biden administration\u2019s new student loan repayment plan, which offers a faster path to cancellation and has been used to forgive loans for more than 150,000 borrowers",
+            "url": "https://abcnews.go.com/US/wireStory/republican-states-sue-block-bidens-student-loan-repayment-109055727",
+            "urlToImage": "https://i.abcnewsfe.com/a/bd286871-0747-4c3d-b7e8-4c2de420609e/wirestory_f94b9706bd395b32e44d4d1b3f6ff051_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T22:14:29Z",
+            "content": "WASHINGTON -- Another group of Republican-led states is suing to block the Biden administrations new student loan repayment plan, which offers a faster path to cancellation and has already been used \u2026 [+5044 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Warning light prompts Boeing 737 to make emergency landing in Idaho",
+            "description": "Officials say an Air Canada Boeing 737 flight headed from Mexico City to Vancouver, Canada, had an in-flight emergency and made an unscheduled landing at Boise, Idaho, airport",
+            "url": "https://abcnews.go.com/US/wireStory/warning-light-prompts-boeing-737-make-emergency-landing-109055444",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T22:06:08Z",
+            "content": "BOISE, Idaho. -- An Air Canada Boeing 737 Max 8 landed safely in Idaho after experiencing an in-flight emergency Tuesday when pilots received a warning light in the flight deck, airline and airport o\u2026 [+1517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE REEDY AP sports writer",
+            "title": "Women's NCAA title game outdraws the men's championship with an average of 18.9 million viewers",
+            "description": "South Carolina\u2019s 87-75 victory over Caitlin Clark and Iowa in the women\u2019s NCAA championship game averaged 18.9 million viewers on ABC and ESPN, making it the second most-watched non-Olympic women\u2019s sporting event on U.S. television",
+            "url": "https://abcnews.go.com/Business/wireStory/womens-ncaa-title-game-outdraws-mens-championship-average-109055534",
+            "urlToImage": "https://i.abcnewsfe.com/a/3797dcd4-7114-4dc2-a2a7-c211285dbcce/wirestory_b592435cc286c75a7ac9278c97326ad8_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:58:29Z",
+            "content": "South Carolinas 87-75 victory over Caitlin Clark and Iowa in the womens NCAA championship game has achieved a pair of milestones.\r\nIt is the first time the women's title game outdrew the men. It also\u2026 [+5531 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Warning light prompts Boeing 737 to make emergency landing in Idaho",
+            "description": "Officials say an Air Canada Boeing 737 flight headed from Mexico City to Vancouver, Canada, had an in-flight emergency and made an unscheduled landing at Boise, Idaho, airport",
+            "url": "https://abcnews.go.com/Business/wireStory/warning-light-prompts-boeing-737-make-emergency-landing-109055445",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:58:07Z",
+            "content": "BOISE, Idaho. -- An Air Canada Boeing 737 Max 8 landed safely in Idaho after experiencing an in-flight emergency Tuesday when pilots received a warning light in the flight deck, airline and airport o\u2026 [+1517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BROOKE LEFFERTS Associated Press",
+            "title": "The Jon Snow sequel to 'Game of Thrones' isn't happening, Kit Harington says",
+            "description": "Winter is, apparently, not coming back, as Kit Harington shut down talk of a Jon Snow sequel to HBO\u2019s massive hit \u201cGame of Thrones.\u201d",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/jon-snow-sequel-game-thrones-happening-kit-harington-109055345",
+            "urlToImage": "https://i.abcnewsfe.com/a/c7cc3ccd-be52-46f4-a45f-c9fe8e6715c7/wirestory_4bc47ca40e8d3ecd0fc8414c8a49f367_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:50:28Z",
+            "content": "NEW YORK -- Winter, apparently, is not coming back. Kit Harington has shut down talk of a Jon Snow sequel to HBOs massive hit Game of Thrones.\r\nThere are no plans for it at the moment. Its off the ta\u2026 [+1695 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JUAN A. LOZANO Associated Press",
+            "title": "Texas Attorney General sues to stop guaranteed income program for Houston-area residents",
+            "description": "Texas\u2019 attorney general has filed a lawsuit seeking to stop a guaranteed income program set to start this month for Houston-area residents",
+            "url": "https://abcnews.go.com/Politics/wireStory/texas-attorney-general-sues-stop-guaranteed-income-program-109055410",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:50:09Z",
+            "content": "HOUSTON -- Texas attorney general filed a lawsuit on Tuesday seeking to stop a guaranteed income program set to start this month for Houston-area residents.\r\nThe program by Harris County, where Houst\u2026 [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JUAN A. LOZANO Associated Press",
+            "title": "Texas Attorney General sues to stop guaranteed income program for Houston-area residents",
+            "description": "Texas\u2019 attorney general has filed a lawsuit seeking to stop a guaranteed income program set to start this month for Houston-area residents",
+            "url": "https://abcnews.go.com/US/wireStory/texas-attorney-general-sues-stop-guaranteed-income-program-109055349",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:50:03Z",
+            "content": "HOUSTON -- Texas attorney general filed a lawsuit on Tuesday seeking to stop a guaranteed income program set to start this month for Houston-area residents.\r\nThe program by Harris County, where Houst\u2026 [+2983 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSH FUNK Associated Press",
+            "title": "Warren Buffett has left the table. Homeless charity asks investors to bid on meal with software CEO",
+            "description": "The California homeless charity that received $53 million over the years from investors who wanted a private lunch with billionaire Warren Buffett has found a new business executive to auction off a meal with",
+            "url": "https://abcnews.go.com/Business/wireStory/warren-buffett-left-table-homeless-charity-asks-investors-109054618",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:34:08Z",
+            "content": "The California homeless charity that received $53 million over the years from investors who wanted a private lunch with billionaire Warren Buffett has found a new business executive to auction off a \u2026 [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOSH FUNK Associated Press",
+            "title": "Warren Buffett has left the table. Homeless charity asks investors to bid on meal with software CEO",
+            "description": "The California homeless charity that received $53 million over the years from investors who wanted a private lunch with billionaire Warren Buffett has found a new business executive to auction off a meal with",
+            "url": "https://abcnews.go.com/US/wireStory/warren-buffett-left-table-homeless-charity-asks-investors-109054593",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:34:03Z",
+            "content": "The California homeless charity that received $53 million over the years from investors who wanted a private lunch with billionaire Warren Buffett has found a new business executive to auction off a \u2026 [+2840 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SOPHIE AUSTIN /REPORT FOR AMERICA Associated Press",
+            "title": "Court upholds California's authority to set nation-leading vehicle emission rules",
+            "description": "A federal appeals court has upheld California's authority to set its own nation-leading vehicle emission standards that are the strictest in the country",
+            "url": "https://abcnews.go.com/Business/wireStory/court-upholds-californias-authority-set-nation-leading-vehicle-109054836",
+            "urlToImage": "https://i.abcnewsfe.com/a/4cab6c91-bc5a-4fdb-bb28-d9ae976baab5/wirestory_b649b3fe05a97876a51b55a52af7ea1e_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:26:54Z",
+            "content": "SACRAMENTO, Calif. -- California can continue to set its own nation-leading vehicle emissions standards, a federal court ruled Tuesday two years after the Biden administration restored the states aut\u2026 [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "SOPHIE AUSTIN /REPORT FOR AMERICA Associated Press",
+            "title": "Court upholds California's authority to set nation-leading vehicle emission rules",
+            "description": "A federal appeals court has upheld California's authority to set its own nation-leading vehicle emission standards that are the strictest in the country",
+            "url": "https://abcnews.go.com/US/wireStory/court-upholds-californias-authority-set-nation-leading-vehicle-109054832",
+            "urlToImage": "https://i.abcnewsfe.com/a/4cab6c91-bc5a-4fdb-bb28-d9ae976baab5/wirestory_b649b3fe05a97876a51b55a52af7ea1e_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:26:48Z",
+            "content": "SACRAMENTO, Calif. -- California can continue to set its own nation-leading vehicle emissions standards, a federal court ruled Tuesday two years after the Biden administration restored the states aut\u2026 [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "COLLEEN SLEVIN Associated Press",
+            "title": "A mother releases video of her autistic son being hit by an aide on a school bus to raise awareness",
+            "description": "The mother of an autistic boy shown being hit and punched by a school bus aide released a copy of bus surveillance video",
+            "url": "https://abcnews.go.com/US/wireStory/mother-releases-video-autistic-son-hit-aide-school-109054588",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:26:03Z",
+            "content": "DENVER -- In January, Jessica Vestals 10-year-old autistic son, who cannot speak, came home from school in suburban Denver with bruises all over his body. Other injuries followed, including a black e\u2026 [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JONATHAN MATTISE Associated Press, KIMBERLEE KRUESI Associated Press",
+            "title": "Tennessee Senate advances bill to arm teachers 1 year after deadly Nashville school shooting",
+            "description": "Republican lawmakers in Tennessee have cleared a significant hurdle toward permitting certain trained teachers and faculty who haven\u2019t worked in law enforcement carry handguns on school grounds",
+            "url": "https://abcnews.go.com/US/wireStory/tennessee-senate-advances-bill-arm-teachers-1-year-109054559",
+            "urlToImage": "https://i.abcnewsfe.com/a/43395db7-7683-43a5-9d55-0879d6391f2f/wirestory_78b5b8a226bd69d2019e380200f305d0_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:18:52Z",
+            "content": "NASHVILLE, Tenn. -- Republican lawmakers in Tennessee cleared a significant hurdle Tuesday on a proposal to permit some trained teachers and faculty who havent worked in law enforcement to carry hand\u2026 [+4008 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GRAHAM LEE BREWER Associated Press, HALELUYA HADERO Associated Press, SHAWN CHEN Associated Press",
+            "title": "Two tribal nations sue social media companies over Native youth suicides",
+            "description": "Two tribal nations are accusing social media companies of contributing to high rates of suicides that disproportionately affect Native American youth",
+            "url": "https://abcnews.go.com/Technology/wireStory/tribal-nations-sue-social-media-companies-native-youth-109054470",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:18:11Z",
+            "content": "Two tribal nations are accusing social media companies of contributing to the disproportionately high rates of suicide among Native American youth.\r\nTheir lawsuit filed Tuesday in Los Angeles county \u2026 [+6517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GRAHAM LEE BREWER Associated Press, HALELUYA HADERO Associated Press, SHAWN CHEN Associated Press",
+            "title": "Two tribal nations sue social media companies over Native youth suicides",
+            "description": "Two tribal nations are accusing social media companies of contributing to high rates of suicides that disproportionately affect Native American youth",
+            "url": "https://abcnews.go.com/Business/wireStory/tribal-nations-sue-social-media-companies-native-youth-109054467",
+            "urlToImage": "https://i.abcnewsfe.com/a/36e20823-4990-42c9-adb4-772829a9c747/wirestory_9e73288a29c748e7888129fc80404f6f_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:18:05Z",
+            "content": "Two tribal nations are accusing social media companies of contributing to the disproportionately high rates of suicide among Native American youth.\r\nTheir lawsuit filed Tuesday in Los Angeles county \u2026 [+6517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "GRAHAM LEE BREWER Associated Press, HALELUYA HADERO Associated Press, SHAWN CHEN Associated Press",
+            "title": "Two tribal nations sue social media companies over Native youth suicides",
+            "description": "Two tribal nations are accusing social media companies of contributing to high rates of suicides that disproportionately affect Native American youth",
+            "url": "https://abcnews.go.com/US/wireStory/tribal-nations-sue-social-media-companies-native-youth-109054458",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:17:59Z",
+            "content": "Two tribal nations are accusing social media companies of contributing to the disproportionately high rates of suicide among Native American youth.\r\nTheir lawsuit filed Tuesday in Los Angeles county \u2026 [+6517 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Luke Barr",
+            "title": "Foreign terrorists targeting US 'increasingly concerning': FBI director",
+            "description": "Foreign adversaries and terrorist groups are sharpening their aim at the United States, FBI Director Christopher Wray said in a speech on Tuesday.",
+            "url": "https://abcnews.go.com/Politics/foreign-terrorists-targeting-us-increasingly-fbi-director/story?id=109045112",
+            "urlToImage": "https://i.abcnewsfe.com/a/e9e030dc-e14b-4046-88aa-6e0fbe95f5fb/wray-gty-er-240409_1712684185726_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:08:57Z",
+            "content": "Foreign adversaries and terrorist groups are sharpening their aim at the United States -- targeting cyber operations, security and \"mafia-like\" tactics in an \"increasingly concerning\" way, FBI Direct\u2026 [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "A new version of Scrabble aims to make the word-building game more accessible",
+            "description": "Scrabble is getting a bit of a makeover, at least in Europe",
+            "url": "https://abcnews.go.com/Business/wireStory/new-version-scrabble-aims-make-word-building-game-109053950",
+            "urlToImage": "https://i.abcnewsfe.com/a/8b5d1499-6cbf-41ba-bdbc-079df035635c/wirestory_4ab602e8711ba3eda7b00994fb40580d_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:03:02Z",
+            "content": "NEW YORK -- Scrabble is getting a bit of a makeover, at least in Europe.\r\nMattel has unveiled a double-sided board that features both the classic word-building game and Scrabble Together, a new rendi\u2026 [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "A new version of Scrabble aims to make the word-building game more accessible",
+            "description": "Scrabble is getting a bit of a makeover, at least in Europe",
+            "url": "https://abcnews.go.com/US/wireStory/new-version-scrabble-aims-make-word-building-game-109053942",
+            "urlToImage": "https://i.abcnewsfe.com/a/8b5d1499-6cbf-41ba-bdbc-079df035635c/wirestory_4ab602e8711ba3eda7b00994fb40580d_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T21:02:45Z",
+            "content": "NEW YORK -- Scrabble is getting a bit of a makeover, at least in Europe.\r\nMattel has unveiled a double-sided board that features both the classic word-building game and Scrabble Together, a new rendi\u2026 [+2901 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "NCAA women's basketball championship outdraws the men on TV for the first time",
+            "description": "NCAA women's basketball championship outdraws the men on TV for the first time",
+            "url": "https://abcnews.go.com/US/wireStory/ncaa-womens-basketball-championship-outdraws-men-tv-time-109053623",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:02:05Z",
+            "content": "NCAA women's basketball championship outdraws the men on TV for the first time\r\nNEW YORK -- NCAA women's basketball championship outdraws the men on TV for the first time."
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Workers at Philadelphia sports stadium hit picket lines for one-day strike",
+            "description": "Hundreds of food service workers at the Wells Fargo Center in Philadelphia are staging a one-day strike as contract negotiations continue with the firm that operates concessions at the stadium",
+            "url": "https://abcnews.go.com/Business/wireStory/workers-philadelphia-sports-stadium-hit-picket-lines-day-109053527",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T21:02:00Z",
+            "content": "PHILADELPHIA -- Hundreds of food service workers at the Wells Fargo Center in Philadelphia were staging a one-day strike Tuesday as contract negotiations continued with the firm that operates concess\u2026 [+1511 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Yi-Jin Yu",
+            "title": "Mom gives celestial name to baby born during total solar eclipse",
+            "description": "A Texas mom welcomed a baby girl as a total solar eclipse unfolded on April 8, 2024, in Mansfield, Texas.",
+            "url": "https://abcnews.go.com/GMA/Family/mom-welcomes-baby-named-sol-total-solar-eclipse/story?id=109038075",
+            "urlToImage": "https://i.abcnewsfe.com/a/4aeba029-d29c-45ae-9a4c-63419a4cd30c/eclipse-baby-1-ht-bb-240409_1712678001009_hpMain_16x9.JPG?w=1600",
+            "publishedAt": "2024-04-09T20:55:55Z",
+            "content": "A Texas mother welcomed a baby girl during Monday's total solar eclipse and named her Sol, which means \"the sun\" in Spanish.\r\nAlicia Alvarez, 34, told \"Good Morning America\" she knew she wanted to ch\u2026 [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BRIAN WITTE Associated Press",
+            "title": "Third channel to open at Baltimore port as recovery from bridge collapse continues",
+            "description": "A Maryland senator says a third channel will open this month at Baltimore\u2019s port after the Francis Scott Key Bridge collapse two weeks ago",
+            "url": "https://abcnews.go.com/US/wireStory/channel-open-baltimore-port-recovery-bridge-collapse-continues-109052807",
+            "urlToImage": "https://i.abcnewsfe.com/a/5c300db1-ecd7-4c6d-8cde-f4ffdbb6c988/wirestory_2a7c63a3c2e3c72c0a102933d405efb4_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:54:34Z",
+            "content": "ANNAPOLIS, Md. -- A third channel will open this month at Baltimore's port after the Francis Scott Key Bridge collapse two weeks ago, and Maryland's congressional delegation will sponsor legislation \u2026 [+3837 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JAKE COYLE AP film writer",
+            "title": "Francis Ford Coppola's 'Megalopolis' to premiere at Cannes",
+            "description": "Nearly half a century after Francis Ford Coppola won the Cannes Film Festival\u2019s Palme d\u2019Or for \u201cApocalypse Now,\u201d he will return to the French Riviera festival to premiere his self-financed epic \u201cMegalopolis.\u201d",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/francis-ford-coppolas-megalopolis-premiere-cannes-109053280",
+            "urlToImage": "https://i.abcnewsfe.com/a/364c5ecb-b8ce-4dbe-812e-087a3a2162c1/wirestory_87050a6de8681b1a03b0b952240b863a_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:54:27Z",
+            "content": "NEW YORK -- Nearly half a century after Francis Ford Coppola won the Cannes Film Festival's Palme d'Or, he will return to the French Riviera festival to premiere his self-financed epic Megalopolis.\r\n\u2026 [+1947 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "JOE REEDY AP sports writer",
+            "title": "What are the next steps for women's college basketball after title game drew 18.9 million?",
+            "description": "South Carolina\u2019s 87-75 victory over Caitlin Clark and Iowa in the women\u2019s NCAA championship game averaged 18.9 million viewers on ABC and ESPN, making it the second most-watched non-Olympic women\u2019s sporting event on U.S. television",
+            "url": "https://abcnews.go.com/Entertainment/wireStory/steps-womens-college-basketball-after-title-game-drew-109053283",
+            "urlToImage": "https://i.abcnewsfe.com/a/3797dcd4-7114-4dc2-a2a7-c211285dbcce/wirestory_b592435cc286c75a7ac9278c97326ad8_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:54:23Z",
+            "content": "South Carolinas 87-75 victory over Caitlin Clark and Iowa in the womens NCAA championship game averaged 18.9 million viewers on ABC and ESPN, making it the second most-watched non-Olympic womens spor\u2026 [+4297 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Speaker Johnson will delay sending Mayorkas impeachment to Senate as Republicans push to hold trial",
+            "description": "Speaker Mike Johnson will not send the House\u2019s articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate this week as planned",
+            "url": "https://abcnews.go.com/US/wireStory/speaker-johnson-delay-sending-mayorkas-impeachment-senate-republicans-109052397",
+            "urlToImage": "https://i.abcnewsfe.com/a/a7e744ed-093a-4daf-8868-c54388d3a48c/wirestory_534cbf59e92c9cf141bba1ff38dc01cf_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:46:39Z",
+            "content": "WASHINGTON -- Speaker Mike Johnson will delay sending the House's articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate this week as planned, after Republican s\u2026 [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "BRIAN WITTE Associated Press",
+            "title": "Third channel to open at Baltimore port as recovery from bridge collapse continues",
+            "description": "A Maryland senator says a third channel will open this month at Baltimore\u2019s port after the Francis Scott Key Bridge collapse two weeks ago",
+            "url": "https://abcnews.go.com/Business/wireStory/channel-open-baltimore-port-recovery-bridge-collapse-continues-109052809",
+            "urlToImage": "https://i.abcnewsfe.com/a/5c300db1-ecd7-4c6d-8cde-f4ffdbb6c988/wirestory_2a7c63a3c2e3c72c0a102933d405efb4_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:46:38Z",
+            "content": "ANNAPOLIS, Md. -- A third channel will open this month at Baltimore's port after the Francis Scott Key Bridge collapse two weeks ago, and Maryland's congressional delegation will sponsor legislation \u2026 [+3837 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW PERRONE AP health writer",
+            "title": "Company that made millions of defective sleep apnea machines ordered to overhaul manufacturing",
+            "description": "The company responsible for a global recall of sleep apnea machines is now legally barred from resuming production at U.S. facilities until it meets a number of safety requirements",
+            "url": "https://abcnews.go.com/Business/wireStory/company-made-millions-defective-sleep-apnea-machines-ordered-109052806",
+            "urlToImage": "https://i.abcnewsfe.com/a/6736105a-0d4a-4b88-9e45-4a73085d9233/wirestory_229c8959b4ccbda015b1fad42f7477af_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:46:36Z",
+            "content": "WASHINGTON -- The company responsible for a global recall of sleep apnea machines will be barred from resuming production at U.S. facilities until it meets a number of safety requirements, under a lo\u2026 [+4284 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MATTHEW PERRONE AP health writer",
+            "title": "Company that made millions of defective sleep apnea machines ordered to overhaul manufacturing",
+            "description": "The company responsible for a global recall of sleep apnea machines is now legally barred from resuming production at U.S. facilities until it meets a number of safety requirements",
+            "url": "https://abcnews.go.com/Health/wireStory/company-made-millions-defective-sleep-apnea-machines-ordered-109052781",
+            "urlToImage": "https://i.abcnewsfe.com/a/6736105a-0d4a-4b88-9e45-4a73085d9233/wirestory_229c8959b4ccbda015b1fad42f7477af_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:46:31Z",
+            "content": "WASHINGTON -- The company responsible for a global recall of sleep apnea machines will be barred from resuming production at U.S. facilities until it meets a number of safety requirements, under a lo\u2026 [+4284 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Speaker Johnson will delay sending Mayorkas impeachment to Senate as Republicans push to hold trial",
+            "description": "Speaker Mike Johnson will not send the House\u2019s articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate this week as planned",
+            "url": "https://abcnews.go.com/Politics/wireStory/speaker-johnson-delay-sending-mayorkas-impeachment-senate-republicans-109052398",
+            "urlToImage": "https://i.abcnewsfe.com/a/a7e744ed-093a-4daf-8868-c54388d3a48c/wirestory_534cbf59e92c9cf141bba1ff38dc01cf_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:30:47Z",
+            "content": "WASHINGTON -- Speaker Mike Johnson will delay sending the House's articles of impeachment against Homeland Security Secretary Alejandro Mayorkas to the Senate this week as planned, after Republican s\u2026 [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US Postal Service seeking to hike cost of first-class stamp to 73 cents",
+            "description": "The U.S. Postal Service is planning a rate increase that would raise the price of a first-class stamp from 68 cents to 73 cents",
+            "url": "https://abcnews.go.com/Business/wireStory/us-postal-service-seeking-hike-cost-class-stamp-109052193",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T20:30:08Z",
+            "content": "WASHINGTON -- The U.S. Postal Service signaled plans Tuesday for a rate increase that includes hiking the cost of a first-class stamp from 68 cents to 73 cents, part of an overall 7.8% increase to ta\u2026 [+912 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "US Postal Service seeking to hike cost of first-class stamp to 73 cents",
+            "description": "The U.S. Postal Service is planning a rate increase that would raise the price of a first-class stamp from 68 cents to 73 cents",
+            "url": "https://abcnews.go.com/US/wireStory/us-postal-service-seeking-hike-cost-class-stamp-109052130",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T20:30:03Z",
+            "content": "WASHINGTON -- The U.S. Postal Service signaled plans Tuesday for a rate increase that includes hiking the cost of a first-class stamp from 68 cents to 73 cents, part of an overall 7.8% increase to ta\u2026 [+912 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "How major US stock indexes fared Tuesday, 4/9/2024",
+            "description": "Stocks meandered to a mixed close on Wall Street as traders made their final moves before several potentially market-moving reports later in the week",
+            "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-tuesday-492024-109052131",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-04-09T20:22:06Z",
+            "content": "Stocks meandered to a mixed close on Wall Street as traders made their final moves before several potentially market-moving reports later in the week. \r\nThe S&amp;P 500 edged up 0.1% Tuesday. The Dow\u2026 [+1096 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Lauren Peller, Allison Pecorin",
+            "title": "Mayorkas' impeachment proceedings pushed to next week: Speaker Johnson",
+            "description": "House Speaker Mike Johnson's office said Tuesday that it will delay the transmission of articles of impeachment against DHS Secretary Alejandro Mayorkas.",
+            "url": "https://abcnews.go.com/Politics/delay-transmission-mayorkas-impeachment-articles-week-speaker-johnson/story?id=109051477",
+            "urlToImage": "https://i.abcnewsfe.com/a/0e63d840-ff6d-4c7f-a8a9-cd45832f01df/Mayorkas-ap-er-240409_1712693322493_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-04-09T20:16:35Z",
+            "content": "House Speaker Mike Johnson's office said Tuesday that it will delay the transmission of two articles of impeachment against Homeland Security Secretary Alejandro Mayorkas -- pushing the process' star\u2026 [+77 chars]"
         }
     ]
 }

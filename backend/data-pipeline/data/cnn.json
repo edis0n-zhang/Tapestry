@@ -1,58 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 10,
+    "totalResults": 3546,
     "articles": [
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Clare Duffy",
-            "title": "Elon Musk\u2019s X is back to giving out free blue checks. It\u2019s no surprise they were a tough sell",
-            "description": "It appears that Elon Musk has finally (mostly) given up on trying to make paid blue checks on X a thing.",
-            "url": "https://www.cnn.com/2024/04/04/tech/elon-musk-x-blue-check-subscription-business/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1750514200.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T20:35:49Z",
-            "content": "It appears that Elon Musk has finally (mostly) given up on trying to make paid blue checks on X a thing.\r\nThis week, X users with large followings were surprised to see that their blue checks which t\u2026 [+4937 chars]"
+            "author": "Alexandra Ferguson",
+            "title": "Exhuman los primeros cad\u00e1veres de las fosas comunes del hospital Al-Shifa tras el asedio israel\u00ed",
+            "description": "Trabajadores sanitarios del norte de Gaza exhumaron este martes los primeros cad\u00e1veres de las fosas comunes del hospital Al-Shifa y sus alrededores, despu\u00e9s de que las fuerzas israel\u00edes mataran a cientos de palestinos y dejaran sus cuerpos en descomposici\u00f3n d\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/exhuman-cadaveres-fosas-comunes-hospital-al-shifa-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/c-ap24092500238184.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T23:54:11Z",
+            "content": "Hospital Al-Shifa en ruinas tras operaciones israel\u00edes 4:40\r\n(CNN) -- Trabajadores sanitarios del norte de Gaza exhumaron este martes los primeros cad\u00e1veres de las fosas comunes del hospital Al-Shifa\u2026 [+9159 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Catherine E. Shoichet",
-            "title": "This American landmark is getting a $100 million makeover",
-            "description": "Ellis Island\u2019s museum is getting a 21st-century makeover, more than 100 years after millions of immigrants took their first steps in America there.",
-            "url": "https://www.cnn.com/2024/04/04/travel/ellis-island-museum-renovations-cec/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1244456382.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T16:35:19Z",
-            "content": "Ellis Islands museum is getting a 21st-century makeover, more than 100 years after millions of immigrants took their first steps in America there.\r\nA new $100-million project aims to revitalize the 1\u2026 [+5741 chars]"
+            "author": "Valeria Ord\u00f3\u00f1ez Ghio",
+            "title": "EE.UU. condena irrupci\u00f3n de Ecuador en embajada de M\u00e9xico, tras cr\u00edticas de AMLO",
+            "description": "El Gobierno de Estados Unidos conden\u00f3 este martes la irrupci\u00f3n de fuerzas de seguridad ecuatorianas el viernes en la embajada de M\u00e9xico en Quito, luego de que m\u00e1s temprano el presidente Andr\u00e9s Manuel L\u00f3pez Obrador critic\u00f3 en su conferencia de prensa que los g\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/ee-uu-condena-irrupcion-ecuador-embajada-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2133957552_6c00b4.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T23:31:20Z",
+            "content": "As\u00ed ingres\u00f3 la Polic\u00eda a la embajada de M\u00e9xico en Quito 1:59\r\n(CNN Espa\u00f1ol) --\u00a0El Gobierno de Estados Unidos conden\u00f3 este martes la irrupci\u00f3n de fuerzas de seguridad ecuatorianas el viernes en la emb\u2026 [+2996 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "",
-            "title": "\u2018It felt like I won gold\u2019: Man\u2019s subway sprint goes viral | CNN",
-            "description": "Two buddies take turns racing a NYC subway train. CNN\u2019s Jeanne Moos has the results.",
-            "url": "https://www.cnn.com/videos/entertainment/2024/04/04/outrun-the-subway-moos-cprog-orig-bdk.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240404101759-outrun-the-subway-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T16:14:22Z",
-            "content": null
+            "author": "Andrew Kaczynski",
+            "title": "RFK Jr. campaign official attended Jan. 6 \u2018Stop the Steal\u2019 rally and wanted \u2018favorite President\u2019 Trump to run for third term",
+            "description": "A New York-based campaign official for Robert F. Kennedy Jr. who raised the possibility that voting for the independent presidential candidate would help Donald Trump defeat President Joe Biden previously promoted false claims that the 2020 election was rigge\u2026",
+            "url": "https://www.cnn.com/2024/04/09/politics/rfk-jr-campaign-official-january-6-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24091081720287.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T23:21:42Z",
+            "content": "A New York-based campaign official for Robert F. Kennedy Jr. who raised the possibility that voting for the independent presidential candidate would help Donald Trump defeat President Joe Biden previ\u2026 [+5004 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jack Guy",
-            "title": "US tourist on safari in Zambia killed by charging elephant",
-            "description": "An 80-year-old American woman was killed in Zambia after an elephant charged at a vehicle carrying tourists in Kafue National Park.",
-            "url": "https://www.cnn.com/2024/04/04/africa/zambia-elephant-tourist-death-scli-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2wr9ffk-1.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T15:12:58Z",
-            "content": "An 80-year-old American woman was killed in Zambia after an elephant charged at a vehicle carrying tourists in Kafue National Park.\r\nAnother woman was injured and was taken to a medical facility in S\u2026 [+1658 chars]"
+            "author": "Bel\u00e9n Liotti",
+            "title": "Los 61 tatuajes de \u00d6tzi, el Hombre de Hielo, no se hicieron como los arque\u00f3logos cre\u00edan en un principio",
+            "description": "Si bien el an\u00e1lisis inicial del cuerpo de \u00d6tzi suger\u00eda que los tatuajes fueron cortes con una cuchilla y luego impregnados con pigmento negro, las \u00faltimas investigaciones proponen una teor\u00eda distinta.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/tatuajes-otzi-hombre-hielo-arqueologos-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/museo-2.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T23:04:20Z",
+            "content": "(CNN) -- \u00d6tzi, el hombre de hielo, encontrado en lo alto de los Alpes tiroleses en 1991, ten\u00eda la piel y los ojos oscuros y probablemente era calvo. Sus restos, notablemente bien conservados y congel\u2026 [+8724 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Bel\u00e9n Liotti",
+            "title": "C\u00f3mo saber si tienes da\u00f1o ocular despu\u00e9s de ver el eclipse",
+            "description": "Mirar el eclipse sin la protecci\u00f3n ocular adecuada puede haberte provocado retinopat\u00eda solar o da\u00f1o a la retina por la exposici\u00f3n a la radiaci\u00f3n solar.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/saber-dano-ocular-eclipse-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-2147620066.webp",
+            "publishedAt": "2024-04-09T22:48:39Z",
+            "content": "Mira c\u00f3mo se vivi\u00f3 el eclipse en Norteam\u00e9rica 2:24\r\n(CNN) -- El eclipse solar total lleg\u00f3 y se fue despu\u00e9s de crear un espect\u00e1culo celestial este lunes en el cielo de M\u00e9xico, Estados Unidos y Canad\u00e1.\u2026 [+3725 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Aitana Ocana",
+            "title": "\u00bfPor qu\u00e9 morimos? Lo \u00faltimo sobre el envejecimiento y la inmortalidad de la mano de un cient\u00edfico galardonado con el Premio Nobel",
+            "description": "Descubre las novedades de las investigaciones m\u00e1s recientes sobre el envejecimiento y la b\u00fasqueda de la inmortalidad. El bi\u00f3logo molecular Venki Ramakrishnan, galardonado con el Premio Nobel, examina investigaciones antiguas y de vanguardia para desvelar las \u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/salud-envejecimiento-muerte-porque-morimos-bienestar-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-1091764324.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T22:31:00Z",
+            "content": "\u00bfA qu\u00e9 edad empezamos a envejecer? 3:57\r\n(CNN) -- Desde tiempos inmemoriales, el ser humano ha hecho todo lo posible por enga\u00f1ar a la muerte. Hoy en d\u00eda, cuando los avances revolucionarios transforma\u2026 [+11693 chars]"
         },
         {
             "source": {
@@ -60,77 +86,571 @@
                 "name": "CNN"
             },
             "author": null,
-            "title": "Opinion: The problem with Beyonc\u00e9\u2019s \u2018Jolene\u2019",
-            "description": "Whether or not Beyonc\u00e9\u2019s \u2018Jolene\u2019 has anything to do with real life (hers or anyone else\u2019s), it\u2019s a mistake to see it as a departure from Dolly Parton\u2019s version, writes Holly Thomas.",
-            "url": "https://www.cnn.com/2024/04/04/opinions/beyonce-cowboy-carter-jolene-dolly-parton-thomas/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240401092459-beyonce-cowboy-carter-country-album.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T14:35:50Z",
-            "content": "Editors Note: Holly Thomas is a writer and editor based in London. She is morning editor at Katie Couric Media. She tweets\u00a0@HolstaT. The opinions expressed in this commentary are solely those of the \u2026 [+5057 chars]"
+            "title": "UK Nobel Prize-winning physicist Peter Higgs dies aged 94 | CNN",
+            "description": "Physicist Peter Higgs, whose theory of an undetected particle in the universe changed science and was vindicated by a Nobel prize-winning discovery half a century later, has died aged 94, the University of Edinburgh said on Tuesday.",
+            "url": "https://www.cnn.com/2024/04/09/world/peter-higgs-physicist-nobel-winner-dies-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-187744393.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T22:25:43Z",
+            "content": "Physicist Peter Higgs, whose theory of an undetected particle in the universe changed science and was vindicated by a Nobel prize-winning discovery half a century later, has died aged 94, the Univers\u2026 [+4359 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "",
-            "title": "155-year-old chocolate company braces for dramatic rise in cocoa prices | CNN Business",
-            "description": "Guittard Chocolate Company CEO Gary Guittard explains why climate change and disease have made sourcing cocoa more challenging.",
-            "url": "https://www.cnn.com/videos/business/2024/04/04/chocolate-cocoa-prices-climate-cprog-gr-orig.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240404062649-chocolate-prices-01.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T11:55:59Z",
-            "content": null
+            "author": "John Bonifield",
+            "title": "Pfizer to seek approval for RSV vaccine for people as young as 18 | CNN",
+            "description": "An RSV vaccine already used for older adults\u00a0could help protect people as young as 18 who are at increased risk of the disease, drugmaker Pfizer said in a news release Tuesday. The company said it would submit the information to the US Food and Drug Administr\u2026",
+            "url": "https://www.cnn.com/2024/04/09/health/rsv-vaccine-younger-adults-pfizer/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003124237-01-pfizer-sign-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T22:24:11Z",
+            "content": "An RSV vaccine already used for older adults\u00a0could help protect people as young as 18 who are at increased risk of the disease, drugmaker Pfizer said in a news release Tuesday. The company said it wo\u2026 [+2765 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Jacob Lev, George Ramsay",
-            "title": "Chaos ensues at puck drop between New York Rangers and New Jersey Devils as 10 players brawl",
-            "description": "A full five-on-five brawl erupted just two seconds after the opening puck drop between the New York Rangers and New Jersey Devils at Madison Square Garden on Wednesday.",
-            "url": "https://www.cnn.com/2024/04/04/sport/rangers-devils-nhl-brawl-spt-intl/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24094862527906.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T11:11:37Z",
-            "content": "A full five-on-five brawl erupted just two seconds after the opening puck drop between the New York Rangers and New Jersey Devils at Madison Square Garden on Wednesday.\r\nOnce the fights had broken up\u2026 [+2093 chars]"
+            "author": "Bel\u00e9n Liotti",
+            "title": "Un informante afirma que el Boeing 787 de Dreamliner presenta fallas",
+            "description": "Las autoridades federales est\u00e1n investigando a Boeing despu\u00e9s de que un informante expresara repetidamente su preocupaci\u00f3n por dos modelos de aviones de fuselaje ancho y afirmara que la compa\u00f1\u00eda tom\u00f3 represalias contra \u00e9l.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/boeing-787-dreamliner-fallas-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-1258353176.webp",
+            "publishedAt": "2024-04-09T22:08:56Z",
+            "content": "\u00bfCrisis en Boeing? 5 incidentes en solo 7 d\u00edas 1:46\r\n(CNN) -- Las autoridades federales est\u00e1n investigando a Boeing despu\u00e9s de que un informante expresara repetidamente su preocupaci\u00f3n por dos modelo\u2026 [+4385 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Dalia Faheid",
-            "title": "Powerball jackpot surges to an estimated $1.23 billion after no big winner Wednesday",
-            "description": "The Powerball jackpot has skyrocketed to an estimated $1.23 billion after yet another lottery drawing yielded no grand prize winner Wednesday night.",
-            "url": "https://www.cnn.com/2024/04/03/business/powerball-jackpot-surges-saturday/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231003122446-powerball-lottery-tickets-2023.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T05:05:06Z",
-            "content": "The Powerball jackpot has skyrocketed to an estimated $1.23 billion after yet another lottery drawing yielded no grand prize winner Wednesday night.\r\nWednesdays winning numbers were: 11, 62, 65, 38, \u2026 [+2173 chars]"
+            "author": "Chris Lau, Wayne Chang",
+            "title": "Taiwan earthquake: \u2018Roger,\u2019 overly playful dog who failed police academy, becomes star of quake response",
+            "description": "A labrador retriever who failed\u00a0to become a drug detection dog because he was overly friendly and playful has won hearts across Taiwan for his detection work in the aftermath of last week\u2019s 7.4-magnitidue earthquake.",
+            "url": "https://www.cnn.com/2024/04/09/asia/taiwan-quake-roger-dog-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-04-09-at-3-11-45-pm.png?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T22:08:09Z",
+            "content": "A labrador retriever who failed\u00a0to become a drug sniffing dog because he was overly friendly and playful has won hearts across Taiwan for his detection work in the aftermath of last weeks 7.4-magniti\u2026 [+2691 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "",
-            "title": "Reporter explains why many Americans suddenly stopped hanging out with friends | CNN",
-            "description": "CNN hosts Gayle King and Charles Barkley sit down with The Atlantic staff writer Derek Thompson and podcast host Van Lathan to discuss a study of how Americans spend their time and why there seems to be a decline in socializing.",
-            "url": "https://www.cnn.com/videos/us/2024/04/04/americans-friends-socializing-decline-study-kc-vpx.cnn",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220408163824-people-socializing-stock.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-04-04T03:17:24Z",
-            "content": null
+            "author": "Karen Esquivel",
+            "title": "\u00bfPor qu\u00e9 decidi\u00f3 M\u00e9xico reimponer la visa a los peruanos? Las cifras detr\u00e1s del conflicto",
+            "description": "A partir del 20 de abril, los ciudadanos peruanos necesitar\u00e1n visa para ingresar a M\u00e9xico por turismo y negocios, anunci\u00f3 la Canciller\u00eda mexicana, citando la preocupaci\u00f3n del Gobierno por el flujo creciente de migrantes irregulares que estar\u00edan entrando al pa\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/por-que-decidio-mexico-reimponer-visa-a-peruanos-las-cifras-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2022/08/GettyImages-1237611020.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T21:53:16Z",
+            "content": "(CNN Espa\u00f1ol) A partir del 20 de abril, los ciudadanos peruanos necesitar\u00e1n visa para ingresar a M\u00e9xico por turismo y negocios, anunci\u00f3 la Canciller\u00eda mexicana, citando la preocupaci\u00f3n del Gobierno p\u2026 [+4072 chars]"
         },
         {
             "source": {
                 "id": "cnn",
                 "name": "CNN"
             },
-            "author": "Nectar Gan",
-            "title": "A billionaire helped bring \u20183-Body Problem\u2019 to Netflix. His business partner ensured he never lived to see its premiere",
-            "description": "Lin Qi, a billionaire fan of \u201cThe Three-Body Problem,\u201d had big plans to bring his favorite Chinese sci-fi novel to TV, cinema and video-game screens across the world.",
-            "url": "https://www.cnn.com/2024/04/03/china/billionaire-three-body-problem-netflix-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/201229134830-lin-qi-chairman-and-ceo-of-yoozoo-games-co.jpg?q=x_3,y_369,h_1531,w_2722,c_crop/w_800",
-            "publishedAt": "2024-04-03T20:00:26Z",
-            "content": "Editors Note: Sign up for\u00a0CNNs Meanwhile in China newsletter\u00a0which explores what you need to know about the countrys rise and how it impacts the world.\r\nLin Qi, a billionaire fan of The Three-Body Pr\u2026 [+6740 chars]"
+            "author": "Valeria Ord\u00f3\u00f1ez Ghio",
+            "title": "Chile dice que negativa de Venezuela a reconocer la existencia de la banda Tren de Aragua es un \u201cinsulto a los pueblos de Latinoam\u00e9rica\u201d",
+            "description": "La ministra del Interior y Seguridad P\u00fablica de Chile, Carolina Toh\u00e1, calific\u00f3 este martes como un \u201cinsulto\u201d las declaraciones del canciller venezolano Yv\u00e1n Gil, quien este lunes dijo que el grupo criminal Tren de Aragua es \u201cuna ficci\u00f3n creada por la medi\u00e1tic\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/chile-dice-negar-existencia-tren-de-aragua-insulto-pueblos-latinoamerica-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/11/tren-de-aragua-2.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T21:33:53Z",
+            "content": "(CNN Espa\u00f1ol) --\u00a0La ministra del Interior y Seguridad P\u00fablica de Chile, Carolina Toh\u00e1, calific\u00f3 este martes como un insulto las declaraciones del canciller venezolano Yv\u00e1n Gil, quien este lunes dijo \u2026 [+2656 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Ferguson",
+            "title": "AN\u00c1LISIS | Trump est\u00e1 a pocos d\u00edas de su primer juicio penal tras el fracaso de su \u00faltima t\u00e1ctica legal",
+            "description": "Donald Trump est\u00e1 a punto de quedarse sin tiempo en su \u00faltimo intento desesperado de evitar el estigma hist\u00f3rico de ser el primer expresidente en ir a juicio penal la pr\u00f3xima semana.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/analisis-trump-dias-primer-juicio-penal-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-2133977364.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T21:29:12Z",
+            "content": "Juez le proh\u00edbe a Trump los ataques verbales 6:41\r\n(CNN) -- Donald Trump est\u00e1 a punto de quedarse sin tiempo en su \u00faltimo intento desesperado de evitar el estigma hist\u00f3rico de ser el primer expreside\u2026 [+9400 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0645\u0642\u062a\u0644 \u0628\u0627\u0633\u0643\u0627\u0644 \u0633\u0644\u064a\u0645\u0627\u0646.. \u062d\u0632\u0628 \"\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629\" \u064a\u062d\u062f\u062f 3 \u0639\u0648\u0627\u0645\u0644 \u0645\u062d\u0648\u0631\u0647\u0627 \"\u062d\u0632\u0628 \u0627\u0644\u0644\u0647\".. \u0648\u0628\u0627\u0633\u064a\u0644: \u0627\u0644\u062d\u0644 \u0628\u0625\u0639\u0627\u062f\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u064a\u0646",
+            "description": "\u062f\u0639\u0627 \u062d\u0632\u0628 \"\u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629\"\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0625\u0644\u0649 \u062a\u062d\u0642\u064a\u0642 \"\u0648\u0627\u0636\u062d \u0648\u0634\u0641\u0627\u0641 \u0648\u0639\u0644\u0646\u064a \u0648\u0635\u0631\u064a\u062d \u0648\u062f\u0642\u064a\u0642 \u0628\u0648\u0642\u0627\u0626\u0639\u0647 \u0648\u062d\u064a\u062b\u064a\u0651\u0627\u062a\u0647\"\u060c \u0641\u064a \u0645\u0642\u062a\u0644 \u0645\u0646\u0633\u0642\u0647 \u0628\u0645\u0646\u0637\u0642\u0629 \u062c\u0628\u064a\u0644 \u0628\u0627\u0633\u0643\u0627\u0644 \u0633\u0644\u064a\u0645\u0627\u0646\u060c \u0645\u0624\u0643\u062f\u0627 \u0623\u0646\u0647 \"\u062d\u062a\u0649 \u0635\u062f\u0648\u0631 \u0646\u062a\u0627\u0626\u062c \u0647\u0630\u0627 \u0627\u0644\u062a\u062d\u0642\u064a\u0642 \u0646\u0639\u062a\u0628\u0631 \u0623\u0646 \u0628\u0627\u0633\u0643\u0627\u0644 \u0633\u0644\u064a\u0645\u0627\u0646 \u062a\u0639\u0631\u0636 \u0644\u0639\u0645\u0644\u064a\u0629 \u0627\u063a\u062a\u064a\u0627\u0644 \u0633\u064a\u0627\u0633\u064a\u0629\".",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/10/lebanese-forces-pascal-sleiman-hezbollah-syria-gebran-bassil",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_399,w_3803,h_2139,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/10/images/265528.jpg",
+            "publishedAt": "2024-04-09T21:27:00Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "urielblanco",
+            "title": "Corte Suprema de Arizona determina que el estado debe seguir una ley de 123 a\u00f1os que proh\u00edbe el aborto en casi todos los casos",
+            "description": "En una decisi\u00f3n hist\u00f3rica, la Corte Suprema de Arizona determin\u00f3 este martes que el estado debe adherirse a una ley de 123 a\u00f1os de antig\u00fcedad que proh\u00edbe los abortos en su totalidad excepto en los casos en que \"sea necesario para salvar\" la vida de una person\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/corte-suprema-arizona-dictamina-estado-adherirse-ley-hace-mas-100-anios-prohibe-casi-todos-abortos-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/Copia-de-FOTO-PARA-WP-2024-04-09T134317.774.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T21:16:11Z",
+            "content": "Texas le deneg\u00f3 el aborto, as\u00ed fueron los obst\u00e1culos 1:32\r\n(CNN) -- En una decisi\u00f3n hist\u00f3rica, la Corte Suprema de Arizona determin\u00f3 este martes que el estado debe adherirse a una ley de 123 a\u00f1os de \u2026 [+4984 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627: \"\u0642\u0645\u0629\" \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0648\u0627\u0644\u0633\u064a\u062a\u064a \u0627\u0644\u0645\u0628\u0643\u0631\u0629 \u0628\u0644\u0627 \u0641\u0627\u0626\u0632.. \u0648\u0623\u0631\u0633\u0646\u0627\u0644 \u064a\u062a\u0639\u0627\u062f\u0644 \u0645\u0639 \u0628\u0627\u064a\u0631\u0646 \u0645\u064a\u0648\u0646\u062e",
+            "description": "\u062a\u0639\u0627\u062f\u0644 \u0646\u0627\u062f\u064a \u0631\u064a\u0627\u0644 \u0645\u062f\u0631\u064a\u062f \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064a \u0645\u0639 \u0646\u0638\u064a\u0631\u0647 \u0645\u0627\u0646\u0634\u0633\u062a\u0631 \u0633\u064a\u062a\u064a \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u060c \u0628\u062b\u0644\u0627\u062b\u0629 \u0623\u0647\u062f\u0627\u0641 \u0644\u0645\u062b\u0644\u0647\u0627\u060c \u0641\u064a \u0645\u0628\u0627\u0631\u0627\u0629 \u0623\u0642\u064a\u0645\u062a \u0639\u0644\u0649 \u0623\u0631\u0636 \u0645\u0644\u0639\u0628 \"\u0633\u0627\u0646\u062a\u064a\u0627\u063a\u0648 \u0628\u064a\u0631\u0646\u0627\u0628\u064a\u0648\"\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0641\u064a \u0630\u0647\u0627\u0628 \u0627\u0644\u062f\u0648\u0631 \u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064a \u0645\u0646 \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 (\u062a\u0634\u0627\u0645\u0628\u064a\u0648\u0646\u0632\u0644\u064a\u063a).",
+            "url": "https://arabic.cnn.com/sport/article/2024/04/10/champions-league-real-madrid-manchester-city-arsenal-bayern-munich",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/10/images/265527.jpg",
+            "publishedAt": "2024-04-09T21:13:07Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luis Ernesto Quintana Barney",
+            "title": "Partidazo en el Bernab\u00e9u: Real Madrid y Manchester City igualaron 3-3 en el partido de ida de los cuartos de final de la Champions",
+            "description": "El Real Madrid y el Manchester City no decepcionaron y el 3-3 en el Santiago Bernab\u00e9u fue el duelo que todos los entusiastas del f\u00fatbol estaban esperando.\u00a0El partido de vuelta de los cuartos de final de la Champions se jugar\u00e1 el mi\u00e9rcoles 17 de abril.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/real-madrid-manchester-city-cuartos-de-final-ida-champions-league-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2148055294.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T21:05:00Z",
+            "content": "(CNN Espa\u00f1ol) -- El Real Madrid y el Manchester City no decepcionaron y el 3-3 en el Santiago Bernab\u00e9u fue el duelo que todos los entusiastas del f\u00fatbol estaban esperando.\r\nEl partido comenz\u00f3 con muc\u2026 [+1640 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "AJ Willingham",
+            "title": "What putting up a bird feeder can lead to",
+            "description": "One simple little feeder can change your relationship with nature forever.",
+            "url": "https://www.cnn.com/2024/04/09/us/bird-feeder-watching-community-may-i-recommend-cec/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-521056476.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T21:01:30Z",
+            "content": "Editors Note: Call them passions. Call them obsessions. These are the unique things CNN staffers cant imagine our lives without. We share our raves and loves, whether its an object, place, experience\u2026 [+4677 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Parija Bhatnagar",
+            "title": "Consumer Reports says Lunchables \u2018should not be allowed on menu\u2019 for schools, petitions USDA for removal | CNN Business",
+            "description": "The school cafeteria versions of popular kids\u2019 grocery store snack kit Lunchables is packed with too much sodium, a consumer watchdog group warned on Tuesday.",
+            "url": "https://www.cnn.com/2024/04/09/business/lunchables-for-school-high-sodium-consumer-reports-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1721958214.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T20:39:05Z",
+            "content": "The school cafeteria versions of popular kids grocery store snack kit Lunchables is packed with too much sodium, a consumer watchdog group warned on Tuesday.\r\nLunchables developed two new versions of\u2026 [+7212 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Heather Law, Julia Vargas Jones",
+            "title": "Brazilian President Lula indirectly calls out Elon Musk on climate crisis, further fueling tensions | CNN Business",
+            "description": "Brazilian President Luiz In\u00e1cio Lula da Silva indirectly called out Elon Musk on the climate crisis on Tuesday, further increasing tensions between the country\u2019s leaders and the billionaire businessman.",
+            "url": "https://www.cnn.com/2024/04/09/business/lula-elon-musk-moraes-leash/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/shutterstock-editorial-14426803u.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T20:17:40Z",
+            "content": "Brazilian President Luiz In\u00e1cio Lula da Silva indirectly called out Elon Musk on the climate crisis on Tuesday, further increasing tensions between the countrys leaders and the billionaire businessma\u2026 [+3101 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alli Rosenbloom",
+            "title": "Ren\u00e9e Zellweger and Hugh Grant set to star in new \u2018Bridget Jones\u2019 movie | CNN",
+            "description": "Ren\u00e9e Zellweger is set to reprise her beloved role of Bridget Jones in an upcoming fourth installment of the popular film franchise.",
+            "url": "https://www.cnn.com/2024/04/09/entertainment/renee-zellweger-hugh-grant-bridget-jones/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240409-renee-hugh-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T20:14:57Z",
+            "content": "Ren\u00e9e Zellweger is set to reprise her beloved role of Bridget Jones in an upcoming fourth installment of the popular film franchise.\r\nThe two-time Oscar-winner will star in Bridget Jones: Mad About t\u2026 [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melanie Zanona, Annie Grayer",
+            "title": "House to delay sending Mayorkas impeachment articles to the Senate until next week | CNN Politics",
+            "description": "The House will send impeachment articles against Homeland Security Secretary Alejandro Mayorkas to the Senate next week \u2013\u00a0a delay that comes as\u00a0Senate Republicans\u00a0seek\u00a0more time to develop a\u00a0strategy to deal with the effort.",
+            "url": "https://www.cnn.com/2024/04/09/politics/mayorkas-impeachment-articles-house-senate/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap24099817794746.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T19:54:29Z",
+            "content": "The House will send impeachment articles against Homeland Security Secretary Alejandro Mayorkas to the Senate next week \u00a0a delay that comes as\u00a0Senate Republicans\u00a0seek\u00a0more time to make the public arg\u2026 [+2354 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u063a\u0627\u0644\u0627\u0646\u062a \u064a\u0646\u0627\u0642\u0636 \u062a\u0635\u0631\u064a\u062d \u0646\u062a\u0646\u064a\u0627\u0647\u0648 \u062d\u0648\u0644 \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0639\u062f \u0627\u062c\u062a\u064a\u0627\u062d \u0631\u0641\u062d.. \u0645\u0635\u0627\u062f\u0631 \u062a\u0643\u0634\u0641 \u0644\u0640CNN \u0645\u0627 \u0642\u0627\u0644\u0647 \u0644\u0623\u0648\u0633\u062a\u0646",
+            "description": "\u0641\u064a \u0627\u062a\u0635\u0627\u0644 \u0647\u0627\u062a\u0641\u064a \u0645\u0639 \u0648\u0632\u064a\u0631 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0644\u0648\u064a\u062f \u0623\u0648\u0633\u062a\u0646\u060c \u0642\u0627\u0644 \u0648\u0632\u064a\u0631 \u0627\u0644\u062f\u0641\u0627\u0639 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u064a\u0648\u0622\u0641 \u063a\u0627\u0644\u0627\u0646\u062a \u0625\u0646 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \"\u0644\u0627 \u062a\u0632\u0627\u0644 \u062a\u0636\u0639 \u062e\u0637\u0629\" \u0644\u0627\u062c\u062a\u064a\u0627\u062d \u0645\u062d\u062a\u0645\u0644 \u0644\u0631\u0641\u062d\u060c \u0648\u0644\u0645 \u064a\u0634\u0631 \u0625\u0644\u0649 \u0623\u0646\u0647 \u062a\u0645 \u062a\u062d\u062f\u064a\u062f \u0645\u0648\u0639\u062f \u0644\u0644\u0639\u0645\u0644\u064a\u0629\u060c \u062d\u0633\u0628\u0645\u0627 \u0642\u0627\u0644\u062a \u0645\u0635\u0627\u062f\u0631 \u0645\u0637\u0644\u0639\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0643\u0627\u0644\u0645\u0629 \u0644\u0634\u0628\u0643\u0629 CNN.",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/09/israeli-defense-minister-did-not-indicate-a-date-has-been-set-for-rafah-invasion",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_554,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265526.jpg",
+            "publishedAt": "2024-04-09T19:51:08Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nadine Schmidt, Niamh Kennedy",
+            "title": "Germany defends support for Israel in international court against accusations of \u2018facilitating genocide\u2019 in Gaza | CNN",
+            "description": "Germany defends support for Israel in international court against accusations of \u2018facilitating genocide\u2019 in Gaza | CNNcnn.com",
+            "url": "https://www.cnn.com/2024/04/09/world/germany-nicaragua-israel-icj-case-intl-latam/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24099333727709.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T19:49:25Z",
+            "content": "Germany has hit back at allegations by Nicaragua that it has been facilitating genocide in Gaza, telling an international court on Tuesday that history undergirds German support for Israel.\r\nAddressi\u2026 [+3961 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Opinion: Investing in oil and gas doesn\u2019t make sense anymore",
+            "description": "Renewables such as solar and wind are growing at an\u00a0exponential rate, writes Tom Steyer, so funding new fossil fuel projects is a risky bet.",
+            "url": "https://www.cnn.com/2024/04/04/opinions/oil-gas-renewables-investing-steyer/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258888534.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T19:48:28Z",
+            "content": "Editors Note: Tom Steyer is the founder and co-executive chair of Galvanize Climate Solutions, an investment firm focused\u00a0on the energy transition. His upcoming book, Cheaper, Faster, Better: How Wel\u2026 [+6378 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNNEspa\u00f1ol sjv",
+            "title": "Fiscal\u00eda General de Colombia solicita que se llame a juicio al expresidente \u00c1lvaro Uribe",
+            "description": "La Fiscal\u00eda de Colombia solicit\u00f3 que se llame a juicio a \u00c1lvaro Uribe, quien enfrenta un proceso judicial por los presuntos delitos de fraude judicial y manipulaci\u00f3n de testigos, luego de recabar nuevas pruebas, inform\u00f3 el Ministerio P\u00fablico en un comunicado.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/alvaro-uribe-fiscalia-general-colombia-juicio-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/alvaro-uribe-GettyImages-1806657940-e1712690966591.jpeg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T19:36:39Z",
+            "content": "Lo mejor para Colombia y para Uribe es un juicio, dice abogado 1:39\r\n(CNN Espa\u00f1ol) -- La Fiscal\u00eda General de Colombia solicit\u00f3 ante la Corte Suprema de Justicia solicit\u00f3 este martes que se llame a ju\u2026 [+2768 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Ferguson",
+            "title": "Morir por un pu\u00f1ado de harina: videos y relatos de testigos oculares ponen en duda la cronolog\u00eda israel\u00ed del letal reparto de ayuda en Gaza",
+            "description": "El an\u00e1lisis de CNN arroja nueva luz sobre lo ocurrido en la madrugada del 29 de febrero en Gaza, cuando m\u00e1s de 100 personas murieron y 700 resultaron heridas mientras intentaban conseguir alimentos.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/morir-harina-videos-relatos-testigos-oculares-reparto-ayuda-gaza-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/240229082752-gaza-food-aid-truck-vpx.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T19:33:17Z",
+            "content": "Muerte, hambre y ruinas tras 6 meses de guerra en Gaza 3:49\r\n(CNN) -- Jihad Abu Watfa se encontraba entre los escombros de un oscuro tramo de carretera costera al suroeste de la Ciudad de Gaza cuando\u2026 [+14604 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0631\u063a\u0645 \"\u0627\u0644\u062a\u0647\u062f\u064a\u062f \u0627\u0644\u0625\u0631\u0647\u0627\u0628\u064a\".. \u0645\u0628\u0627\u0631\u064a\u0627\u062a \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u062a\u0642\u0627\u0645 \u0641\u064a \u0645\u0648\u0639\u062f\u0647\u0627 \u0648\u0633\u0637 \u062a\u0634\u062f\u064a\u062f \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629",
+            "description": "\u0635\u0631\u0651\u062d \u0648\u0632\u064a\u0631 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064a\u060c \u062c\u064a\u0631\u0627\u0644\u062f \u062f\u0627\u0631\u0645\u0627\u0646\u0627\u0646\u060c \u0644\u0644\u0635\u062d\u0641\u064a\u064a\u0646\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0628\u0623\u0646 \u0634\u0631\u0637\u0629 \u0628\u0627\u0631\u064a\u0633 \"\u0633\u062a\u0639\u0632\u0632 \u0627\u0644\u0625\u062c\u0631\u0627\u0621\u0627\u062a \u0627\u0644\u0623\u0645\u0646\u064a\u0629 \u0628\u0634\u0643\u0644 \u0643\u0628\u064a\u0631\"\u060c \u0642\u0628\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u0631\u0628\u0639 \u0646\u0647\u0627\u0626\u064a \u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 (\u062a\u0634\u0627\u0645\u0628\u064a\u0648\u0646\u0632\u0644\u064a\u063a) \u0628\u064a\u0646 \u0646\u0627\u062f\u064a \u0628\u0627\u0631\u064a\u0633 \u0633\u0627\u0646 \u062c\u064a\u0631\u0645\u0627\u0646 \u0648\u0645\u0646\u0627\u0641\u0633\u0647 \u0628\u0631\u0634\u0644\u0648\u0646\u0629\u060c \u0647\u0630\u0627 \u0627\u0644\u0623\u0633\u0628\u0648\u0639.",
+            "url": "https://arabic.cnn.com/sport/article/2024/04/09/champions-league-matches-paris-london-madrid",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_529,w_5041,h_2835,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265524.jpg",
+            "publishedAt": "2024-04-09T19:26:45Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0641\u064a \u0623\u0648\u0644 \u062a\u0635\u0631\u064a\u062d\u0627\u062a\u0647.. \u0623\u0635\u063a\u0631 \u0631\u0626\u064a\u0633 \u0648\u0632\u0631\u0627\u0621 \u0644\u0623\u064a\u0631\u0644\u0646\u062f\u0627 \u064a\u0646\u062f\u062f \u0628\u0640\"\u0630\u0628\u062d \u0648\u062a\u062c\u0648\u064a\u0639\" \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646 \u0641\u064a \u063a\u0632\u0629",
+            "description": "\u0641\u064a \u0623\u0648\u0644 \u062a\u0635\u0631\u064a\u062d\u0627\u062a \u0644\u0647 \u0628\u0639\u062f \u0627\u0646\u062a\u062e\u0627\u0628\u0647 \u0631\u0626\u064a\u0633\u064b\u0627 \u0644\u0648\u0632\u0631\u0627\u0621 \u0623\u064a\u0631\u0644\u0646\u062f\u0627\u060c \u0623\u062f\u0627\u0646 \u0633\u064a\u0645\u0648\u0646 \u0647\u0627\u0631\u064a\u0633 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \"\u0644\u0630\u0628\u062d \u0648\u062a\u062c\u0648\u064a\u0639\" \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646 \u0641\u064a \u063a\u0632\u0629\u060c \u0648\u062a\u0639\u0647\u062f \"\u0628\u0639\u062f\u0645 \u0627\u0644\u0635\u0645\u062a\" \u0639\u0646 \u0627\u0644\u062d\u0631\u0628.",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/09/new-irish-pm-condemns-israel-for-starving-and-slaughtering-gazans",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_4005,h_2253,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265525.jpg",
+            "publishedAt": "2024-04-09T19:25:52Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Hunt",
+            "title": "\u00d6tzi the Iceman has the world\u2019s oldest tattoos. How were they made? | CNN",
+            "description": "\u00d6tzi the Iceman, whose 5,300-year-old body was found by hikers in the Tyrolean Alps, has 61 tattoos. Scientists now think they understand the technique behind them.",
+            "url": "https://www.cnn.com/2024/04/09/style/otzi-iceman-tattoos-study-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/museo-2.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T19:14:49Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nFound high in the Tyrolean Alps in 1991, \u00d6tzi the Icem\u2026 [+7092 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luis Ernesto Quintana Barney",
+            "title": "Estados Unidos transfiri\u00f3 a Ucrania miles de armas, lanzacohetes y municiones incautadas a Ir\u00e1n",
+            "description": "Estados Unidos transfiri\u00f3 la semana pasada a Ucrania miles de ametralladoras, rifles de francotirador, lanzacohetes y cientos de miles de municiones incautadas a Ir\u00e1n, anunci\u00f3 el martes el Comando Central de Estados Unidos .",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/estados-unidos-transfirio-ucrania-miles-armas-lanzacohetes-municiones-iran-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/c-240409-us-central-command-weapons.webp",
+            "publishedAt": "2024-04-09T19:12:54Z",
+            "content": "Los ataques de Ucrania a refiner\u00edas rusas 3:19\r\n(CNN) -- Estados Unidos transfiri\u00f3 la semana pasada a Ucrania miles de ametralladoras, rifles de francotirador, lanzacohetes y cientos de miles de muni\u2026 [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sean Lyngaas",
+            "title": "Biden administration preparing to\u00a0prevent Americans from using Russian-made software over national security concern | CNN Politics",
+            "description": "The Biden administration is preparing to take the unusual step of issuing an order that would\u202fprevent US companies and citizens from using software made by a major Russian cybersecurity firm because of national security concerns, five US officials familiar wi\u2026",
+            "url": "https://www.cnn.com/2024/04/09/politics/biden-administration-americans-russian-software/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2017-10-27t165022z-1695171948-up1edar1aryfg-rtrmadp-3-cyber-summit-kaspersky.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T19:01:15Z",
+            "content": "The Biden administration is preparing to take the unusual step of issuing an order that wouldprevent US companies and citizens from using software made by a major Russian cybersecurity firm because o\u2026 [+8173 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0641\u064a \u0643\u0644\u0645\u0629 \u0628\u0645\u0646\u0627\u0633\u0628\u0629 \u0639\u064a\u062f \u0627\u0644\u0641\u0637\u0631.. \u0627\u0644\u0645\u0644\u0643 \u0633\u0644\u0645\u0627\u0646 \u064a\u0624\u0643\u062f \u0636\u0631\u0648\u0631\u0629 \"\u0648\u0642\u0641 \u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a\" \u0639\u0644\u0649 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646",
+            "description": "\u0623\u0643\u062f \u0627\u0644\u0639\u0627\u0647\u0644 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0627\u0644\u0645\u0644\u0643 \u0633\u0644\u0645\u0627\u0646 \u0628\u0646 \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0636\u0631\u0648\u0631\u0629 \"\u0648\u0642\u0641 \u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621\u0627\u062a\" \u0639\u0644\u0649 \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u060c \u0648\u0630\u0644\u0643 \u0641\u064a \u0643\u0644\u0645\u0629 \u0628\u0645\u0646\u0627\u0633\u0628\u0629 \u0639\u064a\u062f \u0627\u0644\u0641\u0637\u0631\u060c \u0623\u0644\u0642\u0627\u0647\u0627 \u0646\u064a\u0627\u0628\u0629 \u0639\u0646\u0647 \u0648\u0632\u064a\u0631 \u0627\u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0633\u0639\u0648\u062f\u064a \u0633\u0644\u0645\u0627\u0646 \u0628\u0646 \u064a\u0648\u0633\u0641 \u0627\u0644\u062f\u0648\u0633\u0631\u064a.",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/09/saudi-king-salman-eid-palestinians",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_314,w_2996,h_1685,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265523.jpg",
+            "publishedAt": "2024-04-09T19:00:18Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gregory Wallace, Gabe Cohen",
+            "title": "A whistleblower claims that Boeing\u2019s 787 Dreamliner is flawed. The FAA is investigating | CNN Business",
+            "description": "Federal authorities say they\u2019re investigating after a whistleblower repeatedly raised concerns with two models of Boeing widebody jets, and claimed the company retaliated against him.",
+            "url": "https://www.cnn.com/2024/04/09/business/boeing-787-whistleblower/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1258353176.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T18:53:55Z",
+            "content": "Federal authorities say theyre investigating after a whistleblower repeatedly raised concerns with two models of Boeing widebody jets, and claimed the company retaliated against him.\r\nWhistleblower S\u2026 [+1061 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\"\u0631\u062d\u0644\u0629 \u0645\u0646 \u0627\u0644\u062c\u062d\u064a\u0645\".. \u0627\u0645\u0631\u0623\u0629 \u062a\u062a\u0639\u0631\u0636 \u0644\u0627\u0639\u062a\u062f\u0627\u0621 \u062c\u0646\u0633\u064a \u0645\u0646 \u0631\u062c\u0644 \u062a\u0638\u0627\u0647\u0631 \u0623\u0646\u0647 \u0633\u0627\u0626\u0642 \u0623\u062c\u0631\u0629",
+            "description": "\u0642\u0627\u0644\u062a \u0648\u062b\u0627\u0626\u0642 \u0645\u062d\u0643\u0645\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0625\u0646 \u0631\u062c\u0644\u0627\u064b \u062a\u0638\u0627\u0647\u0631 \u0628\u0623\u0646\u0647 \u0633\u0627\u0626\u0642 \u0633\u064a\u0627\u0631\u0629 \u0623\u062c\u0631\u0629 \u0648\u0627\u0635\u0637\u062d\u0628 \u0627\u0645\u0631\u0623\u0629 \u0645\u0646 \u0623\u062d\u062f \u0627\u0644\u0646\u0648\u0627\u062f\u064a \u0627\u0644\u0644\u064a\u0644\u064a\u0629 \u0628\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629 \u0641\u064a \u0633\u0643\u0648\u062a\u0633\u062f\u064a\u0644 \u0628\u0648\u0644\u0627\u064a\u0629 \u0623\u0631\u064a\u0632\u0648\u0646\u0627 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0627\u0639\u062a\u062f\u0649 \u0639\u0644\u064a\u0647\u0627 \u062c\u0646\u0633\u064a\u0627\u064b \u0641\u064a \u0641\u064a\u0646\u064a\u0643\u0633\u060c \u0648\u062a\u0639\u062a\u0642\u062f \u0627\u0644\u0634\u0631\u0637\u0629 \u0623\u0646\u0647 \u0641\u0639\u0644 \u0630\u0644\u0643 \u0645\u0646 \u0642\u0628\u0644.",
+            "url": "https://arabic.cnn.com/miscellaneous/video/2024/04/09/v154403-woman-assaulted-by-fake-rideshare-driver-scottsdale",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/t_cnnarabic_watermark_player_icon_v2/cnnarabic/2024/04/09/images/265522.jpg",
+            "publishedAt": "2024-04-09T18:32:27Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "John Towfighi",
+            "title": "Why gold prices are at record highs",
+            "description": "From central banks to Costco customers, it seems everyone is buying gold these days.",
+            "url": "https://www.cnn.com/2024/04/09/economy/gold-prices-record-highs/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1224905095.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T18:01:32Z",
+            "content": "From central banks to Costco customers, it seems everyone is buying gold these days.\r\nThe price of spot gold reached$2,364 per ounceTuesday after hitting record highs for seven straight sessions and \u2026 [+5218 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luis Ernesto Quintana Barney",
+            "title": "L\u00f3pez Obrador muestra video del momento del asalto a la embajada de Ecuador en Quito",
+            "description": "L\u00f3pez Obrador destac\u00f3 c\u00f3mo el jefe de canciller\u00eda de la embajada, Roberto Canseco, intent\u00f3 evitar lo que ha definido como un \"asalto autoritario\u201d.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/lopez-obrador-muestra-video-asalto-embajada-en-ecuador-glas-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2133957205-e1712685168545.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T17:55:36Z",
+            "content": "Es una locura: video capta entrada de Polic\u00eda de Ecuador a embajada 1:03\r\n(CNN Espa\u00f1ol) -- El presidente Andr\u00e9s Manuel L\u00f3pez Obrador present\u00f3 este martes un video del momento en el que la Polic\u00eda de \u2026 [+1128 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Germ\u00e1n Padinger",
+            "title": "La Fiscal\u00eda de Venezuela anuncia la detenci\u00f3n de Tareck El Aissami, expresidente de PDVSA",
+            "description": "El fiscal general de Venezuela, Tarek William Saab, anunci\u00f3 este martes la detenci\u00f3n del exministro de Petr\u00f3leo y presidente de PDVSA, Tareck El Aissami, por su supuesta participaci\u00f3n en una trama de corrupci\u00f3n.\n<ul>\n <li>Justicia de EE.UU. condena a Cl\u00edver A\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/fiscalia-venezuela-detencion-tareck-el-aissami-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/03/tareck-el-aissami.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T17:54:52Z",
+            "content": "(CNN Espa\u00f1ol) -- El fiscal general de Venezuela, Tarek William Saab, anunci\u00f3 este martes la detenci\u00f3n del exministro de Petr\u00f3leo y presidente de Pdvsa, Tareck El Aissami por su supuesta participaci\u00f3n\u2026 [+645 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sof\u00eda Benavides",
+            "title": "OPINI\u00d3N | \u00bfConoces los secretos del ic\u00f3nico bolso Chanel?",
+            "description": "Cuando hablamos de la moda -y sus fascinantes or\u00edgenes- es vital mencionar piezas ic\u00f3nicas, creadas por legendarios dise\u00f1adores, que son parte fundamental de su historia. Una de ellas es el muy codiciado y famoso bolso Chanel.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/opinion-secretos-iconico-bolso-chanel-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/autora-2-1.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T17:40:04Z",
+            "content": "Nota del editor:Mari Rodr\u00edguez Ichaso ha sido colaboradora de la revista Vanidades durante varias d\u00e9cadas. Especialista en moda, viajes, gastronom\u00eda, arte, arquitectura y entretenimiento. Productora \u2026 [+4652 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0631\u063a\u062f \u0635\u062f\u0627\u0645 \u062d\u0633\u064a\u0646 \u062a\u062a\u062d\u062f\u062b \u0639\u0646 \"\u0645\u062d\u0627\u0648\u0644\u0627\u062a \u0644\u0625\u0633\u0643\u0627\u062a \u0635\u0648\u062a\u0647\u0627\": \u0644\u0646 \u0623\u062a\u062e\u0644\u0649 \u0639\u0646 \u0645\u0647\u0645\u062a\u064a",
+            "description": "\u0646\u0634\u0631\u062a \u0631\u063a\u062f \u0635\u062f\u0627\u0645 \u062d\u0633\u064a\u0646\u060c \u0627\u0628\u0646\u0629 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0639\u0631\u0627\u0642\u064a \u0627\u0644\u0631\u0627\u062d\u0644 \u0635\u062f\u0627\u0645 \u062d\u0633\u064a\u0646\u060c \u0639\u0628\u0631 \u062d\u0633\u0627\u0628\u064a\u0647\u0627 \u0639\u0644\u0649 \u0645\u0646\u0635\u062a\u064a \"\u064a\u0648\u062a\u064a\u0648\u0628\" \u0648\"\u0625\u0643\u0633\" (\u062a\u0648\u064a\u062a\u0631 \u0633\u0627\u0628\u0642\u064b\u0627)\u060c \u0645\u0642\u0637\u0639 \u0641\u064a\u062f\u064a\u0648 \u0628\u0639\u0646\u0648\u0627\u0646 \"\u0627\u0644\u0630\u0643\u0631\u0649 \u0627\u0644\u064021 \u0644\u062c\u0631\u064a\u0645\u0629 \u0627\u0644\u0627\u062d\u062a\u0644\u0627\u0644 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a-\u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a \u0644\u0644\u0639\u0631\u0627\u0642\"\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0627\u0644\u0645\u0648\u0627\u0641\u0642 9 \u0623\u0628\u0631\u064a\u0644/\u0646\u064a\u0633\u0627\u0646\u060c",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/09/iraq-raghad-saddam-hussein-baghdad-fall-annivewrsary",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_240,w_3000,h_1688,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265521.jpg",
+            "publishedAt": "2024-04-09T17:32:25Z",
+            "content": "(CNN)-- \"\" \"\" ( ) \" 21 - \" 9 / 2003 \" \".\r\n : \" - \".\u00a0\r\n: \" . 20 \".\r\n \" \".\u00a0\r\n : \" . . \".\r\n: \" . \"."
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katie Lobosco",
+            "title": "Biden\u2019s SAVE student loan repayment plan faces fresh legal challenges from Republican-led states | CNN Politics",
+            "description": "Two groups of Republican-led states have sued President Joe Biden over the student loan repayment plan he launched last year, arguing he\u2019s once again overstepping his authority to cancel student debt.",
+            "url": "https://www.cnn.com/2024/04/09/politics/student-loan-repayment-save-biden-lawsuit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-ap24012069073777.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T17:17:59Z",
+            "content": "Two groups of Republican-led states have sued President Joe Biden over the student loan repayment plan he launched last year, arguing hes once again overstepping his authority to cancel student debt.\u2026 [+5864 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sof\u00eda Benavides",
+            "title": "Corte Constitucional de Ecuador dispone desclasificar informaci\u00f3n sobre el secuestro y asesinato de un equipo period\u00edstico en 2018",
+            "description": "La Corte Constitucional de Ecuador la demanda de desclasificaci\u00f3n de informaci\u00f3n relacionada con el secuestro y posterior asesinato del equipo period\u00edstico del diario El Comercio, ocurrido en 2018 en la frontera entre Ecuador y Colombia. Los periodistas fuero\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/ecuador-desclasificar-informacion-secuestro-y-asesinato-equipo-periodistico-2018-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/gettyimages-945994302-e1712682359162.webp",
+            "publishedAt": "2024-04-09T17:06:18Z",
+            "content": "(CNN Espa\u00f1ol) --\u00a0 La Corte Constitucional de Ecuador la demanda de desclasificaci\u00f3n de informaci\u00f3n relacionada con el secuestro y posterior asesinato del equipo period\u00edstico del diario El Comercio, o\u2026 [+4985 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Luis Ernesto Quintana Barney",
+            "title": "Condenan a entre 10 y 15 a\u00f1os de prisi\u00f3n a James y Jennifer Crumbley, los padres del atacante del tiroteo escolar en Michigan",
+            "description": "James y Jennifer Crumbley, los padres del adolescente que mat\u00f3 a cuatro estudiantes en un tiroteo escolar en 2021 en Oxford, Michigan, fueron sentenciados el martes a entre 10 y 15 a\u00f1os de prisi\u00f3n, respectivamente, semanas despu\u00e9s de ser declarados culpables \u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/condena-james-jennifer-crumbley-anos-de-prision-tiroteo-michigan-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/240403170337-dle-crumbley-parents-split-super-tease.jpeg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T16:56:53Z",
+            "content": "Padres de Ethan Crumbley ser\u00e1n juzgados por homicidio involuntario 1:28\r\n(CNN) -- James y Jennifer Crumbley, los padres del adolescente que mat\u00f3 a cuatro estudiantes en un tiroteo escolar en 2021 en \u2026 [+1574 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alexandra Ferguson",
+            "title": "AN\u00c1LISIS | Las inquietudes sobre China aportan una nueva unidad a la relaci\u00f3n, otrora turbulenta, entre EE.UU., Jap\u00f3n y Filipinas, de cara a una importante cumbre de la Casa Blanca",
+            "description": "Cuando los l\u00edderes de Estados Unidos, Jap\u00f3n y Filipinas se re\u00fanan en la Casa Blanca el jueves, un tema clave ser\u00e1 una preocupaci\u00f3n mucho m\u00e1s actual que los une: la preocupaci\u00f3n com\u00fan por China.",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/analisis-china-unidad-eeuu-japon-filipinas-trax/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/ap24099096849450.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T16:41:23Z",
+            "content": "China busca alianzas con el sur global, dice experta 1:38\r\nSe\u00fal, Corea del Sur (CNN) -- Colonizaci\u00f3n, derramamiento de sangre, cr\u00edmenes de guerra, ocupaci\u00f3n, bases militares controvertidas. Todos est\u2026 [+10865 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sol Amaya",
+            "title": "Honduras convoca a cumbre de Celac para condenar a Ecuador por irrumpir en embajada de M\u00e9xico en Quito",
+            "description": "Los cancilleres de los Estados miembros de la Comunidad de Estados Latinoamericanos y Caribe\u00f1os (Celac) tratan este martes la propuesta que realiz\u00f3 el lunes la presidenta pro tempore, Xiomara Castro, en un comunicado para que los jefes de Estado y de gobierno\u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/honduras-celac-ecuador-mexico-embajada-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2133957367-e1712528927290.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T16:40:25Z",
+            "content": "Ecuador explica raz\u00f3n de incursi\u00f3n policial en embajada de M\u00e9xico en Quito 3:56\r\n(CNN Espa\u00f1ol) -- Los cancilleres de los Estados miembros de la Comunidad de Estados Latinoamericanos y Caribe\u00f1os (Cela\u2026 [+1448 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "CNN \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "title": "\u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a \u064a\u0639\u0644\u0646 \u062a\u0633\u0644\u0645\u0647 \u062c\u062b\u0629 \u0628\u0627\u0633\u0643\u0627\u0644 \u0633\u0644\u064a\u0645\u0627\u0646 \u0645\u0646 \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0633\u0648\u0631\u064a\u0629",
+            "description": "\u0623\u0639\u0644\u0646 \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u060c \u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621\u060c \u0623\u0646\u0647 \u062a\u0633\u0644\u0645 \u0645\u0646 \u0627\u0644\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0633\u0648\u0631\u064a\u0629 \u062c\u062b\u0629 \u0628\u0627\u0633\u0643\u0627\u0644 \u0633\u0644\u064a\u0645\u0627\u0646\u060c \u0645\u0646\u0633\u0642 \u062d\u0632\u0628 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u0630\u064a \u0623\u0639\u0644\u0646 \u0627\u0644\u062c\u064a\u0634 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a \u0623\u0646 \"\u0639\u0635\u0627\u0628\u0629 \u0633\u0648\u0631\u064a\u0629\" \u062e\u0637\u0641\u062a\u0647 \u0648\u0642\u062a\u0644\u062a\u0647 \u0641\u064a \u0644\u0628\u0646\u0627\u0646 \u0648\u0646\u0642\u0644\u062a \u062c\u062b\u062a\u0647 \u0625\u0644\u0649 \u0633\u0648\u0631\u064a\u0627.",
+            "url": "https://arabic.cnn.com/middle-east/article/2024/04/09/lebanese-army-pascal-sleiman-syria",
+            "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_0,w_7712,h_4338,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2024/04/09/images/265518.jpg",
+            "publishedAt": "2024-04-09T16:34:58Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kara Scannell, Lauren del Valle, Jeremy Herb",
+            "title": "Appeals judge denies Trump\u2019s request to delay start of hush money trial so he can challenge gag order",
+            "description": "An appeals court judge has denied former President Donald Trump\u2019s request to delay the start of his New York hush money trial so he can challenge the gag order imposed by Judge Juan Merchan.",
+            "url": "https://www.cnn.com/2024/04/09/politics/donald-trump-hush-money-trial-appeal-gag-order/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2105327678.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T16:34:18Z",
+            "content": "An appeals court judge has denied former President Donald Trumps request to delay the start of his New York hush money trial so he can challenge the gag order imposed by Judge Juan Merchan.\r\nNew York\u2026 [+3740 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mira Cheng",
+            "title": "Acetaminophen use in pregnancy not linked to neurodevelopmental disorders, large study finds | CNN",
+            "description": "Using acetaminophen, the active ingredient in Tylenol, during pregnancy was not associated with increased risk of autism, ADHD or intellectual disability in children, a new study found.",
+            "url": "https://www.cnn.com/2024/04/09/health/acetaminophen-pregnancy-adhd-autism-wellness/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-148193722.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T16:09:22Z",
+            "content": "Using acetaminophen, the active ingredient in Tylenol, during pregnancy was not associated with increased risk of autism, ADHD or intellectual disability in children, a new study found.\r\nThe study, p\u2026 [+5677 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Guy",
+            "title": "New Scrabble version aims to make classic word game less \u2018intimidating\u2019",
+            "description": "Scrabble, one of the world\u2019s best-loved word games, is to get a new \u201ccollaborative\u201d and \u201caccessible\u201d version.",
+            "url": "https://www.cnn.com/2024/04/09/business/scrabble-together-game-scli-intl-gbr/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/hwd43-ls-24-669-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-04-09T16:04:25Z",
+            "content": "Scrabble, one of the worlds best-loved word games, is to get a new collaborative and accessible version.\r\nThe game has been around for more than 75 years, entertaining and infuriating players in equa\u2026 [+2139 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sof\u00eda Benavides",
+            "title": "Exvicepresidente Jorge Glas ser\u00e1 dado de alta tras ser hospitalizado, inform\u00f3 el servicio penitenciario de Ecuador",
+            "description": "Este martes, el Servicio el Servicio de Atenci\u00f3n de Personas Privadas de la Libertad de Ecuador (SNAI) inform\u00f3 que luego de permanecer durante las \u00faltimas horas en observaci\u00f3n en el Hospital Naval de Guayaquil tras sufrir una descompensaci\u00f3n por no comer, el \u2026",
+            "url": "https://cnnespanol.cnn.com/2024/04/09/jorge-glas-dado-de-alta-hospitalizado-ecuador-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/04/GettyImages-2141956707-e1712678423948.jpg?quality=100&strip=info",
+            "publishedAt": "2024-04-09T16:03:08Z",
+            "content": "Por posible descompensaci\u00f3n Jorge Glas fue hospitalizado 1:53\r\n(CNN Espa\u00f1ol) --\u00a0Este martes, el Servicio el Servicio de Atenci\u00f3n de Personas Privadas de la Libertad de Ecuador (SNAI) inform\u00f3 que lueg\u2026 [+3609 chars]"
         }
     ]
 }
