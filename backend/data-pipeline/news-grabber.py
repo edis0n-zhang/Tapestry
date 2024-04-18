@@ -15,7 +15,7 @@ us_news_sources = ["abc-news", "associated-press", "breitbart-news", "business-i
 
 for source in us_news_sources:
     print(source)
-    response_data = api.get_everything(sources = source, page_size = 50, sort_by = "publishedAt")
+    response_data = api.get_everything(sources = source, page_size = 100, sort_by = "publishedAt", language = "en")
     json_objects[source] = response_data
 
 for name, data in json_objects.items():
