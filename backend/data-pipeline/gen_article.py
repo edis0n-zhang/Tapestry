@@ -3,13 +3,6 @@ from pydantic import BaseModel, create_model
 import openai
 from openai import OpenAI
 
-import os
-from dotenv import load_dotenv
-import requests
-
-load_dotenv()
-OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-
 def generate_article(articles, sources):
 
     prompt = '''
