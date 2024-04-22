@@ -43,20 +43,21 @@ The schema for the daily articles will be:
 
 # Pydantic code to check schema of the articles
 class ArticleSchema(BaseModel):
-    id: Optional[ObjectId] = Field(alias="_id")
+    id: Optional[ObjectId] = Field(default_factory=ObjectId, alias="_id")
+    articleID: str
     title: str
-    content: str
-    sources: Optional[str]
-    published_date: datetime
+    content: dict
+    sources: dict
+    published_date: str
 
     class Config:
         arbitrary_types_allowed = True
         json_encoders = {ObjectId: str}
 
 class DailyArticleSchema(BaseModel):
-    id: Optional[ObjectId] = Field(alias="_id")
-    date: datetime
-    articles: List[ArticleSchema]
+    id: Optional[ObjectId] = Field(default_factory=ObjectId, alias="_id")
+    date: str
+    articles: dict
 
     class Config:
         arbitrary_types_allowed = True
@@ -75,6 +76,7 @@ class Mongo_Helper:
             article = ArticleSchema(**article_data)
             db = self.client['news-db']
             collection = db['articles']
+
             collection.insert_one(article.dict(by_alias=True))
         except PyMongoError as e:
             print(f"Database error: {e}")
@@ -86,6 +88,7 @@ class Mongo_Helper:
             daily_articles = DailyArticleSchema(**daily_articles_data)
             db = self.client['news-db']
             collection = db['daily_articles']
+
             collection.insert_one(daily_articles.dict(by_alias=True))
         except PyMongoError as e:
             print(f"Database error: {e}")

@@ -19,6 +19,8 @@ from article_scraper import ArticleScraper
 
 import pprint
 
+from mongo_helper import Mongo_Helper
+
 load_dotenv()
 
 NEWS_API_KEY = os.getenv('NEWS_API_KEY')
@@ -28,6 +30,7 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 GOOGLE_API_KEY=os.getenv('GOOGLE_API_KEY')
 
+pp = pprint.PrettyPrinter(indent=4)
 
 def grab_news():
     api = NewsApiClient(api_key=str(NEWS_API_KEY))
@@ -196,10 +199,13 @@ def generate_article(articles, sources):
     client = instructor.from_openai(OpenAI())
 
     sections = ["Title", "Universally Agreed"]
+
     for name in sources:
          sections.append(name)
 
     Article = create_model('UserInfo', **{f"{field_name}": (str, ...) for field_name in sections})
+
+    print(f"PROMPT:\n\n\n{content}")
 
     article = client.chat.completions.create(
         model="gpt-4-turbo",
@@ -212,35 +218,55 @@ def generate_article(articles, sources):
 
     article = article.dict()
 
-    article["Sources"] = sources
-
     return article
 
 def upload_generated_articles(grouped_articles):
     article_rank = 0
-    generated_articles = {}
+
+    uploader = Mongo_Helper()
+
+    daily_articles = {
+        "date": (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d'),
+        "articles": {}
+    }
 
     for key, articles_and_sources in grouped_articles.items():
-        print("-----------------------------------")
-        print(article_rank)
+        # print("-----------------------------------")
+        # print(article_rank)
         if article_rank > 4:
             break
 
         links = [x[0] for x in articles_and_sources]
-        articles = [ArticleScraper(x[0], x[1]).to_text() for x in articles_and_sources]
+        articles = [ArticleScraper(x[0], x[1]).to_text()[:10000] for x in articles_and_sources[:10]]
 
-        for article in articles:
-            print(article)
+        # for article in articles:
+            # print(article)
 
-        sources = [x[1] for x in articles_and_sources]
+        source_list = [x[1] for x in articles_and_sources]
+        sources = {x[1] : x[0] for x in articles_and_sources}
 
-        generated_articles[article_rank] = generate_article(str(articles), sources)
+        # Match the schema of the articles in the database
+        article = {}
+        article["content"] = generate_article(articles, source_list)
 
-        print(generated_articles[article_rank])
+        article["articleID"] = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') + "-" + str(article_rank)
+        article["published_date"] = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+        article["title"] = article["content"]["Title"]
+        article["sources"] = sources
+
+        daily_articles["articles"][article["articleID"]] = {}
+        daily_articles["articles"][article["articleID"]]["title"]  = article["title"]
+        daily_articles["articles"][article["articleID"]]["description"]  = article["content"]["Universally Agreed"]
+
+        pp.pprint(article)
+
+        uploader.upload_article(article)
 
         article_rank += 1
 
-    return generated_articles
+    uploader.upload_daily_articles(daily_articles)
+
+    return daily_articles
 
 if __name__ == "__main__":
     # source_articles = grab_news()
