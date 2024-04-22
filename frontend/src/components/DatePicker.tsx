@@ -13,8 +13,20 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 
-export function DatePicker() {
-  const [date, setDate] = React.useState<Date>();
+export function DatePicker({
+  selectedDate,
+  onDateChange,
+}: {
+  selectedDate?: Date;
+  onDateChange: (date: Date | undefined) => void;
+}) {
+  const [date, setDate] = React.useState<Date | undefined>(selectedDate);
+
+  const handleDateChange = (newDate: Date | undefined) => {
+    setDate(newDate);
+    onDateChange(newDate);
+  };
+
   const cur_date = new Date();
   const options = { month: "long", day: "numeric", year: "numeric" };
   const formattedDate = cur_date.toLocaleDateString("en-US", options);
@@ -40,7 +52,7 @@ export function DatePicker() {
         <Calendar
           mode="single"
           selected={date}
-          onSelect={setDate}
+          onSelect={handleDateChange}
           initialFocus
         />
       </PopoverContent>

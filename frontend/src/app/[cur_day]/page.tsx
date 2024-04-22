@@ -1,10 +1,9 @@
-// src/app/[cur_day]/page.tsx
 import Header from "../../components/Header";
 import ArticleListings from "../../components/ArticleListings";
 import { DatePicker } from "../../components/DatePicker";
 
 import { MongoClient } from "mongodb";
-import { Article } from "../../types/article";
+import { DailyArticles } from "../../types/daily_articles";
 
 interface ArticleListingsPageProps {
   params: { cur_day: string };
@@ -20,24 +19,12 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
 
     // Fetch articles for the specified day from MongoDB
     const articles = await db
-      .collection<Article>("articles")
+      .collection<DailyArticles>("daily_articles")
       .find({ date: cur_day })
       .toArray();
 
     // Close the MongoDB connection
     await client.close();
-
-    if (articles.length === 0) {
-      // No articles found for the specified date
-      return (
-        <div className="container mx-auto px-4 py-8">
-          <h1 className="text-4xl font-bold mb-8">
-            No articles found for {new Date(cur_day).toDateString()}
-          </h1>
-          <p>Please try a different date.</p>
-        </div>
-      );
-    }
 
     return (
       <div className="min-h-screen dark:bg-black">
@@ -47,7 +34,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
             <DatePicker />
           </div>
           <div className="mt-5 flex-grow">
-            <ArticleListings Articles={articles} />
+            <ArticleListings articles={articles[0].articles} />
           </div>
         </div>
       </div>
