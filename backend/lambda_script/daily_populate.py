@@ -269,7 +269,7 @@ def upload_generated_articles(grouped_articles):
     return daily_articles
 
 if __name__ == "__main__":
-    # source_articles = grab_news()
+    source_articles = grab_news()
 
     # pprint.pp(source_articles)
 
@@ -279,17 +279,17 @@ if __name__ == "__main__":
     # with open("source_articles.json", "r") as file:
         # source_articles = json.load(file)
 
-    # push_headlines_to_pinecone(source_articles)
+    push_headlines_to_pinecone(source_articles)
 
-    # grouped_articles = dict(sorted(group_articles(source_articles, 0.5).items(), key = lambda x : len(x[1]), reverse=True))
+    grouped_articles = dict(sorted(group_articles(source_articles, 0.5).items(), key = lambda x : len(x[1]), reverse=True))
 
     # with open("grouped_articles.json", "w") as file:
         # json.dump(grouped_articles, file, indent=4)
 
-    with open("grouped_articles.json", "r") as file:
-        grouped_articles = json.load(file)
+    # with open("grouped_articles.json", "r") as file:
+        # grouped_articles = json.load(file)
 
     generated_articles = upload_generated_articles(grouped_articles)
 
-    with open("generated_articles.json", "w") as file:
-        json.dump(generated_articles, file, indent=4)
+    # with open("generated_articles.json", "w") as file:
+        # json.dump(generated_articles, file, indent=4)
