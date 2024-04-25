@@ -8,18 +8,24 @@ from openai import OpenAI
 from pinecone import Pinecone
 
 import instructor
-from pydantic import BaseModel, create_model
+from pydantic import BaseModel, create_model, Field, HttpUrl, ValidationError
+
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
+from pymongo.errors import PyMongoError
+
+from bson import ObjectId
+from typing import List, Optional
+from datetime import datetime
 
 from newsapi import NewsApiClient
 
-import tqdm  # progress bar
+# import tqdm  # progress bar
 
-# Helper classes
-from article_scraper import ArticleScraper
+import newspaper
+import json
 
-import pprint
-
-from mongo_helper import Mongo_Helper
+# import pprint
 
 load_dotenv()
 
@@ -30,7 +36,97 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 GOOGLE_API_KEY=os.getenv('GOOGLE_API_KEY')
 
-pp = pprint.PrettyPrinter(indent=4)
+class ArticleScraper:
+    def __init__(self, url, source):
+        article = newspaper.Article(url=url, language='en')
+        article.download()
+        article.parse()
+
+        self.title = str(article.title)
+        self.text = str(article.text)
+        self.authors = str(article.authors)
+        self.published_date = str(article.publish_date)
+        self.top_image = str(article.top_image)
+        self.videos = str(article.movies)
+        self.keywords = str(article.keywords)
+        self.summary = str(article.summary)
+        self.source = source
+
+    def to_dict(self):
+        return {
+            "title": self.title,
+            "text": self.text,
+            "authors": self.authors,
+            "published_date": self.published_date,
+            "top_image": self.top_image,
+            "videos": self.videos,
+            "keywords": self.keywords,
+            "summary": self.summary,
+            "source": self.source
+        }
+
+    def to_text(self):
+        return f"""TITLE: {self.title} \n\nSOURCE: {self.source} \n\n{self.text}
+        """
+
+    def to_json(self):
+        return json.dumps(self.to_dict(), indent=4)
+
+# Pydantic code to check schema of the articles
+class ArticleSchema(BaseModel):
+    id: Optional[ObjectId] = Field(default_factory=ObjectId, alias="_id")
+    articleID: str
+    title: str
+    content: dict
+    sources: dict
+    published_date: str
+
+    class Config:
+        arbitrary_types_allowed = True
+        json_encoders = {ObjectId: str}
+
+class DailyArticleSchema(BaseModel):
+    id: Optional[ObjectId] = Field(default_factory=ObjectId, alias="_id")
+    date: str
+    articles: dict
+
+    class Config:
+        arbitrary_types_allowed = True
+        json_encoders = {ObjectId: str}
+
+class Mongo_Helper:
+    def __init__(self):
+        self.uri = f"mongodb+srv://{MONGODB_USERNAME}:{MONGODB_PASSWORD}@news-db.qlbnkzp.mongodb.net/?retryWrites=true&w=majority&appName=news-db"
+
+        # Create a new client and connect to the server
+        self.client = MongoClient(self.uri, server_api=ServerApi('1'))
+
+
+    def upload_article(self, article_data):
+        try:
+            article = ArticleSchema(**article_data)
+            db = self.client['news-db']
+            collection = db['articles']
+
+            collection.insert_one(article.dict(by_alias=True))
+        except PyMongoError as e:
+            print(f"Database error: {e}")
+        except ValidationError as e:
+            print(f"Validation error: {e}")
+
+    def upload_daily_articles(self, daily_articles_data):
+        try:
+            daily_articles = DailyArticleSchema(**daily_articles_data)
+            db = self.client['news-db']
+            collection = db['daily_articles']
+
+            collection.insert_one(daily_articles.dict(by_alias=True))
+        except PyMongoError as e:
+            print(f"Database error: {e}")
+        except ValidationError as e:
+            print(f"Validation error: {e}")
+
+# pp = pprint.PrettyPrinter(indent=4)
 
 def grab_news():
     api = NewsApiClient(api_key=str(NEWS_API_KEY))
@@ -61,12 +157,15 @@ def push_headlines_to_pinecone(source_articles):
 
     #pass this title/description to openAI text-embedding-3-small
     for source, articles in to_be_embedded.items():
+        if len(articles) == 0:
+            continue
+
         embedded_headlines[source] = client.embeddings.create(
             model="text-embedding-3-small",
             input=articles
         )
 
-    pbar = tqdm.tqdm(total=total_article_count, desc="Uploading Articles")
+    # pbar = tqdm.tqdm(total=total_article_count, desc="Uploading Articles")
 
     for source, articles in source_articles.items():
         #Iterate through each article
@@ -90,7 +189,7 @@ def push_headlines_to_pinecone(source_articles):
                 ]
             )
 
-            pbar.update(1)
+            # pbar.update(1)
 
 def group_articles(source_articles, epsilon):
     organized_headlines = {}
@@ -103,11 +202,11 @@ def group_articles(source_articles, epsilon):
 
     total_article_count = sum(len(articles) for articles in source_articles.values())
 
-    pbar = tqdm.tqdm(total=total_article_count, desc="Grouping Articles")
+    # pbar = tqdm.tqdm(total=total_article_count, desc="Grouping Articles")
 
     #Iterate through each article
     for source, articles in source_articles.items():
-        pbar.update(len(articles))
+        # pbar.update(len(articles))
         for i in range(len(articles)):
 
             article = articles[i]
@@ -258,7 +357,7 @@ def upload_generated_articles(grouped_articles):
         daily_articles["articles"][article["articleID"]]["title"]  = article["title"]
         daily_articles["articles"][article["articleID"]]["description"]  = article["content"]["Universally Agreed"]
 
-        pp.pprint(article)
+        # pp.pprint(article)
 
         uploader.upload_article(article)
 
@@ -271,6 +370,8 @@ def upload_generated_articles(grouped_articles):
 if __name__ == "__main__":
     source_articles = grab_news()
 
+    # print("GRABBED NEWS")
+
     # pprint.pp(source_articles)
 
     # with open("source_articles.json", "w") as file:
@@ -281,6 +382,8 @@ if __name__ == "__main__":
 
     push_headlines_to_pinecone(source_articles)
 
+    # print("PUSHED HEADLINES TO PINECONE")
+
     grouped_articles = dict(sorted(group_articles(source_articles, 0.5).items(), key = lambda x : len(x[1]), reverse=True))
 
     # with open("grouped_articles.json", "w") as file:
@@ -290,6 +393,8 @@ if __name__ == "__main__":
         # grouped_articles = json.load(file)
 
     generated_articles = upload_generated_articles(grouped_articles)
+
+    # print("UPLOADED GENERATED ARTICLES")
 
     # with open("generated_articles.json", "w") as file:
         # json.dump(generated_articles, file, indent=4)
