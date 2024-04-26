@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Tapestry",
-  description: "Tapestry of news",
+  description: "Weaving together the threads to form a tapestry of news.",
 };
 
 export default function RootLayout({

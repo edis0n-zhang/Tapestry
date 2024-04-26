@@ -5,6 +5,8 @@ import { DatePicker } from "../../components/DatePicker";
 import { MongoClient } from "mongodb";
 import { DailyArticles } from "../../types/daily_articles";
 
+import Head from "next/head";
+
 interface ArticleListingsPageProps {
   params: { cur_day: string };
 }
@@ -37,6 +39,9 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       <div
         className={`min-h-screen dark:bg-zinc-900 bg-zinc-50  ease-in-out duration-300 text-zinc-900 dark:text-zinc-50 ${sans.className}`}
       >
+        <Head>
+          <meta property="og:image" content="/favicon.ico" />
+        </Head>
         <Header />
         <div
           className={`mt-5 flex h-full flex-col px-8 md:px-48 ${sans.className}`}

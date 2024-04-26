@@ -45,7 +45,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     return (
       <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100  text-slate-900">
         <Head>
-          <title>{article.title}</title>
+          <meta property="og:title" content={`${article.title}`} />
         </Head>
         <Header />
         <div
