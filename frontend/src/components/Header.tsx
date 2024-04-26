@@ -73,16 +73,14 @@ const Header = () => {
                 : LightLogo
             }
             alt="Logo"
-            className="w-8 h-8 md:w-12 md:h-10 mr-2"
+            className="w-32 h-8 md:w-48 md:h-12 mr-2"
           />
         </Link>
         <Link
           href={`/${formattedDate}`}
-          className={`mr-3 text-lg font-bold md:mr-8 md:text-2xl ${mono.className}`}
+          className={`mr-3 text-lg font-bold md:mr-8 md:text-3xl ${mono.className}`}
           prefetch={true}
-        >
-          TAPESTRY
-        </Link>
+        ></Link>
       </div>
 
       {/* Navigation (currently commented out) */}
