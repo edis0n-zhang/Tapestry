@@ -8,6 +8,10 @@ import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { useTheme } from "next-themes";
 
+import { Button } from "@/components/ui/button";
+
+import { CornerUpLeft } from "lucide-react";
+
 import { IBM_Plex_Mono } from "next/font/google";
 
 const mono = IBM_Plex_Mono({
@@ -43,6 +47,8 @@ const Header = () => {
   const day = String(yesterday.getDate()).padStart(2, "0");
 
   const formattedDate = `${year}-${month}-${day}`;
+
+  const isSecondPath = pathname.split("/").length > 2;
 
   return (
     <header
@@ -81,6 +87,18 @@ const Header = () => {
       <div className="text-s mr-auto block items-center text-xs md:text-base">
         {/* Navigation links can be uncommented and used here */}
       </div>
+
+      {isSecondPath && (
+        <Button
+          variant="outline"
+          size="icon"
+          className="bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
+        >
+          <Link href={`/${formattedDate}`} prefetch={true}>
+            <CornerUpLeft />
+          </Link>
+        </Button>
+      )}
 
       <LightSwitch />
     </header>
