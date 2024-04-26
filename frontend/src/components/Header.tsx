@@ -73,7 +73,7 @@ const Header = () => {
                 : LightLogo
             }
             alt="Logo"
-            className="w-32 h-8 md:w-48 md:h-12 mr-2"
+            className="w-32 h-8 md:w-48 md:h-8"
           />
         </Link>
         <Link
