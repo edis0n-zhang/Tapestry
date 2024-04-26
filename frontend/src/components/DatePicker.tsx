@@ -3,7 +3,7 @@
 import * as React from "react";
 import { format, parseISO } from "date-fns";
 import { Calendar as CalendarIcon } from "lucide-react";
-import { redirect, usePathname, useSearchParams } from "next/navigation";
+import { redirect, usePathname } from "next/navigation";
 
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -17,7 +17,6 @@ import {
 export function DatePicker() {
   const [date, setDate] = React.useState<Date>();
   const pathname = usePathname();
-  const [searchParams] = useSearchParams();
 
   // Extract date from URL path or search parameters
   const urlDateParts = pathname.split("/");
