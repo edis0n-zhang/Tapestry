@@ -43,9 +43,16 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     // Handle any errors that occurred during data fetching
     console.error("Error fetching articles:", error);
     return (
-      <div className="container mx-auto px-4 py-8">
-        <h1 className="text-4xl font-bold mb-8">Error</h1>
-        <p>An error occurred while fetching articles.</p>
+      <div className="min-h-screen dark:bg-black">
+        <Header />
+        <div className="mt-5 flex h-full flex-col px-10 md:px-48">
+          <div className="mt-2">
+            <DatePicker />
+          </div>
+          <div className="container mx-auto px-4 py-8">
+            <p>No articles for this date.</p>
+          </div>
+        </div>
       </div>
     );
   }

@@ -13,6 +13,7 @@ const Header = () => {
         <Link
           href="/"
           className="ml-2 mr-3 text-sm font-bold md:ml-4 md:mr-8 md:text-xl"
+          prefetch={true}
         >
           News Piece
         </Link>
