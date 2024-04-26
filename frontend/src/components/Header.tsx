@@ -6,12 +6,23 @@ import { usePathname } from "next/navigation";
 
 const Header = () => {
   const pathname = usePathname();
+
+  const today = new Date();
+  const yesterday = new Date(today);
+  yesterday.setDate(today.getDate() - 1);
+
+  const year = yesterday.getFullYear();
+  const month = String(yesterday.getMonth() + 1).padStart(2, "0");
+  const day = String(yesterday.getDate()).padStart(2, "0");
+
+  const formattedDate = `${year}-${month}-${day}`;
+
   return (
     <header className="flex items-center justify-between px-2 pt-4 md:px-32">
       <div className="flex items-center">
         <Newspaper />
         <Link
-          href="/"
+          href={`/${formattedDate}`}
           className="ml-2 mr-3 text-sm font-bold md:ml-4 md:mr-8 md:text-xl"
           prefetch={true}
         >
