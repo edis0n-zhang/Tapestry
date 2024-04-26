@@ -50,6 +50,8 @@ const Header = () => {
 
   const isSecondPath = pathname.split("/").length > 2;
 
+  const firstPath = `/${pathname.split("/")[1]}`;
+
   return (
     <header
       className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
@@ -94,7 +96,7 @@ const Header = () => {
           size="icon"
           className="bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
         >
-          <Link href={`/${formattedDate}`} prefetch={true}>
+          <Link href={`${firstPath}`} prefetch={true}>
             <CornerUpLeft />
           </Link>
         </Button>
