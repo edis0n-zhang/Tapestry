@@ -72,6 +72,8 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
                   </Head>
                   <a
                     href={article.sources[source]}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="text-2xl font-semibold duration-300 ease-in-out hover:text-blue-400 dark:hover:text-blue-600 flex items-center"
                   >
                     <span>{source}</span>
