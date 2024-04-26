@@ -23,7 +23,7 @@ const mono = IBM_Plex_Mono({
 const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
-  const { theme, systemTheme } = useTheme();
+  const { resolvedTheme } = useTheme();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -67,11 +67,7 @@ const Header = () => {
           prefetch={true}
         >
           <Image
-            src={
-              theme === "dark" || (theme == "system" && systemTheme === "dark")
-                ? DarkLogo
-                : LightLogo
-            }
+            src={resolvedTheme === "dark" ? DarkLogo : LightLogo}
             alt="Logo"
             className="w-32 h-8 md:w-48 md:h-8"
           />
