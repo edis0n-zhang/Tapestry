@@ -1,23 +1,27 @@
 import ArticleCard from "./ArticleCard";
-import { Article } from "../types/article";
 
-interface ArticleListingProps {
-  Articles: Article[];
+interface ArticleListing {
+  title: string;
+  description: string;
 }
 
-const ArticleListings: React.FC<ArticleListingProps> = ({ Articles }) => {
+interface ArticleListingsProps {
+  articles: Record<string, ArticleListing>;
+}
+
+const ArticleListings: React.FC<ArticleListingsProps> = ({ articles }) => {
+  if (!articles) {
+    return <div>No articles available.</div>;
+  }
+
   return (
     <div>
-      {Articles.map((Article) => (
-        <div key={Article.id} className="mb-5">
+      {Object.entries(articles).map(([articleID, article]) => (
+        <div key={articleID} className="mb-5">
           <ArticleCard
-            title={Article.title}
-            date={Article.date}
-            content={Article.content}
-            id={Article.id}
-            category={Article.category}
-            tags={Article.tags}
-            image={Article.image}
+            articleID={articleID}
+            title={article.title}
+            description={article.description}
           />
         </div>
       ))}
