@@ -44,7 +44,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
         </Head>
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-48 ${sans.className}`}
+          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />
@@ -60,11 +60,11 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     console.error("Error fetching articles:", error);
     return (
       <div
-        className={`min-h-screen dark:bg-zinc-900 bg-zinc-50  ease-in-out duration-300 text-zinc-900 dark:text-zinc-50 ${sans.className}`}
+        className={`min-h-screen dark:bg-zinc-900 bg-zinc-50 ease-in-out duration-300 text-zinc-900 dark:text-zinc-50 ${sans.className}`}
       >
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-48 ${sans.className}`}
+          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />

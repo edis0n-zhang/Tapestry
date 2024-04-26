@@ -57,7 +57,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
         </Head>
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-6 lg:px-96 md:px-48 ${sans.className}`}
+          className={`mt-5 flex h-full flex-col px-6 lg:px-96 md:px-24 ${sans.className}`}
         >
           <div className="container mx-auto max-w-4xl px-4 py-8">
             <h1 className="text-2xl md:text-3xl font-bold">{article.title}</h1>
