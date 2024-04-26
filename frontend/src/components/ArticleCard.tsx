@@ -29,7 +29,7 @@ const ArticleCard: React.FC<ArticleCardProps> = ({
   const pathname = usePathname();
 
   return (
-    <Card className="group w-full max-w-full overflow-hidden rounded-lg border">
+    <Card className="group w-full max-w-full overflow-hidden rounded-lg border dark:border-zinc-700 dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100 text-slate-900 shadow-md dark:shadow-zinc-700/20">
       <Link
         className="flex gap-0.5"
         href={`${pathname}/${articleID}`}

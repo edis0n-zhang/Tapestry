@@ -3,9 +3,13 @@ import Header from "../../../components/Header";
 import { MongoClient } from "mongodb";
 import { Article } from "../../../types/article";
 
+import { ExternalLink } from "lucide-react";
+
 interface ArticlePageProps {
   params: { articleID: string };
 }
+
+import Head from "next/head";
 
 const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
@@ -32,32 +36,42 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     await client.close();
 
     return (
-      <div className="min-h-screen dark:bg-black">
+      <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100  text-slate-900">
+        <Head>
+          <title>{article.title}</title>
+        </Head>
         <Header />
-        <div className="mt-5 flex h-full flex-col px-10 md:px-48">
+        <div className="mt-5 flex h-full flex-col px-10 lg:px-96 md:px-48 sm:px-0">
           <div className="container mx-auto max-w-4xl px-4 py-8">
             <h1 className="text-3xl font-bold">{article.title}</h1>
             {Object.entries(article.content).map(([source, content], index) => {
               // Skip rendering if the content key is "Title" (or adjust the condition based on your data structure)
               if (source === "Title") return null;
+              if (source == "Universally Agreed") {
+                return (
+                  <div key={index} className="mt-4 py-4">
+                    <h2 className="text-2xl font-semibold">{source}</h2>
+                    <p className="mt-1 text-lg">{content}</p>
+                  </div>
+                );
+              }
 
               return (
                 <div key={index} className="mt-4 py-4">
-                  <h2 className="text-2xl font-semibold">{source}</h2>
+                  <Head>
+                    <title>Error</title>
+                  </Head>
+                  <a
+                    href={article.sources[source]}
+                    className="text-2xl font-semibold duration-300 ease-in-out hover:text-blue-400 dark:hover:text-blue-600 flex items-center"
+                  >
+                    <span>{source}</span>
+                    <ExternalLink size={24} className="ml-3" />
+                  </a>
                   <p className="mt-1 text-lg">{content}</p>
                 </div>
               );
             })}
-            <div className="mt-4">
-              <h2 className="text-2xl font-semibold">Sources:</h2>
-              {Object.entries(article.sources).map(([source, url], index) => (
-                <p key={index}>
-                  <a href={url} className="text-blue-600 hover:underline">
-                    {source}
-                  </a>
-                </p>
-              ))}
-            </div>
           </div>
         </div>
       </div>

@@ -34,22 +34,22 @@ export function DatePicker() {
 
   return (
     <Popover>
-      <div className="flex items-center">
-        <div className="text-3xl font-bold">
-          <span>{formattedDisplayDate}</span>
+      <div className="flex items-center justify-between md:justify-normal">
+        <div className="text-2xl font-semibold md:text-3xl md:font-bold dark:text-slate-100  text-slate-900">
+          <span>{formattedDisplayDate}'s Report</span>
         </div>
         <PopoverTrigger asChild>
           <Button
             className={cn(
-              "dark:bg-background bg-background ml-3 h-16 justify-start bg-opacity-0 hover:bg-gray-100 dark:hover:bg-gray-700",
+              "dark:bg-background md:mx-1 bg-background h-16 justify-start bg-opacity-0 hover:bg-gray-100 dark:hover:bg-gray-700",
               !date && "text-muted-foreground",
             )}
           >
-            <CalendarIcon className="h-10 w-10 stroke-black dark:stroke-white" />
+            <CalendarIcon className="h-7 w-7 md:h-10 md:w-10 stroke-black dark:stroke-white" />
           </Button>
         </PopoverTrigger>
       </div>
-      <PopoverContent className="w-auto p-0 ">
+      <PopoverContent className="w-auto p-0 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700">
         <Calendar
           mode="single"
           selected={displayDate}

@@ -27,9 +27,9 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     await client.close();
 
     return (
-      <div className="min-h-screen dark:bg-black">
+      <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50  ease-in-out duration-300">
         <Header />
-        <div className="mt-5 flex h-full flex-col px-10 md:px-48">
+        <div className="mt-5 flex h-full flex-col px-8 md:px-48">
           <div className="mt-2">
             <DatePicker />
           </div>
@@ -43,7 +43,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     // Handle any errors that occurred during data fetching
     console.error("Error fetching articles:", error);
     return (
-      <div className="min-h-screen dark:bg-black">
+      <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50  ease-in-out duration-300">
         <Header />
         <div className="mt-5 flex h-full flex-col px-10 md:px-48">
           <div className="mt-2">
