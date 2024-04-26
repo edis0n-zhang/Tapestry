@@ -38,10 +38,10 @@ const ArticleCard: React.FC<ArticleCardProps> = ({
         <div className="w-full">
           {/* <Link className="block" href="#"> */}
           <div className="p-4">
-            <h3 className="delay-50 truncate text-lg font-semibold transition duration-300 ease-in-out group-hover:text-blue-400 dark:group-hover:text-blue-600">
+            <h3 className="delay-50 text-md md:text-lg font-semibold transition duration-300 ease-in-out group-hover:text-blue-400 dark:group-hover:text-blue-600 line-clamp-2 md:line-clamp-1">
               {title}
             </h3>
-            <p className="mt-3 line-clamp-2 text-sm text-gray-500">
+            <p className="mt-2 md:mt-3 line-clamp-4 text-sm text-gray-500 md:line-clamp-2">
               {description}
             </p>
           </div>

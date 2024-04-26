@@ -12,6 +12,13 @@ import { Button } from "@/components/ui/button";
 
 import { CornerUpLeft } from "lucide-react";
 
+import { Open_Sans } from "next/font/google";
+
+const sans = Open_Sans({
+  subsets: ["latin"],
+  display: "swap",
+});
+
 import { IBM_Plex_Mono } from "next/font/google";
 
 const mono = IBM_Plex_Mono({
@@ -69,7 +76,7 @@ const Header = () => {
           <Image
             src={resolvedTheme === "dark" ? DarkLogo : LightLogo}
             alt="Logo"
-            className="w-32 h-8 md:w-48 md:h-8"
+            className="w-24 h-8 md:w-32"
           />
         </Link>
         <Link
@@ -80,8 +87,20 @@ const Header = () => {
       </div>
 
       {/* Navigation (currently commented out) */}
-      <div className="text-s mr-auto block items-center text-xs md:text-base">
+      <div
+        className={`text-s mr-auto block items-center text-xs md:text-base ${sans.className}`}
+      >
         {/* Navigation links can be uncommented and used here */}
+        {/* <Link
+          href="/about"
+          className={
+            pathname === "/sports"
+              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-4 hover:opacity-80"
+          }
+        >
+          About
+        </Link> */}
       </div>
 
       {isSecondPath && (

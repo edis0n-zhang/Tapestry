@@ -5,6 +5,10 @@ import { Article } from "../../../types/article";
 
 import { ExternalLink } from "lucide-react";
 
+import readingTime from "reading-time";
+
+import { format } from "date-fns";
+
 interface ArticlePageProps {
   params: { articleID: string };
 }
@@ -42,6 +46,10 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     // Close the MongoDB connection
     await client.close();
 
+    const { text: readingTimeText } = readingTime(
+      Object.values(article.content).join(" "),
+    );
+
     return (
       <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100  text-slate-900">
         <Head>
@@ -52,22 +60,34 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
           className={`mt-5 flex h-full flex-col px-6 lg:px-96 md:px-48 ${sans.className}`}
         >
           <div className="container mx-auto max-w-4xl px-4 py-8">
-            <h1 className="text-3xl font-bold">{article.title}</h1>
+            <h1 className="text-2xl md:text-3xl font-bold">{article.title}</h1>
+            <div className="mt-2 md:mt-3 text-md md:text-lg text-gray-500">
+              <span>
+                {`Generated on ${format(
+                  new Date(article.published_date),
+                  "MMMM d, yyyy",
+                )}`}
+              </span>
+              <span className="mx-2">·</span>
+              <span>{readingTimeText}</span>
+            </div>
             {Object.entries(article.content).map(([source, content], index) => {
               // Skip rendering if the content key is "Title" (or adjust the condition based on your data structure)
               if (source === "Title") return null;
               if (content == "OUTLIER") return null;
               if (source == "Universally Agreed") {
                 return (
-                  <div key={index} className="mt-4 py-4">
-                    <h2 className="text-2xl font-semibold">{source}</h2>
-                    <p className="mt-1 text-lg">{content}</p>
+                  <div key={index} className="mt-1 md:mt-2 py-4">
+                    <h2 className="text-xl md:text-2xl font-semibold">
+                      {source}
+                    </h2>
+                    <p className="mt-1 text-md md:text-lg">{content}</p>
                   </div>
                 );
               }
 
               return (
-                <div key={index} className="mt-4 py-4">
+                <div key={index} className="mt-1 md:mt-2 py-4">
                   <Head>
                     <title>Error</title>
                   </Head>
@@ -75,12 +95,12 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
                     href={article.sources[source]}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="text-2xl font-semibold duration-300 ease-in-out hover:text-blue-400 dark:hover:text-blue-600 flex items-center"
+                    className="text-xl md:text-2xl font-semibold duration-300 ease-in-out hover:text-blue-400 dark:hover:text-blue-600 flex items-center"
                   >
                     <span>{source}</span>
                     <ExternalLink size={24} className="ml-3" />
                   </a>
-                  <p className="mt-1 text-lg">{content}</p>
+                  <p className="mt-1 text-md md:text-lg">{content}</p>
                 </div>
               );
             })}
