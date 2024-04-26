@@ -56,6 +56,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
             {Object.entries(article.content).map(([source, content], index) => {
               // Skip rendering if the content key is "Title" (or adjust the condition based on your data structure)
               if (source === "Title") return null;
+              if (content == "OUTLIER") return null;
               if (source == "Universally Agreed") {
                 return (
                   <div key={index} className="mt-4 py-4">
