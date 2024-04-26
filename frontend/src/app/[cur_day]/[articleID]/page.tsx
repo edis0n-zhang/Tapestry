@@ -11,6 +11,13 @@ interface ArticlePageProps {
 
 import Head from "next/head";
 
+import { Open_Sans } from "next/font/google";
+
+const sans = Open_Sans({
+  subsets: ["latin"],
+  display: "swap",
+});
+
 const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
     const { articleID } = params;
@@ -41,7 +48,9 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
           <title>{article.title}</title>
         </Head>
         <Header />
-        <div className="mt-5 flex h-full flex-col px-10 lg:px-96 md:px-48 sm:px-0">
+        <div
+          className={`mt-5 flex h-full flex-col px-10 lg:px-96 md:px-48 sm:px-0 ${sans.className}`}
+        >
           <div className="container mx-auto max-w-4xl px-4 py-8">
             <h1 className="text-3xl font-bold">{article.title}</h1>
             {Object.entries(article.content).map(([source, content], index) => {

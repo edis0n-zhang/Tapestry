@@ -10,7 +10,6 @@ import { useTheme } from "next-themes";
 
 import { IBM_Plex_Mono } from "next/font/google";
 
-// If loading a variable font, you don't need to specify the font weight
 const mono = IBM_Plex_Mono({
   subsets: ["latin"],
   display: "swap",
