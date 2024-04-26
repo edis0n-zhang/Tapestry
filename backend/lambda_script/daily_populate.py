@@ -272,16 +272,16 @@ def generate_article(articles, sources):
     Follow this format for the generated article:
 
     1. Title:
-        - The title should the general topic / idea of the articles passed in
+        - The title should the general topic / idea of the articles passed in and capture the most important aspect of the news
         - Should at most be 1 sentence long
     2. Universally Agreed Section:
         - This section should be in a journalistic / news style reporting and summarizing all of the information that is being reported and agreed upon by all sources.
         - Only include facts that are consistently reported across all sources.
         - This section should at most be 3 paragraphs long.
-    3. Disputed Sections:
-        - Create a separate "Disputed Section" for each news source provided.
+    3. Source Sections:
+        - Create a separate section for each news source provided.
         - Title each disputed section with the name of the corresponding news source.
-        - Within each disputed section, write a passage containing facts or a certain perspective that only the specific news source is reporting on.
+        - Within each section generate a summary of the article provided by the source, highlighting any unique perspectives or additional details that are not present in the universally agreed-upon section.
 
     Prioritize accuracy above all else when generating the article. Ensure that the information presented is factual and well-supported by the provided sources. Maintain a professional and neutral tone throughout the article, avoiding any bias or opinion.
 
