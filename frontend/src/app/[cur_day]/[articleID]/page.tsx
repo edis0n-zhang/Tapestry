@@ -1,6 +1,5 @@
 import Header from "../../../components/Header";
 
-import { MongoClient } from "mongodb";
 import { Article } from "../../../types/article";
 
 import { ExternalLink } from "lucide-react";
@@ -27,24 +26,48 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     const { articleID } = params;
 
     // Connect to MongoDB
-    const client = await MongoClient.connect(process.env.MONGODB_URI!);
-    const db = client.db("news-db");
+    // const client = await MongoClient.connect(process.env.MONGODB_URI!);
+    // const db = client.db("news-db");
 
-    // Fetch articles for the specified day from MongoDB
-    const articles = await db
-      .collection<Article>("articles")
-      .find({ articleID: articleID })
-      .toArray();
+    // // Fetch articles for the specified day from MongoDB
+    // const articles = await db
+    //   .collection<Article>("articles")
+    //   .find({ articleID: articleID })
+    //   .toArray();
 
-    // Check if articles were found
-    if (articles.length === 0) {
-      throw new Error("No article found.");
-    }
+    // // Check if articles were found
+    // if (articles.length === 0) {
+    //   throw new Error("No article found.");
+    // }
 
-    const article = articles[0];
+    // const article = articles[0];
 
-    // Close the MongoDB connection
-    await client.close();
+    // // Close the MongoDB connection
+    // await client.close();
+
+    const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
+    const url =
+      "https://us-west-2.aws.data.mongodb-api.com/app/data-wipruvo/endpoint/data/v1/action/findOne";
+
+    const headers = {
+      "Content-Type": "application/json",
+      "api-key": apiKey,
+    };
+
+    const body = {
+      collection: "articles",
+      database: "news-db",
+      dataSource: "news-db",
+      filter: { articleID: articleID },
+    };
+
+    const response = await fetch(url, {
+      method: "POST",
+      headers: headers,
+      body: JSON.stringify(body),
+    });
+
+    const article: Article = (await response.json()).document; // Properly handle the JSON parsing
 
     const { text: readingTimeText } = readingTime(
       Object.values(article.content).join(" "),
