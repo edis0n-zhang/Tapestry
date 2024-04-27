@@ -2,7 +2,6 @@ import Header from "../../components/Header";
 import ArticleListings from "../../components/ArticleListings";
 import { DatePicker } from "../../components/DatePicker";
 
-import { MongoClient } from "mongodb";
 import { DailyArticles } from "../../types/daily_articles";
 
 import Head from "next/head";
@@ -21,19 +20,33 @@ const sans = Open_Sans({
 const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
   try {
     const { cur_day } = params;
+    const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
+    const url =
+      "https://us-west-2.aws.data.mongodb-api.com/app/data-wipruvo/endpoint/data/v1/action/findOne";
 
-    // Connect to MongoDB
-    const client = await MongoClient.connect(process.env.MONGODB_URI!);
-    const db = client.db("news-db");
+    const headers = {
+      "Content-Type": "application/json",
+      "api-key": apiKey,
+    };
 
-    // Fetch articles for the specified day from MongoDB
-    const articles = await db
-      .collection<DailyArticles>("daily_articles")
-      .find({ date: cur_day })
-      .toArray();
+    const body = {
+      collection: "daily_articles",
+      database: "news-db",
+      dataSource: "news-db",
+      filter: { date: cur_day },
+    };
 
-    // Close the MongoDB connection
-    await client.close();
+    const response = await fetch(url, {
+      method: "POST",
+      headers: headers,
+      body: JSON.stringify(body),
+    });
+
+    const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
+
+    if (!response.ok) {
+      throw new Error("Failed to fetch articles from MongoDB");
+    }
 
     return (
       <div
@@ -50,7 +63,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
             <DatePicker />
           </div>
           <div className="mt-5 flex-grow">
-            <ArticleListings articles={articles[0].articles} />
+            <ArticleListings articles={data.articles} />
           </div>
         </div>
       </div>
