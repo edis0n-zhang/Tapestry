@@ -35,7 +35,7 @@ export function DatePicker() {
   return (
     <Popover>
       <div className="flex items-center justify-between md:justify-normal">
-        <div className="text-2xl font-semibold md:text-3xl md:font-bold dark:text-slate-100  text-slate-900">
+        <div className="text-2xl font-bold md:text-3xl dark:text-slate-100  text-slate-900">
           <span>{formattedDisplayDate}</span>
         </div>
         <PopoverTrigger asChild>
