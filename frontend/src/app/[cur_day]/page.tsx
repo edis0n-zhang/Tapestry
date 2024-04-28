@@ -27,6 +27,13 @@ export const metadata: Metadata = {
 const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
   try {
     const { cur_day } = params;
+
+    // Check if cur_day is ahead of the current date
+    const currentDate = new Date().toISOString().split("T")[0];
+    if (cur_day >= currentDate) {
+      throw new Error("Invalid date: cur_day is ahead of the current date");
+    }
+
     const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
     const url =
       "https://us-west-2.aws.data.mongodb-api.com/app/data-wipruvo/endpoint/data/v1/action/findOne";
@@ -47,7 +54,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 600 },
+      next: { revalidate: 3600 },
     });
 
     const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
