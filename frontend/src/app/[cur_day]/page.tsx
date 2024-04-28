@@ -31,7 +31,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     // Check if cur_day is ahead of the current date
     const currentDate = new Date().toISOString().split("T")[0];
     if (cur_day >= currentDate) {
-      throw new Error("Invalid date: cur_day is ahead of the current date");
+      throw new Error("Date selected is ahead of the populated dates");
     }
 
     const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
@@ -57,11 +57,11 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       next: { revalidate: 3600 },
     });
 
-    const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
-
     if (!response.ok) {
       throw new Error("Failed to fetch articles from MongoDB");
     }
+
+    const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
 
     return (
       <div
@@ -92,13 +92,13 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       >
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />
           </div>
-          <div className="container mx-auto px-4 py-8">
-            <p>No articles for this date.</p>
+          <div className="mt-2 md:mt-3 flex-grow">
+            <p>{`${error}`}</p>
           </div>
         </div>
       </div>
