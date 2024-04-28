@@ -6,7 +6,7 @@ import { ExternalLink } from "lucide-react";
 
 import readingTime from "reading-time";
 
-import { format, addDays } from "date-fns";
+import { format } from "date-fns";
 
 interface ArticlePageProps {
   params: { articleID: string };
@@ -81,7 +81,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
             <div className="mt-2 md:mt-3 text-md md:text-lg text-gray-500">
               <span>
                 {`Generated on ${format(
-                  addDays(new Date(article.published_date), 1),
+                  new Date(article.published_date),
                   "MMMM d, yyyy",
                 )}`}
               </span>
