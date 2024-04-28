@@ -47,7 +47,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 3600 },
+      next: { revalidate: 600 },
     });
 
     const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
