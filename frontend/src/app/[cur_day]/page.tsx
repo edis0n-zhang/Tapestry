@@ -54,7 +54,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 3600 },
+      next: { revalidate: 86400 },
     });
 
     if (!response.ok) {

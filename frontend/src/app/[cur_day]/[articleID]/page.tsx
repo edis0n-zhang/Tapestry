@@ -45,7 +45,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 3600 },
+      next: { revalidate: 86400 },
     });
 
     const article: Article = (await response.json()).document; // Properly handle the JSON parsing
