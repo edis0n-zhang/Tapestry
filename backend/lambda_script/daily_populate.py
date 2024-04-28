@@ -142,21 +142,48 @@ def group_articles(source_articles, epsilon):
 
                 response_source = match['metadata']['source']
                 response_url = match['metadata']['url']
+                response_id = match['id']
 
                 #If the articles already exist in the dictionary, don't add them again
                 if (response_url in used_articles):
                     continue
 
                 #if both conditions have been passed, then append article to the list of similar headlines
-                similar_headlines.append((response_url, response_source))
+                similar_headlines.append((response_url, response_source, response_id))
                 seen_sources.add(response_source)
 
             #add similar_headlines list to dict
             if len(similar_headlines) >= 3:
                 # similar_headlines.append((article_url, source))
                 organized_headlines[len(organized_headlines)] = similar_headlines
-                for url, source in similar_headlines:
+                for url, source, id in similar_headlines:
                     used_articles.add(url)
+    
+    #For each grouping of articles:
+    for group in organized_headlines.values():
+        #Go through every article
+        for article in group: 
+            #article is a tuple (url, source, id)
+            id = article[2]
+            #Query that article to find similar articles
+            query_response = index.query(
+                id= id,
+                top_k=14,
+                include_values=False,
+                include_metadata=True,
+                filter={"date" : previous_day}
+            )
+            for match in query_response["matches"]:
+                #match is a dictionary with keys "id", "score", "metadata". Metadata is a dictionary with keys "source", "url"
+                #If the score is too low, we can stop looking for matches
+                if match["score"] < epsilon:
+                    break
+                #If the article is already in the group, don't add it again. 
+                #We can use the condition of it belonging to any of the previous sources as a high enough bar
+                if match["metadata"]["source"] in [x[1] for x in group]:
+                    continue
+                #otherwise, append to the group
+                group.append((match["metadata"]["url"], match["metadata"]["source"], match["id"]))    
 
     return organized_headlines
 
