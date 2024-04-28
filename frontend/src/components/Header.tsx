@@ -31,6 +31,7 @@ const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
   const { resolvedTheme } = useTheme();
+  const [logo, setLogo] = useState(LightLogo);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -44,6 +45,10 @@ const Header = () => {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
+
+  useEffect(() => {
+    setLogo(resolvedTheme === "dark" ? DarkLogo : LightLogo);
+  }, [resolvedTheme]);
 
   const today = new Date();
   const yesterday = new Date(today);
@@ -73,11 +78,7 @@ const Header = () => {
           className="text-sm font-bold md:text-xl"
           prefetch={true}
         >
-          <Image
-            src={resolvedTheme === "dark" ? DarkLogo : LightLogo}
-            alt="Logo"
-            className="w-24 h-8 md:w-32"
-          />
+          <Image src={logo} alt="Logo" className="w-24 h-8 md:w-32" />
         </Link>
         <Link
           href={`/${formattedDate}`}
@@ -90,17 +91,36 @@ const Header = () => {
       <div
         className={`text-s mr-auto block items-center text-xs md:text-base ${sans.className}`}
       >
-        {/* Navigation links can be uncommented and used here */}
         {/* <Link
-          href="/about"
-          className={
-            pathname === "/sports"
-              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
-              : "mr-4 hover:opacity-80"
-          }
-        >
-          About
-        </Link> */}
+        href="/about"
+        className={
+          pathname === "/about"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        About
+      </Link>
+      <Link
+        href="/team"
+        className={
+          pathname === "/team"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        Meet The Team
+      </Link>
+      <Link
+        href="/contact"
+        className={
+          pathname === "/contact"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        Contact
+      </Link> */}
       </div>
 
       {isSecondPath && (
