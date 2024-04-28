@@ -29,8 +29,17 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
     const { cur_day } = params;
 
     // Check if cur_day is ahead of the current date
-    const currentDate = new Date().toISOString().split("T")[0];
-    if (cur_day >= currentDate) {
+    const currentDate = new Date().toLocaleString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    });
+
+    const [month, day, year] = currentDate.split("/");
+    const formattedCurrentDate = `${year}-${month}-${day}`;
+
+    if (cur_day >= formattedCurrentDate) {
       throw new Error("Date selected is ahead of the populated dates");
     }
 

@@ -6,7 +6,7 @@ import { ExternalLink } from "lucide-react";
 
 import readingTime from "reading-time";
 
-import { format } from "date-fns";
+import { format, addDays } from "date-fns";
 
 interface ArticlePageProps {
   params: { articleID: string };
@@ -24,6 +24,22 @@ const sans = Open_Sans({
 const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
     const { articleID } = params;
+
+    const cur_day = articleID.substring(0, articleID.length - 1);
+
+    // Check if cur_day is ahead of the current date
+    const currentDate = new Date().toLocaleString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    });
+
+    const formattedCurrentDate = currentDate.split("/").reverse().join("-");
+
+    if (cur_day >= formattedCurrentDate) {
+      throw new Error("Date selected is ahead of the populated dates");
+    }
 
     const apiKey = process.env.MONGODB_API_KEY!;
     const url =
@@ -65,7 +81,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
             <div className="mt-2 md:mt-3 text-md md:text-lg text-gray-500">
               <span>
                 {`Generated on ${format(
-                  new Date(article.published_date),
+                  addDays(new Date(article.published_date), 1),
                   "MMMM d, yyyy",
                 )}`}
               </span>
