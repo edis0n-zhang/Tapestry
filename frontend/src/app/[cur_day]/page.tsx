@@ -65,7 +65,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
         </Head>
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />
