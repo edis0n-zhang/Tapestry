@@ -6,8 +6,8 @@ import "./globals.css";
 const sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tapestry",
-  description: "Weaving together the threads to form a tapestry of news.",
+  title: "Tapestry Article",
+  description: "News. Easy.",
 };
 
 export default function RootLayout({

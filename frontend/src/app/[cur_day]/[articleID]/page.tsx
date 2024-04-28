@@ -20,7 +20,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Tapestry Article",
-  description: "Weaving together the threads to form a tapestry of news.",
+  description: "News. Easy.",
 };
 
 const sans = Open_Sans({
@@ -32,27 +32,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
     const { articleID } = params;
 
-    // Connect to MongoDB
-    // const client = await MongoClient.connect(process.env.MONGODB_URI!);
-    // const db = client.db("news-db");
-
-    // // Fetch articles for the specified day from MongoDB
-    // const articles = await db
-    //   .collection<Article>("articles")
-    //   .find({ articleID: articleID })
-    //   .toArray();
-
-    // // Check if articles were found
-    // if (articles.length === 0) {
-    //   throw new Error("No article found.");
-    // }
-
-    // const article = articles[0];
-
-    // // Close the MongoDB connection
-    // await client.close();
-
-    const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
+    const apiKey = process.env.MONGODB_API_KEY!;
     const url =
       "https://us-west-2.aws.data.mongodb-api.com/app/data-wipruvo/endpoint/data/v1/action/findOne";
 
@@ -72,6 +52,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
+      next: { revalidate: 3600 },
     });
 
     const article: Article = (await response.json()).document; // Properly handle the JSON parsing
@@ -82,9 +63,6 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
 
     return (
       <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100  text-slate-900">
-        <Head>
-          <meta property="og:title" content={`${article.title}`} />
-        </Head>
         <Header />
         <div
           className={`flex h-full flex-col px-6 lg:px-96 md:px-24 ${sans.className}`}

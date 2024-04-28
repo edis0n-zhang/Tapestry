@@ -4,6 +4,8 @@ import { DatePicker } from "../../components/DatePicker";
 
 import { DailyArticles } from "../../types/daily_articles";
 
+import type { Metadata } from "next";
+
 import Head from "next/head";
 
 interface ArticleListingsPageProps {
@@ -16,6 +18,11 @@ const sans = Open_Sans({
   subsets: ["latin"],
   display: "swap",
 });
+
+export const metadata: Metadata = {
+  title: "Tapestry Article",
+  description: "News. Easy.",
+};
 
 const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
   try {
@@ -40,6 +47,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
+      next: { revalidate: 3600 },
     });
 
     const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
