@@ -16,13 +16,6 @@ import Head from "next/head";
 
 import { Open_Sans } from "next/font/google";
 
-import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "Tapestry Article",
-  description: "News. Easy.",
-};
-
 const sans = Open_Sans({
   subsets: ["latin"],
   display: "swap",
