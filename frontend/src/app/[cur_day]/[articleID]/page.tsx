@@ -25,7 +25,17 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
     const { articleID } = params;
 
-    const cur_day = articleID.substring(0, articleID.length - 1);
+    const cur_day = articleID.substring(0, articleID.length - 2);
+
+    // working here??
+    // Check if cur_day is a valid date string in YYYY-MM-DD format
+    const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+    if (!datePattern.test(cur_day)) {
+      throw new Error(
+        "Invalid date format. Please provide a date in YYYY-MM-DD format.",
+      );
+    }
 
     // Check if cur_day is ahead of the current date
     const currentDate = new Date().toLocaleString("en-US", {

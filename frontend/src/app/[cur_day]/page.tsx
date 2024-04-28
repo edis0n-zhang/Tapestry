@@ -28,6 +28,18 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
   try {
     const { cur_day } = params;
 
+    // not working here???
+    const day_string = cur_day.toString(); // trying my best...
+
+    // Check if cur_day is a valid date string in YYYY-MM-DD format
+    const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+    if (!datePattern.test(day_string)) {
+      throw new Error(
+        "Invalid date format. Please provide a date in YYYY-MM-DD format.",
+      );
+    }
+
     // Check if cur_day is ahead of the current date
     const currentDate = new Date().toLocaleString("en-US", {
       timeZone: "America/Los_Angeles",
