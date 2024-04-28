@@ -8,6 +8,7 @@ const sans = Open_Sans({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Tapestry",
   description: "Weaving together the threads to form a tapestry of news.",
+  link: [{ rel: "icon", href: "/favicon.ico", type: "image/x-icon" }],
 };
 
 export default function RootLayout({
