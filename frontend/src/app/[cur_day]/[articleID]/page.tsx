@@ -35,7 +35,8 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
       day: "2-digit",
     });
 
-    const formattedCurrentDate = currentDate.split("/").reverse().join("-");
+    const [month, day, year] = currentDate.split("/");
+    const formattedCurrentDate = `${year}-${month}-${day}`;
 
     if (cur_day >= formattedCurrentDate) {
       throw new Error("Date selected is ahead of the populated dates");
@@ -129,11 +130,15 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     // Handle any errors that occurred during data fetching
     console.error("Error fetching article:", error);
     return (
-      <div className="min-h-screen dark:bg-black">
+      <div
+        className={`min-h-screen dark:bg-zinc-900 bg-zinc-50 ease-in-out duration-300 text-zinc-900 dark:text-zinc-50 ${sans.className}`}
+      >
         <Header />
-        <div className="mt-5 flex h-full flex-col px-6 md:px-24 lg:px-96">
-          <div className="container mx-auto px-4 py-8">
-            <p>No article found.</p>
+        <div
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+        >
+          <div className="mt-2 md:mt-3 flex-grow">
+            <p>{`${error}`}</p>
           </div>
         </div>
       </div>
