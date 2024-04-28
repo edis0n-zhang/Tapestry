@@ -6,7 +6,7 @@ import "./globals.css";
 const sans = Open_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tapestry Article",
+  title: "Tapestry News",
   description: "News. Easy.",
 };
 
