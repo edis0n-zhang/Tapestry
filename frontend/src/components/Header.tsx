@@ -4,6 +4,7 @@ import Link from "next/link";
 import { LightSwitch } from "./LightSwitch";
 import LightLogo from "../../public/light_logo.svg";
 import DarkLogo from "../../public/dark_logo.svg";
+import Empty from "../../public/empty.svg";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { useTheme } from "next-themes";
@@ -31,7 +32,7 @@ const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
   const { resolvedTheme } = useTheme();
-  const [logoSrc, setLogoSrc] = useState();
+  const [logoSrc, setLogoSrc] = useState(Empty);
 
   useEffect(() => {
     const handleScroll = () => {
