@@ -31,6 +31,7 @@ const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
   const { resolvedTheme } = useTheme();
+  const [logoSrc, setLogoSrc] = useState(LightLogo);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -44,6 +45,14 @@ const Header = () => {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
+
+  useEffect(() => {
+    if (resolvedTheme === "dark") {
+      setLogoSrc(DarkLogo);
+    } else {
+      setLogoSrc(LightLogo);
+    }
+  }, [resolvedTheme]);
 
   const today = new Date();
   const yesterday = new Date(today);
@@ -73,11 +82,7 @@ const Header = () => {
           className="text-sm font-bold md:text-xl"
           prefetch={true}
         >
-          <Image
-            src={resolvedTheme === "dark" ? DarkLogo : LightLogo}
-            alt="Logo"
-            className="w-24 h-8 md:w-32"
-          />
+          <Image src={logoSrc} alt="Logo" className="w-24 h-8 md:w-32" />
         </Link>
         <Link
           href={`/${formattedDate}`}
