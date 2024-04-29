@@ -23,7 +23,7 @@ export function LightSwitch() {
     <Button
       variant="outline"
       size="icon"
-      className="bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700"
+      className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700"
       onClick={toggleTheme}
     >
       <Sun className="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0" />

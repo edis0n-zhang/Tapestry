@@ -72,10 +72,8 @@ const Header = () => {
   return (
     <header
       className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
-        shadow
-          ? "shadow-md dark:shadow-zinc-700/20 transition-shadow"
-          : "transition-shadow"
-      }`}
+        shadow ? "shadow-md dark:shadow-zinc-700/20" : ""
+      } duration-300 ease-in-out`}
     >
       <div className="flex items-center">
         <Link
@@ -113,7 +111,7 @@ const Header = () => {
         <Button
           variant="outline"
           size="icon"
-          className="bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
+          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
         >
           <Link href={`${firstPath}`} prefetch={true}>
             <CornerUpLeft />

@@ -92,7 +92,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
     }
 
     return (
-      <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100 text-slate-900">
+      <div className="ease-in-out duration-300 min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100 text-slate-900">
         <Header />
         <div
           className={`flex h-full flex-col px-6 lg:px-96 md:px-24 ${sans.className}`}
