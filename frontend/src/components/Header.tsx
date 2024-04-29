@@ -31,7 +31,7 @@ const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
   const { resolvedTheme } = useTheme();
-  const [logoSrc, setLogoSrc] = useState(LightLogo);
+  const [logoSrc, setLogoSrc] = useState();
 
   useEffect(() => {
     const handleScroll = () => {
