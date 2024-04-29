@@ -78,7 +78,7 @@ const Header = () => {
           className="text-sm font-bold md:text-xl"
           prefetch={true}
         >
-          <Image src={logo} alt="Logo" className={`w-24 h-8 md:w-32`} />
+          <Image src={logo} alt="Logo" className="w-24 h-8 md:w-32" />
         </Link>
         <Link
           href={`/${formattedDate}`}
@@ -90,7 +90,38 @@ const Header = () => {
       {/* Navigation (currently commented out) */}
       <div
         className={`text-s mr-auto block items-center text-xs md:text-base ${sans.className}`}
-      ></div>
+      >
+        {/* <Link
+        href="/about"
+        className={
+          pathname === "/about"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        About
+      </Link>
+      <Link
+        href="/team"
+        className={
+          pathname === "/team"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        Meet The Team
+      </Link>
+      <Link
+        href="/contact"
+        className={
+          pathname === "/contact"
+            ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+            : "mr-4 hover:opacity-80"
+        }
+      >
+        Contact
+      </Link> */}
+      </div>
 
       {isSecondPath && (
         <Button
