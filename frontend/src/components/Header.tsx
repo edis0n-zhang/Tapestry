@@ -57,7 +57,7 @@ const Header = () => {
 
   const today = new Date();
   const yesterday = new Date(today);
-  yesterday.setDate(today.getDate() - 1);
+  yesterday.setDate(today.getDate() - 2);
 
   const year = yesterday.getFullYear();
   const month = String(yesterday.getMonth() + 1).padStart(2, "0");
