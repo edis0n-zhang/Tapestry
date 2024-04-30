@@ -4,8 +4,6 @@ import { DatePicker } from "../../components/DatePicker";
 
 import { DailyArticles } from "../../types/daily_articles";
 
-import type { Metadata } from "next";
-
 import Head from "next/head";
 
 interface ArticleListingsPageProps {
@@ -19,14 +17,37 @@ const sans = Open_Sans({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  title: "Tapestry Article",
-  description: "News. Easy.",
-};
-
 const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
   try {
     const { cur_day } = params;
+
+    // not working here???
+    const day_string = cur_day.toString(); // trying my best...
+
+    // Check if cur_day is a valid date string in YYYY-MM-DD format
+    const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+    if (!datePattern.test(day_string)) {
+      throw new Error(
+        "Invalid date format. Please provide a date in YYYY-MM-DD format.",
+      );
+    }
+
+    // Check if cur_day is ahead of the current date
+    const currentDate = new Date().toLocaleString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    });
+
+    const [month, day, year] = currentDate.split("/");
+    const formattedCurrentDate = `${year}-${month}-${day}`;
+
+    if (cur_day >= formattedCurrentDate) {
+      throw new Error("Date selected is ahead of the populated dates");
+    }
+
     const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
     const url =
       "https://us-west-2.aws.data.mongodb-api.com/app/data-wipruvo/endpoint/data/v1/action/findOne";
@@ -47,14 +68,14 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 3600 },
+      next: { revalidate: 86400 },
     });
-
-    const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
 
     if (!response.ok) {
       throw new Error("Failed to fetch articles from MongoDB");
     }
+
+    const data: DailyArticles = (await response.json()).document; // Properly handle the JSON parsing
 
     return (
       <div
@@ -65,7 +86,7 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
         </Head>
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />
@@ -85,13 +106,13 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       >
         <Header />
         <div
-          className={`mt-5 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
         >
           <div className="mt-2">
             <DatePicker />
           </div>
-          <div className="container mx-auto px-4 py-8">
-            <p>No articles for this date.</p>
+          <div className="mt-2 md:mt-3 flex-grow">
+            <p>{`${error}`}</p>
           </div>
         </div>
       </div>

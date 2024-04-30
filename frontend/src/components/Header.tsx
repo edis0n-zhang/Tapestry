@@ -4,6 +4,7 @@ import Link from "next/link";
 import { LightSwitch } from "./LightSwitch";
 import LightLogo from "../../public/light_logo.svg";
 import DarkLogo from "../../public/dark_logo.svg";
+import Empty from "../../public/empty.svg";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { useTheme } from "next-themes";
@@ -31,6 +32,7 @@ const Header = () => {
   const pathname = usePathname();
   const [shadow, setShadow] = useState(false);
   const { resolvedTheme } = useTheme();
+  const [logoSrc, setLogoSrc] = useState(Empty);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -44,6 +46,14 @@ const Header = () => {
       window.removeEventListener("scroll", handleScroll);
     };
   }, []);
+
+  useEffect(() => {
+    if (resolvedTheme === "dark") {
+      setLogoSrc(DarkLogo);
+    } else {
+      setLogoSrc(LightLogo);
+    }
+  }, [resolvedTheme]);
 
   const today = new Date();
   const yesterday = new Date(today);
@@ -62,10 +72,8 @@ const Header = () => {
   return (
     <header
       className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
-        shadow
-          ? "shadow-md dark:shadow-zinc-700/20 transition-shadow"
-          : "transition-shadow"
-      }`}
+        shadow ? "shadow-md dark:shadow-zinc-700/20" : ""
+      } duration-300 ease-in-out`}
     >
       <div className="flex items-center">
         <Link
@@ -73,11 +81,7 @@ const Header = () => {
           className="text-sm font-bold md:text-xl"
           prefetch={true}
         >
-          <Image
-            src={resolvedTheme === "dark" ? DarkLogo : LightLogo}
-            alt="Logo"
-            className="w-24 h-8 md:w-32"
-          />
+          <Image src={logoSrc} alt="Logo" className="w-24 h-8 md:w-32" />
         </Link>
         <Link
           href={`/${formattedDate}`}
@@ -107,7 +111,7 @@ const Header = () => {
         <Button
           variant="outline"
           size="icon"
-          className="bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
+          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
         >
           <Link href={`${firstPath}`} prefetch={true}>
             <CornerUpLeft />

@@ -1,36 +1,49 @@
 import Header from "../../../components/Header";
-
 import { Article } from "../../../types/article";
-
 import { ExternalLink } from "lucide-react";
-
 import readingTime from "reading-time";
-
 import { format } from "date-fns";
-
-interface ArticlePageProps {
-  params: { articleID: string };
-}
-
 import Head from "next/head";
-
 import { Open_Sans } from "next/font/google";
-
-import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "Tapestry Article",
-  description: "News. Easy.",
-};
 
 const sans = Open_Sans({
   subsets: ["latin"],
   display: "swap",
 });
 
+interface ArticlePageProps {
+  params: { articleID: string };
+}
+
 const ArticlePage = async ({ params }: ArticlePageProps) => {
   try {
     const { articleID } = params;
+
+    const cur_day = articleID.substring(0, articleID.length - 2);
+
+    // Check if cur_day is a valid date string in YYYY-MM-DD format
+    const datePattern = /^\d{4}-\d{2}-\d{2}$/;
+
+    if (!datePattern.test(cur_day)) {
+      throw new Error(
+        "Invalid date format. Please provide a date in YYYY-MM-DD format.",
+      );
+    }
+
+    // Check if cur_day is ahead of the current date
+    const currentDate = new Date().toLocaleString("en-US", {
+      timeZone: "America/Los_Angeles",
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+    });
+
+    const [month, day, year] = currentDate.split("/");
+    const formattedCurrentDate = `${year}-${month}-${day}`;
+
+    if (cur_day >= formattedCurrentDate) {
+      throw new Error("Date selected is ahead of the populated dates");
+    }
 
     const apiKey = process.env.MONGODB_API_KEY!;
     const url =
@@ -52,17 +65,34 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
       method: "POST",
       headers: headers,
       body: JSON.stringify(body),
-      next: { revalidate: 3600 },
+      next: { revalidate: 86400 },
     });
 
-    const article: Article = (await response.json()).document; // Properly handle the JSON parsing
+    const article: Article = (await response.json()).document;
 
     const { text: readingTimeText } = readingTime(
       Object.values(article.content).join(" "),
     );
 
+    // Sort the news sources alphabetically
+    const sortedSources = Object.entries(article.content).sort(([a], [b]) =>
+      a.localeCompare(b),
+    );
+
+    // Move "Universally Agreed" to the front of the sorted sources array
+    const universallyAgreedIndex = sortedSources.findIndex(
+      ([source]) => source === "Universally Agreed",
+    );
+    if (universallyAgreedIndex !== -1) {
+      const [universallyAgreed] = sortedSources.splice(
+        universallyAgreedIndex,
+        1,
+      );
+      sortedSources.unshift(universallyAgreed);
+    }
+
     return (
-      <div className="min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100  text-slate-900">
+      <div className="ease-in-out duration-300 min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100 text-slate-900">
         <Header />
         <div
           className={`flex h-full flex-col px-6 lg:px-96 md:px-24 ${sans.className}`}
@@ -79,11 +109,11 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
               <span className="mx-2">·</span>
               <span>{readingTimeText}</span>
             </div>
-            {Object.entries(article.content).map(([source, content], index) => {
-              // Skip rendering if the content key is "Title" (or adjust the condition based on your data structure)
+            {sortedSources.map(([source, content], index) => {
               if (source === "Title") return null;
-              if (content == "OUTLIER") return null;
-              if (source == "Universally Agreed") {
+              if (content === "OUTLIER") return null;
+
+              if (source === "Universally Agreed") {
                 return (
                   <div key={index} className="mt-1 md:mt-2 py-4">
                     <h2 className="text-xl md:text-2xl font-semibold">
@@ -117,14 +147,17 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
       </div>
     );
   } catch (error) {
-    // Handle any errors that occurred during data fetching
     console.error("Error fetching article:", error);
     return (
-      <div className="min-h-screen dark:bg-black">
+      <div
+        className={`min-h-screen dark:bg-zinc-900 bg-zinc-50 ease-in-out duration-300 text-zinc-900 dark:text-zinc-50 ${sans.className}`}
+      >
         <Header />
-        <div className="mt-5 flex h-full flex-col px-6 md:px-24 lg:px-96">
-          <div className="container mx-auto px-4 py-8">
-            <p>No article found.</p>
+        <div
+          className={`mt-2 md:mt-3 flex h-full flex-col px-8 md:px-24 lg:px-48 ${sans.className}`}
+        >
+          <div className="mt-2 md:mt-3 flex-grow">
+            <p>{`${error}`}</p>
           </div>
         </div>
       </div>
