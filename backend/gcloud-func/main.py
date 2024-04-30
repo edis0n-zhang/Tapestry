@@ -359,7 +359,7 @@ def entry_point(request):
             article["content"] = generate_article(articles, source_list)
 
             article["articleID"] = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') + "-" + str(article_rank)
-            article["published_date"] = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+            article["published_date"] = (datetime.now()).strftime('%Y-%m-%d')
             article["title"] = article["content"]["Title"]
             article["sources"] = sources
 
@@ -387,7 +387,7 @@ def entry_point(request):
 
         # with open("source_articles.json", "r") as file:
             # source_articles = json.load(file)
-    
+
     push_headlines_to_pinecone(source_articles)
 
     grouped_articles = group_articles(source_articles, 0.5)
