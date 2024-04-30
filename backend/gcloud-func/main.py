@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import requests
 import json
 from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 from openai import OpenAI
 from pinecone import Pinecone
@@ -189,35 +190,30 @@ def entry_point(request):
 
                 pbar.update(1)
 
+
+
     def group_articles(source_articles, epsilon):
         organized_headlines = {}
-        used_articles = set()
-
-        client = OpenAI()
         pc = Pinecone()
         index = pc.Index("news-piece")
-        previous_day = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+
+        previous_day = (datetime.now(ZoneInfo('America/Los_Angeles')) - timedelta(days=1)).strftime('%Y-%m-%d')
+        #previous_day = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') PREVIOUS VERSIOIN IF THIS DOESNT WORK FOR SOME REASON
 
         total_article_count = sum(len(articles) for articles in source_articles.values())
-
         pbar = tqdm.tqdm(total=total_article_count, desc="Grouping Articles")
 
-        #Iterate through each article
+        #Iterate through every source
         for source, articles in source_articles.items():
             pbar.update(len(articles))
+            #Iterate through each article in a source
             for i in range(len(articles)):
 
                 article = articles[i]
-
                 date = article["publishedAt"][:10]
                 article_id = article['source']['id'] + str(i) + "-" + date
-                #We need the article_url to check if the article is already in another category
-                article_url = article['url']
-
-                #If this article is already in another category, we skip it.
-                if article_url in used_articles:
-                    # print(used_articles)
-                    # print(article_url)
+                #We only want to group articles from the previous day
+                if (date != previous_day):
                     continue
 
                 #Send query using given article_id
@@ -232,33 +228,49 @@ def entry_point(request):
                 similar_headlines = []
                 seen_sources = set()
 
+                #Iterate through each query match
                 for match in query_response["matches"]:
+                    #No repeat sources in one grouping
                     if match['metadata']['source'] in seen_sources:
                         continue
-
-                    #If the current article is not close enough to be on the same subject, skip other query results and begin new query
-                    if (match["score"] < epsilon):
+                    #If the score is below epsilon, no further articles will match this grouping
+                    if match["score"] < epsilon:
                         break
-
+                    #At this point, we can add one "headline" to similar_headlindes (beginning of potential grouping)
                     response_source = match['metadata']['source']
                     response_url = match['metadata']['url']
 
-                    #If the articles already exist in the dictionary, don't add them again
-                    if (response_url in used_articles):
-                        continue
-
-                    #if both conditions have been passed, then append article to the list of similar headlines
                     similar_headlines.append((response_url, response_source))
                     seen_sources.add(response_source)
 
-                #add similar_headlines list to dict
+                #After going through each match, check if our grouping is big enough (and add it to dict)
                 if len(similar_headlines) >= 3:
-                    # similar_headlines.append((article_url, source))
                     organized_headlines[len(organized_headlines)] = similar_headlines
-                    for url, source in similar_headlines:
-                        used_articles.add(url)
 
-        return organized_headlines
+        #Sort groupings by size
+        grouped_articles = dict(sorted(organized_headlines.items(), key = lambda x : len(x[1]), reverse=True))
+        #We have our groupings, now go through and delete duplicates
+        keys_to_delete = set()
+        seen_articles = set()
+        #Iterate through each grouping
+        for key, group in grouped_articles.items():
+            #Iterate through each article in a group
+            for article in group:
+                #if this article has already been seen, we will delete the entire grouping (repeat grouping)
+                if article[0] in seen_articles:
+                    keys_to_delete.add(key)
+                    break
+            #If we didn't add the key to be deleted, then these articles will be used, and added to seen_articles
+            if key not in keys_to_delete:
+                for article in group:
+                    seen_articles.add(article[0])
+
+        #Finally afterwards go through and delete the keys that were marked for deletion
+        for key in keys_to_delete:
+            del grouped_articles[key]
+
+        return grouped_articles
+
 
     def generate_article(articles, sources):
 
@@ -378,7 +390,7 @@ def entry_point(request):
     
     push_headlines_to_pinecone(source_articles)
 
-    grouped_articles = dict(sorted(group_articles(source_articles, 0.5).items(), key = lambda x : len(x[1]), reverse=True))
+    grouped_articles = group_articles(source_articles, 0.5)
 
         # with open("grouped_articles.json", "w") as file:
             # json.dump(grouped_articles, file, indent=4)
