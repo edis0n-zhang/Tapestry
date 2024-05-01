@@ -71,7 +71,7 @@ const Header = () => {
 
   return (
     <header
-      className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
+      className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-24 lg:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
         shadow ? "shadow-md dark:shadow-zinc-700/20" : ""
       } duration-300 ease-in-out`}
     >
@@ -92,19 +92,31 @@ const Header = () => {
 
       {/* Navigation (currently commented out) */}
       <div
-        className={`text-s mr-auto block items-center text-xs md:text-base ${sans.className}`}
+        className={`text-s mr-auto block items-center text-xs md:text-base font-semibold ${sans.className}`}
       >
         {/* Navigation links can be uncommented and used here */}
-        {/* <Link
+        <Link
           href="/about"
           className={
-            pathname === "/sports"
+            pathname === "/about"
               ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
               : "mr-4 hover:opacity-80"
           }
+          prefetch={true}
         >
           About
-        </Link> */}
+        </Link>
+        <Link
+          href="/readers-guide"
+          className={
+            pathname === "/readers-guide"
+              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Guide
+        </Link>
       </div>
 
       {isSecondPath && (

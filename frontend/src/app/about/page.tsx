@@ -11,21 +11,29 @@ const sans = Open_Sans({
   display: "swap",
 });
 
-const markdown = `
-## OUR MISSION
+const text = `
+  Our Mission
 
-We are Tapestry and our mission is to **Make News Easy**.
+  We are Tapestry and our mission is to Make News Easy.
 
-In the age of information overload, it's time consuming and challenging to parse the news and have an informed and balanced outlook. News sources often have subtly biased reporting; leaving out and twisting information.
+  In the age of information overload, it's time consuming and challenging to parse the news and have an informed and balanced outlook. News sources often have subtly biased reporting; leaving out and twisting information.
 
-That's where we come in, we help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
+  That's where we come in, we help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
 
-To learn more about us, please visit [tapestry.news/about](https://tapestry.news/about).
+  By open sourcing our code, ranking algorithm, and prompt our goal is to lift disrupt the opaque and biased news industry and democratize news.
+
+  How It Works
+
+  Custom Ranking: Inspired by ranking metrics such as Twitter trends and academic citations, we assess the importance of reported events by tallying the number of sources that report on them. In developing our algorithm, we aimed for a method that is straightforward and open to public verification. We believe this approach offers the most transparent and unbiased way to rank news.
+
+  Clustering: By utilizing embeddings, we can gather the semantic meaning of the headlines to group using an algorithm. However, without knowing the number of clusters beforehand, we can't use common techniques like K-nearest neighbors to group articles into topics. Instead, we leverage a unique algorithm that estimates each embedded headline as a centroids of a cluster to determine topic groups, where groups are within a certain cosine similarity of the centroid headline is considered to be about the same topic. We then retroactively remove duplicates by removing topics that contain articles that already belong to larger clusters.
+
+  Generating Articles: To minimize potential bias, we employ large language models (LLMs) to generate objective articles. Furthermore, in the interest of transparency, we will make the prompts used to generate the articles open source, allowing all readers to review them. To guarantee that the generated articles adhere to specific quality standards and follow a required format, which includes being universally agreed upon and properly sourced, we utilize a library and a custom dynamic schema to iteratively refine the generation process until the desired criteria are satisfied.
 `;
 
 const ArticlePage = () => {
   try {
-    const { text: readingTimeText } = readingTime("SDLFKJSLDKFJ");
+    const { text: readingTimeText } = readingTime(text);
 
     return (
       <div className="ease-in-out duration-300 min-h-screen dark:bg-zinc-900 bg-zinc-50 dark:text-slate-100 text-slate-900">
