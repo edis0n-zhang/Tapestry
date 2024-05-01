@@ -85,7 +85,7 @@ const Header = () => {
         </Link>
         <Link
           href={`/${formattedDate}`}
-          className={`mr-3 text-lg font-bold md:mr-8 md:text-3xl ${mono.className}`}
+          className={`mr-2 md:mr-6 text-lg font-bold lg:mr-8 md:text-3xl ${mono.className}`}
           prefetch={true}
         ></Link>
       </div>
@@ -96,26 +96,37 @@ const Header = () => {
       >
         {/* Navigation links can be uncommented and used here */}
         <Link
-          href="/about"
+          href="/mission"
           className={
-            pathname === "/about"
-              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
-              : "mr-4 hover:opacity-80"
+            pathname === "/mission"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
           }
           prefetch={true}
         >
-          About
+          Mission
         </Link>
         <Link
           href="/readers-guide"
           className={
             pathname === "/readers-guide"
-              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
-              : "mr-4 hover:opacity-80"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
           }
           prefetch={true}
         >
           Guide
+        </Link>
+        <Link
+          href="/team"
+          className={
+            pathname === "/team"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Team
         </Link>
       </div>
 
