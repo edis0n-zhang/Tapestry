@@ -1,5 +1,5 @@
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import requests
 import json
 from datetime import datetime, timedelta
@@ -27,7 +27,7 @@ import newspaper
 import json
 
 def entry_point(request):
-    load_dotenv()
+    #load_dotenv()
 
     NEWS_API_KEY = os.getenv('NEWS_API_KEY')
     MONGODB_USERNAME = os.getenv('MONGODB_USERNAME')
@@ -171,7 +171,8 @@ def entry_point(request):
             for i in range(len(articles)):
                 article = articles[i]
                 date = article["publishedAt"][:10]
-
+                if (article["title"] == None or article["url"] == None or article["source"]["name"] == None or date == None):
+                    continue
                 # Push the embedding vector to pinecone
                 index.upsert(
                     vectors=[
@@ -358,7 +359,7 @@ def entry_point(request):
             article = {}
             article["content"] = generate_article(articles, source_list)
 
-            article["articleID"] = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d') + "-" + str(article_rank)
+            article["articleID"] = (datetime.now(ZoneInfo('America/Los_Angeles')) - timedelta(days=1)).strftime('%Y-%m-%d') + "-" + str(article_rank)
             article["published_date"] = (datetime.now()).strftime('%Y-%m-%d')
             article["title"] = article["content"]["Title"]
             article["sources"] = sources
