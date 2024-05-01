@@ -140,21 +140,23 @@ const Header = () => {
           Donate
         </Link> */}
       </div>
-      <div className="ml-auto md:hidden">
-        <HamburgerMenu />
-      </div>
 
       {isSecondPath && (
         <Button
           variant="outline"
           size="icon"
-          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
+          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 ml-auto mr-2"
         >
           <Link href={`${firstPath}`} prefetch={true}>
             <CornerUpLeft />
           </Link>
         </Button>
       )}
+
+      <div className="md:hidden">
+        <HamburgerMenu />
+      </div>
+
       <div className="hidden md:block">
         <LightSwitch />
       </div>
