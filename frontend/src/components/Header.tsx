@@ -8,6 +8,7 @@ import Empty from "../../public/empty.svg";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { useTheme } from "next-themes";
+import { HamburgerMenu } from "./Hamburger";
 
 import { Button } from "@/components/ui/button";
 
@@ -90,11 +91,10 @@ const Header = () => {
         ></Link>
       </div>
 
-      {/* Navigation (currently commented out) */}
+      {/* Navigation Links */}
       <div
-        className={`text-s mr-auto block items-center text-xs md:text-base font-semibold ${sans.className}`}
+        className={`text-s mr-auto hidden md:block items-center text-xs md:text-base font-semibold ${sans.className}`}
       >
-        {/* Navigation links can be uncommented and used here */}
         <Link
           href="/mission"
           className={
@@ -107,15 +107,15 @@ const Header = () => {
           Mission
         </Link>
         <Link
-          href="/readers-guide"
+          href="/about"
           className={
-            pathname === "/readers-guide"
+            pathname === "/about"
               ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
               : "mr-2 lg:mr-4 hover:opacity-80"
           }
           prefetch={true}
         >
-          Guide
+          About
         </Link>
         <Link
           href="/team"
@@ -128,6 +128,20 @@ const Header = () => {
         >
           Team
         </Link>
+        {/* <Link
+          href="/donate"
+          className={
+            pathname === "/donate"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Donate
+        </Link> */}
+      </div>
+      <div className="ml-auto md:hidden">
+        <HamburgerMenu />
       </div>
 
       {isSecondPath && (
@@ -141,8 +155,9 @@ const Header = () => {
           </Link>
         </Button>
       )}
-
-      <LightSwitch />
+      <div className="hidden md:block">
+        <LightSwitch />
+      </div>
     </header>
   );
 };
