@@ -45,7 +45,7 @@ export function HamburgerMenu() {
           <Menu className="h-[1.2rem] w-[2rem]" />
         </Button>
       </DropdownMenuTrigger>
-      <DropdownMenuContent className="w-56 bg-zinc-50 dark:bg-zinc-900 ease-in-out duration-300">
+      <DropdownMenuContent className="w-56 bg-zinc-50 dark:bg-zinc-900 ease-in-out duration-300 mr-2">
         <DropdownMenuLabel>Navigation</DropdownMenuLabel>
         <DropdownMenuSeparator className="ease-in-out duration-300" />
         <DropdownMenuGroup>
