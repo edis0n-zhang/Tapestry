@@ -11,6 +11,18 @@ const sans = Open_Sans({
   display: "swap",
 });
 
+const markdown = `
+## OUR MISSION
+
+We are Tapestry and our mission is to **Make News Easy**.
+
+In the age of information overload, it's time consuming and challenging to parse the news and have an informed and balanced outlook. News sources often have subtly biased reporting; leaving out and twisting information.
+
+That's where we come in, we help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
+
+To learn more about us, please visit [tapestry.news/about](https://tapestry.news/about).
+`;
+
 const ArticlePage = () => {
   try {
     const { text: readingTimeText } = readingTime("SDLFKJSLDKFJ");
@@ -28,11 +40,57 @@ const ArticlePage = () => {
               <span className="mx-2">·</span>
               <span>{readingTimeText}</span>
             </div>
-            <div className="mt-1 md:mt-2 py-4">
-              <h2 className="text-xl md:text-2xl font-semibold mt-1">
-                Our Mission
+            <div className="mt-1 md:mt-2 py-4 whitespace-pre-line">
+              <h2 className="text-xl md:text-2xl font-bold">Our Mission</h2>
+              <p className="mt-1 text-md md:text-lg">
+                {`We are Tapestry and our mission is to `}
+                <span className="font-bold">Make News Easy</span>.
+                {`
+
+                  In the age of information overload, it's time consuming and challenging to parse the news and have an informed and balanced outlook. News sources often have subtly biased reporting; leaving out and twisting information.
+
+                  That's where we come in, we help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
+
+                  By open sourcing our code, ranking algorithm, and prompt our goal is to lift disrupt the opaque and biased news industry and `}
+                <span className="font-bold">democratize news</span>.
+              </p>
+            </div>
+            <div className="mt-1 md:mt-2 py-4 whitespace-pre-line">
+              <h2 className="text-xl md:text-2xl font-semibold">
+                How It Works
               </h2>
-              <p className="mt-1 text-md md:text-lg">FILL IN</p>
+              <p className="mt-1 text-md md:text-lg">
+                <span className="italic font-semibold">Custom Ranking:</span>
+                {` Inspired by ranking metrics such as Twitter trends and academic citations, we assess the importance of reported events by tallying the number of sources that report on them. In developing our algorithm, we aimed for a method that is straightforward and open to public verification. We believe this approach offers the most transparent and unbiased way to rank news.
+
+                  `}
+                <span className="italic font-semibold">Clustering:</span>
+                {` By utilizing embeddings, we can gather the semantic meaning of the headlines to group using an algorithm. However, without knowing the number of clusters beforehand, we can't use common techniques like K-nearest neighbors to group articles into topics. Instead, we leverage a unique algorithm that estimates each embedded headline as a centroids of a cluster to determine topic groups, where groups are within a certain cosine similarity of the centroid headline is considered to be about the same topic. We then retroactively remove duplicates by removing topics that contain articles that already belong to larger clusters.
+
+                  `}
+                <span className="italic font-semibold">
+                  Generating Articles:
+                </span>{" "}
+                {`To minimize potential bias, we employ large language models (LLMs) to generate objective articles. Furthermore, in the interest of transparency, we will make the prompts used to generate the articles open source, allowing all readers to review them. To guarantee that the generated articles adhere to specific quality standards and follow a required format, which includes being universally agreed upon and properly sourced, we utilize a library and a custom dynamic schema to iteratively refine the generation process until the desired criteria are satisfied.`}
+              </p>
+            </div>
+            <div className="mt-1 md:mt-2 py-4 whitespace-pre-line">
+              <h2 className="text-xl md:text-2xl font-semibold">
+                Commitment to Transparency
+              </h2>
+              <p className="mt-1 text-md md:text-lg">
+                {` All of the code can and will always be able to be found at `}
+                <a
+                  href={`https://github.com/edis0n-zhang/Tapestry`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="duration-300 ease-in-out text-blue-600 dark:text-blue-400 hover:text-blue-400 dark:hover:text-blue-600"
+                >
+                  Github
+                  <ExternalLink size={14} className="ml-1 mb-1 inline-block" />
+                </a>
+                .
+              </p>
             </div>
           </div>
         </div>
