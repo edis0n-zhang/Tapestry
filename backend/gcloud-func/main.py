@@ -38,19 +38,31 @@ def entry_point(request):
 
     class ArticleScraper:
         def __init__(self, url, source):
-            article = newspaper.Article(url=url, language='en')
-            article.download()
-            article.parse()
+            #Check if URL is valid
+            try:
+                response = requests.get(url)
+                if (response.status_code == 404):
+                    self.title = None
+                    self.source = None
+                    self.text = None
+                else:
+                    article = newspaper.Article(url=url, language='en')
+                    article.download()
+                    article.parse()
 
-            self.title = str(article.title)
-            self.text = str(article.text)
-            self.authors = str(article.authors)
-            self.published_date = str(article.publish_date)
-            self.top_image = str(article.top_image)
-            self.videos = str(article.movies)
-            self.keywords = str(article.keywords)
-            self.summary = str(article.summary)
-            self.source = source
+                    self.title = str(article.title)
+                    self.text = str(article.text)
+                    self.authors = str(article.authors)
+                    self.published_date = str(article.publish_date)
+                    self.top_image = str(article.top_image)
+                    self.videos = str(article.movies)
+                    self.keywords = str(article.keywords)
+                    self.summary = str(article.summary)
+                    self.source = source
+            except:
+                self.title = None
+                self.source = None
+                self.text = None
 
         def to_dict(self):
             return {
@@ -66,6 +78,8 @@ def entry_point(request):
             }
 
         def to_text(self):
+            if self.title == None or self.source == None or self.text == None:
+                return "Error: Invalid URL"
             return f"""TITLE: {self.title} \n\nSOURCE: {self.source} \n\n{self.text}
             """
 
@@ -347,7 +361,7 @@ def entry_point(request):
                 break
 
             links = [x[0] for x in articles_and_sources]
-            articles = [ArticleScraper(x[0], x[1]).to_text()[:10000] for x in articles_and_sources[:10]]
+            articles = [ArticleScraper(x[0], x[1]).to_text()[:10000] for x in articles_and_sources[:10] if ArticleScraper(x[0], x[1]).to_text()[:10000] != "Error: Invalid URL"]
 
             # for article in articles:
                 # print(article)
@@ -377,7 +391,6 @@ def entry_point(request):
         uploader.upload_daily_articles(daily_articles)
 
         return daily_articles
-
 
     source_articles = grab_news()
 
