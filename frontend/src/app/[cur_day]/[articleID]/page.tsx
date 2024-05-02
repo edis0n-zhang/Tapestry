@@ -112,6 +112,7 @@ const ArticlePage = async ({ params }: ArticlePageProps) => {
             {sortedSources.map(([source, content], index) => {
               if (source === "Title") return null;
               if (content === "OUTLIER") return null;
+              if (content === "") return null;
 
               if (source === "Universally Agreed") {
                 return (
