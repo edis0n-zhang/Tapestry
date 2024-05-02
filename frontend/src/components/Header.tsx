@@ -8,6 +8,7 @@ import Empty from "../../public/empty.svg";
 import { usePathname } from "next/navigation";
 import Image from "next/image";
 import { useTheme } from "next-themes";
+import { HamburgerMenu } from "./Hamburger";
 
 import { Button } from "@/components/ui/button";
 
@@ -71,7 +72,7 @@ const Header = () => {
 
   return (
     <header
-      className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
+      className={`sticky top-0 z-50 flex items-center justify-between px-8 pt-3 md:px-24 lg:px-48 pb-3 border-b dark:border-zinc-700/20 dark:bg-zinc-900 bg-slate-50 ${
         shadow ? "shadow-md dark:shadow-zinc-700/20" : ""
       } duration-300 ease-in-out`}
     >
@@ -85,25 +86,58 @@ const Header = () => {
         </Link>
         <Link
           href={`/${formattedDate}`}
-          className={`mr-3 text-lg font-bold md:mr-8 md:text-3xl ${mono.className}`}
+          className={`mr-2 md:mr-6 text-lg font-bold lg:mr-8 md:text-3xl ${mono.className}`}
           prefetch={true}
         ></Link>
       </div>
 
-      {/* Navigation (currently commented out) */}
+      {/* Navigation Links */}
       <div
-        className={`text-s mr-auto block items-center text-xs md:text-base ${sans.className}`}
+        className={`text-s mr-auto hidden md:block items-center text-xs md:text-base font-semibold ${sans.className}`}
       >
-        {/* Navigation links can be uncommented and used here */}
-        {/* <Link
+        <Link
+          href="/mission"
+          className={
+            pathname === "/mission"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Mission
+        </Link>
+        <Link
           href="/about"
           className={
-            pathname === "/sports"
-              ? "mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
-              : "mr-4 hover:opacity-80"
+            pathname === "/about"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
           }
+          prefetch={true}
         >
           About
+        </Link>
+        <Link
+          href="/team"
+          className={
+            pathname === "/team"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Team
+        </Link>
+        {/* <Link
+          href="/donate"
+          className={
+            pathname === "/donate"
+              ? "mr-2 lg:mr-4 underline decoration-blue-400 decoration-2 underline-offset-4 hover:opacity-80 dark:decoration-blue-600"
+              : "mr-2 lg:mr-4 hover:opacity-80"
+          }
+          prefetch={true}
+        >
+          Donate
         </Link> */}
       </div>
 
@@ -111,7 +145,7 @@ const Header = () => {
         <Button
           variant="outline"
           size="icon"
-          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 mr-2"
+          className="ease-in-out duration-300 bg-zinc-50 dark:bg-zinc-900 border dark:border-zinc-700 ml-auto mr-2"
         >
           <Link href={`${firstPath}`} prefetch={true}>
             <CornerUpLeft />
@@ -119,7 +153,13 @@ const Header = () => {
         </Button>
       )}
 
-      <LightSwitch />
+      <div className="md:hidden">
+        <HamburgerMenu />
+      </div>
+
+      <div className="hidden md:block">
+        <LightSwitch />
+      </div>
     </header>
   );
 };

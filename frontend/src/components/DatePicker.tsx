@@ -14,6 +14,13 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 
+import { Open_Sans } from "next/font/google";
+
+const sans = Open_Sans({
+  subsets: ["latin"],
+  display: "swap",
+});
+
 export function DatePicker() {
   const [date, setDate] = React.useState<Date>();
   const pathname = usePathname();
@@ -34,14 +41,16 @@ export function DatePicker() {
 
   return (
     <Popover>
-      <div className="flex items-center justify-between md:justify-normal">
+      <div
+        className={`flex items-center justify-between md:justify-normal ${sans.className}`}
+      >
         <div className="text-2xl font-bold md:text-3xl dark:text-slate-100  text-slate-900">
           <span>{formattedDisplayDate}</span>
         </div>
         <PopoverTrigger asChild>
           <Button
             className={cn(
-              "dark:bg-background md:mx-1 bg-background h-16 justify-start bg-opacity-0 hover:bg-gray-100 dark:hover:bg-gray-700",
+              "dark:bg-background md:mx-1 bg-background h-16 justify-start bg-opacity-0 hover:bg-gray-100 dark:hover:bg-zinc-800",
               !date && "text-muted-foreground",
             )}
           >
