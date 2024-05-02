@@ -5,6 +5,8 @@ import readingTime from "reading-time";
 import { format } from "date-fns";
 import Head from "next/head";
 import { Open_Sans } from "next/font/google";
+import Image from "next/image";
+import teamImage from "../../../public/team.png";
 
 const sans = Open_Sans({
   subsets: ["latin"],
@@ -35,18 +37,32 @@ const ArticlePage = () => {
         <div
           className={`flex h-full flex-col px-6 lg:px-96 md:px-24 ${sans.className}`}
         >
-          <div className="container mx-auto max-w-4xl px-4 py-8">
+          <div className="container mx-auto max-w-4xl px-4 py-4">
             <h1 className="text-2xl md:text-3xl font-bold">{`Meet The Team`}</h1>
             <div className="mt-2 md:mt-3 text-md md:text-lg text-gray-500">
               <span>Last Updated on May 1st, 2024</span>
               <span className="mx-2">·</span>
               <span>{readingTimeText}</span>
             </div>
-            <div className="mt-1 md:mt-2 py-4 whitespace-pre-line">
+            <div className="mt-1 md:mt-2 pt-4 whitespace-pre-line">
               <p className="mt-1 text-md md:text-lg">
                 {`  Hi, we're the founding Tapestry team. We're a group of students from the University of California, Santa Barbara who are passionate about creating a more transparent and trustworthy news platform.`}
               </p>
             </div>
+          </div>
+          <div className="max-w-4xl px-4">
+            <Image
+              src={teamImage}
+              alt="Meet The Team Image"
+              width={800}
+              height={300}
+            />
+          </div>
+          <div className="container mx-auto max-w-4xl text-center pt-2">
+            <span>
+              Pictured left to right: Edison Zhang, Isaac Chang, Jeremi Nuer,
+              Kyle Zhao
+            </span>
           </div>
         </div>
       </div>

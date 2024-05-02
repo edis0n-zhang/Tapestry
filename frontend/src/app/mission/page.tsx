@@ -16,9 +16,9 @@ const text = `
 
   In the age of information overload, it's time consuming and challenging to parse the news and have an informed and balanced outlook. News sources often have subtly biased reporting; leaving out and twisting information.
 
-  That's where we come in, we help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
+  That's where we come in. We help readers stay easily informed by leveraging word embeddings and LLMs to rank and generate unbiased articles on the top topics of the day.
 
-  By open sourcing our code, ranking algorithm, and prompt our goal is to disrupt the opaque and biased news industry and democratize news. At Tapestry, we are committed to transparency, all of the code can and will always be able to be found at our Github.
+  By open sourcing our code, ranking algorithm, and prompt, our goal is to disrupt the opaque and biased news industry and democratize news. At Tapestry, we are committed to transparency. All of the code can and will always be able to be found at our Github.
 `;
 
 const ArticlePage = () => {
