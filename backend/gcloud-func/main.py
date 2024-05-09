@@ -350,7 +350,7 @@ def entry_point(request):
         uploader = Mongo_Helper()
 
         daily_articles = {
-            "date": (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d'),
+            "date": (datetime.now(ZoneInfo('America/Los_Angeles')) - timedelta(days=1)).strftime('%Y-%m-%d'),
             "articles": {}
         }
 
