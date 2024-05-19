@@ -33,22 +33,29 @@ const ArticleListingsPage = async ({ params }: ArticleListingsPageProps) => {
       );
     }
 
-    // Check if cur_day is ahead of the current date
-    const currentDate = new Date();
-    currentDate.setDate(currentDate.getDate() - 1); // subtract one day
+    // SORRY FOR THIS ABSOLUTE MESS
+    // cur_day is the date passed in the url in YYYY-MM-DD format
+    // formattedPastDate is the date (LA Time) from 2 days ago in YYYY-MM-DD format
+    const twoDaysAgo = new Date();
+    twoDaysAgo.setDate(twoDaysAgo.getDate() - 2); // subtract one day
 
-    const formattedDate = currentDate.toLocaleString("en-US", {
+    const formattedPastDate = twoDaysAgo.toLocaleString("en-US", {
       timeZone: "America/Los_Angeles",
       year: "numeric",
       month: "2-digit",
       day: "2-digit",
     });
 
-    const [month, day, year] = formattedDate.split("/");
+    const curDayDate = new Date(cur_day);
+    const currentDayDate = new Date(formattedPastDate);
+    const diff = Math.abs(curDayDate.getTime() - currentDayDate.getTime());
+    const dayDiff = Math.ceil(diff / (1000 * 3600 * 24));
+
+    const [month, day, year] = formattedPastDate.split("/");
     const formattedPreviousDate = `${year}-${month}-${day}`;
 
-    if (cur_day >= formattedPreviousDate) {
-      throw new Error("Date selected is ahead of the populated dates");
+    if (cur_day > formattedPreviousDate) {
+      throw new Error(`Report coming out in ${dayDiff} days`);
     }
 
     const apiKey = process.env.MONGODB_API_KEY!; // Replace <API_KEY> with your actual API key
