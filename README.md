@@ -40,14 +40,12 @@ Here's a diagram to show all these steps put together:
 We welcome contributions! Here are some guidelines to follow to ensure a smooth and collaborative experience.
 
 
-Fork the Repository: Start by forking the repository to your GitHub account.
-Clone Your Fork: Clone the forked repository to your local machine.
-bash
-Create a Branch: Create a new branch for your feature or bug fix.
-Push to Your Fork: Push your changes to your forked repository.
-bash
-Create a Pull Request: Open a pull request against the main branch of the original repository. Provide a detailed description of your changes and the problem they solve.
-Review Process: Your pull request will be reviewed by project maintainers. Please be patient and responsive to feedback.
+Fork the Repository: Start by forking the repository to your GitHub account.  
+Clone Your Fork: Clone the forked repository to your local machine.  
+Create a Branch: Create a new branch for your feature or bug fix.  
+Push to Your Fork: Push your changes to your forked repository.  
+Create a Pull Request: Open a pull request against the main branch of the  original repository. Provide a detailed description of your changes and the problem they solve.  
+Review Process: Your pull request will be reviewed by project maintainers.   Please be patient and responsive to feedback.  
 
 
 ## License
