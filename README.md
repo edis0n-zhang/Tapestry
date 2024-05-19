@@ -49,7 +49,7 @@ Review Process: Your pull request will be reviewed by project maintainers.   Ple
 
 
 ## License
-This project is licensed under the _ License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 This project was created by Edison Zhang, Jeremi Nuer, Isaac Chang, and Kyle Zhao, as a part of the project series for the Data Science UCSB and CodersSB clubs, respectively.
