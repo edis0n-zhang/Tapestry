@@ -3,17 +3,18 @@
 import { redirect } from "next/navigation";
 
 export default function Home() {
-  const today = new Date();
-  today.toLocaleString("en-US", { timeZone: "America/Los_Angeles" });
+  const twoDaysAgo = new Date();
+  twoDaysAgo.setDate(twoDaysAgo.getDate() - 2); // subtract two days
 
-  const twoDaysAgo = new Date(today);
-  twoDaysAgo.setDate(today.getDate() - 2);
+  const formattedPastDate = twoDaysAgo.toLocaleString("en-US", {
+    timeZone: "America/Los_Angeles",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  });
 
-  const year = twoDaysAgo.getFullYear();
-  const month = String(twoDaysAgo.getMonth() + 1).padStart(2, "0");
-  const day = String(twoDaysAgo.getDate()).padStart(2, "0");
+  const [month, day, year] = formattedPastDate.split("/");
+  const formattedPreviousDate = `${year}-${month}-${day}`;
 
-  const formattedDate = `${year}-${month}-${day}`;
-
-  redirect(`/${formattedDate}`);
+  redirect(`/${formattedPreviousDate}`);
 }
