@@ -4,9 +4,9 @@ import { redirect } from "next/navigation";
 
 export default function Home() {
   const twoDaysAgo = new Date();
-  twoDaysAgo.setDate(twoDaysAgo.getDate() - 2); // subtract two days
+  twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
 
-  const formattedPastDate = twoDaysAgo.toLocaleString("en-US", {
+  const formattedPastDate = twoDaysAgo.toLocaleDateString("en-US", {
     timeZone: "America/Los_Angeles",
     year: "numeric",
     month: "2-digit",
