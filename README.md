@@ -1,4 +1,4 @@
-# Tapestry
+# Tapestry (not actively maintained)
 www.tapestry.news
 
 ## Description
